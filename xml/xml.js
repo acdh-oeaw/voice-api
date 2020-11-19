@@ -22,7 +22,6 @@ class XML {
           id: null,
           xml: '',
           header: '',
-          body: '',
           u: [],
           uById: {},
           loaded: false
@@ -48,7 +47,6 @@ class XML {
           let aDom = cheerio.load(data);
           aFileObj.id = this.unleak(aDom('TEI')[0].attribs['xml:id']);
           aFileObj.header = this.unleak(cheerio.html(aDom('teiHeader')));
-          aFileObj.body = this.unleak(cheerio.html(aDom('body')));
           let u = aDom('u')
           u.each(uIdx => {
             aFileObj.u.push({
@@ -98,8 +96,7 @@ class XML {
       console.log(req.query)
       let field = {
         'file': 'xml',
-        'header': 'header',
-        'body': 'body'
+        'header': 'header'
       }
       if (field[req.query.get]) {
         if (req.query.id && this.filesById[req.query.id]) {
