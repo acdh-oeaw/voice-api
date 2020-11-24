@@ -3,9 +3,9 @@
 ### xml
 ```
 /xml/ - List Ids
-/xml/?get=file&id=LEcon329 - Get XML-File
-/xml/?get=header&id=LEcon329 - Get TEI Header
-/xml/?get=u&id=LEcon329&u=LEcon329_u_15 - Get u-Tag
+/xml/LEcon329/file - Get XML-File
+/xml/LEcon329/header - Get TEI Header
+/xml/LEcon329/uid/LEcon329_u_15 - Get u-Tag
 ```
 
 ### Dev

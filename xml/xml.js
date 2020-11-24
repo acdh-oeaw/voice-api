@@ -86,28 +86,35 @@ class XML {
       }
     }
   }
-  request (req, res) {
+  request (type, req, res) {
     let send = {
       query: req.query,
       xmlStatus: this.getStatus(),
-      xml: []
     }
-    if (req.query.get) {
-      console.log(req.query)
+    if (type === 'overview') {
+      send.allXmlIds = []
+      this.files.forEach((uObj, idx) => {
+        send.allXmlIds.push(uObj.id)
+      });
+    } else if ((type === 'get' || type === 'uId') && req.params && req.params.documentId) {
+      let dId = req.params.documentId
+      send.xmlId = dId
       let field = {
         'file': 'xml',
         'header': 'header'
       }
-      if (field[req.query.get]) {
-        if (req.query.id && this.filesById[req.query.id]) {
-          send.xmlFiles = [this.files[this.filesById[req.query.id]][field[req.query.get]]]
+      if (type === 'get' && field[req.params.getType]) {
+        send.xml = []
+        if (dId && this.filesById[dId]) {
+          send.xmlFiles = [this.files[this.filesById[dId]][field[req.params.getType]]]
         } else {
           send.error = 'ID not found ...'
         }
-      } else if (req.query.get === 'u') {
-        if (req.query.id && this.filesById[req.query.id]) {
-          if (this.files[this.filesById[req.query.id]].uById[req.query.u]) {
-            send.u = [this.files[this.filesById[req.query.id]].u[this.files[this.filesById[req.query.id]].uById[req.query.u]].xml]
+      } else if (type === 'uId' && req.params.uId) {
+        let uId = req.params.uId
+        if (dId && this.filesById[dId]) {
+          if (this.files[this.filesById[dId]].uById[uId]) {
+            send.u = [{uId: this.files[this.filesById[dId]].u[this.files[this.filesById[dId]].uById[uId]].xml}]
           } else {
             send.error = 'ID not found in File ...'
           }
@@ -115,11 +122,6 @@ class XML {
           send.error = 'File ID not found ...'
         }
       }
-    } else {
-      send.allXmlIds = []
-      this.files.forEach((uObj, idx) => {
-        send.allXmlIds.push(uObj.id)
-      });
     }
     res.json(send);
   }
