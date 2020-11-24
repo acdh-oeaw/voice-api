@@ -1,9 +1,12 @@
 var express = require('express');
 var xml = require('./xml/xml.js')
 var search = require('./search/search.js')
-var xmlObj = new xml();
+var cors = require('cors')
 
+var xmlObj = new xml();
 var app = express();
+
+app.use(cors());
 
 app.get('/', function(req, res) {
   res.send("nix");
