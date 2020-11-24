@@ -108,15 +108,15 @@ class XML {
       if (type === 'get' && field[req.params.getType]) {
         send.xml = ''
         send.xmlType = req.params.getType
-        if (dId && this.filesById[dId]) {
+        if (dId && typeof this.filesById[dId] === 'number') {
           send.xml = this.files[this.filesById[dId]][field[req.params.getType]]
         } else {
           send.error = 'ID not found ...'
         }
       } else if (type === 'uId' && req.params.uId) {
         let uId = req.params.uId
-        if (dId && this.filesById[dId]) {
-          if (this.files[this.filesById[dId]].uById[uId]) {
+        if (dId && typeof this.filesById[dId] === 'number') {
+          if (typeof this.files[this.filesById[dId]].uById[uId] === 'number') {
             send.u = [{uId: uId, xml: this.files[this.filesById[dId]].u[this.files[this.filesById[dId]].uById[uId]].xml}]
           } else {
             send.error = 'ID not found in File ...'
