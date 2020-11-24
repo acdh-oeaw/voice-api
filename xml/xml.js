@@ -57,12 +57,14 @@ class XML {
           aFileObj.u.forEach((uObj, idx) => {
             aFileObj.uById[uObj.id] = idx
           });
+          this.filesById[aFileObj.id] = this.files.indexOf(aFileObj)
           aFileObj.loaded = true;
           // console.log(xmlFilesDirectory + '/' + aFileObj.filename, err, data.length);
           this.loadFile();
         }
       })
     } else {
+      this.filesById = {}
       this.files.forEach((uObj, idx) => {
         this.filesById[uObj.id] = idx
       });
