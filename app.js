@@ -3,6 +3,12 @@ var xml = require('./xml/xml.js')
 var search = require('./search/search.js')
 var cors = require('cors')
 
+const {
+  PORT
+} = process.env
+
+const port = PORT || 3000;
+
 var xmlObj = new xml();
 var app = express();
 
@@ -26,4 +32,5 @@ app.get('/search', function(req, res) {
   new search(req, res);
 });
 
-app.listen(8000);
+console.log(`Started on port ${port}`);
+app.listen(port);
