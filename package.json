@@ -3,10 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "engines": {
+    "node": "12.x",
+    "npm": "6.14.x"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" > 2 && exit 0",
+    "serve": "nodemon --inspect app.js"
   },
   "author": "HCB",
+  "comments": {
+    "docker test command line": "docker run --rm -v $(pwd):/tmp/app registry.gitlab.com/acdh-oeaw/docker/herokuish-for-cypress/master /bin/herokuish buildpack test",
+    "AutoDevOps Settungs": "POSTGRES_ENABLED=false #we don't use a DB so don't prepare it"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
