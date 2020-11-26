@@ -1,0 +1,1914 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:voice="http://www.univie.ac.at/voice/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" version="5" xml:id="LEint551" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>interview with participants of a scout camp about traveling and leisure activities in the preceding week</title>
+        <principal>Prof. Barbara Seidlhofer</principal>
+        <editor/>
+        <funder>VOICE is funded by FWF, the Austrian Science Fund (Project No. L448)</funder>
+        <sponsor/>
+        <respStmt>
+          <resp>Researchers</resp>
+          <name xml:id="AB">Angelika Breiteneder</name>
+          <name xml:id="TK">Theresa Klimpfinger</name>
+          <name xml:id="SM">Stefan Majewski</name>
+          <name xml:id="MLP">Marie-Luise Pitzl</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 2.0 XML,<date>January 2013</date>
+        </edition>
+        <respStmt>
+          <resp>Researchers</resp>
+          <name>Barbara Seidlhofer</name>
+          <name>Stefan Majewski</name>
+          <name>Ruth Osimk-Teasdale</name>
+          <name>Marie-Luise Pitzl</name>
+          <name>Michael Radeka</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Barbara Seidlhofer, Stefan Majewski, Ruth Osimk-Teasdale,		Marie-Luise Pitzl, Michael Radeka</publisher>
+        <distributor>VOICE Project, University of Vienna, Austria</distributor>
+        <address>
+          <addrLine>Spitalgasse 2, AAKH Hof 8</addrLine>
+          <addrLine>1090 Vienna</addrLine>
+          <addrLine>Austria</addrLine>
+          <addrLine>Telephone: +43 1 427742446</addrLine>
+          <addrLine>Email: voice@univie.ac.at</addrLine>
+          <addrLine>Website: http://www.univie.ac.at/voice</addrLine>
+        </address>
+        <availability status="free">
+          <p>The Vienna-Oxford International Corpus of English (VOICE)		  was created by Barbara Seidlhofer (project director) and		  Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		  Marie-Luise Pitzl (project researchers). Minor revisions were gathered		  by Ruth Osimk-Teasdale and Michael Radeka and corrections were made by 		  Ruth Osimk-Teasdale. VOICE 2.0 XML is available for download at the VOICE 		  Project's website<ref target="http://www.univie.ac.at/voice/">http://www.univie.ac.at/voice/</ref>under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License (<ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</ref>). The		  original audio files are held at the Department of English,		  University of Vienna. 23 selected audio files are available		  as audio streams in the VOICE Online interface at the VOICE		  Project's website<ref target="http://www.univie.ac.at/voice">http://www.univie.ac.at/voice</ref>.</p>
+          <p>The recommended citation for VOICE 2.0 XML is:</p>
+          <p>
+            <bibl>
+              <title>VOICE</title>.<date>2013</date>.<title level="m">The Vienna-Oxford International Corpus of		English</title>(<edition>version 2.0		XML</edition>). Director: Barbara Seidlhofer; Researchers:		Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		Ruth Osimk-Teasdale, Marie-Luise Pitzl, Michael Radeka.</bibl>
+          </p>
+          <p>The short citation for VOICE 2.0 XML is:</p>
+          <p>
+            <bibl>
+              <title>VOICE</title>.<date>2013</date>.<title level="m">The Vienna-Oxford International Corpus of          English</title>(<edition>version 2.0 XML</edition>).</bibl>
+          </p>
+          <p>For further information about availability and copyright		  permissions, please see the README file included in the		  download package. For further enquiries please contact the		  VOICE Project at<ref target="mailto:voice@univie.ac.at">voice@univie.ac.at</ref>.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note xml:id="LEint551_wc">Words: 442</note>
+        <note xml:id="LEint551_tn_0">This interview takes place at an international scout camp. S2 asks S1 about her traveling and leisure activities during the preceding week and her plans for today.</note>
+      </notesStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording dur="PT00H02M59S" type="audio">
+            <date>2001-07-01</date>
+            <equipment>
+              <p>cassette recorder</p>
+            </equipment>
+            <respStmt>
+              <resp>recording</resp>
+              <name>R21</name>
+            </respStmt>
+          </recording>
+        </recordingStmt>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="LEint551_domain">
+            <catDesc>Domain</catDesc>
+            <category sameAs="#ED" xml:id="LEint551_ED">
+              <catDesc>educational</catDesc>
+            </category>
+            <category sameAs="#LE" xml:id="LEint551_LE">
+              <catDesc>leisure</catDesc>
+            </category>
+            <category sameAs="#PB" xml:id="LEint551_PB">
+              <catDesc>professional business</catDesc>
+            </category>
+            <category sameAs="#PO" xml:id="LEint551_PO">
+              <catDesc>professional organizational</catDesc>
+            </category>
+            <category sameAs="#PR" xml:id="LEint551_PR">
+              <catDesc>professional research/science</catDesc>
+            </category>
+          </category>
+          <category xml:id="LEint551_spet">
+            <catDesc>Speech Event Type</catDesc>
+            <category sameAs="#int" xml:id="LEint551_int">
+              <catDesc>interview</catDesc>
+            </category>
+            <category sameAs="#prc" xml:id="LEint551_prc">
+              <catDesc>press conference</catDesc>
+            </category>
+            <category sameAs="#sve" xml:id="LEint551_sve">
+              <catDesc>service encounter</catDesc>
+            </category>
+            <category sameAs="#sed" xml:id="LEint551_sed">
+              <catDesc>seminar discussion</catDesc>
+            </category>
+            <category sameAs="#wgd" xml:id="LEint551_wgd">
+              <catDesc>working group discussion</catDesc>
+            </category>
+            <category sameAs="#wsd" xml:id="LEint551_wsd">
+              <catDesc>workshop discussion</catDesc>
+            </category>
+            <category sameAs="#mtg" xml:id="LEint551_mtg">
+              <catDesc>meeting</catDesc>
+            </category>
+            <category sameAs="#pan" xml:id="LEint551_pan">
+              <catDesc>panel</catDesc>
+            </category>
+            <category sameAs="#qas" xml:id="LEint551_qas">
+              <catDesc>question-answer session</catDesc>
+            </category>
+            <category sameAs="#con" xml:id="LEint551_con">
+              <catDesc>conversation</catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="TEI" occurs="1"/>
+          <tagUsage gi="teiHeader" occurs="1"/>
+          <tagUsage gi="fileDesc" occurs="1"/>
+          <tagUsage gi="titleStmt" occurs="1"/>
+          <tagUsage gi="title" occurs="5"/>
+          <tagUsage gi="principal" occurs="1"/>
+          <tagUsage gi="editor" occurs="1"/>
+          <tagUsage gi="funder" occurs="1"/>
+          <tagUsage gi="sponsor" occurs="1"/>
+          <tagUsage gi="respStmt" occurs="3"/>
+          <tagUsage gi="resp" occurs="3"/>
+          <tagUsage gi="name" occurs="12"/>
+          <tagUsage gi="editionStmt" occurs="1"/>
+          <tagUsage gi="edition" occurs="3"/>
+          <tagUsage gi="date" occurs="4"/>
+          <tagUsage gi="publicationStmt" occurs="1"/>
+          <tagUsage gi="publisher" occurs="1"/>
+          <tagUsage gi="distributor" occurs="1"/>
+          <tagUsage gi="address" occurs="1"/>
+          <tagUsage gi="addrLine" occurs="6"/>
+          <tagUsage gi="availability" occurs="1"/>
+          <tagUsage gi="p" occurs="7"/>
+          <tagUsage gi="ref" occurs="5"/>
+          <tagUsage gi="bibl" occurs="2"/>
+          <tagUsage gi="notesStmt" occurs="1"/>
+          <tagUsage gi="note" occurs="2"/>
+          <tagUsage gi="sourceDesc" occurs="1"/>
+          <tagUsage gi="recordingStmt" occurs="1"/>
+          <tagUsage gi="recording" occurs="1"/>
+          <tagUsage gi="equipment" occurs="1"/>
+          <tagUsage gi="encodingDesc" occurs="1"/>
+          <tagUsage gi="classDecl" occurs="1"/>
+          <tagUsage gi="taxonomy" occurs="1"/>
+          <tagUsage gi="category" occurs="17"/>
+          <tagUsage gi="catDesc" occurs="17"/>
+          <tagUsage gi="tagsDecl" occurs="1"/>
+          <tagUsage gi="namespace" occurs="2"/>
+          <tagUsage gi="tagUsage" occurs="81"/>
+          <tagUsage gi="gi" occurs="5"/>
+          <tagUsage gi="att" occurs="14"/>
+          <tagUsage gi="list" occurs="11"/>
+          <tagUsage gi="label" occurs="20"/>
+          <tagUsage gi="val" occurs="42"/>
+          <tagUsage gi="item" occurs="40"/>
+          <tagUsage gi="profileDesc" occurs="1"/>
+          <tagUsage gi="textClass" occurs="1"/>
+          <tagUsage gi="catRef" occurs="2"/>
+          <tagUsage gi="settingDesc" occurs="1"/>
+          <tagUsage gi="setting" occurs="1"/>
+          <tagUsage gi="locale" occurs="1"/>
+          <tagUsage gi="activity" occurs="1"/>
+          <tagUsage gi="particDesc" occurs="1"/>
+          <tagUsage gi="listPerson" occurs="3"/>
+          <tagUsage gi="personGrp" occurs="2"/>
+          <tagUsage gi="person" occurs="2"/>
+          <tagUsage gi="age" occurs="2"/>
+          <tagUsage gi="sex" occurs="2"/>
+          <tagUsage gi="occupation" occurs="1"/>
+          <tagUsage gi="langKnowledge" occurs="2"/>
+          <tagUsage gi="langKnown" occurs="2"/>
+          <tagUsage gi="relationGrp" occurs="1"/>
+          <tagUsage gi="relation" occurs="2"/>
+          <tagUsage gi="revisionDesc" occurs="1"/>
+          <tagUsage gi="change" occurs="5"/>
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="1"/>
+          <tagUsage gi="u" occurs="68">Used to mark a stretch of speech commonly	  	preceded and followed by a pause or by a change of speaker. A<gi>u</gi>is, however, not required to be bounded by a pause	  	or a change of speaker, nor does it represent a turn in a	  	conversation analytic sense. At a minimum, a<gi>u</gi>is	  	some phonetic production or noise made by a given speaker or a	  	group of speakers.</tagUsage>
+          <tagUsage gi="c" occurs="68">Used to mark lengthening of sounds and		intonation (fall, rise). The following<att>type</att>attributes are used to mark:<list>
+              <label>
+                <val>lengthening</val>
+              </label>
+              <item>lengthened		  sounds</item>
+              <label>
+                <val>intonation</val>
+              </label>
+              <item>a significant change in		  intonation, marked with the following<att>function</att>attribute for:<list>
+                  <label>
+                    <val>fall</val>
+                  </label>
+                  <item>falling			intonation</item>
+                  <label>
+                    <val>rise</val>
+                  </label>
+                  <item>rising intonation</item>
+                </list>
+              </item>
+            </list>Intonation may or may not coincide with		syntactic boundaries.</tagUsage>
+          <tagUsage gi="pause" occurs="52">Used to mark a pause either between or		within utterances. Used without<att>dur</att>attribute to		indicate a brief pause up to half a second.</tagUsage>
+          <tagUsage gi="vocal" occurs="26">Used to mark laughter and other speaker        noises and non-verbal feedback.<list>
+              <label>
+                <val>speaker_noise</val>
+              </label>
+              <item>
+                <list>
+                  <item>
+                    <val>coughing</val>
+                  </item>
+                  <item>
+                    <val>nods</val>
+                  </item>
+                  <item>
+                    <val>shakes head</val>
+                  </item>
+                  <item>
+                    <val>smacks lips</val>
+                  </item>
+                  <item>
+                    <val>sniffs</val>
+                  </item>
+                  <item>
+                    <val>swallows</val>
+                  </item>
+                  <item>
+                    <val>whistles</val>
+                  </item>
+                </list>
+              </item>
+              <label>
+                <val>wordlike</val>
+              </label>
+              <item>
+                <val>laughing</val>
+              </item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="seg" occurs="48">Used with different<att>type</att>attributes to mark:<list>
+              <label>
+                <att>type</att>
+                <val>overlap</val>
+              </label>
+              <item>overlaps</item>
+              <label>
+                <att>type</att>
+                <val>onomatopoeia</val>
+              </label>
+              <item>onomatopoeic sounds</item>
+              <label>
+                <att>type</att>
+                <val>ipa</val>
+              </label>
+              <item>transcriptions in the international phonetic alphabet</item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="incident" occurs="3">Used to mark contextual information		relevant to the understanding of the interaction or the		interaction as such. The<att>voice:desc</att>attribute		provides a short prose description of the contextual		event.</tagUsage>
+          <tagUsage gi="foreign" occurs="7">Used to mark a word or phrase as		belonging to some language other than English. The following		values for the<att>type</att>attribute are used to mark:<list>
+              <label>
+                <val>L1</val>
+              </label>
+              <item>the speaker's first		  language</item>
+              <label>
+                <val>LN</val>
+              </label>
+              <item>a language other than the		  speaker's first language</item>
+              <label>
+                <val>LQ</val>
+              </label>
+              <item>a language where it cannot		  be ascertained whether it is the speaker's first or other		  language.</item>
+            </list>Whenever possible, the<att>voice:translation</att>attribute		provides a rough translation of the non-English speech into		English.</tagUsage>
+          <tagUsage gi="anchor" occurs="8">Used to mark other-continuation,		i.e. whenever a speaker continues another speaker's<gi>u</gi>without a pause. Other-continuation is to be interpreted		temporally and does not relate to form or content of the		speakers' utterances.</tagUsage>
+          <tagUsage gi="shift" occurs="30">Used to mark the point at which some		paralinguistic feature changes. The following attribute values		are used to mark:<list>
+              <label>
+                <val>voice</val>
+              </label>
+              <item>voice quality<list>
+                  <item>
+                    <val>imitating</val>
+                  </item>
+                  <item>
+                    <val>laugh</val>
+                  </item>
+                  <item>
+                    <val>neutral</val>
+                  </item>
+                  <item>
+                    <val>phone</val>
+                  </item>
+                  <item>
+                    <val>reading</val>
+                  </item>
+                  <item>
+                    <val>reading_aloud</val>
+                  </item>
+                  <item>
+                    <val>sigh</val>
+                  </item>
+                  <item>
+                    <val>singing</val>
+                  </item>
+                  <item>
+                    <val>whisp</val>
+                  </item>
+                  <item>
+                    <val>yawning</val>
+                  </item>
+                </list>
+              </item>
+              <label>
+                <val>tempo</val>
+              </label>
+              <item>speed of utterance<list>
+                  <label>
+                    <val>a</val>
+                  </label>
+                  <item>accelerando</item>
+                  <label>
+                    <val>l</val>
+                  </label>
+                  <item>lento</item>
+                  <label>
+                    <val>neutral</val>
+                  </label>
+                  <item>neutral</item>
+                </list>
+              </item>
+              <label>
+                <val>loud</val>
+              </label>
+              <item>loudness<list>
+                  <item>
+                    <val>f</val>
+                  </item>
+                  <item>
+                    <val>neutral</val>
+                  </item>
+                  <item>
+                    <val>p</val>
+                  </item>
+                </list>
+              </item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="supplied" occurs="1">Used to mark text supplied by the		transcriber because the original is unintelligible or needed		to be anonymized. The<att>reason</att>attribute is used to		mark:<list>
+              <label>
+                <val>unintelligible</val>
+              </label>
+              <item>unintelligible		  speech</item>
+              <label>
+                <val>anonymization</val>
+              </label>
+              <item>anonymized		  speech</item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="w" occurs="1">Used with the<att>type</att>attribute set to<val>spelt</val>to mark words or word fragments which are		  spelt out, i.e. words whose constituents are pronounced as		  individual letters.</tagUsage>
+          <tagUsage gi="unclear" occurs="3">Used to mark speech which cannot be		transcribed with certainty, because it is difficult to hear or		understand for the transcriber.</tagUsage>
+          <tagUsage gi="emph" occurs="3">Used to mark speech which is stressed or		emphasized in a way that goes beyond regular nuclear		stress.</tagUsage>
+        </namespace>
+        <namespace name="http://www.univie.ac.at/voice/ns/1.0">
+          <tagUsage gi="voice:pvc" occurs="3">Used to mark a pronunciation		variation or coinage as described in<ref target="http://www.univie.ac.at/voice/documents/VOICE_mark-up_conventions_v2-1.pdf">the		VOICE mark-up conventions [2.1].</ref>the		VOICE mark-up conventions [2.1]. An existing word		corresponding to the PVC may be provided within a<att>comment</att>comment attribute within the<gi>voice:pvc</gi>voice:pvc		element. Additional phonetic transcription may be provided		within a<att>voice:ipa</att>voice:ipa attribute within the<gi>voice:pvc</gi>voice:pvc element.</tagUsage>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#LEint551_LE #LEint551_int"/>
+        <catRef target="#LE #int"/>
+      </textClass>
+      <settingDesc>
+        <setting>
+          <name type="country">AT</name>
+          <name type="city">unknown</name>
+          <locale>unknown</locale>
+          <activity>none</activity>
+        </setting>
+      </settingDesc>
+      <particDesc>
+        <listPerson type="main">
+          <listPerson type="groups">
+            <personGrp role="speakers" size="2"/>
+            <personGrp role="interactants" size="2"/>
+          </listPerson>
+          <listPerson type="identified">
+            <person role="interviewer" sameAs="#P639" xml:id="LEint551_S2">
+              <age value="2">25-34</age>
+              <sex value="2">female</sex>
+              <occupation>student</occupation>
+              <langKnowledge>
+                <langKnown level="L1" tag="ger-AT"/>
+              </langKnowledge>
+            </person>
+            <person role="interviewee" sameAs="#P640" xml:id="LEint551_S1">
+              <age value="1">17-24</age>
+              <sex value="2">female</sex>
+              <langKnowledge>
+                <langKnown level="L1" tag="fre-BE"/>
+              </langKnowledge>
+            </person>
+          </listPerson>
+          <relationGrp>
+            <relation mutual="#LEint551_S1 #LEint551_S2" name="fairly_symmetrical" type="power"/>
+            <relation mutual="#LEint551_S1 #LEint551_S2" name="unacquainted" type="acquaintedness"/>
+          </relationGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2009-05-19" who="SM">conversion to XML</change>
+      <change when="2009-05-11" who="TK">finalized for publication</change>
+      <change when="2009-02-03" who="TK">proof-reading</change>
+      <change when="2007-10-29" who="MLP">checking</change>
+      <change when="2007-10-21" who="NL">transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="medium" voice:end="03:00" voice:end_medium_number="1" voice:end_track="1" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1">
+        <u who="#LEint551_S1" xml:id="LEint551_u_1">
+          <seg xml:id="xTok_LEint551_000006" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000007" ana="#REfRE" lemma="okay">okay</w>
+          <seg xml:id="xTok_LEint551_000008" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000009" ana="#DMfDM" lemma="so">so<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000010" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000011" ana="#UHfUH" lemma="erm">erm</w>
+          <seg xml:id="xTok_LEint551_000012" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <vocal type="speaker_noise" voice:desc="smacks lips"/>
+          <seg xml:id="xTok_LEint551_000013" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000014" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000015" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000016" ana="#VBDfVBD" lemma="be">were</w>
+          <seg xml:id="xTok_LEint551_000017" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000018" ana="#INfIN" lemma="on">on</w>
+          <seg xml:id="xTok_LEint551_000019" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000020" ana="#NNfNN" lemma="tour">tour</w>
+          <seg xml:id="xTok_LEint551_000021" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000022" ana="#JJfJJ" lemma="last">last</w>
+          <seg xml:id="xTok_LEint551_000023" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000024" part="I" next="#xTok_LEint551_000025" ana="#NNfNN" lemma="week">wee<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000025" part="F" prev="#xTok_LEint551_000024">k<c function="rise" type="intonation"/>
+          </w>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000026" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000027" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_LEint551_000028" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000029" ana="#RBfRB" lemma="yesterday">yesterday</w>
+          <seg xml:id="xTok_LEint551_000030" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000031" ana="#PPfPP" lemma="we">we<c type="lengthening"/>
+          </w>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000032" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000033" ana="#VVDfVVD" lemma="arrive">arrived</w>
+          <seg xml:id="xTok_LEint551_000034" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000035" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation"/>
+          </w>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_2">
+          <seg xml:id="xTok_LEint551_000037" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000038" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_LEint551_000039" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg n="8" type="overlap" xml:id="LEint551_ol_0">
+            <seg xml:id="xTok_LEint551_000040" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000041" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_LEint551_000042" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000043" ana="#WDTfWDT" lemma="which">which</w>
+            <seg xml:id="xTok_LEint551_000044" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000045" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000046" part="I" next="#xTok_LEint551_000047" ana="#NNfNN" lemma="tour">tou<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000047" part="F" prev="#xTok_LEint551_000046">r</w>
+          <seg xml:id="xTok_LEint551_000048" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000049" ana="#VBDfVBD" lemma="be">were</w>
+          <seg xml:id="xTok_LEint551_000050" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000051" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_000052" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000053" ana="#INfIN" lemma="on">on<c function="rise" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000054" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000055" ana="#JJfJJ" lemma="last">last</w>
+          <seg xml:id="xTok_LEint551_000056" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000057" ana="#NNfNN" lemma="week">week</w>
+          <seg xml:id="xTok_LEint551_000058" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_3">
+          <seg n="8" synch="#LEint551_ol_0" type="overlap" xml:id="LEint551_ol_1">
+            <seg xml:id="xTok_LEint551_000060" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000061" ana="#BRfBR" lemma="">hh</w>
+            <seg xml:id="xTok_LEint551_000062" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_4">
+          <seg xml:id="xTok_LEint551_000064" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000065" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000066" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000067" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_LEint551_000068" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000069" ana="#NPfNP" lemma="linz">linz</w>
+          <seg xml:id="xTok_LEint551_000070" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_5">
+          <seg xml:id="xTok_LEint551_000072" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000073" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_LEint551_000074" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000075" ana="#NPfNP" lemma="linz">linz<c function="rise" type="intonation"/>
+          </w>
+          <seg n="1" type="overlap" xml:id="LEint551_ol_2">
+            <seg xml:id="xTok_LEint551_000076" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000077" ana="#WPfWP" lemma="what">what</w>
+            <seg xml:id="xTok_LEint551_000078" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000079" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000080" ana="#VVDfVVD" lemma="do">did</w>
+          <seg xml:id="xTok_LEint551_000081" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000082" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_000083" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000084" ana="#VVfVV" lemma="do">do</w>
+          <seg xml:id="xTok_LEint551_000085" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000086" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_LEint551_000087" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000088" ana="#NPfNP" lemma="linz">linz</w>
+          <seg xml:id="xTok_LEint551_000089" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_6">
+          <seg n="1" synch="#LEint551_ol_2" type="overlap" xml:id="LEint551_ol_3">
+            <seg xml:id="xTok_LEint551_000091" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000092" ana="#REfRE" lemma="yeah">yeah</w>
+            <seg xml:id="xTok_LEint551_000093" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_7">
+          <seg xml:id="xTok_LEint551_000095" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000096" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000097" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000098" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000099" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000100" ana="#VfVVD" lemma="make">make</w>
+          <seg xml:id="xTok_LEint551_000101" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_000102" part="I" next="#xTok_LEint551_000103" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000103" part="F" prev="#xTok_LEint551_000102">r</w>
+          <seg xml:id="xTok_LEint551_000104" type="ws" xml:space="preserve"> </seg>
+          <incident voice:desc="music in background begins"/>
+          <seg xml:id="xTok_LEint551_000105" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000106" ana="#JJfJJ" lemma="different">different</w>
+          <seg xml:id="xTok_LEint551_000107" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000108" part="I" next="#xTok_LEint551_000109" ana="#NNSfNNS" lemma="activity">activitie<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000109" part="F" prev="#xTok_LEint551_000108">s</w>
+          <seg xml:id="xTok_LEint551_000110" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000111" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000112" ana="#DMfDM" lemma="like">like</w>
+          <seg xml:id="xTok_LEint551_000113" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000114" part="I" next="#xTok_LEint551_000115" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000115" part="F" prev="#xTok_LEint551_000114">r</w>
+          <seg xml:id="xTok_LEint551_000116" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000117" ana="#NNSfNNS" lemma="sport">sports<c function="rise" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_8">
+          <seg xml:id="xTok_LEint551_000119" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000120" ana="#REfRE" lemma="uhu">uhu</w>
+          <seg xml:id="xTok_LEint551_000121" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_9">
+          <seg xml:id="xTok_LEint551_000123" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000124" ana="#DMfDM" lemma="like">like</w>
+          <seg xml:id="xTok_LEint551_000125" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000126" ana="#NNSfNNS" lemma="heart">hearts</w>
+          <seg xml:id="xTok_LEint551_000127" type="ws" xml:space="preserve"> </seg>
+          <foreign type="L1" voice:translation="culture" xml:lang="fre">
+            <seg xml:id="xTok_LEint551_000128" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000129" ana="#FWfFW" lemma="">cultures</w>
+            <seg xml:id="xTok_LEint551_000130" type="ws" xml:space="preserve"> </seg>
+          </foreign>
+          <pause dur="PT1S"/>
+          <seg n="1" type="overlap" xml:id="LEint551_ol_4">
+            <seg xml:id="xTok_LEint551_000131" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000132" ana="#UHfUH" lemma="er">er</w>
+            <seg xml:id="xTok_LEint551_000133" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_10">
+          <seg n="1" synch="#LEint551_ol_4" type="overlap" xml:id="LEint551_ol_5">
+            <seg xml:id="xTok_LEint551_000135" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000136" ana="#DMfDM" lemma="like">like</w>
+            <seg xml:id="xTok_LEint551_000137" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000138" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000139" ana="#DMfDM" lemma="like">like</w>
+          <seg xml:id="xTok_LEint551_000140" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000141" ana="#WPfWP" lemma="what">what<c function="rise" type="intonation"/>
+          </w>
+          <seg n="2" type="overlap" xml:id="LEint551_ol_6">
+            <seg xml:id="xTok_LEint551_000142" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000143" ana="#FIfFI" lemma="sorry">sorry</w>
+            <seg xml:id="xTok_LEint551_000144" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_11">
+          <seg n="2" synch="#LEint551_ol_6" type="overlap" xml:id="LEint551_ol_7">
+            <seg xml:id="xTok_LEint551_000146" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000147" ana="#XXfXX" lemma="">h-</w>
+            <seg xml:id="xTok_LEint551_000148" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000149" ana="#NNSfNNS" lemma="art">arts</w>
+            <seg xml:id="xTok_LEint551_000150" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000151" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000152" ana="#NNSfNNS" lemma="art">arts</w>
+          <seg xml:id="xTok_LEint551_000153" type="ws" xml:space="preserve"> </seg>
+          <seg n="3" type="overlap" xml:id="LEint551_ol_8">
+            <vocal xml:id="LEint551_ol_8_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          </seg>
+          <seg xml:id="xTok_LEint551_000154" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000155" part="I" next="#xTok_LEint551_000156" ana="#NNSfNNS" lemma="art">a<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000156" part="F" prev="#xTok_LEint551_000155">rts</w>
+          <seg xml:id="xTok_LEint551_000157" type="ws" xml:space="preserve"> </seg>
+          <vocal xml:id="LEint551_u_11_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <seg xml:id="xTok_LEint551_000158" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000159" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000160" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_12">
+          <seg n="3" synch="#LEint551_ol_8" type="overlap" xml:id="LEint551_ol_9">
+            <seg xml:id="xTok_LEint551_000162" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000163" part="I" next="#xTok_LEint551_000164" ana="#NNSfNNS" lemma="art">a<c type="lengthening"/>
+            </w>
+            <w xml:id="xTok_LEint551_000164" part="F" prev="#xTok_LEint551_000163">rts</w>
+            <seg xml:id="xTok_LEint551_000165" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_13">
+          <seg xml:id="xTok_LEint551_000167" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000168" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_LEint551_000169" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000170" part="I" next="#xTok_LEint551_000171" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000171" part="F" prev="#xTok_LEint551_000170">r</w>
+          <seg xml:id="xTok_LEint551_000172" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000173" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_LEint551_000174" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000175" ana="#VVPfVVP" lemma="do" apostroph_split="xTok_LEint551_000177" part="I" next="xTok_LEint551_000177">do</w>
+          <w xml:id="xTok_LEint551_000177" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_LEint551_000175" removed_ws="1">n't</w>
+          <seg xml:id="xTok_LEint551_000178" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000179" ana="#VVfVV" lemma="know">know</w>
+          <seg xml:id="xTok_LEint551_000180" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000181" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000182" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000183" ana="#XXfXX" lemma="">m-</w>
+          <seg xml:id="xTok_LEint551_000184" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000185" ana="#XXfXX" lemma="">e-</w>
+          <seg xml:id="xTok_LEint551_000186" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000187" part="I" next="#xTok_LEint551_000188" ana="#EXfEX" lemma="there">the<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000188" part="F" prev="#xTok_LEint551_000187">re</w>
+          <seg xml:id="xTok_LEint551_000189" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000190" ana="#EXfEX" lemma="there">there</w>
+          <seg xml:id="xTok_LEint551_000191" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000192" ana="#VBDfVBD" lemma="be">were</w>
+          <seg xml:id="xTok_LEint551_000193" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000194" ana="#JJfJJ" lemma="different">different</w>
+          <seg xml:id="xTok_LEint551_000195" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000196" ana="#NNSfNNS" lemma="group">groups</w>
+          <seg xml:id="xTok_LEint551_000197" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000198" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000199" ana="#XXfXX" lemma="">th-</w>
+          <seg xml:id="xTok_LEint551_000200" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000201" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000202" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_LEint551_000203" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000204" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000205" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000206" ana="#VBDfVBD" lemma="be">were</w>
+          <seg xml:id="xTok_LEint551_000207" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000208" ana="#VVNfVVN" lemma="separate">separated<c function="rise" type="intonation"/>
+          </w>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_14">
+          <seg xml:id="xTok_LEint551_000210" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000211" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_LEint551_000212" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_15">
+          <seg xml:id="xTok_LEint551_000214" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000215" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_LEint551_000216" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000217" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000218" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000219" ana="#VVPfVVP" lemma="choose">choose</w>
+          <seg xml:id="xTok_LEint551_000220" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000221" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000222" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000223" ana="#WPfWP" lemma="what">what</w>
+          <seg xml:id="xTok_LEint551_000224" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000225" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000226" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000227" ana="#PPfPP" lemma="we">we<c type="lengthening"/>
+          </w>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000228" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000229" ana="#VVDfVVD" lemma="do">did</w>
+          <seg xml:id="xTok_LEint551_000230" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000231" ana="#VVfVV" lemma="want">want</w>
+          <seg xml:id="xTok_LEint551_000232" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_16">
+          <seg xml:id="xTok_LEint551_000234" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000235" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_LEint551_000236" type="ws" xml:space="preserve"> </seg>
+          <anchor synch="#LEint551_oc_1" type="other_continuation" xml:id="LEint551_oc_0"/>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_17">
+          <anchor synch="#LEint551_oc_0" type="other_continuation" xml:id="LEint551_oc_1"/>
+          <shift corresp="#LEint551_s_2" feature="loud" new="p" xml:id="LEint551_s_1"/>
+          <foreign type="L1" voice:translation="yes" xml:lang="fre">
+            <seg xml:id="xTok_LEint551_000238" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000239" ana="#FWfFW" lemma="">oui</w>
+            <seg xml:id="xTok_LEint551_000240" type="ws" xml:space="preserve"> </seg>
+          </foreign>
+          <shift corresp="#LEint551_s_1" feature="loud" new="neutral" xml:id="LEint551_s_2"/>
+          <vocal xml:id="LEint551_u_17_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <seg xml:id="xTok_LEint551_000241" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000242" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000243" type="ws" xml:space="preserve"> </seg>
+          <seg n="4" type="overlap" xml:id="LEint551_ol_10">
+            <seg xml:id="xTok_LEint551_000244" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000245" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_LEint551_000246" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_18">
+          <seg n="4" synch="#LEint551_ol_10" type="overlap" xml:id="LEint551_ol_11">
+            <seg xml:id="xTok_LEint551_000248" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000249" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_LEint551_000250" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000251" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000252" ana="#WPfWP" lemma="what">what</w>
+          <seg xml:id="xTok_LEint551_000253" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000254" ana="#VVDfVVD" lemma="do">did</w>
+          <seg xml:id="xTok_LEint551_000255" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000256" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_000257" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000258" ana="#VVfVV" lemma="choose">choose</w>
+          <seg xml:id="xTok_LEint551_000259" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_19">
+          <seg xml:id="xTok_LEint551_000261" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000262" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000263" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000264" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000265" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000266" ana="#NNfNN" lemma="sport">sport<c function="fall" type="intonation"/>
+          </w>
+          <seg n="9" type="overlap" xml:id="LEint551_ol_12">
+            <seg xml:id="xTok_LEint551_000267" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000268" ana="#DMfDM" lemma="so">so</w>
+            <seg xml:id="xTok_LEint551_000269" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000270" ana="#PPfPP" lemma="i">i</w>
+            <seg xml:id="xTok_LEint551_000271" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000272" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000273" ana="#VVDfVVD" lemma="make">made</w>
+          <seg xml:id="xTok_LEint551_000274" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000275" ana="#NNfNN" lemma="horse">horse</w>
+          <seg xml:id="xTok_LEint551_000276" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000277" ana="#VVGfNN" lemma="ride/riding">riding</w>
+          <seg xml:id="xTok_LEint551_000278" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000279" ana="#DTfDT" lemma="that">that</w>
+          <seg xml:id="xTok_LEint551_000280" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000281" ana="#VBDfVBD" lemma="be">was</w>
+          <seg xml:id="xTok_LEint551_000282" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000283" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000284" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000285" ana="#JJfJJ" lemma="first">first</w>
+          <seg xml:id="xTok_LEint551_000286" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#LEint551_s_4" feature="voice" new="laugh" xml:id="LEint551_s_3"/>
+          <seg xml:id="xTok_LEint551_000287" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000288" ana="#NNfNN" lemma="time">time</w>
+          <seg xml:id="xTok_LEint551_000289" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#LEint551_s_3" feature="voice" new="neutral" xml:id="LEint551_s_4"/>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_20">
+          <seg n="9" synch="#LEint551_ol_12" type="overlap" xml:id="LEint551_ol_13">
+            <shift corresp="#LEint551_s_6" feature="loud" new="p" xml:id="LEint551_s_5"/>
+            <seg xml:id="xTok_LEint551_000291" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000292" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_LEint551_000293" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000294" ana="#XXfXX" lemma="">s-</w>
+            <seg xml:id="xTok_LEint551_000295" type="ws" xml:space="preserve"> </seg>
+            <shift corresp="#LEint551_s_5" feature="loud" new="neutral" xml:id="LEint551_s_6"/>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_21">
+          <seg xml:id="xTok_LEint551_000297" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000298" ana="#PPfPP" lemma="i" apostroph_split="xTok_LEint551_000300" part="I" next="xTok_LEint551_000300">i</w>
+          <w xml:id="xTok_LEint551_000300" ana="#VBPfVBP" lemma="be" split="yes" part="F" prev="xTok_LEint551_000298" removed_ws="1">'m<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000301" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000302" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_LEint551_000303" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000304" ana="#VBDfVBD" lemma="be">was</w>
+          <seg xml:id="xTok_LEint551_000305" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000306" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000307" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000308" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_LEint551_000309" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000310" ana="#VVDfVVD" lemma="make">made</w>
+          <seg xml:id="xTok_LEint551_000311" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000312" ana="#XXfXX" lemma="">f-</w>
+          <seg xml:id="xTok_LEint551_000313" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000314" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000315" ana="#NNfNN" lemma="horse">horse</w>
+          <seg xml:id="xTok_LEint551_000316" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000317" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000318" ana="#VVGfNN" lemma="ride/riding">riding<c function="fall" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_22">
+          <seg xml:id="xTok_LEint551_000320" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000321" ana="#UHfUH" lemma="oh">oh</w>
+          <seg xml:id="xTok_LEint551_000322" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000323" part="I" next="#xTok_LEint551_000324" ana="#RBfRB" lemma="really">rea<c type="lengthening"/>
+          </w>
+          <seg n="10" type="overlap" xml:id="LEint551_ol_14">
+            <w xml:id="xTok_LEint551_000324" part="F" prev="#xTok_LEint551_000323">lly<c function="rise" type="intonation"/>
+            </w>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_23">
+          <seg n="10" synch="#LEint551_ol_14" type="overlap" xml:id="LEint551_ol_15">
+            <vocal xml:id="LEint551_ol_15_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          </seg>
+          <vocal xml:id="LEint551_u_23_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <seg xml:id="xTok_LEint551_000326" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_000327" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000328" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_24">
+          <seg xml:id="xTok_LEint551_000330" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000331" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_000332" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000333" ana="#VVDfVVD" lemma="do" apostroph_split="xTok_LEint551_000335" part="I" next="xTok_LEint551_000335">did</w>
+          <w xml:id="xTok_LEint551_000335" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_LEint551_000333" removed_ws="1">n't</w>
+          <seg xml:id="xTok_LEint551_000336" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000337" ana="#VVDfVV" lemma="fall">fell</w>
+          <seg xml:id="xTok_LEint551_000338" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_000339" ana="#XXfXX" lemma="">th-</w>
+          <seg xml:id="xTok_LEint551_000340" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000341" ana="#VVfVV" lemma="fall">fall</w>
+          <seg xml:id="xTok_LEint551_000342" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000343" ana="#RBfRB" lemma="down">down</w>
+          <seg xml:id="xTok_LEint551_000344" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#LEint551_s_8" feature="voice" new="laugh" xml:id="LEint551_s_7"/>
+          <seg xml:id="xTok_LEint551_000345" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000346" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000347" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000348" ana="#NNfNN" lemma="horse">horse<c function="rise" type="intonation"/>
+          </w>
+          <shift corresp="#LEint551_s_7" feature="voice" new="neutral" xml:id="LEint551_s_8"/>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_25">
+          <shift corresp="#LEint551_s_10" feature="voice" new="laugh" xml:id="LEint551_s_9"/>
+          <seg xml:id="xTok_LEint551_000350" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000351" ana="#REfRE" lemma="no">no<c type="lengthening"/>
+          </w>
+          <shift corresp="#LEint551_s_9" feature="voice" new="neutral" xml:id="LEint551_s_10"/>
+          <vocal xml:id="LEint551_u_25_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <seg xml:id="xTok_LEint551_000352" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000353" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000354" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000355" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_LEint551_000356" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000357" ana="#UHfUH" lemma="erm">erm</w>
+          <seg xml:id="xTok_LEint551_000358" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000359" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_LEint551_000360" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000361" ana="#RBfRB" lemma="also">also<c type="lengthening"/>
+          </w>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000362" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000363" part="I" next="#xTok_LEint551_000364" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000364" part="F" prev="#xTok_LEint551_000363">r</w>
+          <seg xml:id="xTok_LEint551_000365" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000366" ana="#VVDfVVD" lemma="play">played</w>
+          <seg xml:id="xTok_LEint551_000367" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000368" ana="#NNfNN" lemma="tennis">tennis</w>
+          <seg xml:id="xTok_LEint551_000369" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000370" part="I" next="#xTok_LEint551_000371" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000371" part="F" prev="#xTok_LEint551_000370">r</w>
+          <seg xml:id="xTok_LEint551_000372" type="ws" xml:space="preserve"> </seg>
+          <seg n="5" type="overlap" xml:id="LEint551_ol_16">
+            <voice:pvc comment="bikes" voice:ipa="baɪs">
+              <seg xml:id="xTok_LEint551_000373" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_LEint551_000374" ana="#PVCfNNS" lemma="">bice</w>
+              <seg xml:id="xTok_LEint551_000375" type="ws" xml:space="preserve"> </seg>
+            </voice:pvc>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_26">
+          <seg n="5" synch="#LEint551_ol_16" type="overlap" xml:id="LEint551_ol_17">
+            <seg xml:id="xTok_LEint551_000377" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000378" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_LEint551_000379" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000380" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000381" part="I" next="#xTok_LEint551_000382" ana="#REfRE" lemma="mhm">m</w>
+          <seg n="11" type="overlap" xml:id="LEint551_ol_18">
+            <w xml:id="xTok_LEint551_000382" part="F" prev="#xTok_LEint551_000381">hm</w>
+            <seg xml:id="xTok_LEint551_000383" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_27">
+          <seg n="11" synch="#LEint551_ol_18" type="overlap" xml:id="LEint551_ol_19">
+            <seg xml:id="xTok_LEint551_000385" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000386" ana="#UHfUH" lemma="er">er</w>
+            <seg xml:id="xTok_LEint551_000387" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000388" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000389" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000390" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000391" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000392" ana="#VfVVD" lemma="rent">rent<c function="rise" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000393" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000394" ana="#VVDfVVD" lemma="go">went<c function="rise" type="intonation"/>
+          </w>
+          <seg n="12" type="overlap" xml:id="LEint551_ol_20">
+            <seg xml:id="xTok_LEint551_000395" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000396" ana="#UNKfV" lemma="bike">bike</w>
+            <seg xml:id="xTok_LEint551_000397" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_28">
+          <seg n="12" synch="#LEint551_ol_20" type="overlap" xml:id="LEint551_ol_21">
+            <shift corresp="#LEint551_s_12" feature="loud" new="p" xml:id="LEint551_s_11"/>
+            <seg xml:id="xTok_LEint551_000399" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000400" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_LEint551_000401" type="ws" xml:space="preserve"> </seg>
+            <shift corresp="#LEint551_s_11" feature="loud" new="neutral" xml:id="LEint551_s_12"/>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_29">
+          <seg xml:id="xTok_LEint551_000403" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000404" part="I" next="#xTok_LEint551_000405" ana="#REfRE" lemma="mhm">m</w>
+          <seg n="13" type="overlap" xml:id="LEint551_ol_22">
+            <w xml:id="xTok_LEint551_000405" part="F" prev="#xTok_LEint551_000404">hm</w>
+            <seg xml:id="xTok_LEint551_000406" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_30">
+          <seg n="13" synch="#LEint551_ol_22" type="overlap" xml:id="LEint551_ol_23">
+            <seg xml:id="xTok_LEint551_000408" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000409" ana="#NNSfNNS" lemma="bike">bikes</w>
+            <seg xml:id="xTok_LEint551_000410" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000411" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000412" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_LEint551_000413" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000414" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000415" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000416" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000417" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000418" ana="#XXfXX" lemma="">pe-</w>
+          <seg xml:id="xTok_LEint551_000419" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000420" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000421" ana="#EXfEX" lemma="there">there</w>
+          <seg xml:id="xTok_LEint551_000422" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000423" ana="#VBPfVBP" lemma="be">are</w>
+          <seg xml:id="xTok_LEint551_000424" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000425" ana="#NNSfNNS" lemma="other">others</w>
+          <seg xml:id="xTok_LEint551_000426" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000427" ana="#PREfPRE" lemma="who">who</w>
+          <seg xml:id="xTok_LEint551_000428" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000429" ana="#VVDfVVD" lemma="make">made</w>
+          <seg xml:id="xTok_LEint551_000430" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000431" ana="#VVGfNN" lemma="raft/rafting">rafting<c function="rise" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_31">
+          <seg xml:id="xTok_LEint551_000433" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000434" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_LEint551_000435" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_32">
+          <seg xml:id="xTok_LEint551_000437" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000438" ana="#BRfBR" lemma="">hhh</w>
+          <seg xml:id="xTok_LEint551_000439" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000440" part="I" next="#xTok_LEint551_000441" ana="#CCfCC" lemma="and">an<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000441" part="F" prev="#xTok_LEint551_000440">d</w>
+          <seg xml:id="xTok_LEint551_000442" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000443" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_LEint551_000444" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000445" ana="#UHfUH" lemma="erm">erm</w>
+          <seg xml:id="xTok_LEint551_000446" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000447" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000448" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_LEint551_000449" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000450" ana="#RBfRB" lemma="yesterday">yesterday</w>
+          <seg xml:id="xTok_LEint551_000451" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000452" ana="#PPfPP" lemma="we">we<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000453" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000454" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000455" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000456" ana="#VBDfVBD" lemma="be">were</w>
+          <seg xml:id="xTok_LEint551_000457" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000458" ana="#RBfRB" lemma="here">here</w>
+          <seg xml:id="xTok_LEint551_000459" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_000460" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000461" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000462" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000463" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000464" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000465" ana="#VVfVV" lemma="pass">pass</w>
+          <seg xml:id="xTok_LEint551_000466" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000467" ana="#XXfXX" lemma="">f-</w>
+          <seg xml:id="xTok_LEint551_000468" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000469" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000470" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000471" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000472" ana="#VVfVV" lemma="pass">pass</w>
+          <seg xml:id="xTok_LEint551_000473" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000474" ana="#REfRE" lemma="yeah">yeah</w>
+          <seg xml:id="xTok_LEint551_000475" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000476" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000477" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000478" ana="#VVfVV" lemma="stay">stay</w>
+          <seg xml:id="xTok_LEint551_000479" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000480" ana="#RBfRB" lemma="here">here</w>
+          <seg xml:id="xTok_LEint551_000481" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000482" ana="#CDfCD" lemma="five">five</w>
+          <seg xml:id="xTok_LEint551_000483" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000484" ana="#NNSfNNS" lemma="day">days<c function="rise" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_33">
+          <seg xml:id="xTok_LEint551_000486" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000487" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_LEint551_000488" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000489" ana="#INfIN" lemma="till">till</w>
+          <seg xml:id="xTok_LEint551_000490" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000491" ana="#NPfNP" lemma="thursday">thursday</w>
+          <seg xml:id="xTok_LEint551_000492" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000493" ana="#PPfPP" lemma="you" apostroph_split="xTok_LEint551_000495" part="I" next="xTok_LEint551_000495">you</w>
+          <w xml:id="xTok_LEint551_000495" ana="#MDfMD" lemma="will" split="yes" part="F" prev="xTok_LEint551_000493" removed_ws="1">'ll</w>
+          <seg xml:id="xTok_LEint551_000496" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000497" ana="#VVfVV" lemma="stay">stay<c function="fall" type="intonation"/>
+          </w>
+          <incident voice:desc="loud singing in the background"/>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_34">
+          <seg xml:id="xTok_LEint551_000499" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000500" ana="#FIfFI" lemma="sorry">sorry<c function="rise" type="intonation"/>
+          </w>
+          <anchor synch="#LEint551_oc_3" type="other_continuation" xml:id="LEint551_oc_2"/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_35">
+          <anchor synch="#LEint551_oc_2" type="other_continuation" xml:id="LEint551_oc_3"/>
+          <seg xml:id="xTok_LEint551_000502" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000503" ana="#MDfMD" lemma="will">will</w>
+          <seg xml:id="xTok_LEint551_000504" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000505" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_000506" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000507" ana="#VVfVV" lemma="stay">stay</w>
+          <seg xml:id="xTok_LEint551_000508" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000509" ana="#INfIN" lemma="till">till</w>
+          <seg xml:id="xTok_LEint551_000510" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000511" ana="#NPfNP" lemma="thursday">thursday<c function="rise" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_36">
+          <seg xml:id="xTok_LEint551_000513" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000514" part="I" next="#xTok_LEint551_000515" ana="#REfRE" lemma="yeah">ye<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000515" part="F" prev="#xTok_LEint551_000514">ah</w>
+          <seg xml:id="xTok_LEint551_000516" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_37">
+          <seg xml:id="xTok_LEint551_000518" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000519" ana="#REfRE" lemma="yeah">yeah</w>
+          <seg xml:id="xTok_LEint551_000520" type="ws" xml:space="preserve"> </seg>
+          <anchor synch="#LEint551_oc_5" type="other_continuation" xml:id="LEint551_oc_4"/>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_38">
+          <anchor synch="#LEint551_oc_4" type="other_continuation" xml:id="LEint551_oc_5"/>
+          <seg xml:id="xTok_LEint551_000522" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000523" ana="#REfRE" lemma="yeah">yeah</w>
+          <seg xml:id="xTok_LEint551_000524" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000525" ana="#REfRE" lemma="yah">yah<c function="fall" type="intonation"/>
+          </w>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_39">
+          <seg xml:id="xTok_LEint551_000527" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000528" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_LEint551_000529" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000530" ana="#PPfPP" lemma="you" apostroph_split="xTok_LEint551_000532" part="I" next="xTok_LEint551_000532">you</w>
+          <w xml:id="xTok_LEint551_000532" ana="#VBPfVBP" lemma="be" split="yes" part="F" prev="xTok_LEint551_000530" removed_ws="1">'re</w>
+          <seg xml:id="xTok_LEint551_000533" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000534" ana="#INfIN" lemma="from">from</w>
+          <seg xml:id="xTok_LEint551_000535" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000536" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000537" ana="#NPfNP" lemma="france">france</w>
+          <seg xml:id="xTok_LEint551_000538" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <incident voice:desc="background music stops, but there are people speaking in the background"/>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_40">
+          <seg xml:id="xTok_LEint551_000540" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000541" ana="#REfRE" lemma="no">no</w>
+          <seg xml:id="xTok_LEint551_000542" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000543" ana="#NPfNP" lemma="belgium">belgium</w>
+          <seg xml:id="xTok_LEint551_000544" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_41">
+          <shift corresp="#LEint551_s_14" feature="tempo" new="a" xml:id="LEint551_s_13"/>
+          <seg xml:id="xTok_LEint551_000546" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000547" ana="#NPfNP" lemma="belgium">belgium</w>
+          <seg xml:id="xTok_LEint551_000548" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#LEint551_s_13" feature="tempo" new="neutral" xml:id="LEint551_s_14"/>
+          <seg n="6" type="overlap" xml:id="LEint551_ol_24">
+            <shift corresp="#LEint551_s_16" feature="tempo" new="l" xml:id="LEint551_s_15"/>
+            <seg xml:id="xTok_LEint551_000549" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000550" part="I" next="#xTok_LEint551_000551" ana="#FIfFI" lemma="sorry">so<c type="lengthening"/>
+            </w>
+            <w xml:id="xTok_LEint551_000551" part="F" prev="#xTok_LEint551_000550">rry</w>
+            <seg xml:id="xTok_LEint551_000552" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000553" part="I" next="#xTok_LEint551_000554" ana="#FIfFI" lemma="sorry">so<c type="lengthening"/>
+            </w>
+            <w xml:id="xTok_LEint551_000554" part="F" prev="#xTok_LEint551_000553">rry</w>
+            <seg xml:id="xTok_LEint551_000555" type="ws" xml:space="preserve"> </seg>
+            <shift corresp="#LEint551_s_15" feature="tempo" new="neutral" xml:id="LEint551_s_16"/>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_42">
+          <seg n="6" synch="#LEint551_ol_24" type="overlap" xml:id="LEint551_ol_25">
+            <seg xml:id="xTok_LEint551_000557" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000558" ana="#REfRE" lemma="yeah">yeah</w>
+            <seg xml:id="xTok_LEint551_000559" type="ws" xml:space="preserve"> </seg>
+            <vocal xml:id="LEint551_ol_25_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="5"/>
+          </seg>
+          <shift corresp="#LEint551_s_18" feature="voice" new="laugh" xml:id="LEint551_s_17"/>
+          <seg xml:id="xTok_LEint551_000560" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000561" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000562" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000563" ana="#JJfJJ" lemma="other">other</w>
+          <seg xml:id="xTok_LEint551_000564" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#LEint551_s_17" feature="voice" new="neutral" xml:id="LEint551_s_18"/>
+          <seg xml:id="xTok_LEint551_000565" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000566" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000567" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000568" part="I" next="#xTok_LEint551_000569" ana="#CCfCC" lemma="and">an<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000569" part="F" prev="#xTok_LEint551_000568">d</w>
+          <seg xml:id="xTok_LEint551_000570" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000571" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000572" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000573" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000574" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000575" ana="#VBPfVBP" lemma="be">are</w>
+          <seg xml:id="xTok_LEint551_000576" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000577" ana="#INfIN" lemma="with">with</w>
+          <seg xml:id="xTok_LEint551_000578" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000579" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_LEint551_000580" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000581" ana="#NNSfNN" lemma="group">groups</w>
+          <seg xml:id="xTok_LEint551_000582" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_000583" ana="#INfIN" lemma="with">with<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000584" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000585" ana="#CDfCD" lemma="seven">seven</w>
+          <seg xml:id="xTok_LEint551_000586" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000587" ana="#NNfNNS" lemma="person">person</w>
+          <seg xml:id="xTok_LEint551_000588" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_000589" ana="#CDfCD" lemma="seven">seven</w>
+          <seg xml:id="xTok_LEint551_000590" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_43">
+          <seg xml:id="xTok_LEint551_000592" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000593" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_LEint551_000594" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_44">
+          <foreign type="L1" voice:translation="yes" xml:lang="fre">
+            <seg xml:id="xTok_LEint551_000596" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000597" ana="#FWfFW" lemma="">oui</w>
+            <seg xml:id="xTok_LEint551_000598" type="ws" xml:space="preserve"> </seg>
+          </foreign>
+          <seg xml:id="xTok_LEint551_000599" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000600" ana="#CDfCD" lemma="seven">seven</w>
+          <seg xml:id="xTok_LEint551_000601" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000602" ana="#NNfNNS" lemma="person">person</w>
+          <seg xml:id="xTok_LEint551_000603" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <vocal type="speaker_noise" voice:desc="smacks lips"/>
+          <seg xml:id="xTok_LEint551_000604" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000605" part="I" next="#xTok_LEint551_000606" ana="#CCfCC" lemma="and">an<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000606" part="F" prev="#xTok_LEint551_000605">d</w>
+          <seg xml:id="xTok_LEint551_000607" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000608" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000609" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_LEint551_000610" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000611" ana="#PPfPP" lemma="it" apostroph_split="xTok_LEint551_000613" part="I" next="xTok_LEint551_000613">it</w>
+          <w xml:id="xTok_LEint551_000613" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_LEint551_000611" removed_ws="1">'s</w>
+          <seg xml:id="xTok_LEint551_000614" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000615" part="I" next="#xTok_LEint551_000616" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000616" part="F" prev="#xTok_LEint551_000615">r</w>
+          <seg xml:id="xTok_LEint551_000617" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000618" ana="#RBfRB" lemma="very">very</w>
+          <seg xml:id="xTok_LEint551_000619" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000620" ana="#JJfJJ" lemma="nice">nice</w>
+          <seg xml:id="xTok_LEint551_000621" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000622" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_LEint551_000623" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000624" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000625" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000626" ana="#NNfNN" lemma="landscape">landscape</w>
+          <seg xml:id="xTok_LEint551_000627" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg n="7" type="overlap" xml:id="LEint551_ol_26">
+            <seg xml:id="xTok_LEint551_000628" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000629" ana="#NNfNN" lemma="landscape">landscape<c function="rise" type="intonation"/>
+            </w>
+          </seg>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_45">
+          <seg n="7" synch="#LEint551_ol_26" type="overlap" xml:id="LEint551_ol_27">
+            <seg xml:id="xTok_LEint551_000631" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000632" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_LEint551_000633" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_46">
+          <seg xml:id="xTok_LEint551_000635" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000636" ana="#VBZfVBZ" lemma="be">is</w>
+          <seg xml:id="xTok_LEint551_000637" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000638" ana="#JJfJJ" lemma="beautiful">beautiful</w>
+          <seg xml:id="xTok_LEint551_000639" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000640" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000641" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000642" ana="#VVPfVVP" lemma="do" apostroph_split="xTok_LEint551_000644" part="I" next="xTok_LEint551_000644">do</w>
+          <w xml:id="xTok_LEint551_000644" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_LEint551_000642" removed_ws="1">n't</w>
+          <seg xml:id="xTok_LEint551_000645" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000646" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000647" ana="#PPfPP" lemma="we">we<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000648" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000649" ana="#VVPfVVP" lemma="do" apostroph_split="xTok_LEint551_000651" part="I" next="xTok_LEint551_000651">do</w>
+          <w xml:id="xTok_LEint551_000651" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_LEint551_000649" removed_ws="1">n't</w>
+          <seg xml:id="xTok_LEint551_000652" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000653" ana="#VVfVV" lemma="know">know</w>
+          <seg xml:id="xTok_LEint551_000654" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000655" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000656" ana="#DTfDT" lemma="this">this</w>
+          <seg xml:id="xTok_LEint551_000657" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000658" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_LEint551_000659" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000660" ana="#NPfNP" lemma="belgium">belgium</w>
+          <seg xml:id="xTok_LEint551_000661" type="ws" xml:space="preserve"> </seg>
+          <vocal xml:id="LEint551_u_46_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <seg xml:id="xTok_LEint551_000662" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000663" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000664" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000665" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_LEint551_000666" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000667" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000668" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <vocal type="speaker_noise" voice:desc="smacks lips"/>
+          <seg xml:id="xTok_LEint551_000669" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000670" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000671" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000672" ana="#JJSfJJS" lemma="high">highest</w>
+          <seg xml:id="xTok_LEint551_000673" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_000674" ana="#NNfNN" lemma="point">point<c function="rise" type="intonation"/>
+          </w>
+          <seg n="1" type="overlap" xml:id="LEint551_ol_28">
+            <vocal xml:id="LEint551_ol_28_v2" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <seg xml:id="xTok_LEint551_000675" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000676" ana="#VBZfVBZ" lemma="be">is</w>
+            <seg xml:id="xTok_LEint551_000677" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000678" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000679" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000680" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_47">
+          <seg n="1" synch="#LEint551_ol_28" type="overlap" xml:id="LEint551_ol_29">
+            <seg xml:id="xTok_LEint551_000682" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000683" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_LEint551_000684" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_48">
+          <seg xml:id="xTok_LEint551_000686" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000687" ana="#CDfCD" lemma="six">six</w>
+          <seg xml:id="xTok_LEint551_000688" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000689" ana="#CDfCD" lemma="hundred">hundred</w>
+          <seg xml:id="xTok_LEint551_000690" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000691" ana="#NNfNN" lemma="metre">metre</w>
+          <seg xml:id="xTok_LEint551_000692" type="ws" xml:space="preserve"> </seg>
+          <vocal xml:id="LEint551_u_48_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <seg xml:id="xTok_LEint551_000693" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000694" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000695" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000696" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_LEint551_000697" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000698" ana="#PPfPP" lemma="it" apostroph_split="xTok_LEint551_000700" part="I" next="xTok_LEint551_000700">it</w>
+          <w xml:id="xTok_LEint551_000700" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_LEint551_000698" removed_ws="1">'s</w>
+          <seg xml:id="xTok_LEint551_000701" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000702" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000703" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000704" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_LEint551_000705" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000706" ana="#NNfNN" lemma="plate">plate</w>
+          <seg xml:id="xTok_LEint551_000707" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000708" part="I" next="#xTok_LEint551_000709" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000709" part="F" prev="#xTok_LEint551_000708">r</w>
+          <seg xml:id="xTok_LEint551_000710" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_49">
+          <seg xml:id="xTok_LEint551_000712" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000713" part="I" next="#xTok_LEint551_000714" ana="#REfRE" lemma="yes">ye<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000714" part="F" prev="#xTok_LEint551_000713">s</w>
+          <seg xml:id="xTok_LEint551_000715" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_50">
+          <seg xml:id="xTok_LEint551_000717" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000718" part="I" next="#xTok_LEint551_000719" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000719" part="F" prev="#xTok_LEint551_000718">r</w>
+          <seg xml:id="xTok_LEint551_000720" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000721" ana="#NNfNN" lemma="land">land<c function="fall" type="intonation"/>
+          </w>
+          <vocal xml:id="LEint551_u_50_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <seg n="2" type="overlap" xml:id="LEint551_ol_30">
+            <vocal xml:id="LEint551_ol_30_v1" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_51">
+          <shift corresp="#LEint551_s_20" feature="tempo" new="a" xml:id="LEint551_s_19"/>
+          <seg n="2" synch="#LEint551_ol_30" type="overlap" xml:id="LEint551_ol_31">
+            <seg xml:id="xTok_LEint551_000723" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000724" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_LEint551_000725" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000726" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000727" ana="#VVDfVVD" lemma="do">did</w>
+          <seg xml:id="xTok_LEint551_000728" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000729" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_000730" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#LEint551_s_19" feature="tempo" new="neutral" xml:id="LEint551_s_20"/>
+          <seg xml:id="xTok_LEint551_000731" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000732" ana="#VVfVV" lemma="get">get</w>
+          <seg xml:id="xTok_LEint551_000733" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000734" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_LEint551_000735" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000736" ana="#NNfNN" lemma="chance">chance</w>
+          <seg xml:id="xTok_LEint551_000737" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000738" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000739" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000740" ana="#VVfVV" lemma="go">go</w>
+          <seg xml:id="xTok_LEint551_000741" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000742" ana="#RBfRB" lemma="up">up</w>
+          <seg xml:id="xTok_LEint551_000743" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000744" ana="#RBfRB" lemma="somewhere">somewhere</w>
+          <seg xml:id="xTok_LEint551_000745" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000746" ana="#RBfRB" lemma="already">already<c function="rise" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_52">
+          <seg xml:id="xTok_LEint551_000748" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000749" ana="#REfRE" lemma="yeah">yeah</w>
+          <seg xml:id="xTok_LEint551_000750" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000751" ana="#CCfCC" lemma="but">but</w>
+          <seg xml:id="xTok_LEint551_000752" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000753" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_LEint551_000754" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000755" ana="#VVPfVVP" lemma="do" apostroph_split="xTok_LEint551_000757" part="I" next="xTok_LEint551_000757">do</w>
+          <w xml:id="xTok_LEint551_000757" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_LEint551_000755" removed_ws="1">n't</w>
+          <seg xml:id="xTok_LEint551_000758" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000759" ana="#VVfVV" lemma="like">like</w>
+          <seg xml:id="xTok_LEint551_000760" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000761" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000762" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000763" ana="#VVfVV" lemma="walk">walk</w>
+          <seg xml:id="xTok_LEint551_000764" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000765" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_LEint551_000766" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000767" part="I" next="#xTok_LEint551_000768" ana="#NNfNN" lemma="mountain">moun</w>
+          <shift corresp="#LEint551_s_22" feature="voice" new="laugh" xml:id="LEint551_s_21"/>
+          <w xml:id="xTok_LEint551_000768" part="F" prev="#xTok_LEint551_000767">tain</w>
+          <seg xml:id="xTok_LEint551_000769" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#LEint551_s_21" feature="voice" new="neutral" xml:id="LEint551_s_22"/>
+          <seg n="3" type="overlap" xml:id="LEint551_ol_32">
+            <vocal xml:id="LEint551_ol_32_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_53">
+          <seg n="3" synch="#LEint551_ol_32" type="overlap" xml:id="LEint551_ol_33">
+            <vocal xml:id="LEint551_ol_33_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          </seg>
+          <seg xml:id="xTok_LEint551_000771" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_000772" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000773" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000774" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000775" type="ws" xml:space="preserve"> </seg>
+          <seg n="4" type="overlap" xml:id="LEint551_ol_34">
+            <vocal xml:id="LEint551_ol_34_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_54">
+          <seg n="4" synch="#LEint551_ol_34" type="overlap" xml:id="LEint551_ol_35">
+            <seg xml:id="xTok_LEint551_000777" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000778" ana="#PPfPP" lemma="i">i</w>
+            <seg xml:id="xTok_LEint551_000779" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000780" ana="#VVPfVVP" lemma="prefer">prefer</w>
+            <seg xml:id="xTok_LEint551_000781" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000782" ana="#VVfVV" lemma="stay">stay</w>
+            <seg xml:id="xTok_LEint551_000783" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000784" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000785" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_LEint551_000786" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000787" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000788" ana="#RBfRB" lemma="just">just</w>
+          <seg xml:id="xTok_LEint551_000789" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000790" ana="#VVfVV" lemma="look">look</w>
+          <seg xml:id="xTok_LEint551_000791" type="ws" xml:space="preserve"> </seg>
+          <seg n="5" type="overlap" xml:id="LEint551_ol_36">
+            <shift corresp="#LEint551_s_24" feature="voice" new="laugh" xml:id="LEint551_s_23"/>
+            <seg xml:id="xTok_LEint551_000792" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000793" ana="#INfIN" lemma="at">at</w>
+            <seg xml:id="xTok_LEint551_000794" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000795" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_LEint551_000796" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000797" ana="#NNfNN" lemma="mountain">mountain</w>
+            <seg xml:id="xTok_LEint551_000798" type="ws" xml:space="preserve"> </seg>
+            <shift corresp="#LEint551_s_23" feature="voice" new="neutral" xml:id="LEint551_s_24"/>
+            <vocal xml:id="LEint551_ol_36_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_55">
+          <seg n="5" synch="#LEint551_ol_36" type="overlap" xml:id="LEint551_ol_37">
+            <vocal xml:id="LEint551_ol_37_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <seg xml:id="xTok_LEint551_000800" type="ws" xml:space="preserve">  </seg>
+            <w xml:id="xTok_LEint551_000801" ana="#BRfBR" lemma="">hh</w>
+            <seg xml:id="xTok_LEint551_000802" type="ws" xml:space="preserve"> </seg>
+            <vocal xml:id="LEint551_ol_37_v1" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+            <shift corresp="#LEint551_s_26" feature="voice" new="laugh" xml:id="LEint551_s_25"/>
+            <seg xml:id="xTok_LEint551_000803" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000804" ana="#PPfDM" lemma="i">i</w>
+            <seg xml:id="xTok_LEint551_000805" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000806" ana="#VVPfDM" lemma="see">see<c type="lengthening"/>
+            </w>
+            <shift corresp="#LEint551_s_25" feature="voice" new="neutral" xml:id="LEint551_s_26"/>
+            <seg xml:id="xTok_LEint551_000807" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000808" ana="#BRfBR" lemma="">hh</w>
+            <seg xml:id="xTok_LEint551_000809" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000810" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000811" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_LEint551_000812" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000813" ana="#WPfWP" lemma="what">what</w>
+          <seg xml:id="xTok_LEint551_000814" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000815" ana="#VBPfVBP" lemma="be">are</w>
+          <seg xml:id="xTok_LEint551_000816" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000817" ana="#PPSfPPS" lemma="you">your</w>
+          <seg xml:id="xTok_LEint551_000818" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000819" ana="#PPSfPPS" lemma="you">your</w>
+          <seg xml:id="xTok_LEint551_000820" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000821" ana="#NNSfNNS" lemma="plan">plans</w>
+          <seg xml:id="xTok_LEint551_000822" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000823" ana="#INfIN" lemma="for">for</w>
+          <seg xml:id="xTok_LEint551_000824" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000825" ana="#RBfRB" lemma="today">today<c function="rise" type="intonation"/>
+          </w>
+          <seg n="6" type="overlap" xml:id="LEint551_ol_38">
+            <seg xml:id="xTok_LEint551_000826" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000827" ana="#WPfWP" lemma="what">what</w>
+            <seg xml:id="xTok_LEint551_000828" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000829" ana="#VBPfVBP" lemma="be">are</w>
+            <seg xml:id="xTok_LEint551_000830" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000831" ana="#PPfPP" lemma="you">you</w>
+            <seg xml:id="xTok_LEint551_000832" type="ws" xml:space="preserve"> </seg>
+            <supplied reason="unintelligible">
+              <seg xml:id="xTok_LEint551_000833" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_LEint551_000834" ana="#UNIfUNI" lemma="">xx</w>
+              <seg xml:id="xTok_LEint551_000835" type="ws" xml:space="preserve"> </seg>
+            </supplied>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_56">
+          <seg n="6" synch="#LEint551_ol_38" type="overlap" xml:id="LEint551_ol_39">
+            <seg xml:id="xTok_LEint551_000837" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000838" ana="#INfIN" lemma="for">for</w>
+            <seg xml:id="xTok_LEint551_000839" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000840" ana="#RBfRB" lemma="today">today</w>
+            <seg xml:id="xTok_LEint551_000841" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000842" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000843" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_LEint551_000844" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000845" ana="#UHfUH" lemma="erm">erm</w>
+          <seg xml:id="xTok_LEint551_000846" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000847" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000848" ana="#INfIN" lemma="for">for</w>
+          <seg xml:id="xTok_LEint551_000849" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000850" ana="#XXfXX" lemma="">ba-</w>
+          <seg xml:id="xTok_LEint551_000851" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000852" ana="#PPfPP" lemma="you">you<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_LEint551_000853" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000854" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000855" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000856" ana="#VHPfVHP" lemma="have">have</w>
+          <seg xml:id="xTok_LEint551_000857" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000858" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000859" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000860" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000861" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000862" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000863" ana="#VVPfVVP" lemma="intend">intend</w>
+          <seg xml:id="xTok_LEint551_000864" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000865" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000866" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000867" type="ws" xml:space="preserve"> </seg>
+          <voice:pvc comment="participate">
+            <seg xml:id="xTok_LEint551_000868" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000869" ana="#PVCfVV" lemma="">partcipe</w>
+            <seg xml:id="xTok_LEint551_000870" type="ws" xml:space="preserve"> </seg>
+          </voice:pvc>
+          <seg xml:id="xTok_LEint551_000871" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000872" ana="#INfIN" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000873" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000874" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          </w>
+          <pause/>
+          <foreign type="L1" xml:lang="fre">
+            <seg xml:id="xTok_LEint551_000875" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000876" voice:mode="spelt" spelt_orig="G G A" ana="#NNfNN #NPfNP" lemma="s_GGA">GGA</w>
+          </foreign>
+          <anchor synch="#LEint551_oc_7" type="other_continuation" xml:id="LEint551_oc_6"/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_57">
+          <anchor synch="#LEint551_oc_6" type="other_continuation" xml:id="LEint551_oc_7"/>
+          <seg xml:id="xTok_LEint551_000878" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000879" ana="#UHfUH" lemma="oh">oh</w>
+          <seg xml:id="xTok_LEint551_000880" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000881" ana="#PPfDM" lemma="i">i</w>
+          <seg xml:id="xTok_LEint551_000882" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000883" ana="#VVPfDM" lemma="see">see<c function="fall" type="intonation"/>
+          </w>
+          <seg n="7" type="overlap" xml:id="LEint551_ol_40">
+            <seg xml:id="xTok_LEint551_000884" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000885" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_LEint551_000886" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_58">
+          <seg n="7" synch="#LEint551_ol_40" type="overlap" xml:id="LEint551_ol_41">
+            <seg xml:id="xTok_LEint551_000888" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000889" ana="#BRfBR" lemma="">hh</w>
+            <seg xml:id="xTok_LEint551_000890" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_000891" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000892" part="I" next="#xTok_LEint551_000893" ana="#CCfCC" lemma="and">an<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_000893" part="F" prev="#xTok_LEint551_000892">d</w>
+          <seg xml:id="xTok_LEint551_000894" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000895" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000896" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000897" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000898" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000899" ana="#MDfMD" lemma="will">will</w>
+          <seg xml:id="xTok_LEint551_000900" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000901" ana="#VVfVV" lemma="see">see</w>
+          <seg xml:id="xTok_LEint551_000902" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000903" ana="#UHfUH" lemma="erm">erm</w>
+          <seg xml:id="xTok_LEint551_000904" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT2S"/>
+          <seg xml:id="xTok_LEint551_000905" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000906" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000907" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000908" ana="#VHPfVHP" lemma="have">have</w>
+          <seg xml:id="xTok_LEint551_000909" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000910" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_000911" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_LEint551_000912" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000913" ana="#PPfPP" lemma="we">we<c type="lengthening"/>
+          </w>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_LEint551_000914" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000915" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000916" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000917" ana="#VHPfVHP" lemma="have">have</w>
+          <seg xml:id="xTok_LEint551_000918" type="ws" xml:space="preserve"> </seg>
+          <foreign type="L1" voice:translation="to want i don't know how to say" xml:lang="fre">
+            <seg xml:id="xTok_LEint551_000919" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000920" ana="#FWfFW" lemma="">envie</w>
+            <seg xml:id="xTok_LEint551_000921" type="ws" xml:space="preserve"> </seg>
+            <shift corresp="#LEint551_s_28" feature="tempo" new="a" xml:id="LEint551_s_27"/>
+            <unclear>
+              <seg xml:id="xTok_LEint551_000922" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_LEint551_000923" ana="#FWfFW" lemma="">je</w>
+              <seg xml:id="xTok_LEint551_000924" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_LEint551_000925" ana="#FWfFW" lemma="">ne</w>
+              <seg xml:id="xTok_LEint551_000926" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_LEint551_000927" ana="#FWfFW" lemma="">sais</w>
+              <seg xml:id="xTok_LEint551_000928" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_LEint551_000929" ana="#FWfFW" lemma="">pas</w>
+              <seg xml:id="xTok_LEint551_000930" type="ws" xml:space="preserve"> </seg>
+            </unclear>
+            <seg xml:id="xTok_LEint551_000931" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000932" ana="#FWfFW" lemma="">comment</w>
+            <seg xml:id="xTok_LEint551_000933" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000934" ana="#FWfFW" lemma="">dit</w>
+            <seg xml:id="xTok_LEint551_000935" type="ws" xml:space="preserve"> </seg>
+            <shift corresp="#LEint551_s_27" feature="tempo" new="neutral" xml:id="LEint551_s_28"/>
+          </foreign>
+          <seg xml:id="xTok_LEint551_000936" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000937" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_LEint551_000938" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000939" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_LEint551_000940" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000941" ana="#VHPfVHP" lemma="have">have</w>
+          <seg xml:id="xTok_LEint551_000942" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000943" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_000944" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000945" ana="#NNfNN" lemma="intention">intention<c function="rise" type="intonation"/>
+          </w>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_59">
+          <seg xml:id="xTok_LEint551_000947" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000948" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_LEint551_000949" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_60">
+          <seg xml:id="xTok_LEint551_000951" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000952" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000953" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000954" ana="#VVfVV" lemma="participate">participate</w>
+          <seg xml:id="xTok_LEint551_000955" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000956" ana="#TOfTO" lemma="to">to<c type="lengthening"/>
+          </w>
+          <pause/>
+          <seg xml:id="xTok_LEint551_000957" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000958" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000959" type="ws" xml:space="preserve"> </seg>
+          <unclear>
+            <seg xml:id="xTok_LEint551_000960" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000961" ana="#XXfXX" lemma="">armo-</w>
+            <seg xml:id="xTok_LEint551_000962" type="ws" xml:space="preserve"> </seg>
+          </unclear>
+          <seg xml:id="xTok_LEint551_000963" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000964" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000965" type="ws" xml:space="preserve"> </seg>
+          <voice:pvc>
+            <unclear>
+              <seg xml:id="xTok_LEint551_000966" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_LEint551_000967" ana="#PVCfVV" lemma="">armotived</w>
+              <seg xml:id="xTok_LEint551_000968" type="ws" xml:space="preserve"> </seg>
+            </unclear>
+          </voice:pvc>
+          <seg xml:id="xTok_LEint551_000969" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000970" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_LEint551_000971" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_LEint551_000972" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000973" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_000974" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000975" ana="#VVfVV" lemma="participate">participate</w>
+          <seg xml:id="xTok_LEint551_000976" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000977" ana="#UHfUH" lemma="erm">erm</w>
+          <seg xml:id="xTok_LEint551_000978" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <emph>
+            <seg xml:id="xTok_LEint551_000979" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000980" ana="#RBfRB" lemma="very">very</w>
+            <seg xml:id="xTok_LEint551_000981" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <vocal xml:id="LEint551_u_60_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <foreign type="L1" voice:translation="at the front  in french" xml:lang="fre">
+            <seg n="1" type="overlap" xml:id="LEint551_ol_42">
+              <seg xml:id="xTok_LEint551_000982" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_LEint551_000983" ana="#FWfFW" lemma="">a</w>
+              <seg xml:id="xTok_LEint551_000984" type="ws" xml:space="preserve"> </seg>
+            </seg>
+            <seg xml:id="xTok_LEint551_000985" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000986" ana="#FWfFW" lemma="">front</w>
+            <seg xml:id="xTok_LEint551_000987" type="ws" xml:space="preserve"> </seg>
+            <vocal xml:id="_v1" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+            <seg xml:id="xTok_LEint551_000988" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000989" ana="#FWfFW" lemma="">en</w>
+            <seg xml:id="xTok_LEint551_000990" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000991" ana="#FWfFW" lemma="">francais</w>
+            <seg xml:id="xTok_LEint551_000992" type="ws" xml:space="preserve"> </seg>
+          </foreign>
+          <vocal xml:id="LEint551_u_60_v1" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <pause/>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_61">
+          <seg n="1" synch="#LEint551_ol_42" type="overlap" xml:id="LEint551_ol_43">
+            <seg xml:id="xTok_LEint551_000994" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_000995" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_LEint551_000996" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_62">
+          <seg xml:id="xTok_LEint551_000998" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_000999" ana="#WRBfWRB" lemma="where">where</w>
+          <seg xml:id="xTok_LEint551_001000" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001001" ana="#VVPfVVP" lemma="do">do</w>
+          <seg xml:id="xTok_LEint551_001002" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001003" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_001004" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001005" ana="#VVfVV" lemma="want">want</w>
+          <seg xml:id="xTok_LEint551_001006" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001007" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_001008" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001009" ana="#VVfVV" lemma="participate">participate<c function="rise" type="intonation"/>
+          </w>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_63">
+          <seg xml:id="xTok_LEint551_001011" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001012" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_001013" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001014" ana="#INfIN" lemma="at">at</w>
+          <seg xml:id="xTok_LEint551_001015" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001016" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_LEint551_001017" type="ws" xml:space="preserve"> </seg>
+          <emph>
+            <seg xml:id="xTok_LEint551_001018" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_001019" ana="#NNfNN" lemma="game">game</w>
+            <seg xml:id="xTok_LEint551_001020" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <seg xml:id="xTok_LEint551_001021" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001022" ana="#CCfCC" lemma="but">but</w>
+          <seg xml:id="xTok_LEint551_001023" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001024" ana="#RBfRB" lemma="really">really</w>
+          <seg xml:id="xTok_LEint551_001025" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001026" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_001027" type="ws" xml:space="preserve"> </seg>
+          <foreign type="L1" voice:translation="to make an effort to" xml:lang="fre">
+            <seg xml:id="xTok_LEint551_001028" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_001029" ana="#FWfFW" lemma="">se</w>
+            <seg xml:id="xTok_LEint551_001030" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_001031" ana="#FWfFW" lemma="">donner</w>
+            <seg xml:id="xTok_LEint551_001032" type="ws" xml:space="preserve"> </seg>
+          </foreign>
+          <seg xml:id="xTok_LEint551_001033" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001034" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_LEint551_001035" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001036" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_001037" type="ws" xml:space="preserve">  </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_64">
+          <shift corresp="#LEint551_s_30" feature="tempo" new="a" xml:id="LEint551_s_29"/>
+          <seg xml:id="xTok_LEint551_001039" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001040" ana="#VVPfVVP" lemma="do">do</w>
+          <seg xml:id="xTok_LEint551_001041" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001042" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_001043" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001044" ana="#VVfVV" lemma="want">want</w>
+          <seg xml:id="xTok_LEint551_001045" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001046" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_001047" type="ws" xml:space="preserve"> </seg>
+          <emph>
+            <seg xml:id="xTok_LEint551_001048" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_001049" ana="#VVfVV" lemma="win">win<c function="rise" type="intonation"/>
+            </w>
+            <seg xml:id="xTok_LEint551_001050" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <shift corresp="#LEint551_s_29" feature="tempo" new="neutral" xml:id="LEint551_s_30"/>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_65">
+          <seg xml:id="xTok_LEint551_001052" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001053" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_LEint551_001054" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001055" part="I" next="#xTok_LEint551_001056" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_LEint551_001056" part="F" prev="#xTok_LEint551_001055">h</w>
+          <seg xml:id="xTok_LEint551_001057" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001058" ana="#REfRE" lemma="yeah">yeah</w>
+          <seg xml:id="xTok_LEint551_001059" type="ws" xml:space="preserve"> </seg>
+          <seg n="2" type="overlap" xml:id="LEint551_ol_44">
+            <vocal xml:id="LEint551_ol_44_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="5"/>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_66">
+          <seg n="2" synch="#LEint551_ol_44" type="overlap" xml:id="LEint551_ol_45">
+            <vocal xml:id="LEint551_ol_45_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="5"/>
+          </seg>
+          <seg xml:id="xTok_LEint551_001061" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_LEint551_001062" ana="#REfRE" lemma="okay">okay</w>
+          <seg xml:id="xTok_LEint551_001063" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001064" ana="#RBfRB" lemma="then">then</w>
+          <seg xml:id="xTok_LEint551_001065" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001066" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_LEint551_001067" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001068" ana="#VVPfVVP" lemma="wish">wish</w>
+          <seg xml:id="xTok_LEint551_001069" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001070" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_001071" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001072" ana="#JJfJJ" lemma="good">good</w>
+          <seg xml:id="xTok_LEint551_001073" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001074" ana="#NNfNN" lemma="luck">luck</w>
+          <seg xml:id="xTok_LEint551_001075" type="ws" xml:space="preserve"> </seg>
+          <seg n="3" type="overlap" xml:id="LEint551_ol_46">
+            <seg xml:id="xTok_LEint551_001076" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_001077" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_LEint551_001078" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_LEint551_001079" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001080" ana="#FIfFI" lemma="thank">thank</w>
+          <seg xml:id="xTok_LEint551_001081" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001082" ana="#FIfFI" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_001083" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001084" ana="#RBfRB" lemma="very">very</w>
+          <seg xml:id="xTok_LEint551_001085" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001086" ana="#RBfRB" lemma="much">much</w>
+          <seg xml:id="xTok_LEint551_001087" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#LEint551_S1" xml:id="LEint551_u_67">
+          <seg n="3" synch="#LEint551_ol_46" type="overlap" xml:id="LEint551_ol_47">
+            <seg xml:id="xTok_LEint551_001089" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_LEint551_001090" ana="#REfRE" lemma="yeah">yeah</w>
+            <seg xml:id="xTok_LEint551_001091" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#LEint551_S2" xml:id="LEint551_u_68">
+          <seg xml:id="xTok_LEint551_001093" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001094" ana="#REfRE" lemma="okay">okay</w>
+          <seg xml:id="xTok_LEint551_001095" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001096" ana="#FIfFI" lemma="thank">thank</w>
+          <seg xml:id="xTok_LEint551_001097" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001098" ana="#FIfFI" lemma="you">you</w>
+          <seg xml:id="xTok_LEint551_001099" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_LEint551_001100" ana="#FIfFI" lemma="bye-bye">bye-bye</w>
+          <seg xml:id="xTok_LEint551_001101" type="ws" xml:space="preserve"> </seg>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>

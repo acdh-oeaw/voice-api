@@ -1,0 +1,2564 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:voice="http://www.univie.ac.at/voice/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" version="5" xml:id="PBsve436" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>service encounter about getting a deposit back</title>
+        <principal>Prof. Barbara Seidlhofer</principal>
+        <editor/>
+        <funder>VOICE is funded by FWF, the Austrian Science Fund (Project No. L448)</funder>
+        <sponsor/>
+        <respStmt>
+          <resp>Researchers</resp>
+          <name xml:id="AB">Angelika Breiteneder</name>
+          <name xml:id="TK">Theresa Klimpfinger</name>
+          <name xml:id="SM">Stefan Majewski</name>
+          <name xml:id="MLP">Marie-Luise Pitzl</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 2.0 XML,<date>January 2013</date>
+        </edition>
+        <respStmt>
+          <resp>Researchers</resp>
+          <name>Barbara Seidlhofer</name>
+          <name>Stefan Majewski</name>
+          <name>Ruth Osimk-Teasdale</name>
+          <name>Marie-Luise Pitzl</name>
+          <name>Michael Radeka</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Barbara Seidlhofer, Stefan Majewski, Ruth Osimk-Teasdale,		Marie-Luise Pitzl, Michael Radeka</publisher>
+        <distributor>VOICE Project, University of Vienna, Austria</distributor>
+        <address>
+          <addrLine>Spitalgasse 2, AAKH Hof 8</addrLine>
+          <addrLine>1090 Vienna</addrLine>
+          <addrLine>Austria</addrLine>
+          <addrLine>Telephone: +43 1 427742446</addrLine>
+          <addrLine>Email: voice@univie.ac.at</addrLine>
+          <addrLine>Website: http://www.univie.ac.at/voice</addrLine>
+        </address>
+        <availability status="free">
+          <p>The Vienna-Oxford International Corpus of English (VOICE)		  was created by Barbara Seidlhofer (project director) and		  Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		  Marie-Luise Pitzl (project researchers). Minor revisions were gathered		  by Ruth Osimk-Teasdale and Michael Radeka and corrections were made by 		  Ruth Osimk-Teasdale. VOICE 2.0 XML is available for download at the VOICE 		  Project's website<ref target="http://www.univie.ac.at/voice/">http://www.univie.ac.at/voice/</ref>under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License (<ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</ref>). The		  original audio files are held at the Department of English,		  University of Vienna. 23 selected audio files are available		  as audio streams in the VOICE Online interface at the VOICE		  Project's website<ref target="http://www.univie.ac.at/voice">http://www.univie.ac.at/voice</ref>.</p>
+          <p>The recommended citation for VOICE 2.0 XML is:</p>
+          <p>
+            <bibl>
+              <title>VOICE</title>.<date>2013</date>.<title level="m">The Vienna-Oxford International Corpus of		English</title>(<edition>version 2.0		XML</edition>). Director: Barbara Seidlhofer; Researchers:		Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		Ruth Osimk-Teasdale, Marie-Luise Pitzl, Michael Radeka.</bibl>
+          </p>
+          <p>The short citation for VOICE 2.0 XML is:</p>
+          <p>
+            <bibl>
+              <title>VOICE</title>.<date>2013</date>.<title level="m">The Vienna-Oxford International Corpus of          English</title>(<edition>version 2.0 XML</edition>).</bibl>
+          </p>
+          <p>For further information about availability and copyright		  permissions, please see the README file included in the		  download package. For further enquiries please contact the		  VOICE Project at<ref target="mailto:voice@univie.ac.at">voice@univie.ac.at</ref>.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note xml:id="PBsve436_wc">Words: 668</note>
+        <note xml:id="PBsve436_tn_0">This service encounter takes place at a university housing office. S2 comes to the office because she is moving out of her room and wants to get her deposit back. S1, who works at the housing office, helps S2 to get her money. S2 then poses another question regarding a problem a friend of her has. S3, who also works at the housing office, is not part of the conversation but S1 asks her for advice in German at some point.</note>
+      </notesStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording dur="PT00H03M38S" type="audio">
+            <date>2005-06-28</date>
+            <equipment>
+              <p>Portable minidisc recorder with electret condenser stereo microphone</p>
+            </equipment>
+            <respStmt>
+              <resp>recording</resp>
+              <name>R16</name>
+            </respStmt>
+          </recording>
+        </recordingStmt>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="PBsve436_domain">
+            <catDesc>Domain</catDesc>
+            <category sameAs="#ED" xml:id="PBsve436_ED">
+              <catDesc>educational</catDesc>
+            </category>
+            <category sameAs="#LE" xml:id="PBsve436_LE">
+              <catDesc>leisure</catDesc>
+            </category>
+            <category sameAs="#PB" xml:id="PBsve436_PB">
+              <catDesc>professional business</catDesc>
+            </category>
+            <category sameAs="#PO" xml:id="PBsve436_PO">
+              <catDesc>professional organizational</catDesc>
+            </category>
+            <category sameAs="#PR" xml:id="PBsve436_PR">
+              <catDesc>professional research/science</catDesc>
+            </category>
+          </category>
+          <category xml:id="PBsve436_spet">
+            <catDesc>Speech Event Type</catDesc>
+            <category sameAs="#int" xml:id="PBsve436_int">
+              <catDesc>interview</catDesc>
+            </category>
+            <category sameAs="#prc" xml:id="PBsve436_prc">
+              <catDesc>press conference</catDesc>
+            </category>
+            <category sameAs="#sve" xml:id="PBsve436_sve">
+              <catDesc>service encounter</catDesc>
+            </category>
+            <category sameAs="#sed" xml:id="PBsve436_sed">
+              <catDesc>seminar discussion</catDesc>
+            </category>
+            <category sameAs="#wgd" xml:id="PBsve436_wgd">
+              <catDesc>working group discussion</catDesc>
+            </category>
+            <category sameAs="#wsd" xml:id="PBsve436_wsd">
+              <catDesc>workshop discussion</catDesc>
+            </category>
+            <category sameAs="#mtg" xml:id="PBsve436_mtg">
+              <catDesc>meeting</catDesc>
+            </category>
+            <category sameAs="#pan" xml:id="PBsve436_pan">
+              <catDesc>panel</catDesc>
+            </category>
+            <category sameAs="#qas" xml:id="PBsve436_qas">
+              <catDesc>question-answer session</catDesc>
+            </category>
+            <category sameAs="#con" xml:id="PBsve436_con">
+              <catDesc>conversation</catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="TEI" occurs="1"/>
+          <tagUsage gi="teiHeader" occurs="1"/>
+          <tagUsage gi="fileDesc" occurs="1"/>
+          <tagUsage gi="titleStmt" occurs="1"/>
+          <tagUsage gi="title" occurs="5"/>
+          <tagUsage gi="principal" occurs="1"/>
+          <tagUsage gi="editor" occurs="1"/>
+          <tagUsage gi="funder" occurs="1"/>
+          <tagUsage gi="sponsor" occurs="1"/>
+          <tagUsage gi="respStmt" occurs="3"/>
+          <tagUsage gi="resp" occurs="3"/>
+          <tagUsage gi="name" occurs="12"/>
+          <tagUsage gi="editionStmt" occurs="1"/>
+          <tagUsage gi="edition" occurs="3"/>
+          <tagUsage gi="date" occurs="4"/>
+          <tagUsage gi="publicationStmt" occurs="1"/>
+          <tagUsage gi="publisher" occurs="1"/>
+          <tagUsage gi="distributor" occurs="1"/>
+          <tagUsage gi="address" occurs="1"/>
+          <tagUsage gi="addrLine" occurs="6"/>
+          <tagUsage gi="availability" occurs="1"/>
+          <tagUsage gi="p" occurs="7"/>
+          <tagUsage gi="ref" occurs="4"/>
+          <tagUsage gi="bibl" occurs="2"/>
+          <tagUsage gi="notesStmt" occurs="1"/>
+          <tagUsage gi="note" occurs="2"/>
+          <tagUsage gi="sourceDesc" occurs="1"/>
+          <tagUsage gi="recordingStmt" occurs="1"/>
+          <tagUsage gi="recording" occurs="1"/>
+          <tagUsage gi="equipment" occurs="1"/>
+          <tagUsage gi="encodingDesc" occurs="1"/>
+          <tagUsage gi="classDecl" occurs="1"/>
+          <tagUsage gi="taxonomy" occurs="1"/>
+          <tagUsage gi="category" occurs="17"/>
+          <tagUsage gi="catDesc" occurs="17"/>
+          <tagUsage gi="tagsDecl" occurs="1"/>
+          <tagUsage gi="namespace" occurs="2"/>
+          <tagUsage gi="tagUsage" occurs="81"/>
+          <tagUsage gi="gi" occurs="3"/>
+          <tagUsage gi="att" occurs="12"/>
+          <tagUsage gi="list" occurs="11"/>
+          <tagUsage gi="label" occurs="20"/>
+          <tagUsage gi="val" occurs="41"/>
+          <tagUsage gi="item" occurs="40"/>
+          <tagUsage gi="profileDesc" occurs="1"/>
+          <tagUsage gi="textClass" occurs="1"/>
+          <tagUsage gi="catRef" occurs="2"/>
+          <tagUsage gi="settingDesc" occurs="1"/>
+          <tagUsage gi="setting" occurs="1"/>
+          <tagUsage gi="locale" occurs="1"/>
+          <tagUsage gi="activity" occurs="1"/>
+          <tagUsage gi="particDesc" occurs="1"/>
+          <tagUsage gi="listPerson" occurs="4"/>
+          <tagUsage gi="personGrp" occurs="2"/>
+          <tagUsage gi="person" occurs="4"/>
+          <tagUsage gi="age" occurs="3"/>
+          <tagUsage gi="sex" occurs="3"/>
+          <tagUsage gi="occupation" occurs="3"/>
+          <tagUsage gi="langKnowledge" occurs="3"/>
+          <tagUsage gi="langKnown" occurs="3"/>
+          <tagUsage gi="relationGrp" occurs="1"/>
+          <tagUsage gi="relation" occurs="2"/>
+          <tagUsage gi="revisionDesc" occurs="1"/>
+          <tagUsage gi="change" occurs="6"/>
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="1"/>
+          <tagUsage gi="u" occurs="92">Used to mark a stretch of speech commonly	  	preceded and followed by a pause or by a change of speaker. A<gi>u</gi>is, however, not required to be bounded by a pause	  	or a change of speaker, nor does it represent a turn in a	  	conversation analytic sense. At a minimum, a<gi>u</gi>is	  	some phonetic production or noise made by a given speaker or a	  	group of speakers.</tagUsage>
+          <tagUsage gi="foreign" occurs="8">Used to mark a word or phrase as		belonging to some language other than English. The following		values for the<att>type</att>attribute are used to mark:<list>
+              <label>
+                <val>L1</val>
+              </label>
+              <item>the speaker's first		  language</item>
+              <label>
+                <val>LN</val>
+              </label>
+              <item>a language other than the		  speaker's first language</item>
+              <label>
+                <val>LQ</val>
+              </label>
+              <item>a language where it cannot		  be ascertained whether it is the speaker's first or other		  language.</item>
+            </list>Whenever possible, the<att>voice:translation</att>attribute		provides a rough translation of the non-English speech into		English.</tagUsage>
+          <tagUsage gi="seg" occurs="84">Used with different<att>type</att>attributes to mark:<list>
+              <label>
+                <att>type</att>
+                <val>overlap</val>
+              </label>
+              <item>overlaps</item>
+              <label>
+                <att>type</att>
+                <val>onomatopoeia</val>
+              </label>
+              <item>onomatopoeic sounds</item>
+              <label>
+                <att>type</att>
+                <val>ipa</val>
+              </label>
+              <item>transcriptions in the international phonetic alphabet</item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="c" occurs="83">Used to mark lengthening of sounds and		intonation (fall, rise). The following<att>type</att>attributes are used to mark:<list>
+              <label>
+                <val>lengthening</val>
+              </label>
+              <item>lengthened		  sounds</item>
+              <label>
+                <val>intonation</val>
+              </label>
+              <item>a significant change in		  intonation, marked with the following<att>function</att>attribute for:<list>
+                  <label>
+                    <val>fall</val>
+                  </label>
+                  <item>falling			intonation</item>
+                  <label>
+                    <val>rise</val>
+                  </label>
+                  <item>rising intonation</item>
+                </list>
+              </item>
+            </list>Intonation may or may not coincide with		syntactic boundaries.</tagUsage>
+          <tagUsage gi="pause" occurs="49">Used to mark a pause either between or		within utterances. Used without<att>dur</att>attribute to		indicate a brief pause up to half a second.</tagUsage>
+          <tagUsage gi="emph" occurs="10">Used to mark speech which is stressed or		emphasized in a way that goes beyond regular nuclear		stress.</tagUsage>
+          <tagUsage gi="shift" occurs="30">Used to mark the point at which some		paralinguistic feature changes. The following attribute values		are used to mark:<list>
+              <label>
+                <val>voice</val>
+              </label>
+              <item>voice quality<list>
+                  <item>
+                    <val>imitating</val>
+                  </item>
+                  <item>
+                    <val>laugh</val>
+                  </item>
+                  <item>
+                    <val>neutral</val>
+                  </item>
+                  <item>
+                    <val>phone</val>
+                  </item>
+                  <item>
+                    <val>reading</val>
+                  </item>
+                  <item>
+                    <val>reading_aloud</val>
+                  </item>
+                  <item>
+                    <val>sigh</val>
+                  </item>
+                  <item>
+                    <val>singing</val>
+                  </item>
+                  <item>
+                    <val>whisp</val>
+                  </item>
+                  <item>
+                    <val>yawning</val>
+                  </item>
+                </list>
+              </item>
+              <label>
+                <val>tempo</val>
+              </label>
+              <item>speed of utterance<list>
+                  <label>
+                    <val>a</val>
+                  </label>
+                  <item>accelerando</item>
+                  <label>
+                    <val>l</val>
+                  </label>
+                  <item>lento</item>
+                  <label>
+                    <val>neutral</val>
+                  </label>
+                  <item>neutral</item>
+                </list>
+              </item>
+              <label>
+                <val>loud</val>
+              </label>
+              <item>loudness<list>
+                  <item>
+                    <val>f</val>
+                  </item>
+                  <item>
+                    <val>neutral</val>
+                  </item>
+                  <item>
+                    <val>p</val>
+                  </item>
+                </list>
+              </item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="incident" occurs="6">Used to mark contextual information		relevant to the understanding of the interaction or the		interaction as such. The<att>voice:desc</att>attribute		provides a short prose description of the contextual		event.</tagUsage>
+          <tagUsage gi="supplied" occurs="4">Used to mark text supplied by the		transcriber because the original is unintelligible or needed		to be anonymized. The<att>reason</att>attribute is used to		mark:<list>
+              <label>
+                <val>unintelligible</val>
+              </label>
+              <item>unintelligible		  speech</item>
+              <label>
+                <val>anonymization</val>
+              </label>
+              <item>anonymized		  speech</item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="vocal" occurs="7">Used to mark laughter and other speaker        noises and non-verbal feedback.<list>
+              <label>
+                <val>speaker_noise</val>
+              </label>
+              <item>
+                <list>
+                  <item>
+                    <val>coughing</val>
+                  </item>
+                  <item>
+                    <val>nods</val>
+                  </item>
+                  <item>
+                    <val>shakes head</val>
+                  </item>
+                  <item>
+                    <val>smacks lips</val>
+                  </item>
+                  <item>
+                    <val>sniffs</val>
+                  </item>
+                  <item>
+                    <val>swallows</val>
+                  </item>
+                  <item>
+                    <val>whistles</val>
+                  </item>
+                </list>
+              </item>
+              <label>
+                <val>wordlike</val>
+              </label>
+              <item>
+                <val>laughing</val>
+              </item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="unclear" occurs="4">Used to mark speech which cannot be		transcribed with certainty, because it is difficult to hear or		understand for the transcriber.</tagUsage>
+          <tagUsage gi="anchor" occurs="8">Used to mark other-continuation,		i.e. whenever a speaker continues another speaker's<gi>u</gi>without a pause. Other-continuation is to be interpreted		temporally and does not relate to form or content of the		speakers' utterances.</tagUsage>
+        </namespace>
+        <namespace name="http://www.univie.ac.at/voice/ns/1.0">
+          <tagUsage gi="voice:to" occurs="4">Used to mark speech directed towards a		particular speaker. The<att>who</att>who attribute indicates the		addressed speaker.</tagUsage>
+          <tagUsage gi="voice:track" occurs="1">Used to mark the beginning of a new		audio track used in transcription (usually three minutes in		length) and thus refers to the audio recording of the		transcribed speech event.</tagUsage>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#PBsve436_PB #PBsve436_sve"/>
+        <catRef target="#PB #sve"/>
+      </textClass>
+      <settingDesc>
+        <setting>
+          <name type="country">AT</name>
+          <name type="city">Vienna</name>
+          <locale>housing office at university</locale>
+          <activity>working on computer</activity>
+        </setting>
+      </settingDesc>
+      <particDesc>
+        <listPerson type="main">
+          <listPerson type="groups">
+            <personGrp role="speakers" size="3"/>
+            <personGrp role="interactants" size="2"/>
+          </listPerson>
+          <listPerson type="identified">
+            <person role="participant" sameAs="#P40" xml:id="PBsve436_S1">
+              <age value="1">17-24</age>
+              <sex value="2">female</sex>
+              <occupation>adviser at student accommodation office</occupation>
+              <langKnowledge>
+                <langKnown level="L1" tag="ger-AT"/>
+              </langKnowledge>
+            </person>
+            <person role="non-participant" sameAs="#P39" xml:id="PBsve436_S3">
+              <age value="1">17-24</age>
+              <sex value="2">female</sex>
+              <occupation>adviser at student accommodation office</occupation>
+              <langKnowledge>
+                <langKnown level="L1" tag="ger-AT"/>
+              </langKnowledge>
+            </person>
+            <person role="participant" sameAs="#P41" xml:id="PBsve436_S2">
+              <age value="1">17-24</age>
+              <sex value="2">female</sex>
+              <occupation>student</occupation>
+              <langKnowledge>
+                <langKnown level="L1" tag="cat-ES"/>
+              </langKnowledge>
+            </person>
+          </listPerson>
+          <listPerson type="not_identified">
+            <person corresp="#PBsve436_S2" sameAs="#SX" xml:id="PBsve436_SX-2"/>
+          </listPerson>
+          <relationGrp>
+            <relation mutual="#PBsve436_S1 #PBsve436_S2" name="fairly_symmetrical" type="power"/>
+            <relation mutual="#PBsve436_S1 #PBsve436_S2" name="unacquainted" type="acquaintedness"/>
+          </relationGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2009-05-19" who="SM">conversion to XML</change>
+      <change when="2009-05-11" who="TK">finalized for publication</change>
+      <change when="2008-02-27" who="MLP">proof-reading</change>
+      <change when="2006-10-20" who="AB">checking</change>
+      <change when="2006-10-02" who="JL">transcript completion</change>
+      <change when="2005-10-13" who="JL">transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="medium" voice:end="00:38" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1">
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_1">
+          <foreign type="L1" voice:translation="hello/cls" xml:lang="ger">
+            <seg xml:id="xTok_PBsve436_000006" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000007" ana="#FWfFW" lemma="">hallo</w>
+            <seg xml:id="xTok_PBsve436_000008" type="ws" xml:space="preserve"> </seg>
+          </foreign>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_2">
+          <foreign type="LN" voice:translation="hello/cls" xml:lang="ger">
+            <seg xml:id="xTok_PBsve436_000010" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000011" ana="#FWfFW" lemma="">hallo</w>
+            <seg xml:id="xTok_PBsve436_000012" type="ws" xml:space="preserve"> </seg>
+          </foreign>
+          <seg xml:id="xTok_PBsve436_000013" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000014" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_PBsve436_000015" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000016" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000017" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000018" ana="#VVPfVVP" lemma="come">come</w>
+          <seg xml:id="xTok_PBsve436_000019" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000020" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_000021" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000022" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_PBsve436_000023" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000024" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000025" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000026" ana="#VBPfVBP" lemma="be">am</w>
+          <seg xml:id="xTok_PBsve436_000027" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000028" ana="#VVGfVVG" lemma="leave">leaving</w>
+          <seg xml:id="xTok_PBsve436_000029" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000030" ana="#INfIN" lemma="on">on</w>
+          <seg xml:id="xTok_PBsve436_000031" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000032" ana="#NPfNP" lemma="thursday">thursday</w>
+          <seg xml:id="xTok_PBsve436_000033" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000034" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_PBsve436_000035" type="ws" xml:space="preserve"> </seg>
+          <seg n="1" type="overlap" xml:id="PBsve436_ol_0">
+            <seg xml:id="xTok_PBsve436_000036" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000037" ana="#PPfPP" lemma="i">i</w>
+            <seg xml:id="xTok_PBsve436_000038" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000039" ana="#MDfMD" lemma="will">will</w>
+            <seg xml:id="xTok_PBsve436_000040" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000041" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000042" ana="#RBfRB" lemma="not">not</w>
+          <seg xml:id="xTok_PBsve436_000043" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000044" ana="#VBfVB" lemma="be">be</w>
+          <seg xml:id="xTok_PBsve436_000045" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000046" ana="#RBfRB" lemma="here">here</w>
+          <seg xml:id="xTok_PBsve436_000047" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000048" ana="#TOfTO" lemma="to">to<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000049" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000050" ana="#VVfVV" lemma="get">get</w>
+          <seg xml:id="xTok_PBsve436_000051" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000052" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000053" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000054" part="I" next="#xTok_PBsve436_000055" ana="#NNfNN" lemma="deposit">de</w>
+          <seg n="2" type="overlap" xml:id="PBsve436_ol_1">
+            <w xml:id="xTok_PBsve436_000055" part="F" prev="#xTok_PBsve436_000054">posit</w>
+            <seg xml:id="xTok_PBsve436_000056" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_3">
+          <seg n="1" synch="#PBsve436_ol_0" type="overlap" xml:id="PBsve436_ol_2">
+            <seg xml:id="xTok_PBsve436_000058" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000059" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_PBsve436_000060" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_4">
+          <seg n="2" synch="#PBsve436_ol_1" type="overlap" xml:id="PBsve436_ol_3">
+            <seg xml:id="xTok_PBsve436_000062" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000063" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_PBsve436_000064" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_5">
+          <seg xml:id="xTok_PBsve436_000066" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000067" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_PBsve436_000068" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000069" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000070" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000071" ana="#VHPfVHP" lemma="have">have</w>
+          <seg xml:id="xTok_PBsve436_000072" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000073" ana="#VVNfVVN" lemma="fill">filled</w>
+          <seg xml:id="xTok_PBsve436_000074" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000075" ana="#DTfDT" lemma="this">this</w>
+          <seg xml:id="xTok_PBsve436_000076" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000077" ana="#CCfCC" lemma="but">but</w>
+          <seg xml:id="xTok_PBsve436_000078" type="ws" xml:space="preserve"> </seg>
+          <emph>
+            <seg xml:id="xTok_PBsve436_000079" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000080" ana="#RBfRB" lemma="here">here</w>
+            <seg xml:id="xTok_PBsve436_000081" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_000082" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000083" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000084" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000085" ana="#VVPfVVP" lemma="do" apostroph_split="xTok_PBsve436_000087" part="I" next="xTok_PBsve436_000087">do</w>
+          <w xml:id="xTok_PBsve436_000087" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_PBsve436_000085" removed_ws="1">n't</w>
+          <seg xml:id="xTok_PBsve436_000088" type="ws" xml:space="preserve"> </seg>
+          <seg n="3" type="overlap" xml:id="PBsve436_ol_4">
+            <seg xml:id="xTok_PBsve436_000089" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000090" ana="#VVfVV" lemma="know">know</w>
+            <seg xml:id="xTok_PBsve436_000091" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000092" ana="#DTfDT" lemma="this">this</w>
+            <seg xml:id="xTok_PBsve436_000093" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_6">
+          <seg n="3" synch="#PBsve436_ol_4" type="overlap" xml:id="PBsve436_ol_5">
+            <seg xml:id="xTok_PBsve436_000095" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000096" ana="#BRfBR" lemma="">hh</w>
+            <seg xml:id="xTok_PBsve436_000097" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000098" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000099" ana="#DTfDT" lemma="that" apostroph_split="xTok_PBsve436_000101" part="I" next="xTok_PBsve436_000101">that</w>
+          <w xml:id="xTok_PBsve436_000101" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_000099" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_000102" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000103" ana="#RBfRB" lemma="not">not</w>
+          <seg xml:id="xTok_PBsve436_000104" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000105" ana="#JJfJJ" lemma="important">important</w>
+          <seg xml:id="xTok_PBsve436_000106" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000107" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_PBsve436_000108" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000109" ana="#CCfCC" lemma="but">but</w>
+          <seg xml:id="xTok_PBsve436_000110" type="ws" xml:space="preserve"> </seg>
+          <seg n="4" type="overlap" xml:id="PBsve436_ol_6">
+            <seg xml:id="xTok_PBsve436_000111" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000112" ana="#VVPfVVP" lemma="do">do</w>
+            <seg xml:id="xTok_PBsve436_000113" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000114" ana="#PPfPP" lemma="you">you</w>
+            <seg xml:id="xTok_PBsve436_000115" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000116" ana="#VVfVV" lemma="know">know</w>
+            <seg xml:id="xTok_PBsve436_000117" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000118" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000119" ana="#PPSfPPS" lemma="you">your</w>
+          <seg xml:id="xTok_PBsve436_000120" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000121" ana="#JJfJJ" lemma="whole">whole</w>
+          <seg xml:id="xTok_PBsve436_000122" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000123" ana="#NNfNN" lemma="iban">iban</w>
+          <seg xml:id="xTok_PBsve436_000124" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_PBsve436_000125" ana="#NNSfNNS" lemma="code">codes<c function="rise" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000126" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000127" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_000128" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000129" ana="#DTfDT" lemma="that" apostroph_split="xTok_PBsve436_000131" part="I" next="xTok_PBsve436_000131">that</w>
+          <w xml:id="xTok_PBsve436_000131" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_000129" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_000132" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000133" ana="#RBfRB" lemma="just">just</w>
+          <seg xml:id="xTok_PBsve436_000134" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_7">
+          <seg n="4" synch="#PBsve436_ol_6" type="overlap" xml:id="PBsve436_ol_7">
+            <seg xml:id="xTok_PBsve436_000136" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000137" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_8">
+          <seg xml:id="xTok_PBsve436_000139" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000140" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000141" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000142" ana="#JJfJJ" lemma="first">first</w>
+          <seg xml:id="xTok_PBsve436_000143" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000144" ana="#NNfNN" lemma="part">part</w>
+          <seg xml:id="xTok_PBsve436_000145" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000146" ana="#INfIN" lemma="of">of</w>
+          <seg xml:id="xTok_PBsve436_000147" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000148" ana="#PPfPP" lemma="it">it<c function="fall" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_9">
+          <seg xml:id="xTok_PBsve436_000150" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000151" ana="#CCfCC" lemma="but">but</w>
+          <seg xml:id="xTok_PBsve436_000152" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000153" ana="#VBZfVBZ" lemma="be">is</w>
+          <seg xml:id="xTok_PBsve436_000154" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000155" ana="#DTfDT" lemma="this">this</w>
+          <seg xml:id="xTok_PBsve436_000156" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000157" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_PBsve436_000158" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000159" ana="#RBfRB" lemma="then">then</w>
+          <seg xml:id="xTok_PBsve436_000160" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000161" ana="#VBZfVBZ" lemma="be">is</w>
+          <seg xml:id="xTok_PBsve436_000162" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000163" ana="#PDTfPDT" lemma="all">all</w>
+          <seg xml:id="xTok_PBsve436_000164" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000165" ana="#DTfDT" lemma="this">this</w>
+          <seg xml:id="xTok_PBsve436_000166" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000167" ana="#NNfNN" lemma="number">number<c function="fall" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_10">
+          <shift corresp="#PBsve436_s_2" feature="loud" new="f" xml:id="PBsve436_s_1"/>
+          <seg xml:id="xTok_PBsve436_000169" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000170" ana="#PPfPP" lemma="it" apostroph_split="xTok_PBsve436_000172" part="I" next="xTok_PBsve436_000172">it</w>
+          <w xml:id="xTok_PBsve436_000172" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_000170" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_000173" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_1" feature="loud" new="neutral" xml:id="PBsve436_s_2"/>
+          <seg xml:id="xTok_PBsve436_000174" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000175" ana="#DTfDT" lemma="this">this</w>
+          <seg xml:id="xTok_PBsve436_000176" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000177" ana="#NNfNN" lemma="one">one<c function="fall" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_11">
+          <seg xml:id="xTok_PBsve436_000179" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000180" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_12">
+          <seg xml:id="xTok_PBsve436_000182" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000183" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+          </w>
+          <pause dur="PT3S"/>
+          <incident dur="PT3S" voice:desc="S1 fills in number "/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_13">
+          <seg xml:id="xTok_PBsve436_000185" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000186" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_PBsve436_000187" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000188" ana="#DTfDT" lemma="this">this</w>
+          <seg xml:id="xTok_PBsve436_000189" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000190" ana="#VBZfVBZ" lemma="be">is</w>
+          <seg xml:id="xTok_PBsve436_000191" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000192" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000193" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000194" ana="#NNfNN" lemma="number">number</w>
+          <seg xml:id="xTok_PBsve436_000195" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_PBsve436_000196" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000197" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_PBsve436_000198" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000199" ana="#PPfPP" lemma="it">it</w>
+          <seg xml:id="xTok_PBsve436_000200" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000201" ana="#VVZfVVZ" lemma="go">goes</w>
+          <seg xml:id="xTok_PBsve436_000202" type="ws" xml:space="preserve"> </seg>
+          <supplied reason="unintelligible">
+            <seg xml:id="xTok_PBsve436_000203" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000204" ana="#UNIfUNI" lemma="">xx</w>
+            <seg xml:id="xTok_PBsve436_000205" type="ws" xml:space="preserve"> </seg>
+          </supplied>
+          <seg xml:id="xTok_PBsve436_000206" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000207" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_14">
+          <seg xml:id="xTok_PBsve436_000209" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000210" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_15">
+          <seg xml:id="xTok_PBsve436_000212" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000213" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000214" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000215" ana="#FIfFI" lemma="sorry">sorry<c function="fall" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000216" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000217" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_000218" type="ws" xml:space="preserve"> </seg>
+          <seg n="5" type="overlap" xml:id="PBsve436_ol_8">
+            <seg xml:id="xTok_PBsve436_000219" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000220" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_000221" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000222" ana="#PPfPP" lemma="it" apostroph_split="xTok_PBsve436_000224" part="I" next="xTok_PBsve436_000224">it</w>
+            <w xml:id="xTok_PBsve436_000224" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_000222" removed_ws="1">'s</w>
+            <seg xml:id="xTok_PBsve436_000225" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000226" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_000227" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000228" ana="#JJfJJ" lemma="same">same<c function="fall" type="intonation"/>
+            </w>
+            <vocal xml:id="PBsve436_ol_8_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_16">
+          <seg n="5" synch="#PBsve436_ol_8" type="overlap" xml:id="PBsve436_ol_9">
+            <seg xml:id="xTok_PBsve436_000230" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000231" ana="#REfRE" lemma="yeah">yeah</w>
+            <seg xml:id="xTok_PBsve436_000232" type="ws" xml:space="preserve"> </seg>
+            <unclear>
+              <seg xml:id="xTok_PBsve436_000233" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000234" ana="#RBfRB" lemma="now">now</w>
+              <seg xml:id="xTok_PBsve436_000235" type="ws" xml:space="preserve"> </seg>
+            </unclear>
+            <seg xml:id="xTok_PBsve436_000236" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000237" ana="#PPfPP" lemma="it" apostroph_split="xTok_PBsve436_000239" part="I" next="xTok_PBsve436_000239">it</w>
+            <w xml:id="xTok_PBsve436_000239" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_000237" removed_ws="1">'s</w>
+            <seg xml:id="xTok_PBsve436_000240" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000241" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_000242" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000243" ana="#JJfJJ" lemma="same">same</w>
+            <seg xml:id="xTok_PBsve436_000244" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000245" ana="#DMfDM #NNfNN" lemma="right">right<c function="fall" type="intonation"/>
+            </w>
+            <vocal xml:id="PBsve436_ol_9_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000246" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000247" ana="#REfRE" lemma="okay">okay</w>
+          <seg xml:id="xTok_PBsve436_000248" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000249" ana="#RBfRB" lemma="then">then</w>
+          <seg xml:id="xTok_PBsve436_000250" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000251" ana="#VHfVH" lemma="have">have</w>
+          <seg xml:id="xTok_PBsve436_000252" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000253" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000254" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000255" ana="#JJfJJ" lemma="nice">nice</w>
+          <seg xml:id="xTok_PBsve436_000256" type="ws" xml:space="preserve"> </seg>
+          <seg n="6" type="overlap" xml:id="PBsve436_ol_10">
+            <seg xml:id="xTok_PBsve436_000257" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000258" ana="#NNfNN" lemma="trip">trip</w>
+            <seg xml:id="xTok_PBsve436_000259" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000260" ana="#RBfRB" lemma="home">home<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_17">
+          <seg n="6" synch="#PBsve436_ol_10" type="overlap" xml:id="PBsve436_ol_11">
+            <seg xml:id="xTok_PBsve436_000262" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000263" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000264" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000265" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_PBsve436_000266" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000267" part="I" next="#xTok_PBsve436_000268" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_000268" part="F" prev="#xTok_PBsve436_000267">r</w>
+          <seg xml:id="xTok_PBsve436_000269" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000270" ana="#RBfRB" lemma="then">then</w>
+          <seg xml:id="xTok_PBsve436_000271" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000272" ana="#DTfDT" lemma="another">another</w>
+          <seg xml:id="xTok_PBsve436_000273" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000274" ana="#NNfNN" lemma="question">question</w>
+          <seg xml:id="xTok_PBsve436_000275" type="ws" xml:space="preserve"> </seg>
+          <seg n="7" type="overlap" xml:id="PBsve436_ol_12">
+            <seg xml:id="xTok_PBsve436_000276" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000277" ana="#INfIN" lemma="because">because</w>
+            <seg xml:id="xTok_PBsve436_000278" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000279" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000280" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000281" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000282" ana="#VVPfVVP" lemma="do" apostroph_split="xTok_PBsve436_000284" part="I" next="xTok_PBsve436_000284">do</w>
+          <w xml:id="xTok_PBsve436_000284" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_PBsve436_000282" removed_ws="1">n't</w>
+          <seg xml:id="xTok_PBsve436_000285" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000286" ana="#VVfVV" lemma="know">know</w>
+          <seg xml:id="xTok_PBsve436_000287" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000288" ana="#INfIN" lemma="if">if</w>
+          <seg xml:id="xTok_PBsve436_000289" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000290" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000291" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000292" ana="#MDfMD" lemma="will">will</w>
+          <seg xml:id="xTok_PBsve436_000293" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000294" ana="#VVfVV" lemma="come">come</w>
+          <seg xml:id="xTok_PBsve436_000295" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000296" ana="#RBfRB" lemma="back">back</w>
+          <seg xml:id="xTok_PBsve436_000297" type="ws" xml:space="preserve"> </seg>
+          <unclear>
+            <seg xml:id="xTok_PBsve436_000298" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000299" ana="#INfIN" lemma="in">in</w>
+            <seg xml:id="xTok_PBsve436_000300" type="ws" xml:space="preserve"> </seg>
+          </unclear>
+          <seg xml:id="xTok_PBsve436_000301" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000302" ana="#NPfNP" lemma="september">september</w>
+          <seg xml:id="xTok_PBsve436_000303" type="ws" xml:space="preserve">  </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_18">
+          <seg n="7" synch="#PBsve436_ol_12" type="overlap" xml:id="PBsve436_ol_13">
+            <seg xml:id="xTok_PBsve436_000305" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000306" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_PBsve436_000307" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_19">
+          <seg xml:id="xTok_PBsve436_000309" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000310" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_PBsve436_000311" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_20">
+          <seg xml:id="xTok_PBsve436_000313" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000314" ana="#RBfRB" lemma="then">then</w>
+          <seg xml:id="xTok_PBsve436_000315" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000316" ana="#INfIN" lemma="if">if</w>
+          <seg xml:id="xTok_PBsve436_000317" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000318" ana="#PPfPP" lemma="i">i<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000319" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000320" ana="#VVPfVVP" lemma="want">want</w>
+          <seg xml:id="xTok_PBsve436_000321" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000322" ana="#TOfTO" lemma="to">to<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000323" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000324" ana="#VVfVV" lemma="get">get</w>
+          <seg xml:id="xTok_PBsve436_000325" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000326" ana="#DTfDT" lemma="a">a<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000327" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000328" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000329" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000330" ana="#NNfNN" lemma="room">room</w>
+          <seg xml:id="xTok_PBsve436_000331" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000332" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_PBsve436_000333" type="ws" xml:space="preserve"> </seg>
+          <seg n="1" type="overlap" xml:id="PBsve436_ol_14">
+            <seg xml:id="xTok_PBsve436_000334" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000335" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation"/>
+            </w>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000336" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000337" ana="#DMfDM" lemma="so">so<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000338" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000339" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000340" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000341" ana="#VHPfVHP" lemma="have">have</w>
+          <seg xml:id="xTok_PBsve436_000342" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000343" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_000344" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000345" ana="#VVfVV" lemma="come">come</w>
+          <seg xml:id="xTok_PBsve436_000346" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000347" ana="#XXfXX" lemma="">ver-</w>
+          <seg xml:id="xTok_PBsve436_000348" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000349" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_000350" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000351" ana="#VVfVV" lemma="say">say</w>
+          <seg xml:id="xTok_PBsve436_000352" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000353" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_000354" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000355" ana="#RBfRB" lemma="very">very</w>
+          <seg xml:id="xTok_PBsve436_000356" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_4" feature="loud" new="p" xml:id="PBsve436_s_3"/>
+          <seg xml:id="xTok_PBsve436_000357" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000358" ana="#RBfRB" lemma="early">early<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000359" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000360" part="I" next="#xTok_PBsve436_000361" ana="#CCfCC" lemma="or">o<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_000361" part="F" prev="#xTok_PBsve436_000360">r</w>
+          <seg xml:id="xTok_PBsve436_000362" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_3" feature="loud" new="neutral" xml:id="PBsve436_s_4"/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_21">
+          <seg n="1" synch="#PBsve436_ol_14" type="overlap" xml:id="PBsve436_ol_15">
+            <seg xml:id="xTok_PBsve436_000364" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000365" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_PBsve436_000366" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_22">
+          <seg xml:id="xTok_PBsve436_000368" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000369" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_PBsve436_000370" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000371" ana="#REfRE" lemma="yes">yes</w>
+          <seg xml:id="xTok_PBsve436_000372" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000373" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_000374" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000375" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_PBsve436_000376" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000377" ana="#RBfRB" lemma="already">already</w>
+          <seg xml:id="xTok_PBsve436_000378" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000379" ana="#VVDfVVD" lemma="receive">received</w>
+          <seg xml:id="xTok_PBsve436_000380" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000381" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000382" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000383" ana="#NNfNN" lemma="lot">lot</w>
+          <seg xml:id="xTok_PBsve436_000384" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000385" ana="#INfIN" lemma="of">of</w>
+          <seg xml:id="xTok_PBsve436_000386" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000387" ana="#NNfNN" lemma="application">application</w>
+          <seg xml:id="xTok_PBsve436_000388" type="ws" xml:space="preserve"> </seg>
+          <seg n="2" type="overlap" xml:id="PBsve436_ol_16">
+            <seg xml:id="xTok_PBsve436_000389" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000390" ana="#NNSfNNS" lemma="form">forms</w>
+            <seg xml:id="xTok_PBsve436_000391" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_23">
+          <seg n="2" synch="#PBsve436_ol_16" type="overlap" xml:id="PBsve436_ol_17">
+            <seg xml:id="xTok_PBsve436_000393" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000394" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_000395" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000396" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000397" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_PBsve436_000398" type="ws" xml:space="preserve"> </seg>
+          <anchor synch="#PBsve436_oc_1" type="other_continuation" xml:id="PBsve436_oc_0"/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_24">
+          <anchor synch="#PBsve436_oc_0" type="other_continuation" xml:id="PBsve436_oc_1"/>
+          <seg xml:id="xTok_PBsve436_000400" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000401" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_PBsve436_000402" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_000403" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000404" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_000405" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000406" ana="#MDfMD" lemma="shall">should</w>
+          <seg xml:id="xTok_PBsve436_000407" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000408" ana="#VVfVV" lemma="hurry">hurry</w>
+          <seg xml:id="xTok_PBsve436_000409" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000410" ana="#RPfRP" lemma="up">up</w>
+          <seg xml:id="xTok_PBsve436_000411" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000412" ana="#RBfRB" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000413" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000414" ana="#RBfRB" lemma="little">little</w>
+          <seg xml:id="xTok_PBsve436_000415" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000416" ana="#RBfRB" lemma="bit">bit</w>
+          <seg xml:id="xTok_PBsve436_000417" type="ws" xml:space="preserve"> </seg>
+          <seg n="3" type="overlap" xml:id="PBsve436_ol_18">
+            <seg xml:id="xTok_PBsve436_000418" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000419" ana="#INfIN" lemma="if">if</w>
+            <seg xml:id="xTok_PBsve436_000420" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000421" ana="#PPfPP" lemma="you" apostroph_split="xTok_PBsve436_000423" part="I" next="xTok_PBsve436_000423">you</w>
+            <w xml:id="xTok_PBsve436_000423" ana="#VBPfVBP" lemma="be" split="yes" part="F" prev="xTok_PBsve436_000421" removed_ws="1">'re</w>
+            <seg xml:id="xTok_PBsve436_000424" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000425" part="I" next="#xTok_PBsve436_000426" ana="#JJfJJ" lemma="interested">in</w>
+          </seg>
+          <w xml:id="xTok_PBsve436_000426" part="F" prev="#xTok_PBsve436_000425">terested</w>
+          <seg xml:id="xTok_PBsve436_000427" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000428" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_PBsve436_000429" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000430" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000431" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000432" ana="#NNfNN" lemma="room">room<c function="fall" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000433" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000434" ana="#CCfCC" lemma="but">but</w>
+          <seg xml:id="xTok_PBsve436_000435" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000436" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000437" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000438" ana="#MDfMD" lemma="shall">shall<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000439" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000440" ana="#VVfVV" lemma="transfer">transfer</w>
+          <seg xml:id="xTok_PBsve436_000441" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000442" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000443" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000444" ana="#NNfNN" lemma="amount">amount</w>
+          <seg xml:id="xTok_PBsve436_000445" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_25">
+          <seg n="3" synch="#PBsve436_ol_18" type="overlap" xml:id="PBsve436_ol_19">
+            <seg xml:id="xTok_PBsve436_000447" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000448" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_26">
+          <seg xml:id="xTok_PBsve436_000450" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000451" ana="#RBfRB" lemma="now">now</w>
+          <seg xml:id="xTok_PBsve436_000452" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000453" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_PBsve436_000454" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000455" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_PBsve436_000456" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000457" ana="#NNfNN" lemma="case">case</w>
+          <seg xml:id="xTok_PBsve436_000458" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000459" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_000460" type="ws" xml:space="preserve"> </seg>
+          <seg n="4" type="overlap" xml:id="PBsve436_ol_20">
+            <seg xml:id="xTok_PBsve436_000461" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000462" ana="#PPfPP" lemma="you">you</w>
+            <seg xml:id="xTok_PBsve436_000463" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000464" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000465" part="I" next="#xTok_PBsve436_000466" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_000466" part="F" prev="#xTok_PBsve436_000465">r</w>
+          <seg xml:id="xTok_PBsve436_000467" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000468" ana="#MDfMD" lemma="will">would</w>
+          <seg xml:id="xTok_PBsve436_000469" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000470" ana="#VVfVV" lemma="like">like</w>
+          <seg xml:id="xTok_PBsve436_000471" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000472" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_000473" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000474" ana="#VVfVV" lemma="book">book</w>
+          <seg xml:id="xTok_PBsve436_000475" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000476" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000477" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000478" ana="#NNfNN" lemma="room">room</w>
+          <seg xml:id="xTok_PBsve436_000479" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000480" ana="#RBfRB" lemma="again">again</w>
+          <seg xml:id="xTok_PBsve436_000481" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000482" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_000483" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000484" ana="#VVPfVVP" lemma="transfer">transfer</w>
+          <seg xml:id="xTok_PBsve436_000485" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000486" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000487" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000488" ana="#JJfJJ" lemma="new">new</w>
+          <seg xml:id="xTok_PBsve436_000489" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000490" ana="#NNfNN" lemma="deposit">deposit</w>
+          <seg xml:id="xTok_PBsve436_000491" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000492" ana="#INfIN" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_000493" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000494" ana="#PPSfPPS" lemma="we">our</w>
+          <seg xml:id="xTok_PBsve436_000495" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000496" ana="#NNfNN" lemma="account">account</w>
+          <seg xml:id="xTok_PBsve436_000497" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000498" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_PBsve436_000499" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000500" ana="#CCfCC" lemma="or">or</w>
+          <seg xml:id="xTok_PBsve436_000501" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000502" ana="#MDfMD" lemma="shall">shall</w>
+          <seg xml:id="xTok_PBsve436_000503" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000504" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000505" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000506" ana="#VVfVV" lemma="wait">wait</w>
+          <seg xml:id="xTok_PBsve436_000507" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_27">
+          <seg n="4" synch="#PBsve436_ol_20" type="overlap" xml:id="PBsve436_ol_21">
+            <seg xml:id="xTok_PBsve436_000509" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000510" ana="#REfRE" lemma="uhu">uhu</w>
+            <seg xml:id="xTok_PBsve436_000511" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_28">
+          <seg xml:id="xTok_PBsve436_000513" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000514" ana="#INfIN" lemma="with">with</w>
+          <seg xml:id="xTok_PBsve436_000515" type="ws" xml:space="preserve"> </seg>
+          <seg n="5" type="overlap" xml:id="PBsve436_ol_22">
+            <seg xml:id="xTok_PBsve436_000516" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000517" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_000518" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000519" part="I" next="#xTok_PBsve436_000520" ana="#NNfNN" lemma="transfer">trans</w>
+          </seg>
+          <w xml:id="xTok_PBsve436_000520" part="F" prev="#xTok_PBsve436_000519">fer<c function="fall" type="intonation"/>
+          </w>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_29">
+          <seg n="5" synch="#PBsve436_ol_22" type="overlap" xml:id="PBsve436_ol_23">
+            <seg xml:id="xTok_PBsve436_000522" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000523" ana="#WPfWP" lemma="what">what</w>
+            <seg xml:id="xTok_PBsve436_000524" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_30">
+          <seg xml:id="xTok_PBsve436_000526" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000527" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_PBsve436_000528" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000529" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_000530" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <emph>
+            <seg xml:id="xTok_PBsve436_000531" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000532" ana="#RBfRB" lemma="now">now</w>
+            <seg xml:id="xTok_PBsve436_000533" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <seg xml:id="xTok_PBsve436_000534" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000535" ana="#PPfPP" lemma="we">we</w>
+          <seg xml:id="xTok_PBsve436_000536" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000537" ana="#VHPfVHP" lemma="have">have</w>
+          <seg xml:id="xTok_PBsve436_000538" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000539" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000540" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000541" ana="#NNfNN" lemma="deposit">deposit</w>
+          <seg xml:id="xTok_PBsve436_000542" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000543" ana="#INfIN" lemma="of">of</w>
+          <seg xml:id="xTok_PBsve436_000544" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000545" ana="#PPfPP" lemma="you">you<c function="fall" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_31">
+          <seg xml:id="xTok_PBsve436_000547" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000548" part="I" next="#xTok_PBsve436_000549" ana="#REfRE" lemma="mhm">mh</w>
+          <seg n="6" type="overlap" xml:id="PBsve436_ol_24">
+            <w xml:id="xTok_PBsve436_000549" part="F" prev="#xTok_PBsve436_000548">m</w>
+            <seg xml:id="xTok_PBsve436_000550" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_32">
+          <seg n="6" synch="#PBsve436_ol_24" type="overlap" xml:id="PBsve436_ol_25">
+            <seg xml:id="xTok_PBsve436_000552" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000553" ana="#DMfDM" lemma="so">so</w>
+            <seg xml:id="xTok_PBsve436_000554" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_000555" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000556" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000557" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000558" ana="#NNfNN" lemma="best">best</w>
+          <seg xml:id="xTok_PBsve436_000559" type="ws" xml:space="preserve"> </seg>
+          <seg n="7" type="overlap" xml:id="PBsve436_ol_26">
+            <seg xml:id="xTok_PBsve436_000560" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000561" ana="#MDfMD" lemma="will">would</w>
+            <seg xml:id="xTok_PBsve436_000562" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000563" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000564" ana="#VBfVB" lemma="be">be</w>
+          <seg xml:id="xTok_PBsve436_000565" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <incident voice:desc="there are other advisory talks happening in the background"/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_33">
+          <seg n="7" synch="#PBsve436_ol_26" type="overlap" xml:id="PBsve436_ol_27">
+            <seg xml:id="xTok_PBsve436_000567" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000568" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_000569" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_34">
+          <seg xml:id="xTok_PBsve436_000571" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000572" ana="#INfIN" lemma="if">if</w>
+          <seg xml:id="xTok_PBsve436_000573" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000574" ana="#DTfDT" lemma="this">this</w>
+          <seg xml:id="xTok_PBsve436_000575" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000576" ana="#NNfNN" lemma="deposit">deposit</w>
+          <seg xml:id="xTok_PBsve436_000577" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000578" ana="#VVZfVVZ" lemma="rest">rests</w>
+          <seg xml:id="xTok_PBsve436_000579" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000580" ana="#RBfRB" lemma="here">here</w>
+          <seg xml:id="xTok_PBsve436_000581" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_000582" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000583" ana="#RBfRB" lemma="then">then</w>
+          <seg xml:id="xTok_PBsve436_000584" type="ws" xml:space="preserve"> </seg>
+          <seg n="1" type="overlap" xml:id="PBsve436_ol_28">
+            <seg xml:id="xTok_PBsve436_000585" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000586" ana="#PPfPP" lemma="you">you</w>
+            <seg xml:id="xTok_PBsve436_000587" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000588" ana="#VVPfVVP" lemma="decide">decide</w>
+            <seg xml:id="xTok_PBsve436_000589" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000590" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000591" ana="#INfIN" lemma="if">if</w>
+          <seg xml:id="xTok_PBsve436_000592" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000593" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_000594" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000595" ana="#MDfMD" lemma="will">would</w>
+          <seg xml:id="xTok_PBsve436_000596" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000597" ana="#VVfVV" lemma="like">like</w>
+          <seg xml:id="xTok_PBsve436_000598" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000599" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_000600" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000601" ana="#VVfVV" lemma="get">get</w>
+          <seg xml:id="xTok_PBsve436_000602" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000603" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_000604" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000605" ana="#NNfNN" lemma="room">room</w>
+          <seg xml:id="xTok_PBsve436_000606" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000607" ana="#CCfCC" lemma="or">or</w>
+          <seg xml:id="xTok_PBsve436_000608" type="ws" xml:space="preserve"> </seg>
+          <seg n="2" type="overlap" xml:id="PBsve436_ol_29">
+            <seg xml:id="xTok_PBsve436_000609" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000610" ana="#RBfRB" lemma="not">not</w>
+            <seg xml:id="xTok_PBsve436_000611" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000612" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_PBsve436_000613" type="ws" xml:space="preserve"> </seg>
+            <emph>
+              <seg xml:id="xTok_PBsve436_000614" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000615" part="I" next="#xTok_PBsve436_000616" ana="#RBfRB" lemma="afterwards">aft</w>
+            </emph>
+          </seg>
+          <w xml:id="xTok_PBsve436_000616" part="F" prev="#xTok_PBsve436_000615">erwards</w>
+          <seg xml:id="xTok_PBsve436_000617" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000618" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000619" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000620" ana="#MDfMD" lemma="can">can</w>
+          <seg xml:id="xTok_PBsve436_000621" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000622" ana="#VVfVV" lemma="transfer">transfer</w>
+          <seg xml:id="xTok_PBsve436_000623" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000624" ana="#PPfPP" lemma="it">it<c function="fall" type="intonation"/>
+          </w>
+          <emph>
+            <seg xml:id="xTok_PBsve436_000625" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000626" ana="#CCfCC" lemma="or">or</w>
+            <seg xml:id="xTok_PBsve436_000627" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <seg xml:id="xTok_PBsve436_000628" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000629" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000630" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000631" ana="#VVPfVVP" lemma="transfer">transfer</w>
+          <seg xml:id="xTok_PBsve436_000632" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000633" ana="#PPfPP" lemma="it">it</w>
+          <seg xml:id="xTok_PBsve436_000634" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000635" ana="#RBfRB" lemma="now">now</w>
+          <seg xml:id="xTok_PBsve436_000636" type="ws" xml:space="preserve"> </seg>
+          <seg n="3" type="overlap" xml:id="PBsve436_ol_30">
+            <seg xml:id="xTok_PBsve436_000637" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000638" ana="#INfIN" lemma="to">to</w>
+            <seg xml:id="xTok_PBsve436_000639" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000640" ana="#PPfPP" lemma="you">you</w>
+            <seg xml:id="xTok_PBsve436_000641" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000642" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_PBsve436_000643" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000644" ana="#INfIN" lemma="in">in</w>
+            <seg xml:id="xTok_PBsve436_000645" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000646" ana="#NNfNN" lemma="case">case</w>
+            <seg xml:id="xTok_PBsve436_000647" type="ws" xml:space="preserve"> </seg>
+            <pause/>
+            <seg xml:id="xTok_PBsve436_000648" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000649" ana="#PPfPP" lemma="you" apostroph_split="xTok_PBsve436_000651" part="I" next="xTok_PBsve436_000651">you</w>
+            <w xml:id="xTok_PBsve436_000651" ana="#MDfMD" lemma="will" split="yes" part="F" prev="xTok_PBsve436_000649" removed_ws="1">'d</w>
+            <seg xml:id="xTok_PBsve436_000652" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000653" ana="#VVfVV" lemma="like">like</w>
+            <seg xml:id="xTok_PBsve436_000654" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000655" ana="#TOfTO" lemma="to">to</w>
+            <seg xml:id="xTok_PBsve436_000656" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000657" ana="#VVfVV" lemma="get">get</w>
+            <seg xml:id="xTok_PBsve436_000658" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_35">
+          <seg n="1" synch="#PBsve436_ol_28" type="overlap" xml:id="PBsve436_ol_31">
+            <seg xml:id="xTok_PBsve436_000660" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000661" ana="#REfRE" lemma="n-n">n-n</w>
+            <seg xml:id="xTok_PBsve436_000662" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_36">
+          <seg n="2" synch="#PBsve436_ol_29" type="overlap" xml:id="PBsve436_ol_32">
+            <seg xml:id="xTok_PBsve436_000664" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000665" part="I" next="#xTok_PBsve436_000666" ana="#REfRE" lemma="yes">ye<c type="lengthening"/>
+            </w>
+            <w xml:id="xTok_PBsve436_000666" part="F" prev="#xTok_PBsve436_000665">s</w>
+            <seg xml:id="xTok_PBsve436_000667" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000668" ana="#CCfCC" lemma="but">but</w>
+            <seg xml:id="xTok_PBsve436_000669" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_37">
+          <seg n="3" synch="#PBsve436_ol_30" type="overlap" xml:id="PBsve436_ol_33">
+            <seg xml:id="xTok_PBsve436_000671" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000672" part="I" next="#xTok_PBsve436_000673" ana="#REfRE" lemma="yes">ye<c type="lengthening"/>
+            </w>
+            <w xml:id="xTok_PBsve436_000673" part="F" prev="#xTok_PBsve436_000672">s</w>
+            <seg xml:id="xTok_PBsve436_000674" type="ws" xml:space="preserve"> </seg>
+            <pause/>
+            <seg xml:id="xTok_PBsve436_000675" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000676" part="I" next="#xTok_PBsve436_000677" ana="#REfRE" lemma="yes">ye<c type="lengthening"/>
+            </w>
+            <w xml:id="xTok_PBsve436_000677" part="F" prev="#xTok_PBsve436_000676">s</w>
+            <seg xml:id="xTok_PBsve436_000678" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000679" ana="#INfIN" lemma="because">because</w>
+            <seg xml:id="xTok_PBsve436_000680" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000681" ana="#PPfPP" lemma="i" apostroph_split="xTok_PBsve436_000683" part="I" next="xTok_PBsve436_000683">i</w>
+            <w xml:id="xTok_PBsve436_000683" ana="#VBPfVBP" lemma="be" split="yes" part="F" prev="xTok_PBsve436_000681" removed_ws="1">'m</w>
+            <seg xml:id="xTok_PBsve436_000684" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000685" ana="#RBfRB" lemma="not">not</w>
+            <seg xml:id="xTok_PBsve436_000686" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000687" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000688" ana="#JJfJJ" lemma="sure">sure</w>
+          <seg xml:id="xTok_PBsve436_000689" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000690" ana="#INfIN" lemma="if">if</w>
+          <seg xml:id="xTok_PBsve436_000691" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000692" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_000693" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000694" ana="#MDfMD" lemma="will">will<c type="lengthening"/>
+          </w>
+          <seg n="4" type="overlap" xml:id="PBsve436_ol_34">
+            <seg xml:id="xTok_PBsve436_000695" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000696" ana="#VVfVV" lemma="come">come</w>
+            <seg xml:id="xTok_PBsve436_000697" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000698" ana="#RBfRB" lemma="back">back</w>
+            <seg xml:id="xTok_PBsve436_000699" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000700" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_PBsve436_000701" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000702" ana="#INfIN" lemma="if">if</w>
+            <seg xml:id="xTok_PBsve436_000703" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000704" ana="#PPfPP" lemma="i">i</w>
+            <seg xml:id="xTok_PBsve436_000705" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000706" ana="#MDfMD" lemma="will">will</w>
+            <seg xml:id="xTok_PBsve436_000707" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000708" ana="#VVfVV" lemma="come">come</w>
+            <seg xml:id="xTok_PBsve436_000709" type="ws" xml:space="preserve"> </seg>
+            <shift corresp="#PBsve436_s_6" feature="voice" new="laugh" xml:id="PBsve436_s_5"/>
+            <unclear>
+              <seg xml:id="xTok_PBsve436_000710" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000711" ana="#RBfRB" lemma="here">here</w>
+              <seg xml:id="xTok_PBsve436_000712" type="ws" xml:space="preserve"> </seg>
+            </unclear>
+            <shift corresp="#PBsve436_s_5" feature="voice" new="neutral" xml:id="PBsve436_s_6"/>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_38">
+          <seg n="4" synch="#PBsve436_ol_34" type="overlap" xml:id="PBsve436_ol_35">
+            <seg xml:id="xTok_PBsve436_000714" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000715" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+            </w>
+            <seg xml:id="xTok_PBsve436_000716" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000717" ana="#RBfRB" lemma="then">then</w>
+            <seg xml:id="xTok_PBsve436_000718" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000719" ana="#PPfPP" lemma="i">i</w>
+            <seg xml:id="xTok_PBsve436_000720" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000721" ana="#MDfMD" lemma="will">will</w>
+            <seg xml:id="xTok_PBsve436_000722" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000723" ana="#VVfVV" lemma="wait">wait</w>
+            <seg xml:id="xTok_PBsve436_000724" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000725" ana="#INfIN" lemma="for">for</w>
+            <seg xml:id="xTok_PBsve436_000726" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000727" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_000728" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000729" ana="#INfIN" lemma="for">for</w>
+            <seg xml:id="xTok_PBsve436_000730" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000731" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_000732" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000733" ana="#NNfNN" lemma="transfer">transfer</w>
+            <seg xml:id="xTok_PBsve436_000734" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000735" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000736" ana="#INfIN" lemma="in">in</w>
+          <seg xml:id="xTok_PBsve436_000737" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000738" ana="#NPfNP" lemma="july">july</w>
+          <seg xml:id="xTok_PBsve436_000739" type="ws" xml:space="preserve">  </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_39">
+          <seg xml:id="xTok_PBsve436_000741" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000742" part="I" next="#xTok_PBsve436_000743" ana="#REfRE" lemma="okay">o</w>
+          <seg n="5" type="overlap" xml:id="PBsve436_ol_36">
+            <w xml:id="xTok_PBsve436_000743" part="F" prev="#xTok_PBsve436_000742">kay<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_40">
+          <seg n="5" synch="#PBsve436_ol_36" type="overlap" xml:id="PBsve436_ol_37">
+            <seg xml:id="xTok_PBsve436_000745" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000746" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_PBsve436_000747" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000748" part="I" next="#xTok_PBsve436_000749" ana="#RBfRB" lemma="afterwards">af</w>
+          </seg>
+          <w xml:id="xTok_PBsve436_000749" part="F" prev="#xTok_PBsve436_000748">terwards</w>
+          <seg xml:id="xTok_PBsve436_000750" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_8" feature="loud" new="p" xml:id="PBsve436_s_7"/>
+          <seg xml:id="xTok_PBsve436_000751" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000752" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_000753" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000754" ana="#MDfMD" lemma="can">can</w>
+          <seg xml:id="xTok_PBsve436_000755" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000756" ana="#VVfVV" lemma="decide">decide<c function="fall" type="intonation"/>
+          </w>
+          <shift corresp="#PBsve436_s_7" feature="loud" new="neutral" xml:id="PBsve436_s_8"/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_41">
+          <seg xml:id="xTok_PBsve436_000758" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000759" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000760" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000761" ana="#FIfFI" lemma="thank">thank</w>
+          <seg xml:id="xTok_PBsve436_000762" type="ws" xml:space="preserve"> </seg>
+          <seg n="6" type="overlap" xml:id="PBsve436_ol_38">
+            <seg xml:id="xTok_PBsve436_000763" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000764" ana="#FIfFI" lemma="you">you<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+          <emph>
+            <seg xml:id="xTok_PBsve436_000765" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000766" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_PBsve436_000767" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <seg xml:id="xTok_PBsve436_000768" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000769" ana="#DTfDT" lemma="another">another</w>
+          <seg xml:id="xTok_PBsve436_000770" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000771" part="I" next="#xTok_PBsve436_000772" ana="#NNfNN" lemma="question">ques</w>
+          <seg n="7" type="overlap" xml:id="PBsve436_ol_39">
+            <w xml:id="xTok_PBsve436_000772" part="F" prev="#xTok_PBsve436_000771">tion</w>
+            <seg xml:id="xTok_PBsve436_000773" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000774" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000775" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_000776" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000777" ana="#PPSfPPS" lemma="i">my</w>
+          <seg xml:id="xTok_PBsve436_000778" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000779" ana="#NNfNN" lemma="room-mate">room-mate</w>
+          <seg xml:id="xTok_PBsve436_000780" type="ws" xml:space="preserve">  </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_42">
+          <seg n="6" synch="#PBsve436_ol_38" type="overlap" xml:id="PBsve436_ol_40">
+            <seg xml:id="xTok_PBsve436_000782" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000783" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_43">
+          <seg n="7" synch="#PBsve436_ol_39" type="overlap" xml:id="PBsve436_ol_41">
+            <seg xml:id="xTok_PBsve436_000785" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000786" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_PBsve436_000787" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_44">
+          <seg xml:id="xTok_PBsve436_000789" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000790" part="I" next="#xTok_PBsve436_000791" ana="#REfRE" lemma="mhm">m</w>
+          <seg n="1" type="overlap" xml:id="PBsve436_ol_42">
+            <w xml:id="xTok_PBsve436_000791" part="F" prev="#xTok_PBsve436_000790">hm</w>
+            <seg xml:id="xTok_PBsve436_000792" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_45">
+          <seg n="1" synch="#PBsve436_ol_42" type="overlap" xml:id="PBsve436_ol_43">
+            <seg xml:id="xTok_PBsve436_000794" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000795" ana="#VHDfVHD" lemma="have">had</w>
+            <seg xml:id="xTok_PBsve436_000796" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000797" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000798" ana="#VVNfVVN" lemma="tell">told</w>
+          <seg xml:id="xTok_PBsve436_000799" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000800" ana="#PPfPP" lemma="i">me</w>
+          <seg xml:id="xTok_PBsve436_000801" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000802" ana="#INfIN" lemma="that">that</w>
+          <seg xml:id="xTok_PBsve436_000803" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000804" part="I" next="#xTok_PBsve436_000805" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_000805" part="F" prev="#xTok_PBsve436_000804">r</w>
+          <seg xml:id="xTok_PBsve436_000806" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000807" ana="#PPfPP" lemma="she">she</w>
+          <seg xml:id="xTok_PBsve436_000808" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000809" ana="#VVZfVVZ" lemma="want">wants</w>
+          <seg xml:id="xTok_PBsve436_000810" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000811" part="I" next="#xTok_PBsve436_000812" ana="#UHfUH" lemma="erm">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_000812" part="F" prev="#xTok_PBsve436_000811">rm</w>
+          <seg xml:id="xTok_PBsve436_000813" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000814" ana="#NNSfNNS" lemma="sheet">sheets</w>
+          <seg xml:id="xTok_PBsve436_000815" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000816" ana="#INfIN" lemma="for">for</w>
+          <seg xml:id="xTok_PBsve436_000817" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000818" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000819" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000820" ana="#NNfNN" lemma="bed">bed</w>
+          <seg xml:id="xTok_PBsve436_000821" type="ws" xml:space="preserve"> </seg>
+          <seg n="8" type="overlap" xml:id="PBsve436_ol_44">
+            <shift corresp="#PBsve436_s_10" feature="loud" new="p" xml:id="PBsve436_s_9"/>
+            <vocal xml:id="PBsve436_ol_44_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+            <shift corresp="#PBsve436_s_9" feature="loud" new="neutral" xml:id="PBsve436_s_10"/>
+          </seg>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_46">
+          <seg n="8" synch="#PBsve436_ol_44" type="overlap" xml:id="PBsve436_ol_45">
+            <seg xml:id="xTok_PBsve436_000823" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000824" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_PBsve436_000825" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_47">
+          <seg xml:id="xTok_PBsve436_000827" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000828" ana="#CCfCC" lemma="and">and</w>
+          <seg xml:id="xTok_PBsve436_000829" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000830" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_PBsve436_000831" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000832" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000833" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000834" ana="#VVGfNN" lemma="clean/cleaning">cleaning</w>
+          <seg xml:id="xTok_PBsve436_000835" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000836" ana="#NNfNN" lemma="woman">woman</w>
+          <seg xml:id="xTok_PBsve436_000837" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000838" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_PBsve436_000839" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000840" ana="#VBZfVBZ" lemma="be">is</w>
+          <seg xml:id="xTok_PBsve436_000841" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000842" ana="#RBfRB" lemma="not">not</w>
+          <seg xml:id="xTok_PBsve436_000843" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000844" part="I" next="#xTok_PBsve436_000845" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_000845" part="F" prev="#xTok_PBsve436_000844">r</w>
+          <seg xml:id="xTok_PBsve436_000846" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000847" ana="#VVGfVVG" lemma="bring">bringing</w>
+          <seg xml:id="xTok_PBsve436_000848" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000849" part="I" next="#xTok_PBsve436_000850" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_000850" part="F" prev="#xTok_PBsve436_000849">r</w>
+          <seg xml:id="xTok_PBsve436_000851" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000852" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000853" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000854" ana="#NNSfNNS" lemma="sheet">sheets</w>
+          <seg xml:id="xTok_PBsve436_000855" type="ws" xml:space="preserve"> </seg>
+          <seg n="2" type="overlap" xml:id="PBsve436_ol_46">
+            <seg xml:id="xTok_PBsve436_000856" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000857" ana="#CCfCC" lemma="or">or</w>
+            <seg xml:id="xTok_PBsve436_000858" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000859" ana="#PPfPP" lemma="it" apostroph_split="xTok_PBsve436_000861" part="I" next="xTok_PBsve436_000861">it</w>
+            <w xml:id="xTok_PBsve436_000861" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_000859" removed_ws="1">'s</w>
+            <seg xml:id="xTok_PBsve436_000862" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000863" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000864" ana="#JJfJJ" lemma="possible">possible</w>
+          <seg xml:id="xTok_PBsve436_000865" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000866" ana="#TOfTO" lemma="to">to<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_000867" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000868" ana="#VVfVV" lemma="bring">bring</w>
+          <seg xml:id="xTok_PBsve436_000869" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000870" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_000871" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000872" ana="#NNSfNNS" lemma="sheet">sheets</w>
+          <seg xml:id="xTok_PBsve436_000873" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000874" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_000875" type="ws" xml:space="preserve"> </seg>
+          <seg n="3" type="overlap" xml:id="PBsve436_ol_47">
+            <seg xml:id="xTok_PBsve436_000876" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000877" ana="#PPfPP" lemma="she">she</w>
+            <seg xml:id="xTok_PBsve436_000878" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_000879" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000880" ana="#VVZfVVZ" lemma="want">wants</w>
+          <seg xml:id="xTok_PBsve436_000881" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000882" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_000883" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000884" ana="#VVfVV" lemma="change">change</w>
+          <seg xml:id="xTok_PBsve436_000885" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000886" ana="#PPfPP" lemma="it">it<c function="rise" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_48">
+          <seg n="2" synch="#PBsve436_ol_46" type="overlap" xml:id="PBsve436_ol_48">
+            <seg xml:id="xTok_PBsve436_000888" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000889" ana="#REfRE" lemma="mhm">mhm</w>
+            <seg xml:id="xTok_PBsve436_000890" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_49">
+          <seg n="3" synch="#PBsve436_ol_47" type="overlap" xml:id="PBsve436_ol_49">
+            <seg xml:id="xTok_PBsve436_000892" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000893" ana="#UHfUH" lemma="erm">erm</w>
+            <seg xml:id="xTok_PBsve436_000894" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_50">
+          <seg xml:id="xTok_PBsve436_000896" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000897" ana="#PPfPP" lemma="she">she<c type="lengthening"/>
+          </w>
+          <pause/>
+          <seg n="4" type="overlap" xml:id="PBsve436_ol_50">
+            <seg xml:id="xTok_PBsve436_000898" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000899" ana="#PPfPP" lemma="she">she</w>
+            <seg xml:id="xTok_PBsve436_000900" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000901" ana="#RBfRB" lemma="just">just</w>
+            <seg xml:id="xTok_PBsve436_000902" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000903" part="I" next="#xTok_PBsve436_000904" ana="#VHPfVHZ" lemma="have">ha</w>
+          </seg>
+          <w xml:id="xTok_PBsve436_000904" part="F" prev="#xTok_PBsve436_000903">ve</w>
+          <seg xml:id="xTok_PBsve436_000905" type="ws" xml:space="preserve">  </seg>
+          <w xml:id="xTok_PBsve436_000906" part="I" next="#xTok_PBsve436_000907" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_000907" part="F" prev="#xTok_PBsve436_000906">r</w>
+          <seg xml:id="xTok_PBsve436_000908" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000909" ana="#CDfCD" lemma="one">one</w>
+          <seg xml:id="xTok_PBsve436_000910" type="ws" xml:space="preserve"> </seg>
+          <seg n="5" type="overlap" xml:id="PBsve436_ol_51">
+            <supplied reason="unintelligible">
+              <seg xml:id="xTok_PBsve436_000911" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000912" ana="#UNIfUNI" lemma="">x</w>
+              <seg xml:id="xTok_PBsve436_000913" type="ws" xml:space="preserve"> </seg>
+            </supplied>
+            <seg xml:id="xTok_PBsve436_000914" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000915" part="I" next="#xTok_PBsve436_000916" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+            </w>
+            <w xml:id="xTok_PBsve436_000916" part="F" prev="#xTok_PBsve436_000915">r</w>
+            <seg xml:id="xTok_PBsve436_000917" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_51">
+          <seg n="4" synch="#PBsve436_ol_50" type="overlap" xml:id="PBsve436_ol_52">
+            <seg xml:id="xTok_PBsve436_000919" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000920" ana="#INfIN" lemma="for">for</w>
+            <seg xml:id="xTok_PBsve436_000921" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000922" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_000923" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000924" ana="#NNfNN" lemma="bed">bed</w>
+            <seg xml:id="xTok_PBsve436_000925" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_52">
+          <seg n="5" synch="#PBsve436_ol_51" type="overlap" xml:id="PBsve436_ol_53">
+            <seg xml:id="xTok_PBsve436_000927" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000928" part="I" next="#xTok_PBsve436_000929" ana="#CDfCD" lemma="one">o<c type="lengthening"/>
+            </w>
+            <w xml:id="xTok_PBsve436_000929" part="F" prev="#xTok_PBsve436_000928">ne</w>
+            <seg xml:id="xTok_PBsve436_000930" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000931" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_000932" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_53">
+          <shift corresp="#PBsve436_s_12" feature="loud" new="p" xml:id="PBsve436_s_11"/>
+          <seg xml:id="xTok_PBsve436_000934" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000935" ana="#NNfNN" lemma="set">set</w>
+          <seg xml:id="xTok_PBsve436_000936" type="ws" xml:space="preserve"> </seg>
+          <foreign type="L1" voice:translation="come on" xml:lang="ger">
+            <seg xml:id="xTok_PBsve436_000937" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000938" ana="#FWfFW" lemma="">na</w>
+            <seg xml:id="xTok_PBsve436_000939" type="ws" xml:space="preserve"> </seg>
+          </foreign>
+          <shift corresp="#PBsve436_s_11" feature="loud" new="neutral" xml:id="PBsve436_s_12"/>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_54">
+          <shift corresp="#PBsve436_s_14" feature="loud" new="p" xml:id="PBsve436_s_13"/>
+          <seg xml:id="xTok_PBsve436_000941" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000942" ana="#NNfNN" lemma="set">set</w>
+          <seg xml:id="xTok_PBsve436_000943" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000944" ana="#XXfXX" lemma="">sh-</w>
+          <seg xml:id="xTok_PBsve436_000945" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000946" ana="#NNSfNNS" lemma="sheet">sheets</w>
+          <seg xml:id="xTok_PBsve436_000947" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_000948" ana="#INfIN" lemma="of">of</w>
+          <seg xml:id="xTok_PBsve436_000949" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg n="6" type="overlap" xml:id="PBsve436_ol_54">
+            <seg xml:id="xTok_PBsve436_000950" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000951" ana="#INfIN" lemma="for">for</w>
+            <seg xml:id="xTok_PBsve436_000952" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000953" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_000954" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000955" ana="#NNfNN" lemma="bed">bed<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+          <shift corresp="#PBsve436_s_13" feature="loud" new="neutral" xml:id="PBsve436_s_14"/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_55">
+          <voice:to who="#PBsve436_S3">
+            <foreign type="L1" voice:translation="what means 'to have something' well" xml:lang="ger">
+              <seg n="6" synch="#PBsve436_ol_54" type="overlap" xml:id="PBsve436_ol_55">
+                <seg xml:id="xTok_PBsve436_000957" type="ws" xml:space="preserve"> </seg>
+                <w xml:id="xTok_PBsve436_000958" ana="#FWfFW" lemma="">was</w>
+                <seg xml:id="xTok_PBsve436_000959" type="ws" xml:space="preserve"> </seg>
+                <w xml:id="xTok_PBsve436_000960" ana="#FWfFW" lemma="">heisst</w>
+                <seg xml:id="xTok_PBsve436_000961" type="ws" xml:space="preserve"> </seg>
+                <w xml:id="xTok_PBsve436_000962" ana="#FWfFW" lemma="">denn</w>
+                <seg xml:id="xTok_PBsve436_000963" type="ws" xml:space="preserve"> </seg>
+              </seg>
+              <seg xml:id="xTok_PBsve436_000964" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000965" ana="#FWfFW" lemma="">etwas</w>
+              <seg xml:id="xTok_PBsve436_000966" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000967" ana="#FWfFW" lemma="">haben</w>
+              <seg xml:id="xTok_PBsve436_000968" type="ws" xml:space="preserve"> </seg>
+              <pause/>
+              <seg xml:id="xTok_PBsve436_000969" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000970" ana="#FWfFW" lemma="">also</w>
+              <seg xml:id="xTok_PBsve436_000971" type="ws" xml:space="preserve"> </seg>
+            </foreign>
+          </voice:to>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_56">
+          <vocal xml:id="PBsve436_u_56_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+          <anchor synch="#PBsve436_oc_3" type="other_continuation" xml:id="PBsve436_oc_2" mode="inline"/>
+        </u>
+        <u who="#PBsve436_S3" xml:id="PBsve436_u_57">
+          <voice:to who="#PBsve436_S1">
+            <foreign type="L1" voice:translation="just keep talking about the" xml:lang="ger">
+              <anchor synch="#PBsve436_oc_2" type="other_continuation" xml:id="PBsve436_oc_3"/>
+              <seg xml:id="xTok_PBsve436_000974" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000975" ana="#FWfFW" lemma="">einfach</w>
+              <seg xml:id="xTok_PBsve436_000976" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000977" ana="#FWfFW" lemma="">red-</w>
+              <seg xml:id="xTok_PBsve436_000978" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000979" ana="#FWfFW" lemma="">er</w>
+              <seg xml:id="xTok_PBsve436_000980" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000981" ana="#FWfFW" lemma="">rede</w>
+              <seg xml:id="xTok_PBsve436_000982" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000983" ana="#FWfFW" lemma="">einfach</w>
+              <seg xml:id="xTok_PBsve436_000984" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000985" ana="#FWfFW" lemma="">ganz</w>
+              <seg xml:id="xTok_PBsve436_000986" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000987" ana="#FWfFW" lemma="">normal</w>
+              <seg xml:id="xTok_PBsve436_000988" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000989" ana="#FWfFW" lemma="">weiter</w>
+              <seg xml:id="xTok_PBsve436_000990" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000991" ana="#FWfFW" lemma="">mit</w>
+              <seg xml:id="xTok_PBsve436_000992" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000993" ana="#FWfFW" lemma="">dem</w>
+              <seg xml:id="xTok_PBsve436_000994" type="ws" xml:space="preserve"> </seg>
+            </foreign>
+            <seg xml:id="xTok_PBsve436_000995" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_000996" ana="#NNfNN" lemma="sheet">sheet<c function="fall" type="intonation"/>
+            </w>
+          </voice:to>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_58">
+          <voice:to who="#PBsve436_S3">
+            <foreign type="L1" voice:translation="what" xml:lang="ger">
+              <seg xml:id="xTok_PBsve436_000998" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_000999" ana="#FWfFW" lemma="">was<c function="rise" type="intonation"/>
+              </w>
+            </foreign>
+          </voice:to>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S3" xml:id="PBsve436_u_59">
+          <voice:to who="#PBsve436_S1">
+            <foreign type="L1" voice:translation="just ask her whether she has only one" xml:lang="ger">
+              <seg xml:id="xTok_PBsve436_001001" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001002" ana="#FWfFW" lemma="">frag</w>
+              <seg xml:id="xTok_PBsve436_001003" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001004" ana="#FWfFW" lemma="">sie</w>
+              <seg xml:id="xTok_PBsve436_001005" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001006" ana="#FWfFW" lemma="">einfach</w>
+              <seg xml:id="xTok_PBsve436_001007" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001008" ana="#FWfFW" lemma="">ob</w>
+              <seg xml:id="xTok_PBsve436_001009" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001010" ana="#FWfFW" lemma="">sie</w>
+              <seg xml:id="xTok_PBsve436_001011" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001012" ana="#FWfFW" lemma="">nur</w>
+              <seg xml:id="xTok_PBsve436_001013" type="ws" xml:space="preserve"> </seg>
+              <emph>
+                <seg xml:id="xTok_PBsve436_001014" type="ws" xml:space="preserve"> </seg>
+                <w xml:id="xTok_PBsve436_001015" ana="#FWfFW" lemma="">ein</w>
+                <seg xml:id="xTok_PBsve436_001016" type="ws" xml:space="preserve"> </seg>
+              </emph>
+            </foreign>
+            <seg xml:id="xTok_PBsve436_001017" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001018" ana="#NNfNN" lemma="sheet">sheet</w>
+            <seg xml:id="xTok_PBsve436_001019" type="ws" xml:space="preserve"> </seg>
+            <foreign type="L1" xml:lang="ger">
+              <seg xml:id="xTok_PBsve436_001020" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001021" ana="#FWfFW" lemma="">hat<c function="fall" type="intonation"/>
+              </w>
+            </foreign>
+          </voice:to>
+        </u>
+        <u who="#PBsve436_SX-2" xml:id="PBsve436_u_60">
+          <seg xml:id="xTok_PBsve436_001023" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001024" ana="#REfRE" lemma="hm">hm</w>
+          <seg xml:id="xTok_PBsve436_001025" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_61">
+          <seg xml:id="xTok_PBsve436_001027" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001028" ana="#VVPfVVP" lemma="do">do</w>
+          <seg xml:id="xTok_PBsve436_001029" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001030" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_001031" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001032" ana="#VHfVH" lemma="have">have</w>
+          <seg xml:id="xTok_PBsve436_001033" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001034" ana="#RBfRB" lemma="just">just</w>
+          <seg xml:id="xTok_PBsve436_001035" type="ws" xml:space="preserve"> </seg>
+          <emph>
+            <seg xml:id="xTok_PBsve436_001036" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001037" ana="#CDfCD" lemma="one">one</w>
+            <seg xml:id="xTok_PBsve436_001038" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <pause/>
+          <seg n="6" type="overlap" xml:id="PBsve436_ol_56">
+            <seg xml:id="xTok_PBsve436_001039" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001040" ana="#NNfNN" lemma="bed">bed</w>
+            <seg xml:id="xTok_PBsve436_001041" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001042" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001043" ana="#NNfNN" lemma="sheet">sheet<c function="rise" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_62">
+          <seg n="6" synch="#PBsve436_ol_56" type="overlap" xml:id="PBsve436_ol_57">
+            <seg xml:id="xTok_PBsve436_001045" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001046" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_001047" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_63">
+          <seg xml:id="xTok_PBsve436_001049" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001050" ana="#REfRE" lemma="mhm">mhm<c function="fall" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_64">
+          <seg xml:id="xTok_PBsve436_001052" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001053" ana="#REfRE" lemma="aha">aha</w>
+          <seg xml:id="xTok_PBsve436_001054" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001055" ana="#PPfPP" lemma="she">she</w>
+          <seg xml:id="xTok_PBsve436_001056" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001057" ana="#MDfMD" lemma="shall">should</w>
+          <seg xml:id="xTok_PBsve436_001058" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_001059" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001060" ana="#RBfRB" lemma="then">then<c type="lengthening"/>
+          </w>
+          <shift corresp="#PBsve436_s_16" feature="tempo" new="l" xml:id="PBsve436_s_15"/>
+          <seg xml:id="xTok_PBsve436_001061" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001062" ana="#MDfMD" lemma="can">could</w>
+          <seg xml:id="xTok_PBsve436_001063" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001064" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_001065" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001066" ana="#RBfRB" lemma="just">just</w>
+          <seg xml:id="xTok_PBsve436_001067" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001068" ana="#VVfVV" lemma="tell">tell</w>
+          <seg xml:id="xTok_PBsve436_001069" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001070" ana="#PPfPP" lemma="i">me</w>
+          <seg xml:id="xTok_PBsve436_001071" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_15" feature="tempo" new="neutral" xml:id="PBsve436_s_16"/>
+          <seg n="7" type="overlap" xml:id="PBsve436_ol_58">
+            <seg xml:id="xTok_PBsve436_001072" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001073" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_001074" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001075" ana="#NNfNN" lemma="room">room</w>
+            <seg xml:id="xTok_PBsve436_001076" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001077" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001078" ana="#NNfNN" lemma="number">number<c function="rise" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_65">
+          <seg n="7" synch="#PBsve436_ol_58" type="overlap" xml:id="PBsve436_ol_59">
+            <seg xml:id="xTok_PBsve436_001080" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001081" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_001082" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_66">
+          <seg xml:id="xTok_PBsve436_001084" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001085" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_001086" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001087" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_PBsve436_001088" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001089" ana="#PPfPP" lemma="it" apostroph_split="xTok_PBsve436_001091" part="I" next="xTok_PBsve436_001091">it</w>
+          <w xml:id="xTok_PBsve436_001091" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001089" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_001092" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001093" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_PBsve436_001094" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001095" ana="#INfIN" lemma="next">next</w>
+          <seg xml:id="xTok_PBsve436_001096" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001097" ana="#INfIN" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_001098" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001099" ana="#PPfPP" lemma="i">me</w>
+          <seg xml:id="xTok_PBsve436_001100" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_18" feature="voice" new="laugh" xml:id="PBsve436_s_17"/>
+          <seg xml:id="xTok_PBsve436_001101" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001102" ana="#REfRE" lemma="okay">okay</w>
+          <seg xml:id="xTok_PBsve436_001103" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_17" feature="voice" new="neutral" xml:id="PBsve436_s_18"/>
+          <seg xml:id="xTok_PBsve436_001104" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001105" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_PBsve436_001106" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001107" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_PBsve436_001108" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001109" ana="#PPSfPPS" lemma="i">my</w>
+          <seg xml:id="xTok_PBsve436_001110" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001111" ana="#NNfNN" lemma="room">room<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_001112" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001113" ana="#PPfPP" lemma="it" apostroph_split="xTok_PBsve436_001115" part="I" next="xTok_PBsve436_001115">it</w>
+          <w xml:id="xTok_PBsve436_001115" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001113" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_001116" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001117" ana="#CDfCD" lemma="twenty-nine">twenty-nine</w>
+          <seg xml:id="xTok_PBsve436_001118" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001119" ana="#BRfBR" lemma="">hh</w>
+          <seg xml:id="xTok_PBsve436_001120" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_67">
+          <seg xml:id="xTok_PBsve436_001122" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001123" ana="#REfRE" lemma="mhm">mhm</w>
+          <seg xml:id="xTok_PBsve436_001124" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_68">
+          <seg xml:id="xTok_PBsve436_001126" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001127" ana="#UHfUH" lemma="erm">erm</w>
+          <seg xml:id="xTok_PBsve436_001128" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001129" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_PBsve436_001130" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001131" ana="#CCfCC" lemma="but">but</w>
+          <seg xml:id="xTok_PBsve436_001132" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001133" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_001134" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001135" ana="#VVPfVVP" lemma="do" apostroph_split="xTok_PBsve436_001137" part="I" next="xTok_PBsve436_001137">do</w>
+          <w xml:id="xTok_PBsve436_001137" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_PBsve436_001135" removed_ws="1">n't</w>
+          <seg xml:id="xTok_PBsve436_001138" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001139" ana="#VVfVV" lemma="know">know</w>
+          <seg xml:id="xTok_PBsve436_001140" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001141" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_001142" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001143" part="I" next="#xTok_PBsve436_001144" ana="#NNfNN" lemma="number">num</w>
+          <seg n="1" type="overlap" xml:id="PBsve436_ol_60">
+            <w xml:id="xTok_PBsve436_001144" part="F" prev="#xTok_PBsve436_001143">ber</w>
+            <seg xml:id="xTok_PBsve436_001145" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_69">
+          <seg n="1" synch="#PBsve436_ol_60" type="overlap" xml:id="PBsve436_ol_61">
+            <seg xml:id="xTok_PBsve436_001147" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001148" ana="#WPfWP" lemma="what" apostroph_split="xTok_PBsve436_001150" part="I" next="xTok_PBsve436_001150">what</w>
+            <w xml:id="xTok_PBsve436_001150" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001148" removed_ws="1">'s</w>
+            <seg xml:id="xTok_PBsve436_001151" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001152" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001153" ana="#WPfWP" lemma="what" apostroph_split="xTok_PBsve436_001155" part="I" next="xTok_PBsve436_001155">what</w>
+          <w xml:id="xTok_PBsve436_001155" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001153" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_001156" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001157" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_001158" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001159" ana="#NNfNN" lemma="name">name</w>
+          <seg xml:id="xTok_PBsve436_001160" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001161" ana="#INfIN" lemma="of">of</w>
+          <seg xml:id="xTok_PBsve436_001162" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_001163" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001164" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_001165" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001166" ana="#NNfNN" lemma="neighbor">neighbor<c function="rise" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_70">
+          <supplied reason="anonymization">
+            <seg xml:id="xTok_PBsve436_001168" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001169" ana="#NPfNP" lemma="">[firstname1]<c function="fall" type="intonation"/>
+            </w>
+            <seg xml:id="xTok_PBsve436_001170" type="ws" xml:space="preserve"> </seg>
+          </supplied>
+          <pause dur="PT2S"/>
+          <incident dur="PT2S" voice:desc="S2 takes out her key "/>
+          <seg xml:id="xTok_PBsve436_001171" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001172" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_PBsve436_001173" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001174" ana="#DTfDT" lemma="this">this</w>
+          <seg xml:id="xTok_PBsve436_001175" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001176" ana="#VBZfVBZ" lemma="be">is</w>
+          <seg xml:id="xTok_PBsve436_001177" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001178" ana="#PPfPP" lemma="i">mine</w>
+          <seg xml:id="xTok_PBsve436_001179" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_PBsve436_001180" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001181" ana="#CDfCD" lemma="three">three</w>
+          <seg xml:id="xTok_PBsve436_001182" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001183" ana="#PPfPP" lemma="it">it</w>
+          <seg xml:id="xTok_PBsve436_001184" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001185" ana="#MDfMD" lemma="must">must</w>
+          <seg xml:id="xTok_PBsve436_001186" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001187" ana="#VBfVB" lemma="be">be</w>
+          <seg xml:id="xTok_PBsve436_001188" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001189" ana="#CDfCD" lemma="two">two<c function="fall" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_001190" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001191" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_001192" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001193" ana="#VVPfVVP" lemma="think">think</w>
+          <seg xml:id="xTok_PBsve436_001194" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001195" ana="#PPfPP" lemma="it" apostroph_split="xTok_PBsve436_001197" part="I" next="xTok_PBsve436_001197">it</w>
+          <w xml:id="xTok_PBsve436_001197" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001195" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_001198" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001199" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_001200" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001201" ana="#CDfCD" lemma="two">two<c function="fall" type="intonation"/>
+          </w>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_PBsve436_001202" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001203" ana="#REfRE" lemma="yes">yes</w>
+          <seg xml:id="xTok_PBsve436_001204" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001205" part="I" next="#xTok_PBsve436_001206" ana="#INfIN" lemma="because">becau</w>
+          <seg n="2" type="overlap" xml:id="PBsve436_ol_62">
+            <w xml:id="xTok_PBsve436_001206" part="F" prev="#xTok_PBsve436_001205">se</w>
+            <seg xml:id="xTok_PBsve436_001207" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001208" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001209" ana="#PPfPP" lemma="i">me</w>
+          <seg xml:id="xTok_PBsve436_001210" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001211" ana="#PPfPP" lemma="i" apostroph_split="xTok_PBsve436_001213" part="I" next="xTok_PBsve436_001213">i</w>
+          <w xml:id="xTok_PBsve436_001213" ana="#VBPfVBP" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001211" removed_ws="1">'m</w>
+          <seg xml:id="xTok_PBsve436_001214" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001215" ana="#CDfCD" lemma="three">three</w>
+          <seg xml:id="xTok_PBsve436_001216" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001217" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_PBsve436_001218" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT3S"/>
+          <incident dur="PT3S" voice:desc="S1 works on the computer "/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_71">
+          <seg n="2" synch="#PBsve436_ol_62" type="overlap" xml:id="PBsve436_ol_63">
+            <seg xml:id="xTok_PBsve436_001220" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001221" ana="#REfRE" lemma="yah">yah</w>
+            <seg xml:id="xTok_PBsve436_001222" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_72">
+          <seg xml:id="xTok_PBsve436_001224" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001225" ana="#UHfUH" lemma="ah">ah</w>
+          <seg xml:id="xTok_PBsve436_001226" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001227" ana="#CCfCC" lemma="but">but</w>
+          <seg xml:id="xTok_PBsve436_001228" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001229" ana="#PPfPP" lemma="she">she</w>
+          <seg xml:id="xTok_PBsve436_001230" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001231" ana="#RBfRB" lemma="even">even</w>
+          <seg xml:id="xTok_PBsve436_001232" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT2S"/>
+          <seg xml:id="xTok_PBsve436_001233" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001234" ana="#VVZfVVZ" lemma="move">moves</w>
+          <seg xml:id="xTok_PBsve436_001235" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001236" ana="#RPfRP" lemma="out">out</w>
+          <seg xml:id="xTok_PBsve436_001237" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001238" ana="#INfIN" lemma="by">by</w>
+          <seg xml:id="xTok_PBsve436_001239" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001240" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_001241" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001242" ana="#NNfNN" lemma="end">end</w>
+          <seg xml:id="xTok_PBsve436_001243" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001244" ana="#INfIN" lemma="of">of</w>
+          <seg xml:id="xTok_PBsve436_001245" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001246" ana="#NPfNP" lemma="june">june<c function="fall" type="intonation"/>
+          </w>
+          <pause dur="PT2S"/>
+          <seg xml:id="xTok_PBsve436_001247" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001248" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_001249" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_PBsve436_001250" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001251" ana="#INfIN" lemma="because">because</w>
+          <seg xml:id="xTok_PBsve436_001252" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001253" ana="#NNfNN" lemma="everybody">everybody</w>
+          <seg xml:id="xTok_PBsve436_001254" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001255" ana="#VHDfVHD" lemma="have">had</w>
+          <seg xml:id="xTok_PBsve436_001256" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001257" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_001258" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001259" ana="#VVfVV" lemma="return">return</w>
+          <seg xml:id="xTok_PBsve436_001260" type="ws" xml:space="preserve"> </seg>
+          <emph>
+            <seg xml:id="xTok_PBsve436_001261" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001262" ana="#CDfCD" lemma="one">one</w>
+            <seg xml:id="xTok_PBsve436_001263" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_001264" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001265" ana="#CDfCD" lemma="one">one</w>
+          <seg xml:id="xTok_PBsve436_001266" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001267" ana="#NNfNN" lemma="pair">pair</w>
+          <seg xml:id="xTok_PBsve436_001268" type="ws" xml:space="preserve"> </seg>
+          <seg n="3" type="overlap" xml:id="PBsve436_ol_64">
+            <seg xml:id="xTok_PBsve436_001269" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001270" ana="#INfIN" lemma="of">of</w>
+            <seg xml:id="xTok_PBsve436_001271" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001272" ana="#NNfNN" lemma="bed">bed</w>
+            <seg xml:id="xTok_PBsve436_001273" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001274" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001275" ana="#NNSfNNS" lemma="sheet">sheets</w>
+          <seg xml:id="xTok_PBsve436_001276" type="ws" xml:space="preserve"> </seg>
+          <seg n="4" type="overlap" xml:id="PBsve436_ol_65">
+            <seg xml:id="xTok_PBsve436_001277" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001278" ana="#INfIN" lemma="because">because</w>
+            <seg xml:id="xTok_PBsve436_001279" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001280" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001281" ana="#UHfUH" lemma="erm">erm</w>
+          <seg xml:id="xTok_PBsve436_001282" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_73">
+          <seg n="3" synch="#PBsve436_ol_64" type="overlap" xml:id="PBsve436_ol_66">
+            <seg xml:id="xTok_PBsve436_001284" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001285" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_001286" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_74">
+          <seg n="4" synch="#PBsve436_ol_65" type="overlap" xml:id="PBsve436_ol_67">
+            <seg xml:id="xTok_PBsve436_001288" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001289" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_001290" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_75">
+          <seg xml:id="xTok_PBsve436_001292" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001293" ana="#PPSfPPS" lemma="we">our</w>
+          <seg xml:id="xTok_PBsve436_001294" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001295" ana="#VVGfNN" lemma="clean/cleaning">cleaning</w>
+          <seg xml:id="xTok_PBsve436_001296" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001297" ana="#NNfNN" lemma="lady">lady</w>
+          <seg xml:id="xTok_PBsve436_001298" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001299" ana="#VHZfVHZ" lemma="have">has</w>
+          <seg xml:id="xTok_PBsve436_001300" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001301" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_001302" type="ws" xml:space="preserve"> </seg>
+          <emph>
+            <seg xml:id="xTok_PBsve436_001303" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001304" ana="#VVfVV" lemma="wash">wash</w>
+            <seg xml:id="xTok_PBsve436_001305" type="ws" xml:space="preserve"> </seg>
+          </emph>
+          <seg xml:id="xTok_PBsve436_001306" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001307" ana="#DTfDT" lemma="all">all</w>
+          <seg xml:id="xTok_PBsve436_001308" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg n="5" type="overlap" xml:id="PBsve436_ol_68">
+            <seg xml:id="xTok_PBsve436_001309" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001310" ana="#INfIN" lemma="that">that</w>
+            <seg xml:id="xTok_PBsve436_001311" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001312" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_001313" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001314" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001315" ana="#JJfJJ" lemma="new">new</w>
+          <seg xml:id="xTok_PBsve436_001316" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001317" ana="#NNSfNNS" lemma="person">persons</w>
+          <seg xml:id="xTok_PBsve436_001318" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_76">
+          <seg n="5" synch="#PBsve436_ol_68" type="overlap" xml:id="PBsve436_ol_69">
+            <seg xml:id="xTok_PBsve436_001320" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001321" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_001322" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_77">
+          <seg xml:id="xTok_PBsve436_001324" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001325" ana="#MDfMD" lemma="can">can</w>
+          <seg xml:id="xTok_PBsve436_001326" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001327" ana="#VHfVH" lemma="have">have</w>
+          <seg xml:id="xTok_PBsve436_001328" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001329" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_001330" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001331" ana="#JJfJJ" lemma="new">new</w>
+          <seg xml:id="xTok_PBsve436_001332" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001333" ana="#NNfNN" lemma="one">one</w>
+          <seg xml:id="xTok_PBsve436_001334" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001335" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_PBsve436_001336" type="ws" xml:space="preserve"> </seg>
+          <anchor synch="#PBsve436_oc_5" type="other_continuation" xml:id="PBsve436_oc_4"/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_78">
+          <anchor synch="#PBsve436_oc_4" type="other_continuation" xml:id="PBsve436_oc_5"/>
+          <seg xml:id="xTok_PBsve436_001338" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001339" part="I" next="#xTok_PBsve436_001340" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_001340" part="F" prev="#xTok_PBsve436_001339">h</w>
+          <seg xml:id="xTok_PBsve436_001341" type="ws" xml:space="preserve"> </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_79">
+          <seg xml:id="xTok_PBsve436_001343" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001344" ana="#PPfDM" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_001345" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001346" ana="#VVPfDM" lemma="mean">mean</w>
+          <seg xml:id="xTok_PBsve436_001347" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001348" ana="#XXfXX" lemma="">m-</w>
+          <seg xml:id="xTok_PBsve436_001349" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001350" ana="#PPfPP" lemma="she">she</w>
+          <seg xml:id="xTok_PBsve436_001351" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001352" ana="#RBfRB" lemma="just">just</w>
+          <seg xml:id="xTok_PBsve436_001353" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_PBsve436_001354" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001355" ana="#MDfMD" lemma="will">will</w>
+          <seg xml:id="xTok_PBsve436_001356" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001357" ana="#VHfVH" lemma="have">have</w>
+          <seg xml:id="xTok_PBsve436_001358" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001359" ana="#UHfUH" lemma="er">er</w>
+          <seg xml:id="xTok_PBsve436_001360" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001361" ana="#PPSfPPS" lemma="she">her</w>
+          <seg xml:id="xTok_PBsve436_001362" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001363" ana="#NNfNN" lemma="bed">bed</w>
+          <seg xml:id="xTok_PBsve436_001364" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001365" ana="#NNSfNNS" lemma="sheet">sheets</w>
+          <seg xml:id="xTok_PBsve436_001366" type="ws" xml:space="preserve"> </seg>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_001367" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001368" ana="#INfIN" lemma="for">for</w>
+          <seg xml:id="xTok_PBsve436_001369" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001370" ana="#DTfDT" lemma="a">a</w>
+          <seg xml:id="xTok_PBsve436_001371" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001372" ana="#JJfJJ" lemma="few">few</w>
+          <seg xml:id="xTok_PBsve436_001373" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001374" ana="#NNSfNNS" lemma="day">days</w>
+          <seg xml:id="xTok_PBsve436_001375" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001376" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_PBsve436_001377" type="ws" xml:space="preserve"> </seg>
+          <seg n="6" type="overlap" xml:id="PBsve436_ol_70">
+            <seg xml:id="xTok_PBsve436_001378" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001379" ana="#RBfRB" lemma="maybe">maybe</w>
+            <seg xml:id="xTok_PBsve436_001380" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_80">
+          <seg n="6" synch="#PBsve436_ol_70" type="overlap" xml:id="PBsve436_ol_71">
+            <seg xml:id="xTok_PBsve436_001382" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001383" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+            </w>
+          </seg>
+          <vocal xml:id="PBsve436_u_80_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <seg n="7" type="overlap" xml:id="PBsve436_ol_72">
+            <seg xml:id="xTok_PBsve436_001384" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001385" ana="#DMfDM" lemma="so">so</w>
+            <seg xml:id="xTok_PBsve436_001386" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001387" ana="#CCfCC" lemma="but">but</w>
+            <seg xml:id="xTok_PBsve436_001388" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001389" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_001390" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001391" ana="#JJfJJ" lemma="next">next</w>
+            <seg xml:id="xTok_PBsve436_001392" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001393" ana="#NNfNN" lemma="month">month</w>
+            <seg xml:id="xTok_PBsve436_001394" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001395" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001396" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_001397" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001398" ana="#PPfPP" lemma="you">you</w>
+          <seg xml:id="xTok_PBsve436_001399" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001400" ana="#VVPfVVP" lemma="think">think</w>
+          <seg xml:id="xTok_PBsve436_001401" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001402" ana="#INfIN" lemma="that">that</w>
+          <seg xml:id="xTok_PBsve436_001403" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001404" part="I" next="#xTok_PBsve436_001405" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_001405" part="F" prev="#xTok_PBsve436_001404">r</w>
+          <seg xml:id="xTok_PBsve436_001406" type="ws" xml:space="preserve">  </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_81">
+          <seg n="7" synch="#PBsve436_ol_72" type="overlap" xml:id="PBsve436_ol_73">
+            <seg xml:id="xTok_PBsve436_001408" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001409" ana="#CCfCC" lemma="and">and</w>
+            <seg xml:id="xTok_PBsve436_001410" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001411" ana="#RBfRB" lemma="then">then</w>
+            <seg xml:id="xTok_PBsve436_001412" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001413" ana="#PPfPP" lemma="i">i</w>
+            <seg xml:id="xTok_PBsve436_001414" type="ws" xml:space="preserve"> </seg>
+            <pause/>
+            <seg xml:id="xTok_PBsve436_001415" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001416" ana="#REfRE" lemma="yah">yah</w>
+            <seg xml:id="xTok_PBsve436_001417" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_82">
+          <seg xml:id="xTok_PBsve436_001419" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001420" ana="#PPfPP" lemma="she" apostroph_split="xTok_PBsve436_001422" part="I" next="xTok_PBsve436_001422">she</w>
+          <w xml:id="xTok_PBsve436_001422" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001420" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_001423" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001424" ana="#PPfPP" lemma="she">she</w>
+          <seg xml:id="xTok_PBsve436_001425" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001426" ana="#VVZfVVZ" lemma="stay">stays</w>
+          <seg xml:id="xTok_PBsve436_001427" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001428" ana="#RBRfRBR" lemma="long">longer<c function="rise" type="intonation"/>
+          </w>
+          <voice:track medium="1" num="02" type="md"/>
+          <seg xml:id="xTok_PBsve436_001429" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001430" ana="#INfIN" lemma="than">than<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_001431" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001432" ana="#NPfNP" lemma="june">june<c function="rise" type="intonation"/>
+          </w>
+          <seg n="1" type="overlap" xml:id="PBsve436_ol_74">
+            <seg xml:id="xTok_PBsve436_001433" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001434" ana="#INfIN" lemma="cos">cos</w>
+            <seg xml:id="xTok_PBsve436_001435" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001436" ana="#PPfPP" lemma="she" apostroph_split="xTok_PBsve436_001438" part="I" next="xTok_PBsve436_001438">she</w>
+            <w xml:id="xTok_PBsve436_001438" ana="#VHSfVHS" lemma="have" split="yes" part="F" prev="xTok_PBsve436_001436" removed_ws="1">'s</w>
+            <seg xml:id="xTok_PBsve436_001439" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001440" ana="#RBfRB" lemma="just">just</w>
+            <seg xml:id="xTok_PBsve436_001441" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001442" ana="#VVNfVVN" lemma="book">booked</w>
+            <seg xml:id="xTok_PBsve436_001443" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001444" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001445" ana="#INfIN" lemma="until">until</w>
+          <seg xml:id="xTok_PBsve436_001446" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001447" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_001448" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001449" ana="#NNfNN" lemma="end">end</w>
+          <seg xml:id="xTok_PBsve436_001450" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001451" ana="#INfIN" lemma="of">of</w>
+          <seg xml:id="xTok_PBsve436_001452" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001453" ana="#NPfNP" lemma="june">june<c function="fall" type="intonation"/>
+          </w>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_83">
+          <seg n="1" synch="#PBsve436_ol_74" type="overlap" xml:id="PBsve436_ol_75">
+            <emph>
+              <seg xml:id="xTok_PBsve436_001455" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001456" ana="#REfRE" lemma="yes">yes</w>
+              <seg xml:id="xTok_PBsve436_001457" type="ws" xml:space="preserve"> </seg>
+            </emph>
+            <seg xml:id="xTok_PBsve436_001458" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001459" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_001460" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001461" ana="#REfRE" lemma="yes">yes</w>
+            <seg xml:id="xTok_PBsve436_001462" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_84">
+          <shift corresp="#PBsve436_s_20" feature="loud" new="p" xml:id="PBsve436_s_19"/>
+          <seg xml:id="xTok_PBsve436_001464" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001465" ana="#REfRE" lemma="no">no<c type="lengthening"/>
+          </w>
+          <pause/>
+          <seg xml:id="xTok_PBsve436_001466" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001467" ana="#PPfPP" lemma="she" apostroph_split="xTok_PBsve436_001469" part="I" next="xTok_PBsve436_001469">she</w>
+          <w xml:id="xTok_PBsve436_001469" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001467" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_001470" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001471" part="I" next="#xTok_PBsve436_001472" ana="#RBfRB" lemma="here">he<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_001472" part="F" prev="#xTok_PBsve436_001471">re</w>
+          <seg xml:id="xTok_PBsve436_001473" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001474" ana="#INfIN" lemma="for">for</w>
+          <seg xml:id="xTok_PBsve436_001475" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001476" ana="#RBRfRBR" lemma="more">more<c function="fall" type="intonation"/>
+          </w>
+          <shift corresp="#PBsve436_s_19" feature="loud" new="neutral" xml:id="PBsve436_s_20"/>
+          <pause dur="PT14S"/>
+          <incident dur="PT14S" voice:desc="S1 works on computer "/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_85">
+          <shift corresp="#PBsve436_s_22" feature="loud" new="p" xml:id="PBsve436_s_21"/>
+          <seg xml:id="xTok_PBsve436_001478" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001479" ana="#REfRE" lemma="no">no</w>
+          <seg xml:id="xTok_PBsve436_001480" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001481" ana="#PPfPP" lemma="she">she</w>
+          <seg xml:id="xTok_PBsve436_001482" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001483" ana="#PPfPP" lemma="she" apostroph_split="xTok_PBsve436_001485" part="I" next="xTok_PBsve436_001485">she</w>
+          <w xml:id="xTok_PBsve436_001485" ana="#VHSfVHS" lemma="have" split="yes" part="F" prev="xTok_PBsve436_001483" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_001486" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001487" ana="#RBfRB" lemma="just">just</w>
+          <seg xml:id="xTok_PBsve436_001488" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001489" ana="#VVNfVVN" lemma="book">booked</w>
+          <seg xml:id="xTok_PBsve436_001490" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001491" ana="#INfIN" lemma="until">until</w>
+          <seg xml:id="xTok_PBsve436_001492" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001493" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_001494" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001495" ana="#NNfNN" lemma="end">end</w>
+          <seg xml:id="xTok_PBsve436_001496" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001497" ana="#INfIN" lemma="of">of</w>
+          <seg xml:id="xTok_PBsve436_001498" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001499" ana="#NPfNP" lemma="june">june<c function="fall" type="intonation"/>
+          </w>
+          <shift corresp="#PBsve436_s_21" feature="loud" new="neutral" xml:id="PBsve436_s_22"/>
+          <pause dur="PT1S"/>
+          <seg xml:id="xTok_PBsve436_001500" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001501" ana="#DMfDM" lemma="so">so</w>
+          <seg xml:id="xTok_PBsve436_001502" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001503" ana="#RBfRB" lemma="maybe">maybe</w>
+          <seg xml:id="xTok_PBsve436_001504" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001505" ana="#DTfDT" lemma="the">the</w>
+          <seg xml:id="xTok_PBsve436_001506" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001507" ana="#NNfNN" lemma="best">best</w>
+          <seg xml:id="xTok_PBsve436_001508" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001509" ana="#MDfMD" lemma="will">would</w>
+          <seg xml:id="xTok_PBsve436_001510" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001511" ana="#VBfVB" lemma="be">be</w>
+          <seg xml:id="xTok_PBsve436_001512" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001513" ana="#INfIN" lemma="if">if</w>
+          <seg xml:id="xTok_PBsve436_001514" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001515" ana="#PPfPP" lemma="she">she<c type="lengthening"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_001516" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001517" part="I" next="#xTok_PBsve436_001518" ana="#VVZfVVZ" lemma="contact">con</w>
+          <seg n="2" type="overlap" xml:id="PBsve436_ol_76">
+            <w xml:id="xTok_PBsve436_001518" part="F" prev="#xTok_PBsve436_001517">tacts</w>
+            <seg xml:id="xTok_PBsve436_001519" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001520" ana="#PPfPP" lemma="we">us</w>
+            <seg xml:id="xTok_PBsve436_001521" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_86">
+          <seg n="2" synch="#PBsve436_ol_76" type="overlap" xml:id="PBsve436_ol_77">
+            <seg xml:id="xTok_PBsve436_001523" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001524" ana="#PPfPP" lemma="she">she</w>
+            <seg xml:id="xTok_PBsve436_001525" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001526" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001527" ana="#REfRE" lemma="okay">okay</w>
+          <seg xml:id="xTok_PBsve436_001528" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001529" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_001530" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001531" ana="#MDfMD" lemma="will">will</w>
+          <seg xml:id="xTok_PBsve436_001532" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001533" ana="#VVfVV" lemma="tell">tell</w>
+          <seg xml:id="xTok_PBsve436_001534" type="ws" xml:space="preserve"> </seg>
+          <anchor synch="#PBsve436_oc_7" type="other_continuation" xml:id="PBsve436_oc_6"/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_87">
+          <anchor synch="#PBsve436_oc_6" type="other_continuation" xml:id="PBsve436_oc_7"/>
+          <seg xml:id="xTok_PBsve436_001536" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001537" ana="#REfRE" lemma="yes">yes</w>
+          <seg xml:id="xTok_PBsve436_001538" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001539" ana="#REfRE" lemma="yeah">yeah</w>
+          <seg xml:id="xTok_PBsve436_001540" type="ws" xml:space="preserve"> </seg>
+          <seg n="3" type="overlap" xml:id="PBsve436_ol_78">
+            <vocal xml:id="PBsve436_ol_78_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+            <shift corresp="#PBsve436_s_24" feature="voice" new="laugh" xml:id="PBsve436_s_23"/>
+            <seg xml:id="xTok_PBsve436_001541" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001542" ana="#DTfDT" lemma="that">that</w>
+            <seg xml:id="xTok_PBsve436_001543" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001544" ana="#MDfMD" lemma="will">would</w>
+            <seg xml:id="xTok_PBsve436_001545" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001546" ana="#VBfVB" lemma="be">be</w>
+            <seg xml:id="xTok_PBsve436_001547" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001548" ana="#DTfDT" lemma="the">the</w>
+            <seg xml:id="xTok_PBsve436_001549" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001550" ana="#NNfNN" lemma="best">best</w>
+            <seg xml:id="xTok_PBsve436_001551" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001552" ana="#REfRE" lemma="yah">yah</w>
+            <seg xml:id="xTok_PBsve436_001553" type="ws" xml:space="preserve"> </seg>
+            <shift corresp="#PBsve436_s_23" feature="voice" new="neutral" xml:id="PBsve436_s_24"/>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_88">
+          <seg n="3" synch="#PBsve436_ol_78" type="overlap" xml:id="PBsve436_ol_79">
+            <seg xml:id="xTok_PBsve436_001555" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001556" ana="#CCfCC" lemma="but">but</w>
+            <seg xml:id="xTok_PBsve436_001557" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001558" ana="#PPfPP" lemma="it" apostroph_split="xTok_PBsve436_001560" part="I" next="xTok_PBsve436_001560">it</w>
+            <w xml:id="xTok_PBsve436_001560" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001558" removed_ws="1">'s</w>
+            <seg xml:id="xTok_PBsve436_001561" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001562" ana="#JJfJJ" lemma="strange">strange</w>
+            <seg xml:id="xTok_PBsve436_001563" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001564" ana="#INfIN" lemma="because">because</w>
+            <seg xml:id="xTok_PBsve436_001565" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001566" ana="#PPfPP" lemma="i">i</w>
+            <seg xml:id="xTok_PBsve436_001567" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001568" ana="#VVPfVVP" lemma="think">think</w>
+            <seg xml:id="xTok_PBsve436_001569" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <shift corresp="#PBsve436_s_26" feature="loud" new="p" xml:id="PBsve436_s_25"/>
+          <seg xml:id="xTok_PBsve436_001570" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001571" ana="#PPfPP" lemma="she" apostroph_split="xTok_PBsve436_001573" part="I" next="xTok_PBsve436_001573">she</w>
+          <w xml:id="xTok_PBsve436_001573" ana="#VBSfVBS" lemma="be" split="yes" part="F" prev="xTok_PBsve436_001571" removed_ws="1">'s</w>
+          <seg xml:id="xTok_PBsve436_001574" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001575" ana="#VVGfVVG" lemma="go">going</w>
+          <seg xml:id="xTok_PBsve436_001576" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001577" ana="#TOfTO" lemma="to">to</w>
+          <seg xml:id="xTok_PBsve436_001578" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001579" ana="#VBfVB" lemma="be">be</w>
+          <seg xml:id="xTok_PBsve436_001580" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001581" part="I" next="#xTok_PBsve436_001582" ana="#RBfRB" lemma="here">he<c type="lengthening"/>
+          </w>
+          <w xml:id="xTok_PBsve436_001582" part="F" prev="#xTok_PBsve436_001581">re</w>
+          <seg xml:id="xTok_PBsve436_001583" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001584" ana="#INfIN" lemma="for">for</w>
+          <seg xml:id="xTok_PBsve436_001585" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001586" ana="#RBRfRBR" lemma="more">more<c function="fall" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_001587" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001588" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_001589" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001590" ana="#VVPfVVP" lemma="do" apostroph_split="xTok_PBsve436_001592" part="I" next="xTok_PBsve436_001592">do</w>
+          <w xml:id="xTok_PBsve436_001592" ana="#RBfRB" lemma="not" split="negation" part="F" prev="xTok_PBsve436_001590" removed_ws="1">n't</w>
+          <seg xml:id="xTok_PBsve436_001593" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001594" ana="#VVfVV" lemma="know">know<c function="fall" type="intonation"/>
+          </w>
+          <shift corresp="#PBsve436_s_25" feature="loud" new="neutral" xml:id="PBsve436_s_26"/>
+          <seg xml:id="xTok_PBsve436_001595" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001596" ana="#REfRE" lemma="okay">okay</w>
+          <seg xml:id="xTok_PBsve436_001597" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001598" ana="#PPfPP" lemma="i">i</w>
+          <seg xml:id="xTok_PBsve436_001599" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001600" ana="#MDfMD" lemma="will">will</w>
+          <seg xml:id="xTok_PBsve436_001601" type="ws" xml:space="preserve"> </seg>
+          <seg n="4" type="overlap" xml:id="PBsve436_ol_80">
+            <seg xml:id="xTok_PBsve436_001602" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001603" ana="#VVfVV" lemma="say">say</w>
+            <seg xml:id="xTok_PBsve436_001604" type="ws" xml:space="preserve"> </seg>
+            <pause/>
+            <vocal xml:id="PBsve436_ol_80_v0" subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          </seg>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_89">
+          <seg n="4" synch="#PBsve436_ol_80" type="overlap" xml:id="PBsve436_ol_81">
+            <seg xml:id="xTok_PBsve436_001606" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001607" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+            </w>
+            <unclear>
+              <seg xml:id="xTok_PBsve436_001608" type="ws" xml:space="preserve"> </seg>
+              <w xml:id="xTok_PBsve436_001609" ana="#RBfRB" lemma="somehow">somehow</w>
+              <seg xml:id="xTok_PBsve436_001610" type="ws" xml:space="preserve"> </seg>
+            </unclear>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001611" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001612" ana="#JJfJJ" lemma="strange">strange</w>
+          <seg xml:id="xTok_PBsve436_001613" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_28" feature="voice" new="laugh" xml:id="PBsve436_s_27"/>
+          <supplied reason="unintelligible">
+            <seg xml:id="xTok_PBsve436_001614" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001615" ana="#UNIfUNI" lemma="">xxx</w>
+            <seg xml:id="xTok_PBsve436_001616" type="ws" xml:space="preserve"> </seg>
+          </supplied>
+          <shift corresp="#PBsve436_s_27" feature="voice" new="neutral" xml:id="PBsve436_s_28"/>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_90">
+          <shift corresp="#PBsve436_s_30" feature="voice" new="laugh" xml:id="PBsve436_s_29"/>
+          <seg xml:id="xTok_PBsve436_001618" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001619" ana="#REfRE" lemma="yah">yah</w>
+          <seg xml:id="xTok_PBsve436_001620" type="ws" xml:space="preserve"> </seg>
+          <shift corresp="#PBsve436_s_29" feature="voice" new="neutral" xml:id="PBsve436_s_30"/>
+        </u>
+        <u who="#PBsve436_S1" xml:id="PBsve436_u_91">
+          <seg xml:id="xTok_PBsve436_001622" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001623" part="I" next="#xTok_PBsve436_001624" ana="#FIfFI" lemma="bye-bye">bye-</w>
+          <seg n="5" type="overlap" xml:id="PBsve436_ol_82">
+            <w xml:id="xTok_PBsve436_001624" part="F" prev="#xTok_PBsve436_001623">bye</w>
+            <seg xml:id="xTok_PBsve436_001625" type="ws" xml:space="preserve"> </seg>
+          </seg>
+        </u>
+        <u who="#PBsve436_S2" xml:id="PBsve436_u_92">
+          <seg n="5" synch="#PBsve436_ol_82" type="overlap" xml:id="PBsve436_ol_83">
+            <seg xml:id="xTok_PBsve436_001627" type="ws" xml:space="preserve"> </seg>
+            <w xml:id="xTok_PBsve436_001628" ana="#FIfFI" lemma="thank">thank</w>
+            <seg xml:id="xTok_PBsve436_001629" type="ws" xml:space="preserve"> </seg>
+          </seg>
+          <seg xml:id="xTok_PBsve436_001630" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001631" ana="#FIfFI" lemma="you">you<c function="fall" type="intonation"/>
+          </w>
+          <seg xml:id="xTok_PBsve436_001632" type="ws" xml:space="preserve"> </seg>
+          <w xml:id="xTok_PBsve436_001633" ana="#FIfFI" lemma="bye-bye">bye-bye</w>
+          <seg xml:id="xTok_PBsve436_001634" type="ws" xml:space="preserve"> </seg>
+          <pause dur="PT1S"/>
+          <incident dur="PT1S" voice:desc="S2 leaves the office "/>
+        </u>
+      </div>
+    </body>
+  </text>
+</TEI>
