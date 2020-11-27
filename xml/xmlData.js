@@ -43,7 +43,8 @@ class XMLData {
             console.log(String(err));
           } else {
             aFileObj.xml = data
-            let aDom = cheerio.load(data);
+            let aDom = cheerio.load(data, {xmlMode: true}); 
+            // still <pause/> and others will be <pause></pause>
             aFileObj.id = this.unleak(aDom('TEI')[0].attribs['xml:id']);
             aFileObj.header = this.unleak(cheerio.html(aDom('teiHeader')));
             let u = aDom('u')
