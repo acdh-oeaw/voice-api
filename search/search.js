@@ -1,4 +1,5 @@
 const https = require('https');
+const http = require('http');
 const cheerio = require('cheerio');
 const {
   NOSKE_BONITO
@@ -48,8 +49,10 @@ class search {
     });
   }
   getJson(url, cb) {
+    const client = noske_bonito.startsWith('https') ? https : http
+    const clientOptions = noske_bonito.startsWith('https') ? {rejectUnauthorized: false} : {}
     // pretty much the boiler plate code from nodejs.org docs.
-    return https.get(url, function(res) {
+    return client.get(url, clientOptions, function(res) {
       const { statusCode } = res;
       const contentType = res.headers['content-type'];
     
