@@ -1,90 +1,20 @@
-var fs = require("fs");
-const cheerio = require('cheerio');
-
-const xmlFilesDirectory = './xmlfiles'
-
 class XML {
-  constructor() {
-    this.data = {};
-    this.files = [];
-    this.filesById = {};
-    this.loaded = false;
-    this.errors = [];
-    this.init();
-  }
-  init () {
-    console.log('Init XML');
-    console.log('Read "xmlfiles"-Directory');
-    fs.readdir(xmlFilesDirectory, (err, files) => {
-      this.files = files.filter(f => typeof f === 'string' && f.toLowerCase().split('.').pop() === 'xml').map( fn => {
-        return {
-          filename: fn,
-          id: null,
-          xml: '',
-          header: '',
-          u: [],
-          uById: {},
-          loaded: false
-        }
-      });
-      this.loadFile();
-    });
-  }
-  unleak (string) {
-    return (' ' + string).substr(1)
-  }
-  loadFile () {
-    let unloadedFiles = this.files.filter(f => !f.loaded)
-    if (unloadedFiles.length > 0) {
-      let aFileObj = unloadedFiles[0]
-      console.log('Load File - ' + aFileObj.filename)
-      fs.readFile(xmlFilesDirectory + '/' + aFileObj.filename, {encoding: 'utf8'}, (err, data) => {
-        if (err) {
-          this.errors.push({ func: 'loadFile', err: String(err) });
-          console.log(String(err));
-        } else {
-          aFileObj.xml = data
-          let aDom = cheerio.load(data);
-          aFileObj.id = this.unleak(aDom('TEI')[0].attribs['xml:id']);
-          aFileObj.header = this.unleak(cheerio.html(aDom('teiHeader')));
-          let u = aDom('u')
-          u.each(uIdx => {
-            aFileObj.u.push({
-              id: this.unleak(u[uIdx].attribs['xml:id']),
-              xml: this.unleak(cheerio.html(u[uIdx]))
-            })
-          })
-          aFileObj.u.forEach((uObj, idx) => {
-            aFileObj.uById[uObj.id] = idx
-          });
-          this.filesById[aFileObj.id] = this.files.indexOf(aFileObj)
-          aFileObj.loaded = true;
-          // console.log(xmlFilesDirectory + '/' + aFileObj.filename, err, data.length);
-          this.loadFile();
-        }
-      })
-    } else {
-      this.filesById = {}
-      this.files.forEach((uObj, idx) => {
-        this.filesById[uObj.id] = idx
-      });
-      console.log('Load File - All Files loaded ...')
-      this.loaded = true
-    }
+  constructor(xmlData) {
+    this.xmlData = xmlData;
   }
   getStatus () {
-    if (this.loaded) {
+    if (this.xmlData.loaded) {
       return {
-        ok: this.errors.length < 1,
-        errors: this.errors
+        ok: this.xmlData.errors.length < 1,
+        errors: this.xmlData.errors
       }
     } else {
       return {
         ok: false,
-        errors: this.errors,
-        status: this.files.length < 1 ?
+        errors: this.xmlData.errors,
+        status: this.xmlData.files.length < 1 ?
           'Loading Directory' :
-          parseInt(String(100 / this.files.length * this.files.filter(f => f.loaded).length)) + ' %'
+          parseInt(String(100 / this.xmlData.files.length * this.xmlData.files.filter(f => f.loaded).length)) + ' %'
       }
     }
   }
@@ -95,7 +25,7 @@ class XML {
     }
     if (type === 'overview') {
       send.allXmlIds = []
-      this.files.forEach((uObj, idx) => {
+      this.xmlData.files.forEach((uObj, idx) => {
         send.allXmlIds.push(uObj.id)
       });
     } else if ((type === 'get' || type === 'uId') && req.params && req.params.documentId) {
@@ -108,16 +38,16 @@ class XML {
       if (type === 'get' && field[req.params.getType]) {
         send.xml = ''
         send.xmlType = req.params.getType
-        if (dId && typeof this.filesById[dId] === 'number') {
-          send.xml = this.files[this.filesById[dId]][field[req.params.getType]]
+        if (dId && typeof this.xmlData.filesById[dId] === 'number') {
+          send.xml = this.xmlData.files[this.xmlData.filesById[dId]][field[req.params.getType]]
         } else {
           send.error = 'ID not found ...'
         }
       } else if (type === 'uId' && req.params.uId) {
         let uId = req.params.uId
-        if (dId && typeof this.filesById[dId] === 'number') {
-          if (typeof this.files[this.filesById[dId]].uById[uId] === 'number') {
-            send.u = [{uId: uId, xml: this.files[this.filesById[dId]].u[this.files[this.filesById[dId]].uById[uId]].xml}]
+        if (dId && typeof this.xmlData.filesById[dId] === 'number') {
+          if (typeof this.xmlData.files[this.xmlData.filesById[dId]].uById[uId] === 'number') {
+            send.u = [{uId: uId, xml: this.xmlData.files[this.xmlData.filesById[dId]].u[this.xmlData.files[this.xmlData.filesById[dId]].uById[uId]].xml}]
           } else {
             send.error = 'ID not found in File ...'
           }

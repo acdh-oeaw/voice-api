@@ -1,7 +1,6 @@
 class search {
-  constructor(req, res) {
-    this.loaded = false;
-    this.request(req, res);
+  constructor(xmlData) {
+    this.xmlData = xmlData;
   }
   request (req, res) {
     console.log(req.url, req.query, this);
