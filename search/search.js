@@ -18,6 +18,12 @@ class search {
     (json) => {
         let docsUandIDs = {}
         let results = []
+        if (!json.Lines) {
+          res.status(500)
+             .header('Content-Type', 'application/json')
+             .send(JSON.stringify(json));             
+             return
+          }
         json.Lines.map((line) => {
           const key = line.Refs.map((ref) => {return ref.split('=')[1]}).join();
           const val = docsUandIDs[key] || [];        
