@@ -2,26 +2,10 @@ class XML {
   constructor(xmlData) {
     this.xmlData = xmlData;
   }
-  getStatus () {
-    if (this.xmlData.loaded) {
-      return {
-        ok: this.xmlData.errors.length < 1,
-        errors: this.xmlData.errors
-      }
-    } else {
-      return {
-        ok: false,
-        errors: this.xmlData.errors,
-        status: this.xmlData.files.length < 1 ?
-          'Loading Directory' :
-          parseInt(String(100 / this.xmlData.files.length * this.xmlData.files.filter(f => f.loaded).length)) + ' %'
-      }
-    }
-  }
   request (type, req, res) {
     let send = {
       query: req.query,
-      xmlStatus: this.getStatus(),
+      xmlStatus: this.xmlData.getStatus(),
     }
     if (type === 'overview') {
       send.allXmlIds = []

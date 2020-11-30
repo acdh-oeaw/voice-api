@@ -29,6 +29,22 @@ class XMLData {
         this.loadFile();
       });
     }
+    getStatus () {
+      if (this.loaded) {
+        return {
+          ok: this.errors.length < 1,
+          errors: this.errors
+        }
+      } else {
+        return {
+          ok: false,
+          errors: this.errors,
+          status: this.files.length < 1 ?
+            'Loading Directory' :
+            parseInt(String(100 / this.files.length * this.files.filter(f => f.loaded).length)) + ' %'
+        }
+      }
+    }
     unleak (string) {
       return (' ' + string).substr(1)
     }

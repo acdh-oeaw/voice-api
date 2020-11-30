@@ -12,7 +12,7 @@
                 "<node_internals>/**"
             ],
             "env": {"NOSKE_BONITO": "https://voice-noske.acdh-dev.oeaw.ac.at/bonito/run.cgi"},
-            "program": "${workspaceFolder}\\app.js"
+            "program": "${workspaceFolder}/app.js"
         }
     ]
 }
