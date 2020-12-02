@@ -1,6 +1,7 @@
 const https = require('https');
 const http = require('http');
-const cheerio = require('cheerio');
+// const cheerio = require('cheerio');
+const { performance } = require('perf_hooks');
 const {
   NOSKE_BONITO
 } = process.env
@@ -12,20 +13,22 @@ class search {
   }
   request (req, res) {
     /* don't forget to use these with .clone()! */
-    const matchTag = cheerio('<exist:match></exist:match>');
-    const namespacesWrap = cheerio(`<_ xmlns:exist="http://exist.sourceforge.net/NS/exist"
-  xmlns:voice="http://www.univie.ac.at/voice/ns/1.0"
-  xmlns="http://www.tei-c.org/ns/1.0"></_>`);
+  //   const matchTag = cheerio('<exist:match></exist:match>');
+  //   const namespacesWrap = cheerio(`<_ xmlns:exist="http://exist.sourceforge.net/NS/exist"
+  // xmlns:voice="http://www.univie.ac.at/voice/ns/1.0"
+  // xmlns="http://www.tei-c.org/ns/1.0"></_>`);
     let send = {
       query: req.query,
       xmlStatus: this.xmlData.getStatus(),
     }
-    console.log(req.url, req.query, this);
+    // console.log(req.url, req.query, this);
+    // var t1 = performance.now()
     this.getJson(noske_bonito + '/first?corpname=voice&queryselector=iqueryrow&iquery='
      + (req.query.q || '') +
     '&attrs=wid&kwicleftctx=0&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000',
     (json) => {
         let docsUandIDs = {}
+        // console.log(json)
         if (!json.Lines) {
             send.NoSkEError = json;
             res.status(500).json(send)            
@@ -42,21 +45,26 @@ class search {
              return
           }
         send.u = [];
+        // var t2 = performance.now()
         for (let uDoc of Object.keys(docsUandIDs)) {
-          const uDocVals = uDoc.split(','),
-                docNum = this.xmlData.filesById[uDocVals[1]],
-                uNum = this.xmlData.files[docNum].uById[uDocVals[0]],
-                u = this.xmlData.files[docNum].u[uNum],
-                aDom = cheerio.load(u.xml, {xmlMode: true}),
-                xmlIDs = '[xml\\:id = "' + docsUandIDs[uDoc].join('"], [xml\\:id = "') + '"]',
-                uElements = aDom(xmlIDs)
-          uElements.each((_, el) => {cheerio(el).replaceWith(cheerio(el).wrap(matchTag.clone()))})
+          const uDocVals = uDoc.split(',')
+          const docNum = this.xmlData.filesById[uDocVals[1]]
+          const uNum = this.xmlData.files[docNum].uById[uDocVals[0]]
+          // const u = this.xmlData.files[docNum].u[uNum]
+          // const aDom = cheerio.load(u.xml, {xmlMode: true})
+          // const xmlIDs = '[xml\\:id = "' + docsUandIDs[uDoc].join('"], [xml\\:id = "') + '"]'
+          // const uElements = aDom(xmlIDs)
+          // console.log(uDoc, xmlIDs)
+          // uElements.each((_, el) => {cheerio(el).replaceWith(cheerio(el).wrap(matchTag.clone()))})
           send.u.push({
             xmlId: uDocVals[1],
             uId: uDocVals[0],
-            xml: aDom.html()
+            // xml: aDom.html(),
+            xml: this.xmlData.files[docNum].u[uNum].xml,
+            highlight: docsUandIDs[uDoc]
           })
         }
+        // console.log('search - noske:', t2 - t1, 'xml', performance.now() - t2)
         res.json(send);
     }).on('error', (e) => {
       console.error(`Got error: ${e.message}`);
