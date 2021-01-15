@@ -1,6 +1,5 @@
 const https = require('https');
 const http = require('http');
-// const cheerio = require('cheerio');
 const { performance } = require('perf_hooks');
 const {
   NOSKE_BONITO
@@ -12,11 +11,6 @@ class search {
     this.xmlData = xmlData;
   }
   request (req, res) {
-    /* don't forget to use these with .clone()! */
-  //   const matchTag = cheerio('<exist:match></exist:match>');
-  //   const namespacesWrap = cheerio(`<_ xmlns:exist="http://exist.sourceforge.net/NS/exist"
-  // xmlns:voice="http://www.univie.ac.at/voice/ns/1.0"
-  // xmlns="http://www.tei-c.org/ns/1.0"></_>`);
     let send = {
       query: req.query,
       xmlStatus: this.xmlData.getStatus(),
@@ -50,17 +44,10 @@ class search {
           const uDocVals = uDoc.split(',')
           const docNum = this.xmlData.filesById[uDocVals[1]]
           const uNum = this.xmlData.files[docNum].uById[uDocVals[0]]
-          // const u = this.xmlData.files[docNum].u[uNum]
-          // const aDom = cheerio.load(u.xml, {xmlMode: true})
-          // const xmlIDs = '[xml\\:id = "' + docsUandIDs[uDoc].join('"], [xml\\:id = "') + '"]'
-          // const uElements = aDom(xmlIDs)
-          // console.log(uDoc, xmlIDs)
-          // uElements.each((_, el) => {cheerio(el).replaceWith(cheerio(el).wrap(matchTag.clone()))})
           send.u.push({
             xmlId: uDocVals[1],
             uId: uDocVals[0],
-            // xml: aDom.html(),
-            xml: this.xmlData.files[docNum].u[uNum].xml,
+            xml: send.u.length < 101 ? this.xmlData.files[docNum].xml.substr(this.xmlData.files[docNum].u[uNum].start, this.xmlData.files[docNum].u[uNum].len) : null,
             highlight: docsUandIDs[uDoc]
           })
         }
