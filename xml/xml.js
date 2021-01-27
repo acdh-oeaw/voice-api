@@ -46,10 +46,26 @@ class XML {
           } else {
             send.error = 'ID not found in File ...'
           }
+        } else if (req.params.documentId === '*') {
+          let uIdList = req.params.uId.split(';')
+          send.u = []
+          this.xmlData.files.forEach(aFile => {
+            Object.keys(aFile.uById).forEach(uId => {
+              if (uIdList.indexOf(uId) > -1) {
+                let aU = aFile.u[aFile.uById[uId]]
+                send.u.push({uId: aU.id, xml: aFile.xml.substr(aU.start, aU.len)})
+              }
+            })
+          })
+          if (send.u.length !== uIdList.length) {
+            send.error = 'Not all uIds found ...'
+          }
         } else {
-          send.error = 'File ID not found ...'
+          send.error = 'File ID "' + req.params.documentId + '" not found ...'
         }
       }
+    } else {
+      send.error = 'Need Document Id ...'
     }
     res.json(send);
   }
