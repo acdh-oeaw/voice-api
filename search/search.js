@@ -17,7 +17,7 @@ class search {
     }
     // console.log(req.url, req.query, this);
     // var t1 = performance.now()
-    this.getJson(noske_bonito + '/first?corpname=voice&queryselector=iqueryrow&iquery='
+    this.getJson(noske_bonito + '/first?corpname=voice&queryselector=phraserow&phrase='
      + (req.query.q || '') +
     '&attrs=wid&kwicleftctx=0&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000',
     (json) => {
