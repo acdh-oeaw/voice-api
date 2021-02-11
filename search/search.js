@@ -19,7 +19,7 @@ class search {
     // var t1 = performance.now()
     var queryString = `${(req.query.q || '').replace(/\+/g, '%2B').replace(/ /g, '+')}`,
         backendRequest = `${noske_bonito}/first?corpname=voice&` +
-        ( queryString.startsWith('[') || queryString.startsWith('"') ?
+        ( queryString.match(/^[["<(]/) ?
         `queryselector=cqlrow&cql=${queryString}&default_attr=word` :
         `queryselector=phraserow&phrase=${queryString}` ) + 
     `&attrs=wid&kwicleftctx=0&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000`
@@ -52,10 +52,11 @@ class search {
           send.u.push({
             xmlId: uDocVals[1],
             uId: uDocVals[0],
-            xml: send.u.length < 101 ? this.xmlData.files[docNum].xml.substr(this.xmlData.files[docNum].u[uNum].start, this.xmlData.files[docNum].u[uNum].len) : null,
+            xml: send.u.length < 101 && this.xmlData.files[docNum].u[uNum] ? this.xmlData.files[docNum].xml.substr(this.xmlData.files[docNum].u[uNum].start, this.xmlData.files[docNum].u[uNum].len) : null,
             highlight: docsUandIDs[uDoc]
           })
         }
+        send.cql = json.Desc[0].arg
         // console.log('search - noske:', t2 - t1, 'xml', performance.now() - t2)
         res.json(send);
     }).on('error', (e) => {
