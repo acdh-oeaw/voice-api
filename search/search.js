@@ -17,9 +17,14 @@ class search {
     }
     // console.log(req.url, req.query, this);
     // var t1 = performance.now()
-    this.getJson(noske_bonito + '/first?corpname=voice&queryselector=phraserow&phrase='
-     + (req.query.q || '') +
-    '&attrs=wid&kwicleftctx=0&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000',
+    var queryString = `${(req.query.q || '').replace(/\+/g, '%2B').replace(/ /g, '+')}`,
+        backendRequest = `${noske_bonito}/first?corpname=voice&` +
+        ( queryString.startsWith('[') || queryString.startsWith('"') ?
+        `queryselector=cqlrow&cql=${queryString}&default_attr=word` :
+        `queryselector=phraserow&phrase=${queryString}` ) + 
+    `&attrs=wid&kwicleftctx=0&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000`
+    console.log(`NoSkE request: ${backendRequest}`)
+    this.getJson(backendRequest,
     (json) => {
         let docsUandIDs = {}
         // console.log(json)
