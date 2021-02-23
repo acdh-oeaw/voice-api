@@ -501,13 +501,13 @@
   </teiHeader>
   <text>
     <body>
-      <div type="medium" voice:end="02:22" voice:end_medium_number="1" voice:end_track="5" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1">
+      <div type="medium" voice:end="02:22" voice:end_medium_number="1" voice:end_track="5" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1" xml:id="PBqas410_d2e644">
         <u who="#PBqas410_SS" xml:id="PBqas410_u_1">
-          <vocal dur="PT2S" iterated="true" voice:desc="applauds" mode="inline"/>
+          <vocal dur="PT2S" iterated="true" voice:desc="applauds" mode="inline" xml:id="PBqas410_d2e648"/>
         </u>
         <u who="#PBqas410_S1" xml:id="PBqas410_u_2">
           <w xml:id="xTok_PBqas410_000008" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e658">
             <w xml:id="xTok_PBqas410_000011" ana="#NPfNP" lemma="">[S8/last]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_000014" ana="#RBfRB" lemma="also">also</w>
@@ -519,10 +519,10 @@
           <w xml:id="xTok_PBqas410_000026" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_PBqas410_000028" ana="#NNfNN" lemma="presentation">presentation</w>
           <w xml:id="xTok_PBqas410_000030" ana="#CCfCC" lemma="and">and</w>
-          <voice:pvc>
+          <voice:pvc xml:id="PBqas410_d2e705">
             <w xml:id="xTok_PBqas410_000033" ana="#PVCfNNS" lemma="">informations</w>
           </voice:pvc>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e712"/>
           <w xml:id="xTok_PBqas410_000036" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_000038" part="I" next="#xTok_PBqas410_000039" ana="#VVfVV" lemma="optimize">optim</w>
           <seg n="9" type="overlap" xml:id="PBqas410_ol_0">
@@ -539,22 +539,22 @@
         </u>
         <u who="#PBqas410_S1" xml:id="PBqas410_u_4">
           <w xml:id="xTok_PBqas410_000050" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBqas410_000052" ana="#NNfNN" lemma="logistics">logistics<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000052" ana="#NNfNN" lemma="logistics">logistics<c type="lengthening" xml:id="PBqas410_d2e755"/>
           </w>
-          <emph>
+          <emph xml:id="PBqas410_d2e756">
             <w xml:id="xTok_PBqas410_000054" ana="#CCfCC" lemma="and">and</w>
           </emph>
           <w xml:id="xTok_PBqas410_000057" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000059" ana="#NNfNN" lemma="quality">quality</w>
           <w xml:id="xTok_PBqas410_000061" ana="#DTfDT" lemma="both">both</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e778"/>
           <w xml:id="xTok_PBqas410_000064" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PBqas410_000066" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_000068" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PBqas410_000070" ana="#JJfJJ" lemma="real">real</w>
           <w xml:id="xTok_PBqas410_000072" ana="#NNfNN" lemma="challenge">challenge</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_000075" part="I" next="#xTok_PBqas410_000076" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e802"/>
+          <w xml:id="xTok_PBqas410_000075" part="I" next="#xTok_PBqas410_000076" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="PBqas410_d2e807"/>
           </w>
           <w xml:id="xTok_PBqas410_000076" part="F" prev="#xTok_PBqas410_000075">nd</w>
           <w xml:id="xTok_PBqas410_000078" ana="#NNfNN" lemma="everybody">everybody</w>
@@ -566,11 +566,11 @@
           <w xml:id="xTok_PBqas410_000090" ana="#PPfPP" lemma="he">he</w>
           <w xml:id="xTok_PBqas410_000092" ana="#VVZfVVZ" lemma="know">knows</w>
           <w xml:id="xTok_PBqas410_000094" ana="#PPfPP" lemma="it">it</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e850"/>
           <w xml:id="xTok_PBqas410_000097" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_000099" ana="#NNSfNNS" lemma="lady">ladies</w>
           <w xml:id="xTok_PBqas410_000101" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PBqas410_000103" ana="#NNSfNNS" lemma="gentleman">gentlemen<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000103" ana="#NNSfNNS" lemma="gentleman">gentlemen<c type="lengthening" xml:id="PBqas410_d2e868"/>
           </w>
           <w xml:id="xTok_PBqas410_000105" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_000107" ana="#PPfPP" lemma="we">we</w>
@@ -584,8 +584,8 @@
           <w xml:id="xTok_PBqas410_000123" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_000125" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000127" ana="#NNSfNNS" lemma="speech">speeches</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_000130" part="I" next="#xTok_PBqas410_000131" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e921"/>
+          <w xml:id="xTok_PBqas410_000130" part="I" next="#xTok_PBqas410_000131" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e926"/>
           </w>
           <w xml:id="xTok_PBqas410_000131" part="F" prev="#xTok_PBqas410_000130">r</w>
           <w xml:id="xTok_PBqas410_000133" ana="#UHfUH" lemma="erm">erm</w>
@@ -602,15 +602,15 @@
           <w xml:id="xTok_PBqas410_000155" ana="#NNfNN" lemma="lot">lot</w>
           <w xml:id="xTok_PBqas410_000157" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_000159" ana="#NNSfNNS" lemma="item">items</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e990"/>
           <w xml:id="xTok_PBqas410_000162" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_PBqas410_000164" ana="#MDfMD" lemma="may">may</w>
           <w xml:id="xTok_PBqas410_000166" ana="#RBfRB" lemma="not">not</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1006"/>
           <w xml:id="xTok_PBqas410_000169" ana="#RBfRB" lemma="maybe">maybe</w>
           <w xml:id="xTok_PBqas410_000171" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_PBqas410_000173" ana="#NNfNN" lemma="everything">everything</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1022"/>
           <w xml:id="xTok_PBqas410_000176" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_000178" ana="#PPfPP" lemma="it" part="I" next="xTok_PBqas410_000180">it</w>
           <w xml:id="xTok_PBqas410_000180" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PBqas410_000178">'s</w>
@@ -622,16 +622,16 @@
           <w xml:id="xTok_PBqas410_000192" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PBqas410_000194" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000196" ana="#NNfNN" lemma="audience">audience</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1071"/>
           <w xml:id="xTok_PBqas410_000199" ana="#TOfTO" lemma="to">to</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e1078">
             <w xml:id="xTok_PBqas410_000202" ana="#VVfVV" lemma="ask">ask</w>
           </emph>
           <w xml:id="xTok_PBqas410_000205" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000207" ana="#NNSfNNS" lemma="speaker">speakers</w>
           <w xml:id="xTok_PBqas410_000209" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_PBqas410_000211" ana="#NNSfNNS" lemma="question">questions</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1104"/>
           <shift corresp="#PBqas410_s_4" feature="loud" new="p" xml:id="PBqas410_s_3"/>
           <w xml:id="xTok_PBqas410_000214" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_000216" ana="#VVPfVVP" lemma="hope">hope</w>
@@ -659,8 +659,8 @@
           <w xml:id="xTok_PBqas410_000259" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_000261" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000263" ana="#NNSfNNS" lemma="speaker">speakers</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_000266" part="I" next="#xTok_PBqas410_000267" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e1216"/>
+          <w xml:id="xTok_PBqas410_000266" part="I" next="#xTok_PBqas410_000267" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="PBqas410_d2e1221"/>
           </w>
           <w xml:id="xTok_PBqas410_000267" part="F" prev="#xTok_PBqas410_000266">nd</w>
           <w xml:id="xTok_PBqas410_000269" ana="#VVPfVVP" lemma="give">give</w>
@@ -674,11 +674,11 @@
           <w xml:id="xTok_PBqas410_000285" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PBqas410_000287" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000289" ana="#NNfNN" lemma="title">title</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1273"/>
           <w xml:id="xTok_PBqas410_000292" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_000294" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000296" ana="#NNfNN" lemma="presentation">presentation</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1288"/>
           <w xml:id="xTok_PBqas410_000299" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_000301" ana="#PPSfPPS" lemma="we">our</w>
           <w xml:id="xTok_PBqas410_000303" ana="#NNfNN" lemma="crew">crew</w>
@@ -693,7 +693,7 @@
           <w xml:id="xTok_PBqas410_000319" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PBqas410_000321" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000323" ana="#NNSfNNS" lemma="microphone">microphones</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1347"/>
         </u>
         <u who="#PBqas410_SX-m" xml:id="PBqas410_u_5">
           <seg n="1" synch="#PBqas410_ol_2" type="overlap" xml:id="PBqas410_ol_3">
@@ -706,29 +706,29 @@
           <w xml:id="xTok_PBqas410_000335" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_PBqas410_000337" ana="#NNfNN" lemma="chance">chance</w>
           <w xml:id="xTok_PBqas410_000339" ana="#RBfRB" lemma="now">now</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="PBqas410_d2e1385"/>
           <w xml:id="xTok_PBqas410_000342" ana="#RBfRB" lemma="up">up</w>
           <w xml:id="xTok_PBqas410_000344" ana="#RBfRB" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_000346" ana="#PPfPP" lemma="you">you</w>
-          <pause dur="PT10S"/>
-          <incident dur="PT10S" voice:desc="S2 raises his hand, a young woman takes a microphone to S2 "/>
+          <pause dur="PT10S" xml:id="PBqas410_d2e1400"/>
+          <incident dur="PT10S" voice:desc="S2 raises his hand, a young woman takes a microphone to S2 " xml:id="PBqas410_d2e1401"/>
         </u>
         <u who="#PBqas410_S2" xml:id="PBqas410_u_7">
           <w xml:id="xTok_PBqas410_000350" ana="#FIfFI" lemma="thank">thank</w>
           <w xml:id="xTok_PBqas410_000352" ana="#FIfFI" lemma="you">you</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e1415"/>
           <w xml:id="xTok_PBqas410_000355" ana="#PPfPP" lemma="i" part="I" next="xTok_PBqas410_000357">i</w>
           <w xml:id="xTok_PBqas410_000357" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBqas410_000355">'m</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1427"/>
           <w xml:id="xTok_PBqas410_000360" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e1434">
             <w xml:id="xTok_PBqas410_000363" ana="#NPfNP" lemma="">[S2/last]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_000366" ana="#INfIN" lemma="from">from</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e1447">
             <w xml:id="xTok_PBqas410_000369" ana="#NPfNP" lemma="">[org1]</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1454"/>
           <w xml:id="xTok_PBqas410_000372" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_000374" ana="#MDfMD" lemma="will">would</w>
           <w xml:id="xTok_PBqas410_000376" ana="#VVfVV" lemma="like">like</w>
@@ -736,10 +736,10 @@
           <w xml:id="xTok_PBqas410_000380" ana="#VVfVV" lemma="ask">ask</w>
           <w xml:id="xTok_PBqas410_000382" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PBqas410_000384" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e1487">
             <w xml:id="xTok_PBqas410_000387" ana="#NPfNP" lemma="">[S3/last]</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1494"/>
           <w xml:id="xTok_PBqas410_000390" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_000392" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_PBqas410_000394" ana="#WPfWP" lemma="what">what</w>
@@ -751,13 +751,13 @@
           <w xml:id="xTok_PBqas410_000406" ana="#NNfNN" lemma="reduction">reduction</w>
           <w xml:id="xTok_PBqas410_000408" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_000410" ana="#DTfDT" lemma="the">the</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e1543">
             <w xml:id="xTok_PBqas410_000413" ana="#VVGfNN" lemma="vary/varying">varying</w>
           </unclear>
           <w xml:id="xTok_PBqas410_000416" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_000418" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000420" ana="#NNSfNNS" lemma="roll">rolls</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e1565"/>
           <w xml:id="xTok_PBqas410_000423" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PBqas410_000425" ana="#DTfDT" lemma="the">the</w>
           <shift corresp="#PBqas410_s_6" feature="tempo" new="a" xml:id="PBqas410_s_5"/>
@@ -765,30 +765,30 @@
           <w xml:id="xTok_PBqas410_000430" ana="#VVGfNN" lemma="cast/casting">casting</w>
           <shift corresp="#PBqas410_s_5" feature="tempo" new="neutral" xml:id="PBqas410_s_6"/>
           <w xml:id="xTok_PBqas410_000433" ana="#NNfNN" lemma="machine">machine</w>
-          <pause dur="PT7S"/>
-          <incident dur="PT7S" voice:desc="a young woman takes a microphone to S3 "/>
+          <pause dur="PT7S" xml:id="PBqas410_d2e1595"/>
+          <incident dur="PT7S" voice:desc="a young woman takes a microphone to S3 " xml:id="PBqas410_d2e1596"/>
         </u>
         <u who="#PBqas410_S3" xml:id="PBqas410_u_8">
           <w xml:id="xTok_PBqas410_000437" ana="#BRfBR" lemma="">hh</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1606"/>
           <w xml:id="xTok_PBqas410_000440" ana="#DMfDM" lemma="well">well</w>
           <w xml:id="xTok_PBqas410_000442" ana="#RBfRB" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_000444" ana="#RBfRB" lemma="course">course</w>
-          <w xml:id="xTok_PBqas410_000446" part="I" next="#xTok_PBqas410_000447" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000446" part="I" next="#xTok_PBqas410_000447" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e1624"/>
           </w>
           <w xml:id="xTok_PBqas410_000447" part="F" prev="#xTok_PBqas410_000446">r</w>
-          <w xml:id="xTok_PBqas410_000449" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000449" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e1631"/>
           </w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1632"/>
           <w xml:id="xTok_PBqas410_000451" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e1639"/>
           <w xml:id="xTok_PBqas410_000454" ana="#JJfJJ" lemma="increased">increased</w>
           <w xml:id="xTok_PBqas410_000456" ana="#NNSfNNS" lemma="force">forces</w>
           <w xml:id="xTok_PBqas410_000458" ana="#PREfPRE" lemma="that">that</w>
           <w xml:id="xTok_PBqas410_000460" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PBqas410_000462" ana="#VVPfVVP" lemma="see">see</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_000465" part="I" next="#xTok_PBqas410_000466" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e1664"/>
+          <w xml:id="xTok_PBqas410_000465" part="I" next="#xTok_PBqas410_000466" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e1669"/>
           </w>
           <w xml:id="xTok_PBqas410_000466" part="F" prev="#xTok_PBqas410_000465">r</w>
           <w xml:id="xTok_PBqas410_000468" ana="#INfIN" lemma="on">on</w>
@@ -800,14 +800,14 @@
           <w xml:id="xTok_PBqas410_000480" ana="#RBfRB" lemma="slightly">slightly</w>
           <w xml:id="xTok_PBqas410_000482" ana="#VVPfVVP" lemma="increase">increase</w>
           <w xml:id="xTok_PBqas410_000484" ana="#DTfDT" lemma="the">the</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e1712">
             <w xml:id="xTok_PBqas410_000487" ana="#NNfNN" lemma="wear">wear</w>
           </unclear>
           <w xml:id="xTok_PBqas410_000490" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_000492" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000494" ana="#NNSfNNS" lemma="roll">rolls</w>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_PBqas410_000497" part="I" next="#xTok_PBqas410_000498" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e1733"/>
+          <w xml:id="xTok_PBqas410_000497" part="I" next="#xTok_PBqas410_000498" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e1739"/>
           </w>
           <w xml:id="xTok_PBqas410_000498" part="F" prev="#xTok_PBqas410_000497">r</w>
           <w xml:id="xTok_PBqas410_000500" ana="#JJfJJ" lemma="specific">specific</w>
@@ -823,20 +823,20 @@
           <w xml:id="xTok_PBqas410_000520" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PBqas410_000522" ana="#NNfNN" lemma="millimetre">millimetre</w>
           <w xml:id="xTok_PBqas410_000524" ana="#INfIN" lemma="per">per</w>
-          <w xml:id="xTok_PBqas410_000526" part="I" next="#xTok_PBqas410_000527" ana="#UHfUH" lemma="erm">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000526" part="I" next="#xTok_PBqas410_000527" ana="#UHfUH" lemma="erm">e<c type="lengthening" xml:id="PBqas410_d2e1800"/>
           </w>
           <w xml:id="xTok_PBqas410_000527" part="F" prev="#xTok_PBqas410_000526">rm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e1806"/>
           <w xml:id="xTok_PBqas410_000530" ana="#CDfCD" lemma="million">million</w>
           <w xml:id="xTok_PBqas410_000532" ana="#NNSfNNS" lemma="ton">tons</w>
           <w xml:id="xTok_PBqas410_000534" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PBqas410_000536" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PBqas410_000538" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_PBqas410_000540" ana="#PPfPP" lemma="you">you</w>
-          <w xml:id="xTok_PBqas410_000542" part="I" next="#xTok_PBqas410_000543" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000542" part="I" next="#xTok_PBqas410_000543" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e1836"/>
           </w>
           <w xml:id="xTok_PBqas410_000543" part="F" prev="#xTok_PBqas410_000542">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e1841"/>
           <w xml:id="xTok_PBqas410_000546" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_000548" ana="#MDfMD" lemma="can" part="I" next="xTok_PBqas410_000550">can</w>
           <w xml:id="xTok_PBqas410_000550" contraction="1" ana="#RBfRB" lemma="not" part="F" prev="xTok_PBqas410_000548">not</w>
@@ -844,7 +844,7 @@
           <w xml:id="xTok_PBqas410_000554" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PBqas410_000556" ana="#RBfRB" lemma="specifically">specifically</w>
           <w xml:id="xTok_PBqas410_000558" ana="#INfIN" lemma="because">because</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1874"/>
           <w xml:id="xTok_PBqas410_000561" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PBqas410_000563" ana="#RBfRB" lemma="very">very</w>
           <w xml:id="xTok_PBqas410_000565" ana="#JJfJJ" lemma="much">much</w>
@@ -865,17 +865,17 @@
           <w xml:id="xTok_PBqas410_000595" ana="#NNSfNNS" lemma="width">widths</w>
           <w xml:id="xTok_PBqas410_000597" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PBqas410_000599" ana="#VVNfVVN" lemma="distribute">distributed</w>
-          <w xml:id="xTok_PBqas410_000601" part="I" next="#xTok_PBqas410_000602" ana="#UHfUH" lemma="erm">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000601" part="I" next="#xTok_PBqas410_000602" ana="#UHfUH" lemma="erm">e<c type="lengthening" xml:id="PBqas410_d2e1963"/>
           </w>
           <w xml:id="xTok_PBqas410_000602" part="F" prev="#xTok_PBqas410_000601">rm</w>
           <w xml:id="xTok_PBqas410_000604" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PBqas410_000606" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_000608" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000610" ana="#JJfJJ" lemma="average">average</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e1985">
             <w xml:id="xTok_PBqas410_000613" ana="#NNfNN" lemma="speedster">speedster</w>
           </unclear>
-          <pause/>
+          <pause xml:id="PBqas410_d2e1992"/>
           <w xml:id="xTok_PBqas410_000616" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_000618" ana="#RBfRB" lemma="basically">basically</w>
           <w xml:id="xTok_PBqas410_000620" ana="#INfIN" lemma="on">on</w>
@@ -884,13 +884,13 @@
           <w xml:id="xTok_PBqas410_000626" ana="#VVGfNN" lemma="cast/casting">casting</w>
           <w xml:id="xTok_PBqas410_000628" ana="#NNSfNNS" lemma="condition">conditions</w>
           <w xml:id="xTok_PBqas410_000630" ana="#PREfPRE" lemma="that">that</w>
-          <w xml:id="xTok_PBqas410_000632" part="I" next="#xTok_PBqas410_000633" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000632" part="I" next="#xTok_PBqas410_000633" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e2031"/>
           </w>
           <w xml:id="xTok_PBqas410_000633" part="F" prev="#xTok_PBqas410_000632">r</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2036"/>
           <w xml:id="xTok_PBqas410_000636" ana="#PREfPRE" lemma="that">that</w>
           <w xml:id="xTok_PBqas410_000638" ana="#VVPfVVP" lemma="apply">apply</w>
-          <pause dur="PT11S"/>
+          <pause dur="PT11S" xml:id="PBqas410_d2e2047"/>
         </u>
         <u who="#PBqas410_S1" xml:id="PBqas410_u_9">
           <w xml:id="xTok_PBqas410_000642" ana="#JJfJJ" lemma="next">next</w>
@@ -906,68 +906,68 @@
           <w xml:id="xTok_PBqas410_000654" ana="#NNfNN" lemma="light">light</w>
           <w xml:id="xTok_PBqas410_000656" ana="#RBfRB" lemma="here">here</w>
           <shift corresp="#PBqas410_s_7" feature="loud" new="neutral" xml:id="PBqas410_s_8"/>
-          <pause dur="PT7S"/>
-          <incident dur="PT7S" voice:desc="someone in the background is walking "/>
+          <pause dur="PT7S" xml:id="PBqas410_d2e2091"/>
+          <incident dur="PT7S" voice:desc="someone in the background is walking " xml:id="PBqas410_d2e2092"/>
         </u>
         <u who="#PBqas410_SX-m" xml:id="PBqas410_u_11">
           <shift corresp="#PBqas410_s_10" feature="loud" new="p" xml:id="PBqas410_s_9"/>
           <w xml:id="xTok_PBqas410_000660" ana="#UHfUH" lemma="erm">erm</w>
           <w xml:id="xTok_PBqas410_000662" ana="#VVZfVVZ" lemma="go">goes</w>
           <shift corresp="#PBqas410_s_9" feature="loud" new="neutral" xml:id="PBqas410_s_10"/>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e2108"/>
         </u>
         <u who="#PBqas410_S4" xml:id="PBqas410_u_12">
           <w xml:id="xTok_PBqas410_000666" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_PBqas410_000668" ana="#NNfNN" lemma="name">name</w>
           <w xml:id="xTok_PBqas410_000670" ana="#VBZfVBZ" lemma="be">is</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e2127">
             <w xml:id="xTok_PBqas410_000673" ana="#NPfNP" lemma="">[S4/last]</w>
           </supplied>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PBqas410_d2e2134">
             <w xml:id="xTok_PBqas410_000676" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PBqas410_000679" ana="#INfIN" lemma="from">from</w>
-          <pause/>
-          <supplied reason="anonymization">
+          <pause xml:id="PBqas410_d2e2148"/>
+          <supplied reason="anonymization" xml:id="PBqas410_d2e2149">
             <w xml:id="xTok_PBqas410_000682" ana="#NPfNP" lemma="">[org2]</w>
           </supplied>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e2156"/>
           <w xml:id="xTok_PBqas410_000685" ana="#PPfPP" lemma="i" part="I" next="xTok_PBqas410_000687">i</w>
           <w xml:id="xTok_PBqas410_000687" ana="#VHPfVHP" lemma="have" part="F" prev="xTok_PBqas410_000685">'ve</w>
           <w xml:id="xTok_PBqas410_000689" ana="#VVNfVVN" lemma="get">got</w>
           <w xml:id="xTok_PBqas410_000691" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PBqas410_000693" ana="#NNfNN" lemma="question">question</w>
           <w xml:id="xTok_PBqas410_000695" ana="#INfIN" lemma="for">for</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2184"/>
           <w xml:id="xTok_PBqas410_000698" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
-            <w xml:id="xTok_PBqas410_000701" ana="#NPfNP" lemma="">[S5/last]<c function="rise" type="intonation"/>
+          <supplied reason="anonymization" xml:id="PBqas410_d2e2191">
+            <w xml:id="xTok_PBqas410_000701" ana="#NPfNP" lemma="">[S5/last]<c function="rise" type="intonation" xml:id="PBqas410_d2e2199"/>
             </w>
           </supplied>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e2200"/>
           <w xml:id="xTok_PBqas410_000704" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PBqas410_000706" ana="#RBfRB" lemma="rather">rather</w>
           <w xml:id="xTok_PBqas410_000708" ana="#CDfCD" lemma="three">three</w>
           <w xml:id="xTok_PBqas410_000710" ana="#NNSfNNS" lemma="question">questions</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2220"/>
           <w xml:id="xTok_PBqas410_000713" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_000715" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_000717" ana="#VVDfVVD" lemma="mention">mentioned</w>
           <w xml:id="xTok_PBqas410_000719" ana="#INfIN" lemma="that">that</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2239"/>
           <w xml:id="xTok_PBqas410_000722" ana="#EXfEX" lemma="there" part="I" next="xTok_PBqas410_000724">there</w>
           <w xml:id="xTok_PBqas410_000724" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBqas410_000722">'re</w>
           <w xml:id="xTok_PBqas410_000726" ana="#RBfRB" lemma="about">about</w>
           <w xml:id="xTok_PBqas410_000728" ana="#CDfCD" lemma="forty-six">forty-six</w>
-          <pause/>
-          <unclear>
+          <pause xml:id="PBqas410_d2e2259"/>
+          <unclear xml:id="PBqas410_d2e2260">
             <w xml:id="xTok_PBqas410_000731" ana="#NNfNN" lemma="thickness">thickness</w>
           </unclear>
           <w xml:id="xTok_PBqas410_000734" ana="#NNSfNNS" lemma="change">changes</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2274"/>
           <w xml:id="xTok_PBqas410_000737" ana="#INfIN" lemma="per">per</w>
           <w xml:id="xTok_PBqas410_000739" ana="#NNfNN" lemma="week">week</w>
-          <voice:track medium="1" num="2" type="md"/>
+          <voice:track medium="1" num="2" type="md" xml:id="PBqas410_d2e2285"/>
           <w xml:id="xTok_PBqas410_000742" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_000744" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PBqas410_000746" ana="#PPfPP" lemma="i">i</w>
@@ -977,19 +977,19 @@
           <w xml:id="xTok_PBqas410_000754" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_000756" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PBqas410_000758" ana="#VVZfVVZ" lemma="mean">means</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_000761" part="I" next="#xTok_PBqas410_000762" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e2326"/>
+          <w xml:id="xTok_PBqas410_000761" part="I" next="#xTok_PBqas410_000762" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e2331"/>
           </w>
           <w xml:id="xTok_PBqas410_000762" part="F" prev="#xTok_PBqas410_000761">r</w>
           <w xml:id="xTok_PBqas410_000764" ana="#CDfCD" lemma="forty-six">forty-six</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2341"/>
           <w xml:id="xTok_PBqas410_000767" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_000769" ana="#NNfNN" lemma="mould">mould</w>
-          <w xml:id="xTok_PBqas410_000771" ana="#NNSfNNS" lemma="change">changes<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PBqas410_000771" ana="#NNSfNNS" lemma="change">changes<c function="rise" type="intonation" xml:id="PBqas410_d2e2355"/>
           </w>
           <w xml:id="xTok_PBqas410_000773" ana="#INfIN" lemma="per">per</w>
           <w xml:id="xTok_PBqas410_000775" ana="#NNfNN" lemma="week">week</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2366"/>
         </u>
         <u who="#PBqas410_S5" xml:id="PBqas410_u_13">
           <w xml:id="xTok_PBqas410_000779" ana="#REfRE" lemma="yes">yes</w>
@@ -1013,7 +1013,7 @@
           <w xml:id="xTok_PBqas410_000807" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PBqas410_000809" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000811" ana="#NNfNN" lemma="moment">moment</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2446"/>
           <seg n="2" type="overlap" xml:id="PBqas410_ol_4">
             <w xml:id="xTok_PBqas410_000814" ana="#CCfCC" lemma="and">and</w>
             <w xml:id="xTok_PBqas410_000816" ana="#UHfUH" lemma="er">er</w>
@@ -1031,42 +1031,42 @@
           <w xml:id="xTok_PBqas410_000833" ana="#JJfJJ" lemma="good">good</w>
           <w xml:id="xTok_PBqas410_000835" ana="#NNfNN" lemma="number">number</w>
           <w xml:id="xTok_PBqas410_000837" ana="#INfIN" lemma="of">of</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2503"/>
           <w xml:id="xTok_PBqas410_000840" ana="#VfV #NNfNNS" lemma="mould">mould</w>
           <w xml:id="xTok_PBqas410_000842" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PBqas410_000844" ana="#NNfNN" lemma="spare">spare</w>
         </u>
         <u who="#PBqas410_S5" xml:id="PBqas410_u_17">
           <w xml:id="xTok_PBqas410_000848" ana="#REfRE" lemma="yah">yah</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PBqas410_d2e2529"/>
         </u>
         <u who="#PBqas410_S4" xml:id="PBqas410_u_18">
           <w xml:id="xTok_PBqas410_000852" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_000854" ana="#MDfMD" lemma="will">would</w>
           <w xml:id="xTok_PBqas410_000856" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_PBqas410_000858" ana="#TOfTO" lemma="to">to</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e2551">
             <w xml:id="xTok_PBqas410_000861" ana="#VVfVV" lemma="know">know</w>
           </emph>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2558"/>
           <w xml:id="xTok_PBqas410_000864" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PBqas410_000866" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_000868" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_000870" ana="#NNfNN" lemma="kind">kind</w>
           <w xml:id="xTok_PBqas410_000872" ana="#INfIN" lemma="of">of</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e2583">
             <w xml:id="xTok_PBqas410_000875" ana="#NNfNN" lemma="life">life</w>
           </emph>
           <w xml:id="xTok_PBqas410_000878" ana="#PREfPRE" lemma="that">that</w>
           <w xml:id="xTok_PBqas410_000880" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_000882" ana="#VVPfVVP" lemma="get">get</w>
           <w xml:id="xTok_PBqas410_000884" ana="#INfIN" lemma="from">from</w>
-          <w xml:id="xTok_PBqas410_000886" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000886" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e2611"/>
           </w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2612"/>
           <w xml:id="xTok_PBqas410_000888" ana="#NNfNN" lemma="segment">segment</w>
           <w xml:id="xTok_PBqas410_000890" ana="#NNSfNNS" lemma="cylinder">cylinders</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PBqas410_d2e2623"/>
         </u>
         <u who="#PBqas410_S5" xml:id="PBqas410_u_19">
           <w xml:id="xTok_PBqas410_000894" ana="#UHfUH" lemma="er">er</w>
@@ -1074,22 +1074,22 @@
           <w xml:id="xTok_PBqas410_000898" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_000900" ana="#NNfNN" lemma="something">something</w>
           <w xml:id="xTok_PBqas410_000902" ana="#PREfPRE" lemma="that">that</w>
-          <w xml:id="xTok_PBqas410_000904" ana="#PPfPP" lemma="i">i<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_000904" ana="#PPfPP" lemma="i">i<c type="lengthening" xml:id="PBqas410_d2e2652"/>
           </w>
           <w xml:id="xTok_PBqas410_000906" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_000908" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_000910" ana="#VVPfVVP" lemma="do" part="I" next="xTok_PBqas410_000912">do</w>
           <w xml:id="xTok_PBqas410_000912" ana="#RBfRB" lemma="not" part="F" prev="xTok_PBqas410_000910">n't</w>
           <w xml:id="xTok_PBqas410_000914" ana="#VVfVV" lemma="know">know</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2676"/>
           <w xml:id="xTok_PBqas410_000917" ana="#RBfRB" lemma="maybe">maybe</w>
           <w xml:id="xTok_PBqas410_000919" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e2687">
             <w xml:id="xTok_PBqas410_000922" ana="#NPfNP" lemma="">[S2/last]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_000925" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_PBqas410_000927" ana="#VVfVV" lemma="answer">answer</w>
-          <pause dur="PT5S"/>
+          <pause dur="PT5S" xml:id="PBqas410_d2e2705"/>
         </u>
         <u who="#PBqas410_S2" xml:id="PBqas410_u_20">
           <shift corresp="#PBqas410_s_12" feature="loud" new="p" xml:id="PBqas410_s_11"/>
@@ -1099,11 +1099,11 @@
           <w xml:id="xTok_PBqas410_000937" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_PBqas410_000939" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PBqas410_000941" ana="#JJfJJ" lemma="many">many</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2737"/>
           <w xml:id="xTok_PBqas410_000944" ana="#XXfXX" lemma="">any-</w>
           <shift corresp="#PBqas410_s_11" feature="loud" new="neutral" xml:id="PBqas410_s_12"/>
-          <pause dur="PT1S"/>
-          <incident dur="PT1S" voice:desc="a microphone is being handed over to S2 "/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e2745"/>
+          <incident dur="PT1S" voice:desc="a microphone is being handed over to S2 " xml:id="PBqas410_d2e2746"/>
           <w xml:id="xTok_PBqas410_000947" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PBqas410_000949" ana="#NNfNN" lemma="fact">fact</w>
           <w xml:id="xTok_PBqas410_000951" ana="#PPfPP" lemma="we">we</w>
@@ -1117,24 +1117,24 @@
           <w xml:id="xTok_PBqas410_000967" ana="#NNfNN" lemma="life">life</w>
           <w xml:id="xTok_PBqas410_000969" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_000971" ana="#NNSfNNS" lemma="cylinder">cylinders</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2804"/>
           <w xml:id="xTok_PBqas410_000974" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_000976" ana="#MDfMD" lemma="can" part="I" next="xTok_PBqas410_000978">can</w>
           <w xml:id="xTok_PBqas410_000978" contraction="1" ana="#RBfRB" lemma="not" part="F" prev="xTok_PBqas410_000976">not</w>
           <w xml:id="xTok_PBqas410_000980" ana="#VVfVV" lemma="say">say</w>
           <w xml:id="xTok_PBqas410_000982" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PBqas410_000984" ana="#JJfJJ" lemma="actual">actual</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2832"/>
           <w xml:id="xTok_PBqas410_000987" ana="#NNSfNNS" lemma="figure">figures</w>
           <w xml:id="xTok_PBqas410_000989" ana="#CCfCC" lemma="but">but</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e2844"/>
         </u>
         <u who="#PBqas410_SX-m" xml:id="PBqas410_u_21">
           <w xml:id="xTok_PBqas410_000993" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PBqas410_000995" ana="#VBPfVBP" lemma="be">are</w>
           <seg n="8" type="overlap" xml:id="PBqas410_ol_6">
             <w xml:id="xTok_PBqas410_000998" ana="#PPSfPPS" lemma="you">your</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PBqas410_d2e2865">
               <w xml:id="xTok_PBqas410_001001" ana="#UNIfUNI" lemma="">x</w>
             </supplied>
           </seg>
@@ -1154,7 +1154,7 @@
           <w xml:id="xTok_PBqas410_001024" ana="#NNSfNNS" lemma="roll">rolls</w>
           <w xml:id="xTok_PBqas410_001026" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_001028" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2930"/>
           <w xml:id="xTok_PBqas410_001031" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PBqas410_001033" ana="#NNfNN" lemma="diameter">diameter</w>
           <w xml:id="xTok_PBqas410_001035" ana="#CDfCD" lemma="two">two</w>
@@ -1166,13 +1166,13 @@
           <w xml:id="xTok_PBqas410_001047" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_001049" ana="#NNfNN" lemma="segment">segment</w>
           <w xml:id="xTok_PBqas410_001051" ana="#RPfRP" lemma="off">off</w>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_PBqas410_001054" part="I" next="#xTok_PBqas410_001055" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e2979"/>
+          <w xml:id="xTok_PBqas410_001054" part="I" next="#xTok_PBqas410_001055" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="PBqas410_d2e2984"/>
           </w>
           <w xml:id="xTok_PBqas410_001055" part="F" prev="#xTok_PBqas410_001054">nd</w>
           <w xml:id="xTok_PBqas410_001057" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_PBqas410_001059" ana="#PPfPP" lemma="we">we</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e2998"/>
           <w xml:id="xTok_PBqas410_001062" ana="#VVPfVVP" lemma="look">look</w>
           <w xml:id="xTok_PBqas410_001064" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PBqas410_001066" ana="#UHfUH" lemma="er">er</w>
@@ -1181,7 +1181,7 @@
           <w xml:id="xTok_PBqas410_001072" ana="#NNfNN" lemma="workshop">workshop</w>
           <w xml:id="xTok_PBqas410_001074" ana="#RBfRB" lemma="also">also</w>
           <w xml:id="xTok_PBqas410_001076" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBqas410_001078" ana="#NNSfNNS" lemma="cylinder">cylinders<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PBqas410_001078" ana="#NNSfNNS" lemma="cylinder">cylinders<c function="fall" type="intonation" xml:id="PBqas410_d2e3036"/>
           </w>
           <w xml:id="xTok_PBqas410_001080" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_PBqas410_001082" ana="#EXfEX" lemma="there">there</w>
@@ -1190,11 +1190,11 @@
           <w xml:id="xTok_PBqas410_001088" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PBqas410_001090" ana="#JJfJJ" lemma="special">special</w>
           <w xml:id="xTok_PBqas410_001092" ana="#NNSfNNS" lemma="problem">problems</w>
-          <pause dur="PT5S"/>
+          <pause dur="PT5S" xml:id="PBqas410_d2e3069"/>
         </u>
         <u who="#PBqas410_SX-m" xml:id="PBqas410_u_23">
           <shift corresp="#PBqas410_s_14" feature="loud" new="p" xml:id="PBqas410_s_13" mode="inline"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="PBqas410_d2e3075"/>
           <shift corresp="#PBqas410_s_13" feature="loud" new="neutral" xml:id="PBqas410_s_14" mode="inline"/>
         </u>
         <u who="#PBqas410_S4" xml:id="PBqas410_u_24">
@@ -1211,7 +1211,7 @@
           <w xml:id="xTok_PBqas410_001117" ana="#VVfVV" lemma="answer">answer</w>
           <w xml:id="xTok_PBqas410_001119" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PBqas410_001121" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e3136"/>
           <w xml:id="xTok_PBqas410_001124" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001126" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_001128" ana="#VVDfVVD" lemma="want">wanted</w>
@@ -1231,10 +1231,10 @@
           <w xml:id="xTok_PBqas410_001156" ana="#VHfVH" lemma="have">have</w>
           <w xml:id="xTok_PBqas410_001158" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_001160" ana="#VVfVV" lemma="calibrate">calibrate</w>
-          <w xml:id="xTok_PBqas410_001162" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001162" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e3221"/>
           </w>
           <w xml:id="xTok_PBqas410_001164" ana="#NNSfNNS" lemma="segment">segments</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e3228"/>
           <w xml:id="xTok_PBqas410_001167" ana="#INfIN" lemma="that">that</w>
           <w xml:id="xTok_PBqas410_001169" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_001171" ana="#VVfVV" lemma="make">make</w>
@@ -1246,7 +1246,7 @@
           <w xml:id="xTok_PBqas410_001183" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_001185" ana="#VVGfVVG" lemma="work">working</w>
           <w xml:id="xTok_PBqas410_001187" ana="#RBfRB" lemma="properly">properly</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e3277"/>
         </u>
         <u who="#PBqas410_S2" xml:id="PBqas410_u_25">
           <shift corresp="#PBqas410_s_16" feature="loud" new="p" xml:id="PBqas410_s_15"/>
@@ -1256,8 +1256,8 @@
           <w xml:id="xTok_PBqas410_001197" ana="#VBfVB" lemma="be">be</w>
           <w xml:id="xTok_PBqas410_001199" ana="#VVNfVVN" lemma="calibrate">calibrated</w>
           <shift corresp="#PBqas410_s_15" feature="loud" new="neutral" xml:id="PBqas410_s_16"/>
-          <pause dur="PT4S"/>
-          <incident dur="PT4S" voice:desc="a microphone is handed over to S2 "/>
+          <pause dur="PT4S" xml:id="PBqas410_d2e3306"/>
+          <incident dur="PT4S" voice:desc="a microphone is handed over to S2 " xml:id="PBqas410_d2e3307"/>
           <w xml:id="xTok_PBqas410_001202" ana="#REfRE" lemma="yes">yes</w>
           <w xml:id="xTok_PBqas410_001204" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_001206" ana="#NNSfNNS" lemma="segment">segments</w>
@@ -1266,7 +1266,7 @@
           <w xml:id="xTok_PBqas410_001212" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PBqas410_001214" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_001216" ana="#NNfNN" lemma="workshop">workshop</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e3343"/>
           <w xml:id="xTok_PBqas410_001219" ana="#INfIN" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_001221" ana="#XXfXX" lemma="">th-</w>
           <w xml:id="xTok_PBqas410_001223" ana="#WRBfWRB" lemma="when">when</w>
@@ -1278,26 +1278,26 @@
           <w xml:id="xTok_PBqas410_001235" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PBqas410_001237" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PBqas410_001239" ana="#JJfJJ" lemma="ready">ready</w>
-          <pause dur="PT1S"/>
-          <unclear>
+          <pause dur="PT1S" xml:id="PBqas410_d2e3393"/>
+          <unclear xml:id="PBqas410_d2e3394">
             <w xml:id="xTok_PBqas410_001242" ana="#VBZfVBZ" lemma="be">is</w>
           </unclear>
           <w xml:id="xTok_PBqas410_001245" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_PBqas410_001247" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_001249" ana="#VVfVV" lemma="install">install</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e3415"/>
           <w xml:id="xTok_PBqas410_001252" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_001254" ana="#VVfVV" lemma="give">give</w>
           <w xml:id="xTok_PBqas410_001256" ana="#DTfDT" lemma="the">the</w>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_PBqas410_001259" part="I" next="#xTok_PBqas410_001260" ana="#UHfUH" lemma="erm">e<c type="lengthening"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e3431"/>
+          <w xml:id="xTok_PBqas410_001259" part="I" next="#xTok_PBqas410_001260" ana="#UHfUH" lemma="erm">e<c type="lengthening" xml:id="PBqas410_d2e3436"/>
           </w>
           <w xml:id="xTok_PBqas410_001260" part="F" prev="#xTok_PBqas410_001259">rm</w>
           <w xml:id="xTok_PBqas410_001262" ana="#VVNfVVN" lemma="calibrate">calibrated</w>
           <w xml:id="xTok_PBqas410_001264" ana="#NNfNN" lemma="figure">figure</w>
           <w xml:id="xTok_PBqas410_001266" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_001268" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e3458"/>
           <w xml:id="xTok_PBqas410_001271" ana="#JJfJJ" lemma="smart">smart</w>
           <w xml:id="xTok_PBqas410_001273" ana="#XXfXX" lemma="">se-</w>
           <w xml:id="xTok_PBqas410_001275" ana="#NNfNN" lemma="system">system</w>
@@ -1310,23 +1310,23 @@
           <w xml:id="xTok_PBqas410_001285" ana="#VHfVH" lemma="have">have</w>
           <w xml:id="xTok_PBqas410_001287" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_001289" ana="#UHfUH" lemma="er">er</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PBqas410_d2e3505">
             <w xml:id="xTok_PBqas410_001292" ana="#UNIfUNI" lemma="">xxxx</w>
           </supplied>
-          <w xml:id="xTok_PBqas410_001295" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001295" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e3516"/>
           </w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PBqas410_d2e3517">
             <w xml:id="xTok_PBqas410_001297" ana="#UNIfUNI" lemma="">xxxx</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e3524">
             <w xml:id="xTok_PBqas410_001300" ana="#NNfNN" lemma="pressure">pressure</w>
             <w xml:id="xTok_PBqas410_001302" ana="#TOfTO" lemma="to">to</w>
           </unclear>
-          <w xml:id="xTok_PBqas410_001305" ana="#VVfVV" lemma="calibrate">calibrate<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PBqas410_001305" ana="#VVfVV" lemma="calibrate">calibrate<c function="rise" type="intonation" xml:id="PBqas410_d2e3540"/>
           </w>
           <shift corresp="#PBqas410_s_17" feature="loud" new="neutral" xml:id="PBqas410_s_18"/>
-          <pause dur="PT1S"/>
-          <incident voice:desc="S4 is speaking without a microphone"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e3542"/>
+          <incident voice:desc="S4 is speaking without a microphone" xml:id="PBqas410_d2e3543"/>
         </u>
         <u who="#PBqas410_S2" xml:id="PBqas410_u_27">
           <w xml:id="xTok_PBqas410_001308" ana="#UHfUH" lemma="er">er</w>
@@ -1336,13 +1336,13 @@
           <w xml:id="xTok_PBqas410_001316" ana="#NNSfNNS" lemma="seam">seams</w>
           <w xml:id="xTok_PBqas410_001318" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PBqas410_001320" ana="#DTfDT" lemma="the">the</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e3578"/>
           <seg n="3" type="overlap" xml:id="PBqas410_ol_8">
             <w xml:id="xTok_PBqas410_001323" ana="#NNfNN" lemma="workshop">workshop</w>
             <w xml:id="xTok_PBqas410_001325" ana="#INfIN" lemma="between">between</w>
             <w xml:id="xTok_PBqas410_001327" ana="#PREfPRE" lemma="which">which</w>
             <w xml:id="xTok_PBqas410_001329" ana="#PPfPP" lemma="we">we</w>
-            <pause/>
+            <pause xml:id="PBqas410_d2e3598"/>
             <w xml:id="xTok_PBqas410_001332" ana="#VVPfVVP" lemma="drive">drive</w>
             <w xml:id="xTok_PBqas410_001334" ana="#DTfDT" lemma="the">the</w>
             <w xml:id="xTok_PBqas410_001336" ana="#NNfNN" lemma="segment">segment</w>
@@ -1352,18 +1352,18 @@
           <w xml:id="xTok_PBqas410_001343" ana="#NNSfNNS" lemma="seam">seams</w>
           <w xml:id="xTok_PBqas410_001345" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PBqas410_001347" ana="#INfIN" lemma="in">in</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e3637"/>
         </u>
         <u who="#PBqas410_SX-m" xml:id="PBqas410_u_28">
           <seg n="3" synch="#PBqas410_ol_8" type="overlap" xml:id="PBqas410_ol_9">
-            <unclear>
+            <unclear xml:id="PBqas410_d2e3643">
               <w xml:id="xTok_PBqas410_001351" ana="#NNfNN" lemma="workshop">workshop</w>
             </unclear>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PBqas410_d2e3650">
               <w xml:id="xTok_PBqas410_001354" ana="#UNIfUNI" lemma="">xxx</w>
             </supplied>
             <w xml:id="xTok_PBqas410_001357" ana="#VVfVV #VVPfVVP" lemma="take">take</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PBqas410_d2e3663">
               <w xml:id="xTok_PBqas410_001360" ana="#UNIfUNI" lemma="">xx</w>
             </supplied>
           </seg>
@@ -1372,16 +1372,16 @@
           <w xml:id="xTok_PBqas410_001364" ana="#UHfUH" lemma="erm">erm</w>
           <w xml:id="xTok_PBqas410_001366" ana="#JJfJJ" lemma="certain">certain</w>
           <w xml:id="xTok_PBqas410_001368" ana="#NNfNN" lemma="thickness">thickness</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e3687"/>
           <w xml:id="xTok_PBqas410_001371" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_001373" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PBqas410_001375" ana="#VBZfVBZ" lemma="be">is</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e3703">
             <w xml:id="xTok_PBqas410_001378" ana="#DTfDT" lemma="the">the</w>
           </unclear>
           <w xml:id="xTok_PBqas410_001381" ana="#CDfCD" lemma="zero">zero</w>
           <w xml:id="xTok_PBqas410_001383" ana="#NNfNN" lemma="position">position</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e3720"/>
         </u>
         <u who="#PBqas410_S1" xml:id="PBqas410_u_30">
           <w xml:id="xTok_PBqas410_001387" ana="#INfIN" lemma="in">in</w>
@@ -1434,19 +1434,19 @@
           <w xml:id="xTok_PBqas410_001481" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_PBqas410_001483" ana="#VVfVV" lemma="show">show</w>
           <w xml:id="xTok_PBqas410_001485" ana="#PPfPP" lemma="it">it</w>
-          <pause dur="PT4S"/>
-          <incident dur="PT4S" voice:desc="S1 waits for participants to ask some more questions "/>
-          <vocal type="speaker_noise" voice:desc="smacks lips"/>
+          <pause dur="PT4S" xml:id="PBqas410_d2e3935"/>
+          <incident dur="PT4S" voice:desc="S1 waits for participants to ask some more questions " xml:id="PBqas410_d2e3936"/>
+          <vocal type="speaker_noise" voice:desc="smacks lips" xml:id="PBqas410_d2e3937"/>
           <w xml:id="xTok_PBqas410_001488" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PBqas410_001490" ana="#JJRfJJR" lemma="far">further</w>
           <w xml:id="xTok_PBqas410_001492" ana="#NNSfNNS" lemma="question">questions</w>
-          <pause dur="PT4S"/>
-          <incident voice:desc="a microphone is taken to S7"/>
+          <pause dur="PT4S" xml:id="PBqas410_d2e3953"/>
+          <incident voice:desc="a microphone is taken to S7" xml:id="PBqas410_d2e3954"/>
         </u>
         <u who="#PBqas410_S7" xml:id="PBqas410_u_31">
           <w xml:id="xTok_PBqas410_001496" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001498" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e3968">
             <w xml:id="xTok_PBqas410_001501" ana="#NPfNP" lemma="">[S8/last]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_001504" ana="#UHfUH" lemma="er">er</w>
@@ -1459,7 +1459,7 @@
           <w xml:id="xTok_PBqas410_001518" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_PBqas410_001520" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_001522" ana="#VVfVV" lemma="evaluate">evaluate</w>
-          <w xml:id="xTok_PBqas410_001524" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001524" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e4021"/>
           </w>
           <w xml:id="xTok_PBqas410_001526" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_001528" ana="#NNfNN" lemma="schedule">schedule</w>
@@ -1467,21 +1467,21 @@
           <w xml:id="xTok_PBqas410_001532" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001534" ana="#JJSfJJS" lemma="good">best</w>
           <w xml:id="xTok_PBqas410_001536" ana="#CDfCD" lemma="one">one</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4049"/>
           <w xml:id="xTok_PBqas410_001539" ana="#INfIN" lemma="because">because</w>
           <w xml:id="xTok_PBqas410_001541" ana="#XXfXX" lemma="">y-</w>
           <w xml:id="xTok_PBqas410_001543" ana="#RBfRB" lemma="probably">probably</w>
           <w xml:id="xTok_PBqas410_001545" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_001547" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_PBqas410_001549" ana="#DTfDT" lemma="some">some</w>
-          <voice:pvc>
+          <voice:pvc xml:id="PBqas410_d2e4078">
             <w xml:id="xTok_PBqas410_001552" ana="#PVCfNNS" lemma="">criterias</w>
           </voice:pvc>
-          <w xml:id="xTok_PBqas410_001555" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001555" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e4089"/>
           </w>
           <w xml:id="xTok_PBqas410_001557" ana="#NNfNN" lemma="productivity">productivity</w>
           <w xml:id="xTok_PBqas410_001559" ana="#INfIN" lemma="of">of</w>
-          <w xml:id="xTok_PBqas410_001561" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001561" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e4103"/>
           </w>
           <w xml:id="xTok_PBqas410_001563" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001565" voice:mode="spelt" spelt_orig="c c" ana="#NPfNP" lemma="s_cc">cc</w>
@@ -1489,34 +1489,34 @@
           <w xml:id="xTok_PBqas410_001569" ana="#NNfNN" lemma="productivity">productivity</w>
           <w xml:id="xTok_PBqas410_001571" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_001573" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBqas410_001575" part="I" next="#xTok_PBqas410_001576" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001575" part="I" next="#xTok_PBqas410_001576" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e4133"/>
           </w>
           <w xml:id="xTok_PBqas410_001576" part="F" prev="#xTok_PBqas410_001575">r</w>
-          <voice:track medium="1" num="3" type="md"/>
+          <voice:track medium="1" num="3" type="md" xml:id="PBqas410_d2e4138"/>
           <w xml:id="xTok_PBqas410_001579" ana="#JJfJJ" lemma="hot">hot</w>
           <w xml:id="xTok_PBqas410_001581" ana="#NNfNN" lemma="strip">strip</w>
           <w xml:id="xTok_PBqas410_001583" ana="#NNfNN" lemma="mill">mill</w>
           <w xml:id="xTok_PBqas410_001585" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_001587" ana="#UHfUH" lemma="er">er</w>
-          <w xml:id="xTok_PBqas410_001589" part="I" next="#xTok_PBqas410_001590" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001589" part="I" next="#xTok_PBqas410_001590" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e4164"/>
           </w>
           <w xml:id="xTok_PBqas410_001590" part="F" prev="#xTok_PBqas410_001589">r</w>
           <w xml:id="xTok_PBqas410_001592" ana="#DTfDT" lemma="some">some</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e4174">
             <w xml:id="xTok_PBqas410_001595" ana="#NNfNN" lemma="cost">cost</w>
           </emph>
           <w xml:id="xTok_PBqas410_001598" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PBqas410_001600" ana="#NNfNN" lemma="something">something</w>
-          <w xml:id="xTok_PBqas410_001602" part="I" next="#xTok_PBqas410_001603" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001602" part="I" next="#xTok_PBqas410_001603" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="PBqas410_d2e4193"/>
           </w>
           <w xml:id="xTok_PBqas410_001603" part="F" prev="#xTok_PBqas410_001602">nd</w>
           <w xml:id="xTok_PBqas410_001605" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4203"/>
           <w xml:id="xTok_PBqas410_001608" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001610" ana="#VfV" lemma="depend">depend</w>
           <w xml:id="xTok_PBqas410_001612" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PBqas410_001614" ana="#DTfDT" lemma="the">the</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e4223">
             <w xml:id="xTok_PBqas410_001617" ana="#NNfNN" lemma="situation">situation</w>
           </unclear>
           <w xml:id="xTok_PBqas410_001620" ana="#PPfPP" lemma="we">we</w>
@@ -1529,37 +1529,37 @@
           <w xml:id="xTok_PBqas410_001634" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_001636" ana="#VVfVV" lemma="evaluate">evaluate</w>
           <w xml:id="xTok_PBqas410_001638" ana="#DTfDT" lemma="the">the</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e4274">
             <w xml:id="xTok_PBqas410_001641" ana="#NNfNN" lemma="schedule">schedule</w>
           </unclear>
           <w xml:id="xTok_PBqas410_001644" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_001646" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_PBqas410_001648" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_PBqas410_001650" ana="#PPfPP" lemma="you">you</w>
-          <w xml:id="xTok_PBqas410_001652" part="I" next="#xTok_PBqas410_001653" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001652" part="I" next="#xTok_PBqas410_001653" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e4302"/>
           </w>
           <w xml:id="xTok_PBqas410_001653" part="F" prev="#xTok_PBqas410_001652">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e4307"/>
           <w xml:id="xTok_PBqas410_001656" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001658" ana="#XXfXX" lemma="">a-</w>
-          <w xml:id="xTok_PBqas410_001660" part="I" next="#xTok_PBqas410_001661" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001660" part="I" next="#xTok_PBqas410_001661" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e4321"/>
           </w>
           <w xml:id="xTok_PBqas410_001661" part="F" prev="#xTok_PBqas410_001660">r</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e4326">
             <w xml:id="xTok_PBqas410_001664" ana="#VVfVV" lemma="adjust">adjust</w>
           </emph>
           <w xml:id="xTok_PBqas410_001667" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_001669" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBqas410_001671" part="I" next="#xTok_PBqas410_001672" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001671" part="I" next="#xTok_PBqas410_001672" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e4346"/>
           </w>
           <w xml:id="xTok_PBqas410_001672" part="F" prev="#xTok_PBqas410_001671">r</w>
           <w xml:id="xTok_PBqas410_001674" ana="#NNfNN" lemma="evaluation">evaluation</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4355"/>
           <seg n="1" type="overlap" xml:id="PBqas410_ol_10">
             <w xml:id="xTok_PBqas410_001677" ana="#NNfNN" lemma="change">change</w>
           </seg>
           <w xml:id="xTok_PBqas410_001680" ana="#DTfDT" lemma="the">the</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e4370">
             <w xml:id="xTok_PBqas410_001683" ana="#NNfNN" lemma="evaluation">evaluation</w>
           </unclear>
           <w xml:id="xTok_PBqas410_001686" ana="#VfV" lemma="depend">depend</w>
@@ -1576,19 +1576,19 @@
         </u>
         <u who="#PBqas410_S8" xml:id="PBqas410_u_33">
           <w xml:id="xTok_PBqas410_001700" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4416"/>
           <w xml:id="xTok_PBqas410_001703" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_PBqas410_001705" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_001707" ana="#VVPfVVP" lemma="understand">understand</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4432"/>
           <w xml:id="xTok_PBqas410_001710" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001712" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PBqas410_001714" ana="#PPfPP" lemma="we">we</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e4447">
             <w xml:id="xTok_PBqas410_001717" ana="#VBPfVBP" lemma="be">are</w>
           </emph>
           <w xml:id="xTok_PBqas410_001720" ana="#VVGfVVG" lemma="do">doing</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4461"/>
           <w xml:id="xTok_PBqas410_001723" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001725" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PBqas410_001727" ana="#PPfPP" lemma="i">i</w>
@@ -1597,7 +1597,7 @@
           <w xml:id="xTok_PBqas410_001733" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PBqas410_001735" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_PBqas410_001737" ana="#CDfCD" lemma="one">one</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4497"/>
           <w xml:id="xTok_PBqas410_001740" ana="#JJfJJ" lemma="global">global</w>
           <w xml:id="xTok_PBqas410_001742" ana="#JJfJJ" lemma="objective">objective</w>
           <w xml:id="xTok_PBqas410_001744" ana="#NNfNN" lemma="function">function</w>
@@ -1617,7 +1617,7 @@
           <w xml:id="xTok_PBqas410_001772" ana="#NNSfNNS" lemma="component">components</w>
           <w xml:id="xTok_PBqas410_001774" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PBqas410_001776" ana="#DTfDT" lemma="the">the</w>
-          <voice:pvc>
+          <voice:pvc xml:id="PBqas410_d2e4580">
             <w xml:id="xTok_PBqas410_001779" ana="#PVCfNN" lemma="">optimization</w>
           </voice:pvc>
           <w xml:id="xTok_PBqas410_001782" ana="#NNSfNNS" lemma="criterion">criteria</w>
@@ -1645,19 +1645,19 @@
           <w xml:id="xTok_PBqas410_001826" ana="#NNSfNNS" lemma="component">components</w>
           <w xml:id="xTok_PBqas410_001828" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_PBqas410_001830" ana="#VBfVB" lemma="be">be</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4694"/>
           <w xml:id="xTok_PBqas410_001833" ana="#VVNfVVN" lemma="configure">configured</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e4701">
             <w xml:id="xTok_PBqas410_001836" ana="#INfIN" lemma="by">by</w>
           </emph>
           <w xml:id="xTok_PBqas410_001839" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_001841" ana="#INfIN" lemma="depending">depending</w>
           <w xml:id="xTok_PBqas410_001843" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PBqas410_001845" ana="#WPfWP" lemma="what">what</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e4727">
             <w xml:id="xTok_PBqas410_001848" ana="#PPSfPPS" lemma="you">your</w>
           </emph>
-          <voice:pvc>
+          <voice:pvc xml:id="PBqas410_d2e4734">
             <w xml:id="xTok_PBqas410_001851" ana="#PVCfNN" lemma="">optimization</w>
           </voice:pvc>
           <w xml:id="xTok_PBqas410_001854" ana="#NNSfNNS" lemma="criterion">criteria</w>
@@ -1671,10 +1671,10 @@
           <w xml:id="xTok_PBqas410_001870" ana="#NNSfNNS" lemma="criterion">criteria</w>
           <w xml:id="xTok_PBqas410_001872" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_001874" ana="#INfIN" lemma="to">to</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e4789">
             <w xml:id="xTok_PBqas410_001877" ana="#PPfPP" lemma="you">you</w>
           </emph>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4796"/>
           <w xml:id="xTok_PBqas410_001880" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_001882" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_PBqas410_001884" ana="#PPfPP" lemma="we">we</w>
@@ -1692,18 +1692,18 @@
           <w xml:id="xTok_PBqas410_001908" ana="#VVfVV" lemma="specify">specify</w>
           <w xml:id="xTok_PBqas410_001910" ana="#DTfDT" lemma="those">those</w>
           <w xml:id="xTok_PBqas410_001912" ana="#NNSfNNS" lemma="criterion">criteria</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4871"/>
           <w xml:id="xTok_PBqas410_001915" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_001917" ana="#JJfJJ" lemma="specific">specific</w>
-          <w xml:id="xTok_PBqas410_001919" part="I" next="#xTok_PBqas410_001920" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001919" part="I" next="#xTok_PBqas410_001920" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e4884"/>
           </w>
           <w xml:id="xTok_PBqas410_001920" part="F" prev="#xTok_PBqas410_001919">r</w>
           <w xml:id="xTok_PBqas410_001922" ana="#INfIN" lemma="to">to</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e4894">
             <w xml:id="xTok_PBqas410_001925" ana="#PPSfPPS" lemma="you">your</w>
           </emph>
           <w xml:id="xTok_PBqas410_001928" ana="#NNfNN" lemma="situation">situation</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e4907"/>
           <w xml:id="xTok_PBqas410_001931" ana="#BRfBR" lemma="">hh</w>
           <w xml:id="xTok_PBqas410_001933" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_PBqas410_001935" ana="#XXfXX" lemma="">w-</w>
@@ -1718,7 +1718,7 @@
           <w xml:id="xTok_PBqas410_001953" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_PBqas410_001955" ana="#MDfMD" lemma="will">will</w>
           <w xml:id="xTok_PBqas410_001957" ana="#VBfVB" lemma="be">be</w>
-          <w xml:id="xTok_PBqas410_001959" part="I" next="#xTok_PBqas410_001960" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_001959" part="I" next="#xTok_PBqas410_001960" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e4971"/>
           </w>
           <w xml:id="xTok_PBqas410_001960" part="F" prev="#xTok_PBqas410_001959">r</w>
           <w xml:id="xTok_PBqas410_001962" ana="#DTfDT" lemma="a">a</w>
@@ -1727,43 +1727,43 @@
           <w xml:id="xTok_PBqas410_001968" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_001970" ana="#NNfNN" lemma="exhibition">exhibition</w>
           <w xml:id="xTok_PBqas410_001972" ana="#NNfNN" lemma="hall">hall</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5001"/>
           <w xml:id="xTok_PBqas410_001975" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_001977" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_001979" ana="#NNfNN" lemma="tool">tool</w>
           <w xml:id="xTok_PBqas410_001981" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_001983" ana="#RBfRB" lemma="then">then</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5025"/>
           <w xml:id="xTok_PBqas410_001986" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_001988" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PBqas410_001990" ana="#RBfRB" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_001992" ana="#RBfRB" lemma="course">course</w>
           <w xml:id="xTok_PBqas410_001994" ana="#JJfJJ" lemma="welcome">welcome</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5049"/>
           <w xml:id="xTok_PBqas410_001997" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_001999" ana="#VVfVV" lemma="come">come</w>
           <w xml:id="xTok_PBqas410_002001" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_002003" ana="#VVfVV" lemma="look">look</w>
-          <pause dur="PT9S"/>
-          <incident dur="PT9S" voice:desc="a microphone is taken to S9 "/>
+          <pause dur="PT9S" xml:id="PBqas410_d2e5069"/>
+          <incident dur="PT9S" voice:desc="a microphone is taken to S9 " xml:id="PBqas410_d2e5070"/>
         </u>
         <u who="#PBqas410_S9" xml:id="PBqas410_u_34">
           <w xml:id="xTok_PBqas410_002007" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_PBqas410_002009" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_PBqas410_002011" ana="#NNfNN" lemma="name">name</w>
           <w xml:id="xTok_PBqas410_002013" ana="#VBZfVBZ" lemma="be">is</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e5093">
             <w xml:id="xTok_PBqas410_002016" ana="#NPfNP" lemma="">[S9/last]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_002019" ana="#INfIN" lemma="from">from</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e5107">
             <w xml:id="xTok_PBqas410_002022" ana="#NPfNP" lemma="">[org7]</w>
           </supplied>
-          <w xml:id="xTok_PBqas410_002025" part="I" next="#xTok_PBqas410_002026" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002025" part="I" next="#xTok_PBqas410_002026" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e5118"/>
           </w>
           <w xml:id="xTok_PBqas410_002026" part="F" prev="#xTok_PBqas410_002025">r</w>
           <w xml:id="xTok_PBqas410_002028" ana="#CCfCC" lemma="and">and</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e5127">
             <w xml:id="xTok_PBqas410_002031" ana="#NPfNP" lemma="">[org5]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_002034" ana="#UHfUH" lemma="er">er</w>
@@ -1772,8 +1772,8 @@
           <w xml:id="xTok_PBqas410_002040" ana="#NNfNN" lemma="question">question</w>
           <w xml:id="xTok_PBqas410_002042" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PBqas410_002044" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
-            <w xml:id="xTok_PBqas410_002047" ana="#NPfNP" lemma="">[S3/last]<c function="fall" type="intonation"/>
+          <supplied reason="anonymization" xml:id="PBqas410_d2e5162">
+            <w xml:id="xTok_PBqas410_002047" ana="#NPfNP" lemma="">[S3/last]<c function="fall" type="intonation" xml:id="PBqas410_d2e5169"/>
             </w>
           </supplied>
           <w xml:id="xTok_PBqas410_002050" ana="#WRBfWRB" lemma="how">how</w>
@@ -1791,12 +1791,12 @@
           <w xml:id="xTok_PBqas410_002074" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PBqas410_002076" ana="#VVGfVVG" lemma="affect">affecting</w>
           <w xml:id="xTok_PBqas410_002078" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5235"/>
           <w xml:id="xTok_PBqas410_002081" ana="#NNfNN" lemma="mould">mould</w>
           <w xml:id="xTok_PBqas410_002083" ana="#NNfNN" lemma="level">level</w>
           <w xml:id="xTok_PBqas410_002085" ana="#NNfNN" lemma="control">control</w>
-          <pause dur="PT5S"/>
-          <incident dur="PT5S" voice:desc="a microphone is taken to S3 "/>
+          <pause dur="PT5S" xml:id="PBqas410_d2e5250"/>
+          <incident dur="PT5S" voice:desc="a microphone is taken to S3 " xml:id="PBqas410_d2e5252"/>
         </u>
         <u who="#PBqas410_S3" xml:id="PBqas410_u_35">
           <w xml:id="xTok_PBqas410_002089" ana="#XXfXX" lemma="">w-</w>
@@ -1815,7 +1815,7 @@
           <w xml:id="xTok_PBqas410_002115" ana="#NNfNN" lemma="mould">mould</w>
           <w xml:id="xTok_PBqas410_002117" ana="#NNfNN" lemma="level">level</w>
           <w xml:id="xTok_PBqas410_002119" ana="#NNfNN" lemma="control">control</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PBqas410_d2e5325"/>
         </u>
         <u who="#PBqas410_S9" xml:id="PBqas410_u_36">
           <w xml:id="xTok_PBqas410_002123" ana="#CCfCC" lemma="but">but</w>
@@ -1826,7 +1826,7 @@
           <shift corresp="#PBqas410_s_22" feature="loud" new="p" xml:id="PBqas410_s_21"/>
           <w xml:id="xTok_PBqas410_002134" ana="#UHfUH" lemma="er">er</w>
           <shift corresp="#PBqas410_s_21" feature="loud" new="neutral" xml:id="PBqas410_s_22"/>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5360"/>
           <w xml:id="xTok_PBqas410_002137" ana="#VVGfVVG" lemma="make">making</w>
           <w xml:id="xTok_PBqas410_002139" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002141" ana="#NNfNN" lemma="reduction">reduction</w>
@@ -1851,24 +1851,24 @@
           <w xml:id="xTok_PBqas410_002179" ana="#NNSfNNS" lemma="slab">slabs</w>
           <w xml:id="xTok_PBqas410_002181" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_002183" ana="#PPfPP" lemma="they">they</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5464"/>
           <w xml:id="xTok_PBqas410_002186" ana="#RBfRB" lemma="maybe">maybe</w>
           <w xml:id="xTok_PBqas410_002188" ana="#VVGfVVG" lemma="affect">affecting</w>
           <w xml:id="xTok_PBqas410_002190" ana="#INfIN" lemma="that">that</w>
           <w xml:id="xTok_PBqas410_002192" ana="#PPSfPPS" lemma="you">your</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5483"/>
           <w xml:id="xTok_PBqas410_002195" ana="#NNfNN" lemma="oscillation">oscillation</w>
           <w xml:id="xTok_PBqas410_002197" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PBqas410_002199" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002201" ana="#INfIN" lemma="on">on</w>
-          <w xml:id="xTok_PBqas410_002203" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002203" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e5505"/>
           </w>
           <w xml:id="xTok_PBqas410_002205" ana="#BRfBR" lemma="">hh</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5513"/>
         </u>
         <u who="#PBqas410_S3" xml:id="PBqas410_u_37">
           <w xml:id="xTok_PBqas410_002209" ana="#DMfDM" lemma="well">well</w>
-          <w xml:id="xTok_PBqas410_002211" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002211" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e5525"/>
           </w>
           <w xml:id="xTok_PBqas410_002213" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002215" ana="#NNSfNNS" lemma="movement">movements</w>
@@ -1885,14 +1885,14 @@
           <w xml:id="xTok_PBqas410_002237" ana="#JJfJJ" lemma="slow">slow</w>
           <w xml:id="xTok_PBqas410_002239" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_002241" ana="#JJfJJ" lemma="moderate">moderate</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5591"/>
           <w xml:id="xTok_PBqas410_002244" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PBqas410_002246" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5602"/>
           <w xml:id="xTok_PBqas410_002249" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PBqas410_002251" ana="#MDfMD" lemma="can">could</w>
           <w xml:id="xTok_PBqas410_002253" ana="#RBfRB" lemma="not">not</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5618"/>
           <shift corresp="#PBqas410_s_24" feature="loud" new="p" xml:id="PBqas410_s_23"/>
           <w xml:id="xTok_PBqas410_002256" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002258" ana="#UHfUH" lemma="er">er</w>
@@ -1901,7 +1901,7 @@
           <w xml:id="xTok_PBqas410_002263" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PBqas410_002265" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PBqas410_002267" ana="#DTfDT" lemma="any">any</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e5651">
             <w xml:id="xTok_PBqas410_002270" part="I" next="#xTok_PBqas410_002271" ana="#JJfJJ" lemma="direct">di</w>
           </emph>
           <w xml:id="xTok_PBqas410_002271" part="F" prev="#xTok_PBqas410_002270">rect</w>
@@ -1910,11 +1910,11 @@
           <w xml:id="xTok_PBqas410_002277" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002279" ana="#NNfNN" lemma="mould">mould</w>
           <w xml:id="xTok_PBqas410_002281" ana="#NNfNN" lemma="level">level</w>
-          <w xml:id="xTok_PBqas410_002283" part="I" next="#xTok_PBqas410_002284" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002283" part="I" next="#xTok_PBqas410_002284" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e5683"/>
           </w>
           <w xml:id="xTok_PBqas410_002284" part="F" prev="#xTok_PBqas410_002283">r</w>
           <w xml:id="xTok_PBqas410_002286" ana="#UHfUH" lemma="erm">erm</w>
-          <w xml:id="xTok_PBqas410_002288" part="I" next="#xTok_PBqas410_002289" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002288" part="I" next="#xTok_PBqas410_002289" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e5694"/>
           </w>
           <w xml:id="xTok_PBqas410_002289" part="F" prev="#xTok_PBqas410_002288">r</w>
           <w xml:id="xTok_PBqas410_002291" ana="#NNfNN" lemma="fluctuation">fluctuation</w>
@@ -1922,7 +1922,7 @@
           <w xml:id="xTok_PBqas410_002295" ana="#NNfNN" lemma="impact">impact</w>
           <w xml:id="xTok_PBqas410_002297" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PBqas410_002299" ana="#MDfMD" lemma="will">would</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e5721">
             <w xml:id="xTok_PBqas410_002302" ana="#VHfVH" lemma="have">have</w>
           </emph>
           <w xml:id="xTok_PBqas410_002305" ana="#VBZfVBZ" lemma="be">is</w>
@@ -1944,7 +1944,7 @@
           <w xml:id="xTok_PBqas410_002335" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PBqas410_002337" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_002339" ana="#VVDfVVD" lemma="say">said</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e5807">
             <w xml:id="xTok_PBqas410_002342" ana="#XXfXX" lemma="">ye-</w>
           </unclear>
           <w xml:id="xTok_PBqas410_002345" ana="#EXfEX" lemma="there">there</w>
@@ -1959,14 +1959,14 @@
           <w xml:id="xTok_PBqas410_002363" ana="#VVfVV" lemma="figure">figure</w>
           <w xml:id="xTok_PBqas410_002365" ana="#RPfRP" lemma="out">out</w>
           <w xml:id="xTok_PBqas410_002367" ana="#INfIN" lemma="between">between</w>
-          <w xml:id="xTok_PBqas410_002369" part="I" next="#xTok_PBqas410_002370" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002369" part="I" next="#xTok_PBqas410_002370" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e5869"/>
           </w>
           <w xml:id="xTok_PBqas410_002370" part="F" prev="#xTok_PBqas410_002369">r</w>
           <w xml:id="xTok_PBqas410_002372" ana="#VVGfVVG" lemma="do">doing</w>
           <w xml:id="xTok_PBqas410_002374" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002376" ana="#JJfJJ" lemma="soft">soft</w>
           <w xml:id="xTok_PBqas410_002378" ana="#NNfNN" lemma="reduction">reduction</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5891"/>
           <w xml:id="xTok_PBqas410_002381" ana="#XXfXX" lemma="">an-</w>
           <w xml:id="xTok_PBqas410_002383" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_002385" ana="#RBfRB" lemma="even">even</w>
@@ -1974,12 +1974,12 @@
           <w xml:id="xTok_PBqas410_002389" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PBqas410_002391" ana="#JJfJJ" lemma="dynamic">dynamic</w>
           <w xml:id="xTok_PBqas410_002393" ana="#NNfNN" lemma="way">way</w>
-          <w xml:id="xTok_PBqas410_002395" part="I" next="#xTok_PBqas410_002396" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002395" part="I" next="#xTok_PBqas410_002396" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e5925"/>
           </w>
           <w xml:id="xTok_PBqas410_002396" part="F" prev="#xTok_PBqas410_002395">r</w>
           <w xml:id="xTok_PBqas410_002398" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_002400" ana="#DTfDT" lemma="a">a</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5939"/>
           <w xml:id="xTok_PBqas410_002403" ana="#JJRfJJR" lemma="high">higher</w>
           <w xml:id="xTok_PBqas410_002405" ana="#NNfNN" lemma="fluctuation">fluctuation</w>
           <w xml:id="xTok_PBqas410_002407" ana="#INfIN" lemma="in">in</w>
@@ -1992,7 +1992,7 @@
           <w xml:id="xTok_PBqas410_002421" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PBqas410_002423" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PBqas410_002425" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e5992"/>
           <w xml:id="xTok_PBqas410_002428" ana="#NNfNN" lemma="connection">connection</w>
           <w xml:id="xTok_PBqas410_002430" ana="#RBfRB" lemma="there">there</w>
         </u>
@@ -2000,25 +2000,25 @@
           <w xml:id="xTok_PBqas410_002434" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_PBqas410_002436" ana="#FIfFI" lemma="thank">thank</w>
           <w xml:id="xTok_PBqas410_002438" ana="#FIfFI" lemma="you">you</w>
-          <pause dur="PT5S"/>
-          <incident dur="PT5S" voice:desc="a microphone is taken to S10 "/>
+          <pause dur="PT5S" xml:id="PBqas410_d2e6021"/>
+          <incident dur="PT5S" voice:desc="a microphone is taken to S10 " xml:id="PBqas410_d2e6022"/>
         </u>
         <u who="#PBqas410_S10" xml:id="PBqas410_u_39">
           <w xml:id="xTok_PBqas410_002442" ana="#FIfFI" lemma="hello">hello</w>
           <w xml:id="xTok_PBqas410_002444" ana="#PPfPP" lemma="i" part="I" next="xTok_PBqas410_002446">i</w>
           <w xml:id="xTok_PBqas410_002446" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBqas410_002444">'m</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e6041">
             <w xml:id="xTok_PBqas410_002449" ana="#NPfNP" lemma="">[S10/last]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_002452" ana="#INfIN" lemma="from">from</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e6055">
             <w xml:id="xTok_PBqas410_002455" ana="#NPfNP" lemma="">[org6]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_002458" ana="#NPfNP" lemma="india">india</w>
           <w xml:id="xTok_PBqas410_002460" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_PBqas410_002462" ana="#NNfNN" lemma="question">question</w>
           <w xml:id="xTok_PBqas410_002464" ana="#VBZfVBZ" lemma="be">is</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e6080"/>
           <w xml:id="xTok_PBqas410_002467" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_002469" ana="#VVfVV" lemma="eliminate">eliminate</w>
           <w xml:id="xTok_PBqas410_002471" ana="#CCfCC" lemma="or">or</w>
@@ -2035,21 +2035,21 @@
           <w xml:id="xTok_PBqas410_002493" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_002495" ana="#VVfVV" lemma="make">make</w>
           <w xml:id="xTok_PBqas410_002497" ana="#PPfPP" lemma="it">it</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e6151"/>
           <w xml:id="xTok_PBqas410_002500" ana="#JJfJJ" lemma="minimum">minimum</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_002503" ana="#RBfRB" lemma="normally">normally<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e6158"/>
+          <w xml:id="xTok_PBqas410_002503" ana="#RBfRB" lemma="normally">normally<c type="lengthening" xml:id="PBqas410_d2e6163"/>
           </w>
           <w xml:id="xTok_PBqas410_002505" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002507" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_PBqas410_002509" ana="#JJfJJ" lemma="much">much</w>
-          <voice:pvc>
+          <voice:pvc xml:id="PBqas410_d2e6179">
             <w xml:id="xTok_PBqas410_002512" ana="#PVCfJJ #PVCfRB" lemma="">percentagewise</w>
           </voice:pvc>
           <w xml:id="xTok_PBqas410_002515" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002517" ana="#NNfNN" lemma="reduction">reduction</w>
           <w xml:id="xTok_PBqas410_002519" ana="#VBZfVBZ" lemma="be">is</w>
-          <w xml:id="xTok_PBqas410_002521" part="I" next="#xTok_PBqas410_002522" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002521" part="I" next="#xTok_PBqas410_002522" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e6203"/>
           </w>
           <w xml:id="xTok_PBqas410_002522" part="F" prev="#xTok_PBqas410_002521">r</w>
           <w xml:id="xTok_PBqas410_002524" ana="#UHfUH" lemma="er">er</w>
@@ -2058,14 +2058,14 @@
           <w xml:id="xTok_PBqas410_002530" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_PBqas410_002532" ana="#VBfVB" lemma="be">be</w>
           <w xml:id="xTok_PBqas410_002534" ana="#VVNfVVN" lemma="achieve">achieved</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e6233"/>
         </u>
         <u who="#PBqas410_S3" xml:id="PBqas410_u_40">
           <w xml:id="xTok_PBqas410_002538" ana="#BRfBR" lemma="">hh</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e6243"/>
           <w xml:id="xTok_PBqas410_002541" ana="#DMfDM" lemma="well">well</w>
-          <pause/>
-          <voice:track medium="1" num="4" type="md"/>
+          <pause xml:id="PBqas410_d2e6250"/>
+          <voice:track medium="1" num="4" type="md" xml:id="PBqas410_d2e6251"/>
           <w xml:id="xTok_PBqas410_002544" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PBqas410_002546" ana="#VVZfVVZ" lemma="depend">depends</w>
           <w xml:id="xTok_PBqas410_002548" ana="#WPfWP" lemma="what">what</w>
@@ -2079,13 +2079,13 @@
           <w xml:id="xTok_PBqas410_002564" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_PBqas410_002566" ana="#VVGfNN" lemma="start/starting">starting</w>
           <w xml:id="xTok_PBqas410_002568" ana="#NNfNN" lemma="point">point</w>
-          <w xml:id="xTok_PBqas410_002570" ana="#VBZfVBZ" lemma="be">is<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002570" ana="#VBZfVBZ" lemma="be">is<c type="lengthening" xml:id="PBqas410_d2e6311"/>
           </w>
           <w xml:id="xTok_PBqas410_002572" ana="#RBfRB" lemma="very">very</w>
           <w xml:id="xTok_PBqas410_002574" ana="#JJfJJ" lemma="clean">clean</w>
           <w xml:id="xTok_PBqas410_002576" ana="#NNfNN" lemma="steel">steel</w>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_PBqas410_002579" part="I" next="#xTok_PBqas410_002580" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e6327"/>
+          <w xml:id="xTok_PBqas410_002579" part="I" next="#xTok_PBqas410_002580" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e6332"/>
           </w>
           <w xml:id="xTok_PBqas410_002580" part="F" prev="#xTok_PBqas410_002579">r</w>
           <shift corresp="#PBqas410_s_28" feature="loud" new="p" xml:id="PBqas410_s_27"/>
@@ -2098,7 +2098,7 @@
           <w xml:id="xTok_PBqas410_002594" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_002596" ana="#VVGfNNS #VVGfVVG" lemma="segregate/segregating">segregating</w>
           <w xml:id="xTok_PBqas410_002598" ana="#NNSfNNS" lemma="element">elements</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e6377"/>
           <w xml:id="xTok_PBqas410_002601" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_002603" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PBqas410_002605" ana="#NNfNN" lemma="addition">addition</w>
@@ -2110,13 +2110,13 @@
           <w xml:id="xTok_PBqas410_002617" ana="#VVPfVVP" lemma="apply">apply</w>
           <w xml:id="xTok_PBqas410_002619" ana="#JJfJJ" lemma="soft">soft</w>
           <w xml:id="xTok_PBqas410_002621" ana="#NNfNN" lemma="reduction">reduction</w>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_PBqas410_002624" part="I" next="#xTok_PBqas410_002625" ana="#UHfUH" lemma="erm">e<c type="lengthening"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e6426"/>
+          <w xml:id="xTok_PBqas410_002624" part="I" next="#xTok_PBqas410_002625" ana="#UHfUH" lemma="erm">e<c type="lengthening" xml:id="PBqas410_d2e6431"/>
           </w>
           <w xml:id="xTok_PBqas410_002625" part="F" prev="#xTok_PBqas410_002624">rm</w>
           <w xml:id="xTok_PBqas410_002627" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_002629" ana="#RBfRB" lemma="probably">probably</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e6445"/>
           <w xml:id="xTok_PBqas410_002632" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PBqas410_002634" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002636" ana="#VVGfNNS" lemma="measure/measuring">measuring</w>
@@ -2129,11 +2129,11 @@
           <w xml:id="xTok_PBqas410_002650" ana="#NNfNN" lemma="sulphur">sulphur</w>
           <w xml:id="xTok_PBqas410_002652" ana="#NNSfNNS" lemma="print">prints</w>
           <w xml:id="xTok_PBqas410_002654" ana="#CCfCC" lemma="or">or</w>
-          <voice:pvc>
+          <voice:pvc xml:id="PBqas410_d2e6498">
             <w xml:id="xTok_PBqas410_002657" ana="#PVCfNNS" lemma="">macroedges</w>
           </voice:pvc>
-          <pause/>
-          <w xml:id="xTok_PBqas410_002660" part="I" next="#xTok_PBqas410_002661" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e6506"/>
+          <w xml:id="xTok_PBqas410_002660" part="I" next="#xTok_PBqas410_002661" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e6511"/>
           </w>
           <w xml:id="xTok_PBqas410_002661" part="F" prev="#xTok_PBqas410_002660">r</w>
           <w xml:id="xTok_PBqas410_002663" ana="#PPfPP" lemma="you">you</w>
@@ -2149,12 +2149,12 @@
           <w xml:id="xTok_PBqas410_002683" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PBqas410_002685" ana="#NNfNN" lemma="difference">difference</w>
           <w xml:id="xTok_PBqas410_002687" ana="#RBfRB" lemma="there">there</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e6570"/>
           <w xml:id="xTok_PBqas410_002690" ana="#INfIN" lemma="even">even</w>
           <w xml:id="xTok_PBqas410_002692" ana="#INfIN" lemma="though">though</w>
           <w xml:id="xTok_PBqas410_002694" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PBqas410_002696" ana="#DTfDT" lemma="the">the</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e6590">
             <w xml:id="xTok_PBqas410_002699" ana="#JJfJJ" lemma="final">final</w>
           </emph>
           <w xml:id="xTok_PBqas410_002702" ana="#NNfNN" lemma="application">application</w>
@@ -2171,20 +2171,20 @@
           <w xml:id="xTok_PBqas410_002724" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002726" ana="#NNfNN" lemma="gas">gas</w>
           <w xml:id="xTok_PBqas410_002728" ana="#NNSfNNS" lemma="grade">grades</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e6658"/>
           <w xml:id="xTok_PBqas410_002731" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_002733" ana="#MDfMD" lemma="will">will</w>
           <w xml:id="xTok_PBqas410_002735" ana="#VVfVV" lemma="see">see</w>
           <w xml:id="xTok_PBqas410_002737" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002739" ana="#NNfNN" lemma="difference">difference</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e6682"/>
           <w xml:id="xTok_PBqas410_002742" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002744" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_PBqas410_002746" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_PBqas410_002748" ana="#VVGfNN" lemma="start/starting">starting</w>
           <w xml:id="xTok_PBqas410_002750" ana="#NNfNN" lemma="point">point</w>
           <w xml:id="xTok_PBqas410_002752" ana="#VBZfVBZ" lemma="be">is</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e6710"/>
           <w xml:id="xTok_PBqas410_002755" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002757" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PBqas410_002759" ana="#JJRfJJR" lemma="low">lower</w>
@@ -2194,17 +2194,17 @@
           <w xml:id="xTok_PBqas410_002767" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PBqas410_002769" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002771" ana="#NNfNN" lemma="steel">steel</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_002774" part="I" next="#xTok_PBqas410_002775" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e6751"/>
+          <w xml:id="xTok_PBqas410_002774" part="I" next="#xTok_PBqas410_002775" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e6757"/>
           </w>
           <w xml:id="xTok_PBqas410_002775" part="F" prev="#xTok_PBqas410_002774">r</w>
           <w xml:id="xTok_PBqas410_002777" ana="#PPfPP" lemma="you">you</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e6766">
             <w xml:id="xTok_PBqas410_002780" part="I" next="#xTok_PBqas410_002781" ana="#RBfRB" lemma="definitely">de</w>
           </emph>
           <w xml:id="xTok_PBqas410_002781" part="F" prev="#xTok_PBqas410_002780">finitely</w>
           <w xml:id="xTok_PBqas410_002783" ana="#VVPfVVP" lemma="see">see</w>
-          <w xml:id="xTok_PBqas410_002785" part="I" next="#xTok_PBqas410_002786" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002785" part="I" next="#xTok_PBqas410_002786" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e6782"/>
           </w>
           <w xml:id="xTok_PBqas410_002786" part="F" prev="#xTok_PBqas410_002785">r</w>
           <w xml:id="xTok_PBqas410_002788" ana="#DTfDT" lemma="a">a</w>
@@ -2225,7 +2225,7 @@
           <w xml:id="xTok_PBqas410_002818" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PBqas410_002820" ana="#JJfJJ" lemma="soft">soft</w>
           <w xml:id="xTok_PBqas410_002822" ana="#NNfNN" lemma="reduction">reduction</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e6862"/>
           <w xml:id="xTok_PBqas410_002825" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002827" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_002829" ana="#DTfDT" lemma="the">the</w>
@@ -2237,7 +2237,7 @@
           <w xml:id="xTok_PBqas410_002839" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PBqas410_002841" ana="#VVDfVVD" lemma="see">saw</w>
           <w xml:id="xTok_PBqas410_002843" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PBqas410_002845" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002845" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBqas410_d2e6911"/>
           </w>
           <w xml:id="xTok_PBqas410_002847" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002849" ana="#INfIN" lemma="in">in</w>
@@ -2253,7 +2253,7 @@
           <w xml:id="xTok_PBqas410_002869" ana="#NNfNN" lemma="cent">cent</w>
           <w xml:id="xTok_PBqas410_002871" ana="#XXfXX" lemma="">im-</w>
           <w xml:id="xTok_PBqas410_002873" ana="#XXfXX" lemma="">im-</w>
-          <w xml:id="xTok_PBqas410_002875" part="I" next="#xTok_PBqas410_002876" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002875" part="I" next="#xTok_PBqas410_002876" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e6975"/>
           </w>
           <w xml:id="xTok_PBqas410_002876" part="F" prev="#xTok_PBqas410_002875">r</w>
           <w xml:id="xTok_PBqas410_002878" ana="#UHfUH" lemma="er">er</w>
@@ -2264,56 +2264,56 @@
           <w xml:id="xTok_PBqas410_002888" ana="#NNfNN" lemma="line">line</w>
           <w xml:id="xTok_PBqas410_002890" ana="#NNfNN" lemma="segregation">segregation</w>
           <w xml:id="xTok_PBqas410_002892" ana="#NNfNN" lemma="index">index</w>
-          <pause dur="PT3S"/>
+          <pause dur="PT3S" xml:id="PBqas410_d2e7014"/>
         </u>
         <u who="#PBqas410_S10" xml:id="PBqas410_u_41">
           <w xml:id="xTok_PBqas410_002896" ana="#FIfFI" lemma="thank">thank</w>
           <w xml:id="xTok_PBqas410_002898" ana="#FIfFI" lemma="you">you</w>
-          <pause dur="PT5S"/>
+          <pause dur="PT5S" xml:id="PBqas410_d2e7028"/>
         </u>
         <u who="#PBqas410_S1" xml:id="PBqas410_u_42">
           <w xml:id="xTok_PBqas410_002902" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PBqas410_002904" ana="#JJRfJJR" lemma="far">further</w>
           <w xml:id="xTok_PBqas410_002906" ana="#NNSfNNS" lemma="question">questions</w>
           <w xml:id="xTok_PBqas410_002908" ana="#INfIN" lemma="on">on</w>
-          <w xml:id="xTok_PBqas410_002910" part="I" next="#xTok_PBqas410_002911" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002910" part="I" next="#xTok_PBqas410_002911" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e7052"/>
           </w>
           <w xml:id="xTok_PBqas410_002911" part="F" prev="#xTok_PBqas410_002910">r</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7058"/>
           <w xml:id="xTok_PBqas410_002914" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7065"/>
           <w xml:id="xTok_PBqas410_002917" ana="#JJfJJ" lemma="direct">direct</w>
           <w xml:id="xTok_PBqas410_002919" ana="#NNfNN" lemma="link">link</w>
           <w xml:id="xTok_PBqas410_002921" ana="#NNfNN" lemma="paper">paper</w>
           <w xml:id="xTok_PBqas410_002923" ana="#CCfCC" lemma="or">or</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PBqas410_d2e7085">
             <w xml:id="xTok_PBqas410_002926" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PBqas410_d2e7092"/>
         </u>
         <u who="#PBqas410_S11" xml:id="PBqas410_u_43">
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e7096">
             <w xml:id="xTok_PBqas410_002930" ana="#NPfNP" lemma="">[S11/last]</w>
           </supplied>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e7103">
             <w xml:id="xTok_PBqas410_002933" ana="#NPfNP" lemma="">[org3]</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7110"/>
           <w xml:id="xTok_PBqas410_002936" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_002938" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_PBqas410_002940" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PBqas410_002942" ana="#NNfNN" lemma="question">question</w>
           <w xml:id="xTok_PBqas410_002944" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_002946" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e7138">
             <w xml:id="xTok_PBqas410_002949" ana="#NPfNP" lemma="">[S8/last]</w>
           </supplied>
-          <pause/>
-          <vocal type="speaker_noise" voice:desc="smacks lips"/>
+          <pause xml:id="PBqas410_d2e7145"/>
+          <vocal type="speaker_noise" voice:desc="smacks lips" xml:id="PBqas410_d2e7146"/>
           <w xml:id="xTok_PBqas410_002952" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e7154"/>
           <w xml:id="xTok_PBqas410_002955" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e7161">
             <w xml:id="xTok_PBqas410_002958" ana="#NPfNP" lemma="">[S8/last]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_002961" ana="#PPfPP" lemma="you">you</w>
@@ -2323,7 +2323,7 @@
           <w xml:id="xTok_PBqas410_002969" ana="#NNfNN" lemma="planner">planner</w>
           <w xml:id="xTok_PBqas410_002971" ana="#NNfNN" lemma="family">family</w>
           <w xml:id="xTok_PBqas410_002973" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PBqas410_002975" part="I" next="#xTok_PBqas410_002976" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_002975" part="I" next="#xTok_PBqas410_002976" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e7201"/>
           </w>
           <w xml:id="xTok_PBqas410_002976" part="F" prev="#xTok_PBqas410_002975">r</w>
           <w xml:id="xTok_PBqas410_002978" ana="#UHfUH" lemma="er">er</w>
@@ -2335,7 +2335,7 @@
           <w xml:id="xTok_PBqas410_002990" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_002992" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_PBqas410_002994" ana="#VVZfVVZ" lemma="do">does</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7244"/>
           <w xml:id="xTok_PBqas410_002997" ana="#NNfNN" lemma="alpha">alpha</w>
           <w xml:id="xTok_PBqas410_002999" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_003001" ana="#NNfNN" lemma="beta">beta</w>
@@ -2345,21 +2345,21 @@
           <w xml:id="xTok_PBqas410_003009" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PBqas410_003011" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_003013" ana="#PPSfPPS" lemma="you">your</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7285"/>
           <w xml:id="xTok_PBqas410_003016" ana="#JJfJJ" lemma="hot">hot</w>
           <w xml:id="xTok_PBqas410_003018" ana="#NNfNN" lemma="charge">charge</w>
           <w xml:id="xTok_PBqas410_003020" ana="#NNfNN" lemma="scheduler">scheduler</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7301"/>
         </u>
         <u who="#PBqas410_S8" xml:id="PBqas410_u_44">
           <w xml:id="xTok_PBqas410_003024" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_PBqas410_003026" ana="#FIfFI" lemma="hello">hello</w>
           <w xml:id="xTok_PBqas410_003028" ana="#NNfNN" lemma="mister">mister</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e7319">
             <w xml:id="xTok_PBqas410_003031" ana="#NPfNP" lemma="">[S11/last]</w>
           </supplied>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
-          <pause/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="PBqas410_d2e7326"/>
+          <pause xml:id="PBqas410_d2e7327"/>
           <w xml:id="xTok_PBqas410_003034" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_003036" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PBqas410_003038" ana="#VVGfVVG" lemma="expect">expecting</w>
@@ -2367,17 +2367,17 @@
           <w xml:id="xTok_PBqas410_003042" ana="#NNfNN" lemma="question">question</w>
           <w xml:id="xTok_PBqas410_003044" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PBqas410_003046" ana="#PPfPP" lemma="you">you</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="PBqas410_d2e7360"/>
           <seg n="1" type="overlap" xml:id="PBqas410_ol_12">
-            <vocal type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="PBqas410_d2e7362"/>
           </seg>
         </u>
         <u who="#PBqas410_S11" xml:id="PBqas410_u_45">
           <seg n="1" synch="#PBqas410_ol_12" type="overlap" xml:id="PBqas410_ol_13" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline" xml:id="PBqas410_d2e7368"/>
           </seg>
-          <vocal type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline"/>
-          <pause mode="inline"/>
+          <vocal type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline" xml:id="PBqas410_d2e7369"/>
+          <pause mode="inline" xml:id="PBqas410_d2e7370"/>
         </u>
         <u who="#PBqas410_S8" xml:id="PBqas410_u_46">
           <w xml:id="xTok_PBqas410_003051" ana="#PPfPP" lemma="we">we</w>
@@ -2388,25 +2388,25 @@
           <w xml:id="xTok_PBqas410_003059" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PBqas410_003061" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PBqas410_003063" ana="#VVDfVVD" lemma="do">did</w>
-          <w xml:id="xTok_PBqas410_003065" part="I" next="#xTok_PBqas410_003066" ana="#RBfRB" lemma="for">f<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003065" part="I" next="#xTok_PBqas410_003066" ana="#RBfRB" lemma="for">f<c type="lengthening" xml:id="PBqas410_d2e7409"/>
           </w>
           <w xml:id="xTok_PBqas410_003066" part="F" prev="#xTok_PBqas410_003065">or</w>
           <w xml:id="xTok_PBqas410_003068" ana="#RBfRB" lemma="example">example</w>
           <w xml:id="xTok_PBqas410_003070" ana="#INfIN" lemma="in">in</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e7423">
             <w xml:id="xTok_PBqas410_003073" ana="#NPfNP" lemma="">[org3]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_003076" ana="#RBfRB" lemma="here">here</w>
           <w xml:id="xTok_PBqas410_003078" ana="#RBfRB" lemma="here">here</w>
           <w xml:id="xTok_PBqas410_003080" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PBqas410_003082" ana="#VVDfVVD" lemma="do">did</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e7449">
             <w xml:id="xTok_PBqas410_003085" part="I" next="#xTok_PBqas410_003086" ana="#JJfJJ" lemma="indirect">in</w>
           </emph>
           <w xml:id="xTok_PBqas410_003086" part="F" prev="#xTok_PBqas410_003085">direct</w>
           <w xml:id="xTok_PBqas410_003088" ana="#JJfJJ" lemma="hot">hot</w>
           <w xml:id="xTok_PBqas410_003090" ana="#VVGfVVG" lemma="charge">charging</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7466"/>
           <w xml:id="xTok_PBqas410_003093" ana="#VBDfVBD" lemma="be">were</w>
           <shift corresp="#PBqas410_s_34" feature="tempo" new="a" xml:id="PBqas410_s_33"/>
           <w xml:id="xTok_PBqas410_003096" ana="#NNfNN" lemma="alpha">alpha</w>
@@ -2418,9 +2418,9 @@
           <w xml:id="xTok_PBqas410_003107" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PBqas410_003109" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PBqas410_003111" ana="#NNfNN" lemma="combination">combination</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7514"/>
           <w xml:id="xTok_PBqas410_003114" ana="#VVDfVVD" lemma="work">worked</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7521"/>
           <w xml:id="xTok_PBqas410_003117" ana="#RBfRB" lemma="perfectly">perfectly</w>
           <w xml:id="xTok_PBqas410_003119" ana="#RBfRB" lemma="well">well</w>
           <w xml:id="xTok_PBqas410_003121" ana="#CCfCC" lemma="and">and</w>
@@ -2433,7 +2433,7 @@
           <w xml:id="xTok_PBqas410_003135" ana="#VVNfVVN" lemma="do">done</w>
           <w xml:id="xTok_PBqas410_003137" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PBqas410_003139" ana="#DTfDT" lemma="this">this</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e7574">
             <w xml:id="xTok_PBqas410_003142" ana="#NNfNN" lemma="tool">tool</w>
           </unclear>
           <w xml:id="xTok_PBqas410_003145" ana="#BRfBR" lemma="">hh</w>
@@ -2447,14 +2447,14 @@
           <w xml:id="xTok_PBqas410_003161" ana="#DTfDT" lemma="all">all</w>
           <w xml:id="xTok_PBqas410_003163" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_PBqas410_003165" ana="#INfIN" lemma="if">if</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e7629"/>
           <w xml:id="xTok_PBqas410_003168" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_003170" ana="#NNfNN" lemma="customer">customer</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e7641">
             <w xml:id="xTok_PBqas410_003173" ana="#VVZfVVZ" lemma="want">wants</w>
           </emph>
           <w xml:id="xTok_PBqas410_003176" ana="#DTfDT" lemma="a">a</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e7654">
             <w xml:id="xTok_PBqas410_003179" part="I" next="#xTok_PBqas410_003180" ana="#JJfJJ" lemma="direct">di</w>
           </emph>
           <w xml:id="xTok_PBqas410_003180" part="F" prev="#xTok_PBqas410_003179">rect</w>
@@ -2476,11 +2476,11 @@
           <w xml:id="xTok_PBqas410_003210" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PBqas410_003212" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_003214" ana="#VVGfNN" lemma="edit/editing">editing</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7737"/>
           <w xml:id="xTok_PBqas410_003217" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_003219" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PBqas410_003221" part="I" next="#xTok_PBqas410_003222" ana="#VVDfVVD" lemma="extend">ex</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e7751">
             <w xml:id="xTok_PBqas410_003222" part="M" prev="#xTok_PBqas410_003221" next="#xTok_PBqas410_003223">ten</w>
           </emph>
           <w xml:id="xTok_PBqas410_003223" part="F" prev="#xTok_PBqas410_003222">ded</w>
@@ -2493,14 +2493,14 @@
           <shift corresp="#PBqas410_s_37" feature="tempo" new="neutral" xml:id="PBqas410_s_38"/>
           <w xml:id="xTok_PBqas410_003237" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_003239" ana="#VVfVV" lemma="show">show</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7793"/>
           <w xml:id="xTok_PBqas410_003242" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_003244" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_003246" ana="#NNSfNNS" lemma="result">results</w>
           <w xml:id="xTok_PBqas410_003248" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_003250" ana="#NNfNN" lemma="change">change</w>
           <w xml:id="xTok_PBqas410_003252" ana="#INfIN" lemma="in">in</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e7822">
             <w xml:id="xTok_PBqas410_003255" ana="#CDfCD" lemma="one">one</w>
           </emph>
           <w xml:id="xTok_PBqas410_003258" ana="#NNfNN" lemma="schedule">schedule</w>
@@ -2531,7 +2531,7 @@
           <w xml:id="xTok_PBqas410_003306" ana="#VVGfNN" lemma="edit/editing">editing</w>
           <w xml:id="xTok_PBqas410_003308" ana="#BRfBR" lemma="">hh</w>
           <w xml:id="xTok_PBqas410_003310" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e7946"/>
           <w xml:id="xTok_PBqas410_003313" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PBqas410_003315" ana="#JJfJJ" lemma="particular">particular</w>
           <w xml:id="xTok_PBqas410_003317" ana="#NNfNN" lemma="customer">customer</w>
@@ -2576,32 +2576,32 @@
           <w xml:id="xTok_PBqas410_003391" ana="#VVGfVVG" lemma="use">using</w>
           <w xml:id="xTok_PBqas410_003393" ana="#NNfNN" lemma="alpha">alpha</w>
           <w xml:id="xTok_PBqas410_003395" ana="#NNSfNNS" lemma="planner">planners</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e8129"/>
           <w xml:id="xTok_PBqas410_003398" ana="#CCfCC" lemma="nor">nor</w>
           <w xml:id="xTok_PBqas410_003400" ana="#NNfNN" lemma="beta">beta</w>
           <w xml:id="xTok_PBqas410_003402" ana="#NNSfNNS" lemma="planner">planners</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e8145"/>
         </u>
         <u who="#PBqas410_S11" xml:id="PBqas410_u_47">
           <w xml:id="xTok_PBqas410_003406" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_PBqas410_003408" ana="#FIfFI" lemma="thank">thank</w>
           <w xml:id="xTok_PBqas410_003410" ana="#FIfFI" lemma="you">you</w>
-          <pause dur="PT20S"/>
-          <incident dur="PT20S" voice:desc="a microphone is taken to S12 "/>
+          <pause dur="PT20S" xml:id="PBqas410_d2e8163"/>
+          <incident dur="PT20S" voice:desc="a microphone is taken to S12 " xml:id="PBqas410_d2e8164"/>
         </u>
         <u who="#PBqas410_S12" xml:id="PBqas410_u_48">
           <w xml:id="xTok_PBqas410_003414" ana="#BRfBR" lemma="">hhh</w>
-          <incident voice:desc="S12 tests the microphone"/>
-          <pause/>
+          <incident voice:desc="S12 tests the microphone" xml:id="PBqas410_d2e8174"/>
+          <pause xml:id="PBqas410_d2e8175"/>
           <w xml:id="xTok_PBqas410_003417" ana="#REfRE" lemma="okay">okay</w>
-          <voice:track medium="1" num="5" type="md"/>
+          <voice:track medium="1" num="5" type="md" xml:id="PBqas410_d2e8182"/>
           <w xml:id="xTok_PBqas410_003420" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PBqas410_003422" ana="#VBPfVBP" lemma="be">am</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e8194">
             <w xml:id="xTok_PBqas410_003425" ana="#NPfNP" lemma="">[S12/last]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_003428" ana="#INfIN" lemma="from">from</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PBqas410_d2e8207">
             <w xml:id="xTok_PBqas410_003431" ana="#NPfNP" lemma="">[org4]</w>
           </supplied>
           <w xml:id="xTok_PBqas410_003434" ana="#BRfBR" lemma="">hh</w>
@@ -2615,13 +2615,13 @@
           <w xml:id="xTok_PBqas410_003450" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_003452" ana="#JJfJJ" lemma="soft">soft</w>
           <w xml:id="xTok_PBqas410_003454" ana="#NNfNN" lemma="reduction">reduction</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e8262"/>
           <w xml:id="xTok_PBqas410_003457" ana="#INfIN" lemma="in">in</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PBqas410_d2e8270">
             <w xml:id="xTok_PBqas410_003460" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
           <w xml:id="xTok_PBqas410_003463" ana="#VVGfNN #VVGfVVG" lemma="casting/cast">casting</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e8283"/>
           <w xml:id="xTok_PBqas410_003466" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_PBqas410_003468" ana="#JJfJJ" lemma="much">much</w>
           <w xml:id="xTok_PBqas410_003470" ana="#PPfPP" lemma="we">we</w>
@@ -2631,10 +2631,10 @@
           <w xml:id="xTok_PBqas410_003478" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_003480" ana="#JJfJJ" lemma="soft">soft</w>
           <w xml:id="xTok_PBqas410_003482" ana="#BRfBR" lemma="">hh</w>
-          <w xml:id="xTok_PBqas410_003484" part="I" next="#xTok_PBqas410_003485" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003484" part="I" next="#xTok_PBqas410_003485" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e8326"/>
           </w>
           <w xml:id="xTok_PBqas410_003485" part="F" prev="#xTok_PBqas410_003484">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e8331"/>
         </u>
         <u who="#PBqas410_S3" xml:id="PBqas410_u_49">
           <shift corresp="#PBqas410_s_46" feature="loud" new="p" xml:id="PBqas410_s_45"/>
@@ -2651,8 +2651,8 @@
           <shift corresp="#PBqas410_s_48" feature="loud" new="p" xml:id="PBqas410_s_47"/>
           <w xml:id="xTok_PBqas410_003499" ana="#UHfUH" lemma="erm">erm</w>
           <shift corresp="#PBqas410_s_47" feature="loud" new="neutral" xml:id="PBqas410_s_48"/>
-          <pause dur="PT1S"/>
-          <incident voice:desc="microphone is taken to S3"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e8370"/>
+          <incident voice:desc="microphone is taken to S3" xml:id="PBqas410_d2e8371"/>
           <w xml:id="xTok_PBqas410_003502" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PBqas410_003504" ana="#RBfRB" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_003506" ana="#RBfRB" lemma="course">course</w>
@@ -2681,20 +2681,20 @@
           <w xml:id="xTok_PBqas410_003552" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_003554" ana="#CDfCD" lemma="eight">eight</w>
           <w xml:id="xTok_PBqas410_003556" ana="#NNSfNNS" lemma="millimeter">millimetres</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_003559" part="I" next="#xTok_PBqas410_003560" ana="#UHfUH" lemma="erm">e<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e8491"/>
+          <w xml:id="xTok_PBqas410_003559" part="I" next="#xTok_PBqas410_003560" ana="#UHfUH" lemma="erm">e<c type="lengthening" xml:id="PBqas410_d2e8497"/>
           </w>
           <w xml:id="xTok_PBqas410_003560" part="F" prev="#xTok_PBqas410_003559">rm</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_003563" part="I" next="#xTok_PBqas410_003564" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e8502"/>
+          <w xml:id="xTok_PBqas410_003563" part="I" next="#xTok_PBqas410_003564" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="PBqas410_d2e8507"/>
           </w>
           <w xml:id="xTok_PBqas410_003564" part="F" prev="#xTok_PBqas410_003563">nd</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e8512"/>
           <w xml:id="xTok_PBqas410_003567" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_PBqas410_003569" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_PBqas410_003571" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_003573" ana="#VVPfVVP" lemma="apply">apply</w>
-          <w xml:id="xTok_PBqas410_003575" part="I" next="#xTok_PBqas410_003576" ana="#RBfRB" lemma="too">t<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003575" part="I" next="#xTok_PBqas410_003576" ana="#RBfRB" lemma="too">t<c type="lengthening" xml:id="PBqas410_d2e8534"/>
           </w>
           <w xml:id="xTok_PBqas410_003576" part="F" prev="#xTok_PBqas410_003575">oo</w>
           <w xml:id="xTok_PBqas410_003578" ana="#JJfJJ" lemma="much">much</w>
@@ -2718,10 +2718,10 @@
           <w xml:id="xTok_PBqas410_003614" ana="#FIfFI" lemma="sorry">sorry</w>
           <w xml:id="xTok_PBqas410_003616" ana="#JJfJJ" lemma="halfway">halfway</w>
           <w xml:id="xTok_PBqas410_003618" ana="#VVGfNN" lemma="crack/cracking">cracking</w>
-          <w xml:id="xTok_PBqas410_003620" part="I" next="#xTok_PBqas410_003621" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003620" part="I" next="#xTok_PBqas410_003621" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e8630"/>
           </w>
           <w xml:id="xTok_PBqas410_003621" part="F" prev="#xTok_PBqas410_003620">r</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e8635"/>
           <w xml:id="xTok_PBqas410_003624" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PBqas410_003626" ana="#RBfRB" lemma="maybe">maybe</w>
           <w xml:id="xTok_PBqas410_003628" ana="#XXfXX" lemma="">tri-</w>
@@ -2729,8 +2729,8 @@
           <w xml:id="xTok_PBqas410_003632" ana="#JJfJJ" lemma="triple">triple</w>
           <w xml:id="xTok_PBqas410_003634" ana="#NNfNN" lemma="point">point</w>
           <w xml:id="xTok_PBqas410_003636" ana="#VVGfNN" lemma="crack/cracking">cracking</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_003639" part="I" next="#xTok_PBqas410_003640" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e8667"/>
+          <w xml:id="xTok_PBqas410_003639" part="I" next="#xTok_PBqas410_003640" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e8673"/>
           </w>
           <w xml:id="xTok_PBqas410_003640" part="F" prev="#xTok_PBqas410_003639">r</w>
           <w xml:id="xTok_PBqas410_003642" ana="#INfIN" lemma="if">if</w>
@@ -2740,7 +2740,7 @@
           <w xml:id="xTok_PBqas410_003650" ana="#RBfRB" lemma="little">little</w>
           <w xml:id="xTok_PBqas410_003652" ana="#JJfJJ" lemma="soft">soft</w>
           <w xml:id="xTok_PBqas410_003654" ana="#NNfNN" lemma="reduction">reduction</w>
-          <w xml:id="xTok_PBqas410_003656" ana="#RBfRB" lemma="then">then<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003656" ana="#RBfRB" lemma="then">then<c type="lengthening" xml:id="PBqas410_d2e8709"/>
           </w>
           <w xml:id="xTok_PBqas410_003658" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_003660" ana="#VVPfVVP" lemma="do" part="I" next="xTok_PBqas410_003662">do</w>
@@ -2756,32 +2756,32 @@
           <w xml:id="xTok_PBqas410_003680" ana="#PPfPP" lemma="it" part="I" next="xTok_PBqas410_003682">it</w>
           <w xml:id="xTok_PBqas410_003682" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PBqas410_003680">'s</w>
           <w xml:id="xTok_PBqas410_003684" ana="#DTfDT" lemma="a">a</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e8771"/>
           <w xml:id="xTok_PBqas410_003687" ana="#DTfDT" lemma="a">a</w>
-          <emph>
+          <emph xml:id="PBqas410_d2e8778">
             <w xml:id="xTok_PBqas410_003690" part="I" next="#xTok_PBqas410_003691" ana="#NNfNN" lemma="balance">ba</w>
           </emph>
           <w xml:id="xTok_PBqas410_003691" part="F" prev="#xTok_PBqas410_003690">lance</w>
           <w xml:id="xTok_PBqas410_003693" ana="#RBfRB" lemma="there">there</w>
-          <pause dur="PT7S"/>
+          <pause dur="PT7S" xml:id="PBqas410_d2e8792"/>
           <w xml:id="xTok_PBqas410_003696" ana="#VVDfVVD" lemma="do">did</w>
           <w xml:id="xTok_PBqas410_003698" ana="#DTfDT" lemma="that">that</w>
-          <w xml:id="xTok_PBqas410_003700" part="I" next="#xTok_PBqas410_003701" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003700" part="I" next="#xTok_PBqas410_003701" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e8805"/>
           </w>
           <w xml:id="xTok_PBqas410_003701" part="F" prev="#xTok_PBqas410_003700">r</w>
           <w xml:id="xTok_PBqas410_003703" ana="#VVfVV" lemma="answer">answer</w>
           <w xml:id="xTok_PBqas410_003705" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_003707" ana="#NNfNN" lemma="question">question</w>
-          <pause dur="PT4S"/>
+          <pause dur="PT4S" xml:id="PBqas410_d2e8823"/>
           <w xml:id="xTok_PBqas410_003710" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_PBqas410_003712" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause dur="PT2S"/>
-          <incident dur="PT2S" voice:desc="microphone is taken away from S3 "/>
+          <pause dur="PT2S" xml:id="PBqas410_d2e8835"/>
+          <incident dur="PT2S" voice:desc="microphone is taken away from S3 " xml:id="PBqas410_d2e8836"/>
           <shift corresp="#PBqas410_s_50" feature="loud" new="p" xml:id="PBqas410_s_49"/>
           <w xml:id="xTok_PBqas410_003715" ana="#FIfFI" lemma="thank">thank</w>
           <w xml:id="xTok_PBqas410_003717" ana="#FIfFI" lemma="you">you</w>
           <shift corresp="#PBqas410_s_49" feature="loud" new="neutral" xml:id="PBqas410_s_50"/>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PBqas410_d2e8850"/>
         </u>
         <u who="#PBqas410_S1" xml:id="PBqas410_u_52">
           <w xml:id="xTok_PBqas410_003721" ana="#REfRE" lemma="okay">okay</w>
@@ -2831,9 +2831,9 @@
           <w xml:id="xTok_PBqas410_003809" ana="#VVPfVVP" lemma="think">think</w>
           <w xml:id="xTok_PBqas410_003811" ana="#PPfPP" lemma="it" part="I" next="xTok_PBqas410_003813">it</w>
           <w xml:id="xTok_PBqas410_003813" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PBqas410_003811">'s</w>
-          <w xml:id="xTok_PBqas410_003815" ana="#DTfDT" lemma="a">a<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003815" ana="#DTfDT" lemma="a">a<c type="lengthening" xml:id="PBqas410_d2e9054"/>
           </w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9055"/>
           <w xml:id="xTok_PBqas410_003817" ana="#PPfPP" lemma="it" part="I" next="xTok_PBqas410_003819">it</w>
           <w xml:id="xTok_PBqas410_003819" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PBqas410_003817">'s</w>
           <w xml:id="xTok_PBqas410_003821" ana="#DTfDT" lemma="a">a</w>
@@ -2847,12 +2847,12 @@
           <w xml:id="xTok_PBqas410_003837" ana="#NNSfNNS" lemma="colleague">colleagues</w>
           <w xml:id="xTok_PBqas410_003839" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PBqas410_003841" ana="#VVfVV" lemma="exchange">exchange</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9113"/>
           <w xml:id="xTok_PBqas410_003844" ana="#DTfDT" lemma="all">all</w>
           <w xml:id="xTok_PBqas410_003846" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_PBqas410_003848" ana="#NNfNN" lemma="experience">experience</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_003851" part="I" next="#xTok_PBqas410_003852" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e9129"/>
+          <w xml:id="xTok_PBqas410_003851" part="I" next="#xTok_PBqas410_003852" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="PBqas410_d2e9134"/>
           </w>
           <w xml:id="xTok_PBqas410_003852" part="F" prev="#xTok_PBqas410_003851">nd</w>
           <w xml:id="xTok_PBqas410_003854" ana="#PPfPP" lemma="you">you</w>
@@ -2873,8 +2873,8 @@
           <w xml:id="xTok_PBqas410_003884" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PBqas410_003886" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_003888" ana="#NNSfNNS" lemma="break">breaks</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_003891" part="I" next="#xTok_PBqas410_003892" ana="#CCfCC" lemma="or">o<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e9214"/>
+          <w xml:id="xTok_PBqas410_003891" part="I" next="#xTok_PBqas410_003892" ana="#CCfCC" lemma="or">o<c type="lengthening" xml:id="PBqas410_d2e9220"/>
           </w>
           <w xml:id="xTok_PBqas410_003892" part="F" prev="#xTok_PBqas410_003891">r</w>
           <w xml:id="xTok_PBqas410_003894" ana="#UHfUH" lemma="er">er</w>
@@ -2888,13 +2888,13 @@
           <w xml:id="xTok_PBqas410_003909" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_PBqas410_003911" ana="#TOfTO" lemma="to">to</w>
           <shift corresp="#PBqas410_s_51" feature="tempo" new="neutral" xml:id="PBqas410_s_52"/>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9267"/>
           <w xml:id="xTok_PBqas410_003914" ana="#VVfVV" lemma="remember">remember</w>
           <w xml:id="xTok_PBqas410_003916" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_003918" ana="#RBfRB" lemma="once">once</w>
           <w xml:id="xTok_PBqas410_003920" ana="#RBRfRBR" lemma="more">more</w>
           <w xml:id="xTok_PBqas410_003922" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PBqas410_003924" part="I" next="#xTok_PBqas410_003925" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003924" part="I" next="#xTok_PBqas410_003925" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e9293"/>
           </w>
           <w xml:id="xTok_PBqas410_003925" part="F" prev="#xTok_PBqas410_003924">r</w>
           <w xml:id="xTok_PBqas410_003927" ana="#EXfEX" lemma="there" part="I" next="xTok_PBqas410_003929">there</w>
@@ -2904,17 +2904,17 @@
           <w xml:id="xTok_PBqas410_003935" ana="#NNfNN" lemma="number">number</w>
           <w xml:id="xTok_PBqas410_003937" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_003939" ana="#NNSfNNS" lemma="place">places</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9328"/>
           <w xml:id="xTok_PBqas410_003942" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PBqas410_003944" ana="#DTfDT" lemma="these">these</w>
           <w xml:id="xTok_PBqas410_003946" ana="#NNSfNNS" lemma="tour">tours</w>
           <w xml:id="xTok_PBqas410_003948" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PBqas410_003950" ana="#NPfNP" lemma="wednesday">wednesday</w>
           <w xml:id="xTok_PBqas410_003952" ana="#NNfNN" lemma="morning">morning</w>
-          <w xml:id="xTok_PBqas410_003954" part="I" next="#xTok_PBqas410_003955" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003954" part="I" next="#xTok_PBqas410_003955" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="PBqas410_d2e9358"/>
           </w>
           <w xml:id="xTok_PBqas410_003955" part="F" prev="#xTok_PBqas410_003954">nd</w>
-          <w xml:id="xTok_PBqas410_003957" part="I" next="#xTok_PBqas410_003958" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_003957" part="I" next="#xTok_PBqas410_003958" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e9365"/>
           </w>
           <w xml:id="xTok_PBqas410_003958" part="F" prev="#xTok_PBqas410_003957">r</w>
           <w xml:id="xTok_PBqas410_003960" ana="#INfIN" lemma="if">if</w>
@@ -2925,9 +2925,9 @@
           <w xml:id="xTok_PBqas410_003970" ana="#FIfFI" lemma="please">please</w>
           <w xml:id="xTok_PBqas410_003972" ana="#VVfVV" lemma="contact">contact</w>
           <w xml:id="xTok_PBqas410_003974" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9404"/>
           <w xml:id="xTok_PBqas410_003977" ana="#NNfNN" lemma="information">information</w>
-          <unclear>
+          <unclear xml:id="PBqas410_d2e9411">
             <w xml:id="xTok_PBqas410_003980" ana="#NNfNN" lemma="desk">desk</w>
           </unclear>
           <w xml:id="xTok_PBqas410_003983" ana="#CCfCC" lemma="and">and</w>
@@ -2939,8 +2939,8 @@
           <w xml:id="xTok_PBqas410_003995" ana="#RBfRB" lemma="early">early</w>
           <w xml:id="xTok_PBqas410_003997" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PBqas410_003999" ana="#JJfJJ" lemma="possible">possible</w>
-          <pause/>
-          <w xml:id="xTok_PBqas410_004002" part="I" next="#xTok_PBqas410_004003" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PBqas410_d2e9458"/>
+          <w xml:id="xTok_PBqas410_004002" part="I" next="#xTok_PBqas410_004003" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PBqas410_d2e9464"/>
           </w>
           <w xml:id="xTok_PBqas410_004003" part="F" prev="#xTok_PBqas410_004002">r</w>
           <w xml:id="xTok_PBqas410_004005" ana="#PPfPP" lemma="we">we</w>
@@ -2954,10 +2954,10 @@
           <w xml:id="xTok_PBqas410_004021" ana="#NNfNN" lemma="break">break</w>
           <w xml:id="xTok_PBqas410_004023" ana="#RBfRB" lemma="now">now</w>
           <w xml:id="xTok_PBqas410_004025" ana="#INfIN" lemma="until">until</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9515"/>
           <w xml:id="xTok_PBqas410_004028" ana="#CDfCD" lemma="four">four</w>
           <w xml:id="xTok_PBqas410_004030" ana="#RBfRB" lemma="o'clock">o'clock</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9526"/>
           <w xml:id="xTok_PBqas410_004033" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PBqas410_004035" ana="#CDfCD" lemma="four">four</w>
           <w xml:id="xTok_PBqas410_004037" ana="#RBfRB" lemma="o'clock">o'clock</w>
@@ -2966,17 +2966,17 @@
           <w xml:id="xTok_PBqas410_004043" ana="#NNSfNNS" lemma="session">sessions</w>
           <w xml:id="xTok_PBqas410_004045" ana="#MDfMD" lemma="will">will</w>
           <w xml:id="xTok_PBqas410_004047" ana="#VVfVV" lemma="start">start</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9563"/>
           <w xml:id="xTok_PBqas410_004050" ana="#PPfPP" lemma="it" part="I" next="xTok_PBqas410_004052">it</w>
           <w xml:id="xTok_PBqas410_004052" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PBqas410_004050">'s</w>
-          <w xml:id="xTok_PBqas410_004054" ana="#DTfDT" lemma="a">a<c type="lengthening"/>
+          <w xml:id="xTok_PBqas410_004054" ana="#DTfDT" lemma="a">a<c type="lengthening" xml:id="PBqas410_d2e9577"/>
           </w>
           <w xml:id="xTok_PBqas410_004056" ana="#NNfNN" lemma="session">session</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9584"/>
           <w xml:id="xTok_PBqas410_004059" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PBqas410_004061" ana="#NNfNN" lemma="stainless">stainless</w>
           <w xml:id="xTok_PBqas410_004063" ana="#NNfNN" lemma="steel">steel</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9600"/>
           <w xml:id="xTok_PBqas410_004066" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PBqas410_004068" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PBqas410_004070" ana="#DTfDT" lemma="the">the</w>
@@ -2986,7 +2986,7 @@
           <w xml:id="xTok_PBqas410_004078" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PBqas410_004080" ana="#NNfNN" lemma="process">process</w>
           <w xml:id="xTok_PBqas410_004082" ana="#NNfNN" lemma="control">control</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e9641"/>
           <w xml:id="xTok_PBqas410_004085" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_PBqas410_004087" ana="#FIfFI" lemma="thank">thank</w>
           <w xml:id="xTok_PBqas410_004089" ana="#FIfFI" lemma="you">you</w>
@@ -2995,16 +2995,16 @@
           <w xml:id="xTok_PBqas410_004095" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PBqas410_004097" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_004099" ana="#NNSfNNS" lemma="speaker">speakers</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9677"/>
           <w xml:id="xTok_PBqas410_004102" ana="#FIfFI" lemma="see">see</w>
           <w xml:id="xTok_PBqas410_004104" ana="#FIfFI" lemma="you">you</w>
           <w xml:id="xTok_PBqas410_004106" ana="#RBfRB" lemma="again">again</w>
-          <pause/>
+          <pause xml:id="PBqas410_d2e9693"/>
           <w xml:id="xTok_PBqas410_004109" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PBqas410_004111" ana="#JJfJJ" lemma="next">next</w>
           <w xml:id="xTok_PBqas410_004113" ana="#NNSfNNS" lemma="session">sessions</w>
           <w xml:id="xTok_PBqas410_004115" ana="#FIfFI" lemma="thank">thanks</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PBqas410_d2e9713"/>
         </u>
       </div>
     </body>

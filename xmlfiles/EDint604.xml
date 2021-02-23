@@ -448,7 +448,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="medium" voice:end="02:45" voice:end_medium_number="1" voice:end_track="6" voice:medium_type="md" voice:start="00:31" voice:start_medium_number="1" voice:start_track="4">
+      <div type="medium" voice:end="02:45" voice:end_medium_number="1" voice:end_track="6" voice:medium_type="md" voice:start="00:31" voice:start_medium_number="1" voice:start_track="4" xml:id="EDint604_d2e600">
         <u who="#EDint604_S1" xml:id="EDint604_u_1">
           <w xml:id="xTok_EDint604_000007" ana="#VVfVV" lemma="do" part="I" next="xTok_EDint604_000009">do</w>
           <w xml:id="xTok_EDint604_000009" ana="#RBfRB" lemma="not" part="F" prev="xTok_EDint604_000007">n't</w>
@@ -456,18 +456,18 @@
           <w xml:id="xTok_EDint604_000013" ana="#NNfNN" lemma="attention">attention</w>
           <w xml:id="xTok_EDint604_000015" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_EDint604_000017" ana="#DTfDT" lemma="this">this</w>
-          <incident voice:desc="points to microphone"/>
-          <pause/>
+          <incident voice:desc="points to microphone" xml:id="EDint604_d2e631"/>
+          <pause xml:id="EDint604_d2e632"/>
           <w xml:id="xTok_EDint604_000020" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_000022">it</w>
           <w xml:id="xTok_EDint604_000022" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_000020">'s</w>
           <w xml:id="xTok_EDint604_000024" ana="#DMfDM" lemma="like">like</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e648"/>
           <w xml:id="xTok_EDint604_000027" ana="#NNfNN" lemma="nothing">nothing</w>
-          <pause/>
-          <emph>
+          <pause xml:id="EDint604_d2e655"/>
+          <emph xml:id="EDint604_d2e656">
             <w xml:id="xTok_EDint604_000030" ana="#RBfRB" lemma="really">really</w>
           </emph>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="EDint604_d2e663"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_2">
           <w xml:id="xTok_EDint604_000034" ana="#WPfWP" lemma="what">what</w>
@@ -487,10 +487,10 @@
           <w xml:id="xTok_EDint604_000060" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_000062" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_EDint604_000064" ana="#NPfNP" lemma="maltese">maltese</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e735"/>
           <w xml:id="xTok_EDint604_000067" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_000069" ana="#NPfNP" lemma="malta">malta</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e747"/>
           <w xml:id="xTok_EDint604_000072" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_EDint604_000074" ana="#PPfPP" lemma="i" part="I" next="xTok_EDint604_000076">i</w>
           <w xml:id="xTok_EDint604_000076" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_000074">'m</w>
@@ -507,9 +507,9 @@
           <w xml:id="xTok_EDint604_000098" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_000100" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_EDint604_000102" ana="#NPfNP" lemma="maltese">maltese</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e817"/>
           <w xml:id="xTok_EDint604_000105" ana="#BRfBR" lemma="">hh</w>
-          <emph>
+          <emph xml:id="EDint604_d2e824">
             <w xml:id="xTok_EDint604_000108" ana="#WRBfWRB" lemma="when">when</w>
           </emph>
           <w xml:id="xTok_EDint604_000111" ana="#VVPfVVP" lemma="do">do</w>
@@ -527,18 +527,18 @@
           <w xml:id="xTok_EDint604_000135" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_000137" ana="#WDTfWDT" lemma="which">which</w>
           <w xml:id="xTok_EDint604_000139" ana="#NNfNN" lemma="situation">situation</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e896"/>
           <w xml:id="xTok_EDint604_000142" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_EDint604_000144" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e908"/>
           <w xml:id="xTok_EDint604_000147" ana="#PPfPP" lemma="i" part="I" next="xTok_EDint604_000149">i</w>
           <w xml:id="xTok_EDint604_000149" ana="#MDfMD" lemma="will" part="F" prev="xTok_EDint604_000147">'d</w>
           <w xml:id="xTok_EDint604_000151" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_EDint604_000153" ana="#RBfRB" lemma="basically">basically</w>
           <w xml:id="xTok_EDint604_000155" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_EDint604_000157" ana="#VVfVV" lemma="know">know</w>
-          <pause/>
-          <emph>
+          <pause xml:id="EDint604_d2e936"/>
+          <emph xml:id="EDint604_d2e937">
             <w xml:id="xTok_EDint604_000160" ana="#WRBfWRB" lemma="how">how</w>
           </emph>
           <w xml:id="xTok_EDint604_000163" ana="#VVPfVVP" lemma="do">do</w>
@@ -547,7 +547,7 @@
           <w xml:id="xTok_EDint604_000169" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_000171" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_000173" ana="#NPfNP" lemma="malta">malta</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e972"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_4">
           <shift corresp="#EDint604_s_2" feature="loud" new="p" xml:id="EDint604_s_1"/>
@@ -570,19 +570,19 @@
           <w xml:id="xTok_EDint604_000199" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_EDint604_000201" ana="#NPfNP" lemma="maltese">maltese</w>
           <w xml:id="xTok_EDint604_000203" ana="#PPfPP" lemma="you">you</w>
-          <w xml:id="xTok_EDint604_000205" ana="#VVPfVVP" lemma="mean">mean<c function="rise" type="intonation"/>
+          <w xml:id="xTok_EDint604_000205" ana="#VVPfVVP" lemma="mean">mean<c function="rise" type="intonation" xml:id="EDint604_d2e1042"/>
           </w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_6">
           <w xml:id="xTok_EDint604_000208" ana="#REfRE" lemma="yes">yes</w>
           <w xml:id="xTok_EDint604_000210" ana="#RBfRB" lemma="for">for</w>
           <w xml:id="xTok_EDint604_000212" ana="#RBfRB" lemma="example">example</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e1061"/>
           <w xml:id="xTok_EDint604_000215" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_EDint604_000217" ana="#PPfPP" lemma="you">you</w>
           <seg n="2" type="overlap" xml:id="EDint604_ol_2">
             <w xml:id="xTok_EDint604_000220" ana="#VVfVV" lemma="like">like</w>
-            <w xml:id="xTok_EDint604_000222" ana="#PPfPP" lemma="it">it<c function="rise" type="intonation"/>
+            <w xml:id="xTok_EDint604_000222" ana="#PPfPP" lemma="it">it<c function="rise" type="intonation" xml:id="EDint604_d2e1082"/>
             </w>
           </seg>
         </u>
@@ -597,16 +597,16 @@
           <w xml:id="xTok_EDint604_000236" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_000238">it</w>
           <w xml:id="xTok_EDint604_000238" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_000236">'s</w>
           <w xml:id="xTok_EDint604_000240" ana="#DMfDM #INfIN" lemma="like">like</w>
-          <w xml:id="xTok_EDint604_000242" ana="#UHfUH" lemma="erm">erm<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_000242" ana="#UHfUH" lemma="erm">erm<c type="lengthening" xml:id="EDint604_d2e1125"/>
           </w>
           <w xml:id="xTok_EDint604_000244" ana="#PPSfPPS" lemma="we">our</w>
           <w xml:id="xTok_EDint604_000246" ana="#NNfNN" lemma="second">second</w>
           <w xml:id="xTok_EDint604_000248" ana="#NNfNN" lemma="language">language</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1141"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_8">
           <w xml:id="xTok_EDint604_000252" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1151"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_9">
           <w xml:id="xTok_EDint604_000256" ana="#INfIN" lemma="since">since</w>
@@ -618,18 +618,18 @@
           <w xml:id="xTok_EDint604_000268" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_EDint604_000270" ana="#VVNfVVN" lemma="bring">brought</w>
           <w xml:id="xTok_EDint604_000272" ana="#RPfRP" lemma="up">up</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1194"/>
           <w xml:id="xTok_EDint604_000275" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_EDint604_000277" ana="#JJfJJ" lemma="first">first</w>
           <w xml:id="xTok_EDint604_000279" ana="#JJfJJ" lemma="first">first</w>
           <w xml:id="xTok_EDint604_000281" ana="#NNfNN" lemma="year">year</w>
           <w xml:id="xTok_EDint604_000283" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_000285" ana="#VVfVV" lemma="know">know</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1223"/>
           <w xml:id="xTok_EDint604_000288" ana="#INfIN" lemma="till">till</w>
           <w xml:id="xTok_EDint604_000290" ana="#INfIN" lemma="till">till</w>
           <w xml:id="xTok_EDint604_000292" ana="#RBfRB" lemma="now">now</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1238"/>
           <w xml:id="xTok_EDint604_000295" ana="#PPfPP" lemma="we" part="I" next="xTok_EDint604_000297">we</w>
           <w xml:id="xTok_EDint604_000297" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_000295">'re</w>
           <w xml:id="xTok_EDint604_000299" ana="#VVNfVVN" lemma="teach">taught</w>
@@ -637,7 +637,7 @@
           <w xml:id="xTok_EDint604_000303" ana="#DTfDT" lemma="every">every</w>
           <w xml:id="xTok_EDint604_000305" ana="#NNfNN" lemma="year">year</w>
           <w xml:id="xTok_EDint604_000307" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1271"/>
           <w xml:id="xTok_EDint604_000310" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_000312">it</w>
           <w xml:id="xTok_EDint604_000312" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_000310">'s</w>
           <w xml:id="xTok_EDint604_000314" ana="#JJfJJ" lemma="different">different</w>
@@ -664,26 +664,26 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_12">
           <w xml:id="xTok_EDint604_000350" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1367"/>
           <w xml:id="xTok_EDint604_000353" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_EDint604_000355" ana="#XXfXX" lemma="">y-</w>
           <w xml:id="xTok_EDint604_000357" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_EDint604_000359" ana="#NNSfNNS" lemma="parent">parents</w>
           <w xml:id="xTok_EDint604_000361" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_EDint604_000363" ana="#NPSfNPS" lemma="maltese">maltese</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1395"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_13">
           <seg n="3" type="overlap" xml:id="EDint604_ol_4">
-            <w xml:id="xTok_EDint604_000367" ana="#PPSfPPS" lemma="i">my<c type="lengthening"/>
+            <w xml:id="xTok_EDint604_000367" ana="#PPSfPPS" lemma="i">my<c type="lengthening" xml:id="EDint604_d2e1404"/>
             </w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e1405"/>
           <w xml:id="xTok_EDint604_000369" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_EDint604_000371" ana="#NNfNN" lemma="father">father</w>
           <w xml:id="xTok_EDint604_000373" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_EDint604_000375" ana="#NPfNP" lemma="austrian">austrian</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1425"/>
           <w xml:id="xTok_EDint604_000378" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_EDint604_000380" ana="#NNfNN" lemma="mother">mother</w>
           <seg n="4" type="overlap" xml:id="EDint604_ol_5">
@@ -698,8 +698,8 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_15">
           <seg n="4" synch="#EDint604_ol_5" type="overlap" xml:id="EDint604_ol_7">
-            <emph>
-              <w xml:id="xTok_EDint604_000394" ana="#RBfRB" lemma="really">really<c function="rise" type="intonation"/>
+            <emph xml:id="EDint604_d2e1463">
+              <w xml:id="xTok_EDint604_000394" ana="#RBfRB" lemma="really">really<c function="rise" type="intonation" xml:id="EDint604_d2e1470"/>
               </w>
             </emph>
           </seg>
@@ -709,7 +709,7 @@
           <w xml:id="xTok_EDint604_000400" ana="#VVPfVVP" lemma="live">live</w>
           <w xml:id="xTok_EDint604_000402" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_000404" ana="#NPfNP" lemma="vienna">vienna</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1492"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_17">
           <w xml:id="xTok_EDint604_000408" ana="#PPfPP" lemma="you">you</w>
@@ -726,30 +726,30 @@
             <w xml:id="xTok_EDint604_000423" ana="#VVGfVVG" lemma="study">studying</w>
             <w xml:id="xTok_EDint604_000425" ana="#RBfRB" lemma="there">there</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e1540"/>
           <seg n="6" type="overlap" xml:id="EDint604_ol_10">
             <w xml:id="xTok_EDint604_000428" ana="#REfRE" lemma="yeah">yeah</w>
           </seg>
           <w xml:id="xTok_EDint604_000431" ana="#PPfPP" lemma="i" part="I" next="xTok_EDint604_000433">i</w>
           <w xml:id="xTok_EDint604_000433" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_000431">'m</w>
           <w xml:id="xTok_EDint604_000435" ana="#JJfJJ" lemma="serbian">serbian</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1562"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_19">
           <seg n="6" synch="#EDint604_ol_10" type="overlap" xml:id="EDint604_ol_11">
-            <w xml:id="xTok_EDint604_000439" ana="#REfRE" lemma="yeah">yeah<c function="rise" type="intonation"/>
+            <w xml:id="xTok_EDint604_000439" ana="#REfRE" lemma="yeah">yeah<c function="rise" type="intonation" xml:id="EDint604_d2e1571"/>
             </w>
           </seg>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_20">
           <w xml:id="xTok_EDint604_000442" ana="#RBfRB" lemma="though">though</w>
           <w xml:id="xTok_EDint604_000444" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1585"/>
           <w xml:id="xTok_EDint604_000447" ana="#PPfPP" lemma="i" part="I" next="xTok_EDint604_000449">i</w>
           <w xml:id="xTok_EDint604_000449" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_000447">'m</w>
           <w xml:id="xTok_EDint604_000451" ana="#VVGfVVG" lemma="study">studying</w>
           <w xml:id="xTok_EDint604_000453" ana="#RBfRB" lemma="there">there</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1605"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_21">
           <w xml:id="xTok_EDint604_000457" ana="#VVGfVVG" lemma="study">studying</w>
@@ -759,12 +759,12 @@
           <anchor synch="#EDint604_oc_2" type="other_continuation" xml:id="EDint604_oc_3"/>
           <w xml:id="xTok_EDint604_000461" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_000463" ana="#NPfNP" lemma="vienna">vienna</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1630"/>
           <w xml:id="xTok_EDint604_000466" ana="#PPfPP" lemma="i" part="I" next="xTok_EDint604_000468">i</w>
           <w xml:id="xTok_EDint604_000468" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_000466">'m</w>
           <w xml:id="xTok_EDint604_000470" ana="#VVGfVVG" lemma="study">studying</w>
           <w xml:id="xTok_EDint604_000472" ana="#NPfNP" lemma="english">english</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1650"/>
           <seg n="7" type="overlap" xml:id="EDint604_ol_12">
             <w xml:id="xTok_EDint604_000475" ana="#RBfRB" lemma="there">there</w>
           </seg>
@@ -779,25 +779,25 @@
         <u who="#EDint604_S1" xml:id="EDint604_u_24">
           <anchor synch="#EDint604_oc_4" type="other_continuation" xml:id="EDint604_oc_5"/>
           <w xml:id="xTok_EDint604_000486" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1686"/>
           <w xml:id="xTok_EDint604_000489" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_EDint604_000491" ana="#WRBfWRB" lemma="where" part="I" next="xTok_EDint604_000493">where</w>
           <w xml:id="xTok_EDint604_000493" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_000491">'s</w>
           <w xml:id="xTok_EDint604_000495" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_EDint604_000497" ana="#NNfNN" lemma="father">father</w>
           <w xml:id="xTok_EDint604_000499" ana="#INfIN" lemma="from">from</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1714"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_25">
           <w xml:id="xTok_EDint604_000503" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_EDint604_000505" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1728"/>
           <w xml:id="xTok_EDint604_000508" ana="#XXfXX" lemma="">st-</w>
           <w xml:id="xTok_EDint604_000510" ana="#NPfNP" lemma="styria">styria</w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_26">
           <w xml:id="xTok_EDint604_000514" ana="#NPfNP" lemma="styria">styria</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1748"/>
           <seg n="8" type="overlap" xml:id="EDint604_ol_14">
             <w xml:id="xTok_EDint604_000517" ana="#RBfRB" lemma="really">really</w>
           </seg>
@@ -807,33 +807,33 @@
             <w xml:id="xTok_EDint604_000521" ana="#REfRE" lemma="yeah">yeah</w>
           </seg>
           <w xml:id="xTok_EDint604_000524" ana="#INfIN" lemma="from">from</w>
-          <foreign type="LN" voice:translation="town in austria" xml:lang="ger">
+          <foreign type="LN" voice:translation="town in austria" xml:lang="ger" xml:id="EDint604_d2e1772">
             <w xml:id="xTok_EDint604_000527" ana="#FWfFW" lemma="">breitenau</w>
           </foreign>
-          <pause/>
+          <pause xml:id="EDint604_d2e1779"/>
           <w xml:id="xTok_EDint604_000530" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_000532">it</w>
           <w xml:id="xTok_EDint604_000532" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_000530">'s</w>
           <w xml:id="xTok_EDint604_000534" ana="#RBfRB" lemma="near">near</w>
-          <foreign type="LN" voice:translation="city in austria" xml:lang="ger">
+          <foreign type="LN" voice:translation="city in austria" xml:lang="ger" xml:id="EDint604_d2e1795">
             <w xml:id="xTok_EDint604_000537" ana="#FWfFW" lemma="">graz</w>
           </foreign>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_28">
-          <w xml:id="xTok_EDint604_000541" part="I" next="#xTok_EDint604_000542" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_000541" part="I" next="#xTok_EDint604_000542" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="EDint604_d2e1810"/>
           </w>
           <w xml:id="xTok_EDint604_000542" part="F" prev="#xTok_EDint604_000541">h</w>
           <w xml:id="xTok_EDint604_000544" ana="#REfRE" lemma="okay">okay</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1819"/>
           <w xml:id="xTok_EDint604_000547" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_EDint604_000549" ana="#INfIN" lemma="like">like</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e1831"/>
           <shift corresp="#EDint604_s_4" feature="voice" new="laugh" xml:id="EDint604_s_3"/>
           <w xml:id="xTok_EDint604_000552" ana="#NPfNP" lemma="schwarzenegger">schwarzenegger</w>
           <shift corresp="#EDint604_s_3" feature="voice" new="neutral" xml:id="EDint604_s_4"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="EDint604_d2e1840"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_29">
-          <emph>
+          <emph xml:id="EDint604_d2e1844">
             <w xml:id="xTok_EDint604_000556" ana="#REfRE" lemma="yes">yes</w>
           </emph>
           <seg n="9" type="overlap" xml:id="EDint604_ol_16">
@@ -842,11 +842,11 @@
             <w xml:id="xTok_EDint604_000562" ana="#RBfRB" lemma="exactly">exactly</w>
             <shift corresp="#EDint604_s_5" feature="voice" new="neutral" xml:id="EDint604_s_6"/>
           </seg>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e1866"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_30">
           <seg n="9" synch="#EDint604_ol_16" type="overlap" xml:id="EDint604_ol_17" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline" xml:id="EDint604_d2e1871"/>
           </seg>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_31">
@@ -878,10 +878,10 @@
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_35">
           <anchor synch="#EDint604_oc_10" type="other_continuation" xml:id="EDint604_oc_11" mode="inline"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="EDint604_d2e1960"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_36">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="EDint604_d2e1964"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_37">
           <w xml:id="xTok_EDint604_000605" ana="#DMfDM" lemma="well">well</w>
@@ -896,16 +896,16 @@
           <w xml:id="xTok_EDint604_000623" ana="#FIfFI" lemma="man">man</w>
           <w xml:id="xTok_EDint604_000625" ana="#PPfPP" lemma="he" part="I" next="xTok_EDint604_000627">he</w>
           <w xml:id="xTok_EDint604_000627" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_000625">'s</w>
-          <emph>
+          <emph xml:id="EDint604_d2e2020">
             <w xml:id="xTok_EDint604_000630" ana="#NNfNN" lemma="governor">governor</w>
           </emph>
-          <pause/>
-          <w xml:id="xTok_EDint604_000633" ana="#DMfDM" lemma="so">so<c type="lengthening"/>
+          <pause xml:id="EDint604_d2e2027"/>
+          <w xml:id="xTok_EDint604_000633" ana="#DMfDM" lemma="so">so<c type="lengthening" xml:id="EDint604_d2e2032"/>
           </w>
           <seg n="1" type="overlap" xml:id="EDint604_ol_18">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="EDint604_d2e2034"/>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e2035"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_38">
           <seg n="1" synch="#EDint604_ol_18" type="overlap" xml:id="EDint604_ol_19">
@@ -919,13 +919,13 @@
           <w xml:id="xTok_EDint604_000646" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_000644">'s</w>
           <w xml:id="xTok_EDint604_000648" ana="#RBfRB" lemma="still">still</w>
           <w xml:id="xTok_EDint604_000650" ana="#DTfDT" lemma="a">a</w>
-          <w xml:id="xTok_EDint604_000652" ana="#NNfNN" lemma="governor">governor<c function="rise" type="intonation"/>
+          <w xml:id="xTok_EDint604_000652" ana="#NNfNN" lemma="governor">governor<c function="rise" type="intonation" xml:id="EDint604_d2e2078"/>
           </w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2080"/>
           <w xml:id="xTok_EDint604_000654" ana="#REfRE" lemma="yeah">yeah</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="EDint604_d2e2087"/>
           <w xml:id="xTok_EDint604_000657" ana="#REfRE" lemma="okay">okay</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e2094"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_40">
           <w xml:id="xTok_EDint604_000661" ana="#WRBfWRB" lemma="how">how</w>
@@ -938,20 +938,20 @@
           <w xml:id="xTok_EDint604_000675" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_EDint604_000677" ana="#NNfNN" lemma="language">language</w>
           <w xml:id="xTok_EDint604_000679" ana="#PREfPRE" lemma="that">that</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2141"/>
           <w xml:id="xTok_EDint604_000682" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_EDint604_000684" ana="#VVNfVVN" lemma="use">used</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2153"/>
           <w xml:id="xTok_EDint604_000687" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_EDint604_000689" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_EDint604_000691" ana="#JJfJJ" lemma="day-to-day">day-to-day</w>
           <w xml:id="xTok_EDint604_000693" ana="#NNfNN" lemma="basis">basis</w>
           <w xml:id="xTok_EDint604_000695" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2177"/>
           <w xml:id="xTok_EDint604_000698" ana="#WRBfWRB" lemma="when">when</w>
           <w xml:id="xTok_EDint604_000700" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_000702" ana="#VVPfVVP" lemma="get">get</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2193"/>
           <w xml:id="xTok_EDint604_000705" ana="#JJfJJ" lemma="technical">technical</w>
           <w xml:id="xTok_EDint604_000707" ana="#DMfDM" lemma="like">like</w>
           <w xml:id="xTok_EDint604_000709" ana="#NNfNN" lemma="school">school</w>
@@ -963,7 +963,7 @@
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_42">
           <w xml:id="xTok_EDint604_000721" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2235"/>
           <w xml:id="xTok_EDint604_000724" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_000726" ana="#VVPfVVP" lemma="do" part="I" next="xTok_EDint604_000728">do</w>
           <w xml:id="xTok_EDint604_000728" ana="#RBfRB" lemma="not" part="F" prev="xTok_EDint604_000726">n't</w>
@@ -1016,7 +1016,7 @@
           <seg n="4" type="overlap" xml:id="EDint604_ol_24">
             <w xml:id="xTok_EDint604_000801" ana="#NNfNN" lemma="home">home</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e2411"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_48">
           <seg n="4" synch="#EDint604_ol_24" type="overlap" xml:id="EDint604_ol_25">
@@ -1029,7 +1029,7 @@
           <seg n="5" type="overlap" xml:id="EDint604_ol_26">
             <w xml:id="xTok_EDint604_000814" ana="#NNSfNNS" lemma="parent">parents</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e2442"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_50">
           <seg n="5" synch="#EDint604_ol_26" type="overlap" xml:id="EDint604_ol_27">
@@ -1042,17 +1042,17 @@
           <w xml:id="xTok_EDint604_000826" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_EDint604_000828" ana="#RBfRB" lemma="really">really</w>
           <w xml:id="xTok_EDint604_000830" ana="#VVNfVVN" lemma="use">used</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e2479"/>
           <w xml:id="xTok_EDint604_000833" ana="#RBfRB" lemma="academically">academically</w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_52">
           <w xml:id="xTok_EDint604_000837" ana="#REfRE" lemma="okay">okay</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2496"/>
           <w xml:id="xTok_EDint604_000840" ana="#XXfXX" lemma="">d-</w>
           <w xml:id="xTok_EDint604_000842" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_EDint604_000844" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_000846" ana="#VVfVV" lemma="know">know</w>
-          <w xml:id="xTok_EDint604_000848" ana="#NPfNP" lemma="maltese">maltese<c function="rise" type="intonation"/>
+          <w xml:id="xTok_EDint604_000848" ana="#NPfNP" lemma="maltese">maltese<c function="rise" type="intonation" xml:id="EDint604_d2e2518"/>
           </w>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_53">
@@ -1078,10 +1078,10 @@
           <w xml:id="xTok_EDint604_000881" ana="#REfRE" lemma="yes">yes</w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_58">
-          <w xml:id="xTok_EDint604_000885" part="I" next="#xTok_EDint604_000886" ana="#REfRE" lemma="okay">o<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_000885" part="I" next="#xTok_EDint604_000886" ana="#REfRE" lemma="okay">o<c type="lengthening" xml:id="EDint604_d2e2600"/>
           </w>
           <w xml:id="xTok_EDint604_000886" part="F" prev="#xTok_EDint604_000885">kay</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2605"/>
           <w xml:id="xTok_EDint604_000889" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_EDint604_000891" ana="#NNfNN" lemma="mom">mom</w>
           <w xml:id="xTok_EDint604_000893" ana="#VBZfVBZ" lemma="be">is</w>
@@ -1091,12 +1091,12 @@
           <w xml:id="xTok_EDint604_000899" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_EDint604_000901" ana="#NNfNN" lemma="mom">mom</w>
           <w xml:id="xTok_EDint604_000903" ana="#VBZfVBZ" lemma="be">is</w>
-          <w xml:id="xTok_EDint604_000905" ana="#NPfNP" lemma="maltese">maltese<c function="fall" type="intonation"/>
+          <w xml:id="xTok_EDint604_000905" ana="#NPfNP" lemma="maltese">maltese<c function="fall" type="intonation" xml:id="EDint604_d2e2644"/>
           </w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_60">
           <w xml:id="xTok_EDint604_000908" ana="#REfRE" lemma="okay">okay</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2654"/>
           <w xml:id="xTok_EDint604_000911" ana="#PPfDM" lemma="i">i</w>
           <seg n="6" type="overlap" xml:id="EDint604_ol_28">
             <w xml:id="xTok_EDint604_000914" ana="#VVPfDM" lemma="see">see</w>
@@ -1110,41 +1110,41 @@
           <w xml:id="xTok_EDint604_000923" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_EDint604_000925" ana="#RBfRB" lemma="fluently">fluently</w>
           <w xml:id="xTok_EDint604_000927" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2697"/>
           <w xml:id="xTok_EDint604_000930" ana="#VVGfVVG" lemma="write">writing</w>
           <w xml:id="xTok_EDint604_000932" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_EDint604_000934" ana="#RBfRB" lemma="much">much</w>
           <w xml:id="xTok_EDint604_000936" ana="#JJRfJJR" lemma="hard">harder</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2717"/>
           <w xml:id="xTok_EDint604_000939" ana="#DMfDM" lemma="so">so</w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_62">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
-          <w xml:id="xTok_EDint604_000943" part="I" next="#xTok_EDint604_000944" ana="#REfRE" lemma="okay">o<c type="lengthening"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="EDint604_d2e2728"/>
+          <w xml:id="xTok_EDint604_000943" part="I" next="#xTok_EDint604_000944" ana="#REfRE" lemma="okay">o<c type="lengthening" xml:id="EDint604_d2e2733"/>
           </w>
           <w xml:id="xTok_EDint604_000944" part="F" prev="#xTok_EDint604_000943">kay</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2738"/>
           <w xml:id="xTok_EDint604_000947" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_EDint604_000949" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_EDint604_000951" ana="#NNSfNNS" lemma="people">people</w>
-          <w xml:id="xTok_EDint604_000953" ana="#RBfRB" lemma="generally">generally<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_000953" ana="#RBfRB" lemma="generally">generally<c type="lengthening" xml:id="EDint604_d2e2756"/>
           </w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2757"/>
           <w xml:id="xTok_EDint604_000955" ana="#VVPfVVP" lemma="see">see</w>
           <w xml:id="xTok_EDint604_000957" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_000959" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_EDint604_000961" ana="#NPfNP" lemma="malta">malta<c function="fall" type="intonation"/>
+          <w xml:id="xTok_EDint604_000961" ana="#NPfNP" lemma="malta">malta<c function="fall" type="intonation" xml:id="EDint604_d2e2775"/>
           </w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2776"/>
           <w xml:id="xTok_EDint604_000963" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_EDint604_000965" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_EDint604_000967" ana="#VVfVV" lemma="disapprove">disapprove</w>
           <w xml:id="xTok_EDint604_000969" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_EDint604_000971" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_EDint604_000973" part="I" next="#xTok_EDint604_000974" ana="#CCfCC" lemma="or">o<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_000973" part="I" next="#xTok_EDint604_000974" ana="#CCfCC" lemma="or">o<c type="lengthening" xml:id="EDint604_d2e2802"/>
           </w>
           <w xml:id="xTok_EDint604_000974" part="F" prev="#xTok_EDint604_000973">r</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2807"/>
           <w xml:id="xTok_EDint604_000977" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_EDint604_000979" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_EDint604_000981" ana="#VVfVV" lemma="like">like</w>
@@ -1153,17 +1153,17 @@
           <w xml:id="xTok_EDint604_000987" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_EDint604_000989" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_000991" ana="#VVfVV" lemma="think">think</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2844"/>
           <w xml:id="xTok_EDint604_000994" ana="#INfIN" lemma="though">though</w>
           <w xml:id="xTok_EDint604_000996" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_000998">it</w>
           <w xml:id="xTok_EDint604_000998" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_000996">'s</w>
           <w xml:id="xTok_EDint604_001000" ana="#JJfJJ" lemma="hard">hard</w>
           <w xml:id="xTok_EDint604_001002" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_EDint604_001004" ana="#TOfTO" lemma="to">to</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2872"/>
           <w xml:id="xTok_EDint604_001007" ana="#PPfDM" lemma="you">you</w>
           <w xml:id="xTok_EDint604_001009" ana="#VVPfDM" lemma="know">know</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2884"/>
           <seg n="7" type="overlap" xml:id="EDint604_ol_30">
             <w xml:id="xTok_EDint604_001012" ana="#TOfTO" lemma="to">to</w>
             <w xml:id="xTok_EDint604_001014" ana="#VVfVV" lemma="say">say</w>
@@ -1186,9 +1186,9 @@
             <w xml:id="xTok_EDint604_001042" ana="#PPfPP" lemma="i" part="I" next="xTok_EDint604_001044">i</w>
             <w xml:id="xTok_EDint604_001044" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_001042">'m</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e2960"/>
           <w xml:id="xTok_EDint604_001047" ana="#CCfCC" lemma="and">and</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e2967"/>
           <w xml:id="xTok_EDint604_001050" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_EDint604_001052" ana="#MDfMD" lemma="shall" part="I" next="xTok_EDint604_001054">should</w>
           <w xml:id="xTok_EDint604_001054" ana="#RBfRB" lemma="not" part="F" prev="xTok_EDint604_001052">n't</w>
@@ -1199,7 +1199,7 @@
           </seg>
           <w xml:id="xTok_EDint604_001064" ana="#PPfDM" lemma="i">i</w>
           <w xml:id="xTok_EDint604_001066" ana="#VVPfDM" lemma="mean">mean</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e3009"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_64">
           <seg n="8" synch="#EDint604_ol_32" type="overlap" xml:id="EDint604_ol_33">
@@ -1214,7 +1214,7 @@
           <w xml:id="xTok_EDint604_001082" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_EDint604_001084" ana="#VHfVH" lemma="have">have</w>
           <w xml:id="xTok_EDint604_001086" ana="#NPfNP" lemma="english">english</w>
-          <voice:track medium="1" num="5" type="md"/>
+          <voice:track medium="1" num="5" type="md" xml:id="EDint604_d2e3054"/>
           <w xml:id="xTok_EDint604_001089" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_001091" ana="#MDfMD" lemma="can" part="I" next="xTok_EDint604_001093">ca</w>
           <w xml:id="xTok_EDint604_001093" ana="#RBfRB" lemma="not" part="F" prev="xTok_EDint604_001091">n't</w>
@@ -1227,7 +1227,7 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_66">
           <shift corresp="#EDint604_s_8" feature="tempo" new="a" xml:id="EDint604_s_7"/>
-          <w xml:id="xTok_EDint604_001109" part="I" next="#xTok_EDint604_001110" ana="#REfRE" lemma="yeah">y<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_001109" part="I" next="#xTok_EDint604_001110" ana="#REfRE" lemma="yeah">y<c type="lengthening" xml:id="EDint604_d2e3103"/>
           </w>
           <w xml:id="xTok_EDint604_001110" part="F" prev="#xTok_EDint604_001109">eah</w>
           <w xml:id="xTok_EDint604_001112" ana="#REfRE" lemma="yeah">yeah</w>
@@ -1238,26 +1238,26 @@
           <w xml:id="xTok_EDint604_001118" ana="#RBfRB" lemma="course">course</w>
           <w xml:id="xTok_EDint604_001120" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_EDint604_001122" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e3135"/>
           <w xml:id="xTok_EDint604_001125" ana="#DTfDT" lemma="every">every</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3143"/>
           <w xml:id="xTok_EDint604_001128" ana="#RBfRB" lemma="basically">basically</w>
           <w xml:id="xTok_EDint604_001130" ana="#PPfPP" lemma="we" part="I" next="xTok_EDint604_001132">we</w>
           <w xml:id="xTok_EDint604_001132" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_001130">'re</w>
           <w xml:id="xTok_EDint604_001134" ana="#RBfRB" lemma="here">here</w>
           <w xml:id="xTok_EDint604_001136" ana="#DTfDT" lemma="a">a</w>
-          <voice:pvc>
+          <voice:pvc xml:id="EDint604_d2e3167">
             <w xml:id="xTok_EDint604_001139" ana="#PVCfJJ" lemma="">touristic</w>
           </voice:pvc>
           <w xml:id="xTok_EDint604_001142" ana="#NNfNN" lemma="country">country</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3180"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_68">
           <w xml:id="xTok_EDint604_001146" ana="#REfRE" lemma="mhm">mhm</w>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_69">
           <w xml:id="xTok_EDint604_001150" ana="#NNSfNNS" lemma="tourist">tourists</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3199"/>
           <w xml:id="xTok_EDint604_001153" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_EDint604_001155" ana="#VVPfVVP" lemma="rely">rely</w>
           <w xml:id="xTok_EDint604_001157" ana="#INfIN" lemma="on">on</w>
@@ -1266,14 +1266,14 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_70">
           <w xml:id="xTok_EDint604_001165" ana="#REfRE" lemma="yes">yes</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3232"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_71">
           <w xml:id="xTok_EDint604_001169" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_001171" ana="#RBfRB" lemma="surely">surely</w>
           <w xml:id="xTok_EDint604_001173" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_EDint604_001175" ana="#VVNfVVN" lemma="need">needed</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3254"/>
           <w xml:id="xTok_EDint604_001178" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_001180" ana="#MDfMD" lemma="can" part="I" next="xTok_EDint604_001182">ca</w>
           <w xml:id="xTok_EDint604_001182" ana="#RBfRB" lemma="not" part="F" prev="xTok_EDint604_001180">n't</w>
@@ -1283,19 +1283,19 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_72">
           <w xml:id="xTok_EDint604_001192" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3293"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_73">
-          <voice:to who="#EDint604_S4">
-            <supplied reason="anonymization">
-              <w xml:id="xTok_EDint604_001196" ana="#NPfNP" lemma="">[S4]<c function="rise" type="intonation"/>
+          <voice:to who="#EDint604_S4" xml:id="EDint604_d2e3297">
+            <supplied reason="anonymization" xml:id="EDint604_d2e3298">
+              <w xml:id="xTok_EDint604_001196" ana="#NPfNP" lemma="">[S4]<c function="rise" type="intonation" xml:id="EDint604_d2e3305"/>
               </w>
             </supplied>
           </voice:to>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="EDint604_d2e3306"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_74">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="EDint604_d2e3310"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_75">
           <w xml:id="xTok_EDint604_001201" ana="#REfRE" lemma="hm">hm</w>
@@ -1306,17 +1306,17 @@
           <w xml:id="xTok_EDint604_001211" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_EDint604_001213" ana="#PPfDM" lemma="i">i</w>
           <w xml:id="xTok_EDint604_001215" ana="#VVPfDM" lemma="mean">mean</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e3349"/>
           <w xml:id="xTok_EDint604_001218" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_001220" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_EDint604_001222" ana="#CDfCD" lemma="one">one</w>
           <w xml:id="xTok_EDint604_001224" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_EDint604_001226" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_EDint604_001228" ana="#RBSfRBS" lemma="most">most</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3377"/>
           <w xml:id="xTok_EDint604_001231" ana="#RBfRB" lemma="widely">widely</w>
           <w xml:id="xTok_EDint604_001233" ana="#JJfJJ" lemma="used">used</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3389"/>
           <w xml:id="xTok_EDint604_001236" ana="#NNSfNNS" lemma="language">languages</w>
           <w xml:id="xTok_EDint604_001238" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_001240" ana="#DTfDT" lemma="the">the</w>
@@ -1349,7 +1349,7 @@
           </seg>
           <w xml:id="xTok_EDint604_001282" ana="#VVfVV" lemma="work">work</w>
           <w xml:id="xTok_EDint604_001284" ana="#RBfRB" lemma="abroad">abroad</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3501"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_79">
           <seg n="3" synch="#EDint604_ol_36" type="overlap" xml:id="EDint604_ol_37">
@@ -1369,7 +1369,7 @@
           <w xml:id="xTok_EDint604_001308" ana="#NNfNN" lemma="language">language</w>
           <w xml:id="xTok_EDint604_001310" ana="#NNfNN" lemma="background">background</w>
           <w xml:id="xTok_EDint604_001312" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3563"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_81">
           <seg n="4" synch="#EDint604_ol_38" type="overlap" xml:id="EDint604_ol_39">
@@ -1381,7 +1381,7 @@
           <w xml:id="xTok_EDint604_001322" ana="#VVPfVVP" lemma="agree">agree</w>
           <w xml:id="xTok_EDint604_001324" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_EDint604_001326" ana="#DTfDT" lemma="that">that</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3595"/>
           <w xml:id="xTok_EDint604_001329" ana="#VVPfVVP" lemma="do" part="I" next="xTok_EDint604_001331">do</w>
           <w xml:id="xTok_EDint604_001331" ana="#RBfRB" lemma="not" part="F" prev="xTok_EDint604_001329">n't</w>
           <w xml:id="xTok_EDint604_001333" ana="#PPfPP" lemma="you">you</w>
@@ -1408,7 +1408,7 @@
           <w xml:id="xTok_EDint604_001367" ana="#CDfCD" lemma="two">two</w>
           <w xml:id="xTok_EDint604_001369" ana="#NNSfNNS" lemma="language">languages</w>
           <w xml:id="xTok_EDint604_001371" ana="#INfIN" lemma="from">from</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3695"/>
           <w xml:id="xTok_EDint604_001374" ana="#JJfJJ" lemma="small">small</w>
           <w xml:id="xTok_EDint604_001376" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_EDint604_001378" ana="#JJfJJ" lemma="small">small</w>
@@ -1439,7 +1439,7 @@
           <w xml:id="xTok_EDint604_001418" ana="#NNfNN" lemma="fact">fact</w>
           <w xml:id="xTok_EDint604_001420" ana="#INfIN" lemma="that">that</w>
           <w xml:id="xTok_EDint604_001422" ana="#JJSfJJS" lemma="most">most</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e3804"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_86">
           <seg n="6" synch="#EDint604_ol_42" type="overlap" xml:id="EDint604_ol_43">
@@ -1448,13 +1448,13 @@
             <w xml:id="xTok_EDint604_001430" ana="#DTfDT" lemma="that">that</w>
             <w xml:id="xTok_EDint604_001432" ana="#RBfRB" lemma="as">as</w>
             <w xml:id="xTok_EDint604_001434" ana="#RBfRB" lemma="well">well</w>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="EDint604_d2e3832"/>
           </seg>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_87">
           <w xml:id="xTok_EDint604_001438" ana="#NNSfNNS" lemma="teenager">teenagers</w>
           <w xml:id="xTok_EDint604_001440" ana="#RBfRB" lemma="maybe">maybe</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e3846"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_88">
           <w xml:id="xTok_EDint604_001444" ana="#REfRE" lemma="mhm">mhm</w>
@@ -1465,7 +1465,7 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_90">
           <w xml:id="xTok_EDint604_001454" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e3879"/>
           <seg n="7" type="overlap" xml:id="EDint604_ol_44">
             <w xml:id="xTok_EDint604_001457" ana="#RBfRB" lemma="today">today</w>
           </seg>
@@ -1486,7 +1486,7 @@
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_93">
           <w xml:id="xTok_EDint604_001478" ana="#RBfRB" lemma="maybe">maybe</w>
-          <emph>
+          <emph xml:id="EDint604_d2e3935">
             <w xml:id="xTok_EDint604_001481" ana="#DTfDT" lemma="that" part="I" next="xTok_EDint604_001483">that</w>
             <w xml:id="xTok_EDint604_001483" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_001481">'s</w>
           </emph>
@@ -1533,7 +1533,7 @@
           </seg>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_98">
-          <voice:to who="#EDint604_S4">
+          <voice:to who="#EDint604_S4" xml:id="EDint604_d2e4079">
             <w xml:id="xTok_EDint604_001545" ana="#PPfDM" lemma="you">you</w>
             <w xml:id="xTok_EDint604_001547" ana="#VVPfDM" lemma="know">know</w>
             <w xml:id="xTok_EDint604_001549" ana="#RBfRB" lemma="today">today</w>
@@ -1546,10 +1546,10 @@
             <w xml:id="xTok_EDint604_001563" ana="#INfIN" lemma="at">at</w>
             <w xml:id="xTok_EDint604_001565" ana="#DTfDT" lemma="a">a</w>
             <w xml:id="xTok_EDint604_001567" ana="#NNfNN" lemma="hotel">hotel</w>
-            <pause/>
+            <pause xml:id="EDint604_d2e4132"/>
             <w xml:id="xTok_EDint604_001570" ana="#CCfCC" lemma="and">and</w>
             <w xml:id="xTok_EDint604_001572" ana="#PPfPP" lemma="i">i</w>
-            <pause/>
+            <pause xml:id="EDint604_d2e4143"/>
             <w xml:id="xTok_EDint604_001575" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_EDint604_001577" ana="#VVDfVVD" lemma="ask">asked</w>
             <w xml:id="xTok_EDint604_001579" ana="#PPfPP" lemma="he">him</w>
@@ -1564,7 +1564,7 @@
             <w xml:id="xTok_EDint604_001597" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_EDint604_001599" ana="#VVPfVVP" lemma="ask">ask</w>
             <w xml:id="xTok_EDint604_001601" ana="#PPfPP" lemma="he">him</w>
-            <pause/>
+            <pause xml:id="EDint604_d2e4205"/>
             <w xml:id="xTok_EDint604_001604" ana="#VVPfVVP" lemma="do">do</w>
             <w xml:id="xTok_EDint604_001606" ana="#PPfPP" lemma="you">you</w>
             <w xml:id="xTok_EDint604_001608" ana="#VVfVV" lemma="like">like</w>
@@ -1574,12 +1574,12 @@
             <w xml:id="xTok_EDint604_001616" ana="#CCfCC" lemma="or">or</w>
             <w xml:id="xTok_EDint604_001618" ana="#INfIN" lemma="in">in</w>
             <w xml:id="xTok_EDint604_001620" ana="#NPfNP" lemma="english">english</w>
-            <pause dur="PT1S"/>
+            <pause dur="PT1S" xml:id="EDint604_d2e4246"/>
             <w xml:id="xTok_EDint604_001623" ana="#CCfCC" lemma="and">and</w>
             <w xml:id="xTok_EDint604_001625" ana="#PPfPP" lemma="he">he</w>
             <w xml:id="xTok_EDint604_001627" ana="#PPfPP" lemma="he">he</w>
             <w xml:id="xTok_EDint604_001629" ana="#VBDfVBD" lemma="be">was</w>
-            <emph>
+            <emph xml:id="EDint604_d2e4266">
               <w xml:id="xTok_EDint604_001632" ana="#RBfRB" lemma="really">really</w>
             </emph>
             <w xml:id="xTok_EDint604_001635" ana="#DMfDM" lemma="like">like</w>
@@ -1590,17 +1590,17 @@
             <w xml:id="xTok_EDint604_001645" ana="#PPfPP" lemma="i">me</w>
             <w xml:id="xTok_EDint604_001647" ana="#DMfDM" lemma="like">like</w>
             <shift corresp="#EDint604_s_10" feature="voice" new="imitating" xml:id="EDint604_s_9"/>
-            <emph>
+            <emph xml:id="EDint604_d2e4305">
               <w xml:id="xTok_EDint604_001650" ana="#NPfNP" lemma="maltese">maltese</w>
             </emph>
-            <pause/>
+            <pause xml:id="EDint604_d2e4312"/>
             <w xml:id="xTok_EDint604_001653" ana="#RBfRB" lemma="of">of</w>
             <w xml:id="xTok_EDint604_001655" ana="#RBfRB" lemma="course">course</w>
-            <pause/>
+            <pause xml:id="EDint604_d2e4324"/>
             <w xml:id="xTok_EDint604_001658" ana="#PPfPP" lemma="we">we</w>
             <w xml:id="xTok_EDint604_001660" ana="#VBPfVBP" lemma="be">are</w>
             <w xml:id="xTok_EDint604_001662" ana="#NPSfNPS" lemma="maltese">maltese</w>
-            <pause/>
+            <pause xml:id="EDint604_d2e4340"/>
             <w xml:id="xTok_EDint604_001665" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_001667">it</w>
             <w xml:id="xTok_EDint604_001667" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_001665">'s</w>
             <shift corresp="#EDint604_s_12" feature="voice" new="laugh" xml:id="EDint604_s_11"/>
@@ -1613,7 +1613,7 @@
               <w xml:id="xTok_EDint604_001678" ana="#PPfDM" lemma="you">you</w>
               <w xml:id="xTok_EDint604_001680" ana="#VVPfDM" lemma="know">know</w>
             </seg>
-            <pause/>
+            <pause xml:id="EDint604_d2e4382"/>
           </voice:to>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_99">
@@ -1622,26 +1622,26 @@
           </seg>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_100">
-          <voice:to who="#EDint604_S3">
+          <voice:to who="#EDint604_S3" xml:id="EDint604_d2e4397">
             <shift corresp="#EDint604_s_14" feature="voice" new="laugh" xml:id="EDint604_s_13"/>
             <w xml:id="xTok_EDint604_001688" ana="#RBfRB" lemma="today">today</w>
             <w xml:id="xTok_EDint604_001690" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_EDint604_001692" ana="#VHDfVHD" lemma="have">had</w>
             <w xml:id="xTok_EDint604_001694" ana="#JJfJJ" lemma="bad">bad</w>
             <w xml:id="xTok_EDint604_001696" ana="#NNfNN" lemma="experience">experience</w>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="EDint604_d2e4422"/>
             <w xml:id="xTok_EDint604_001699" ana="#PPfDM" lemma="you">you</w>
             <w xml:id="xTok_EDint604_001701" ana="#VVPfDM" lemma="know">know</w>
             <shift corresp="#EDint604_s_13" feature="voice" new="neutral" xml:id="EDint604_s_14"/>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="EDint604_d2e4434"/>
           </voice:to>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_101">
-          <w xml:id="xTok_EDint604_001705" ana="#WRBfWRB" lemma="why">why<c function="fall" type="intonation"/>
+          <w xml:id="xTok_EDint604_001705" ana="#WRBfWRB" lemma="why">why<c function="fall" type="intonation" xml:id="EDint604_d2e4442"/>
           </w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_102">
-          <voice:to who="#EDint604_S3">
+          <voice:to who="#EDint604_S3" xml:id="EDint604_d2e4446">
             <w xml:id="xTok_EDint604_001708" ana="#BRfBR" lemma="">hh</w>
             <w xml:id="xTok_EDint604_001710" ana="#INfIN" lemma="because">because</w>
             <w xml:id="xTok_EDint604_001712" ana="#PPfPP" lemma="i">i</w>
@@ -1658,13 +1658,13 @@
             <w xml:id="xTok_EDint604_001734" ana="#DTfDT" lemma="a">a</w>
             <w xml:id="xTok_EDint604_001736" ana="#NNfNN" lemma="hotel">hotel</w>
             <w xml:id="xTok_EDint604_001738" ana="#INfIN" lemma="in">in</w>
-            <foreign type="LN" voice:translation="city in malta" xml:lang="mlt">
+            <foreign type="LN" voice:translation="city in malta" xml:lang="mlt" xml:id="EDint604_d2e4516">
               <w xml:id="xTok_EDint604_001741" ana="#FWfFW" lemma="">sliema</w>
             </foreign>
-            <w xml:id="xTok_EDint604_001744" part="I" next="#xTok_EDint604_001745" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+            <w xml:id="xTok_EDint604_001744" part="I" next="#xTok_EDint604_001745" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="EDint604_d2e4527"/>
             </w>
             <w xml:id="xTok_EDint604_001745" part="F" prev="#xTok_EDint604_001744">nd</w>
-            <pause/>
+            <pause xml:id="EDint604_d2e4532"/>
             <w xml:id="xTok_EDint604_001748" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_EDint604_001750" ana="#VfVVD" lemma="ask">ask</w>
             <w xml:id="xTok_EDint604_001752" ana="#PPfPP" lemma="he">him</w>
@@ -1679,11 +1679,11 @@
             <w xml:id="xTok_EDint604_001770" ana="#CCfCC" lemma="or">or</w>
             <w xml:id="xTok_EDint604_001772" ana="#INfIN" lemma="in">in</w>
             <w xml:id="xTok_EDint604_001774" ana="#NPfNP" lemma="maltese">maltese</w>
-            <pause dur="PT1S"/>
+            <pause dur="PT1S" xml:id="EDint604_d2e4594"/>
             <w xml:id="xTok_EDint604_001777" ana="#RBfRB" lemma="exactly">exactly</w>
             <w xml:id="xTok_EDint604_001779" ana="#DTfDT" lemma="the">the</w>
             <w xml:id="xTok_EDint604_001781" ana="#NNfNN" lemma="same">same</w>
-            <pause/>
+            <pause xml:id="EDint604_d2e4610"/>
             <w xml:id="xTok_EDint604_001784" ana="#CCfCC" lemma="and">and</w>
             <w xml:id="xTok_EDint604_001786" ana="#PPfPP" lemma="he">he</w>
             <w xml:id="xTok_EDint604_001788" ana="#VBDfVBD" lemma="be">was</w>
@@ -1701,7 +1701,7 @@
             <w xml:id="xTok_EDint604_001810" ana="#JJfJJ" lemma="offended">offended</w>
           </voice:to>
           <w xml:id="xTok_EDint604_001813" ana="#REfRE" lemma="yeah">yeah</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="EDint604_d2e4679"/>
           <w xml:id="xTok_EDint604_001816" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_EDint604_001818" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_001820" ana="#VVPfVVP" lemma="guess">guess</w>
@@ -1715,7 +1715,7 @@
             <w xml:id="xTok_EDint604_001835" ana="#INfIN" lemma="about">about</w>
             <w xml:id="xTok_EDint604_001837" ana="#PPfPP" lemma="it">it</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e4730"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_103">
           <seg n="4" synch="#EDint604_ol_52" type="overlap" xml:id="EDint604_ol_53">
@@ -1723,7 +1723,7 @@
             <w xml:id="xTok_EDint604_001843" ana="#PPfPP" lemma="we">we</w>
             <w xml:id="xTok_EDint604_001845" ana="#VVPfVVP" lemma="do">do</w>
             <w xml:id="xTok_EDint604_001847" ana="#PPfPP" lemma="we">we</w>
-            <emph>
+            <emph xml:id="EDint604_d2e4753">
               <w xml:id="xTok_EDint604_001850" ana="#VVPfVVP" lemma="do">do</w>
             </emph>
             <w xml:id="xTok_EDint604_001853" ana="#VHfVH" lemma="have">have</w>
@@ -1732,7 +1732,7 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_104">
           <w xml:id="xTok_EDint604_001859" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e4780"/>
           <seg n="5" type="overlap" xml:id="EDint604_ol_54">
             <w xml:id="xTok_EDint604_001862" ana="#UHfUH" lemma="er">er</w>
             <w xml:id="xTok_EDint604_001864" ana="#JJRfJJR" lemma="young">younger</w>
@@ -1740,7 +1740,7 @@
           <w xml:id="xTok_EDint604_001867" ana="#NNSfNNS" lemma="people">people</w>
           <w xml:id="xTok_EDint604_001869" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_001871" ana="#VVPfVVP" lemma="assume">assume</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e4807"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_105">
           <seg n="5" synch="#EDint604_ol_54" type="overlap" xml:id="EDint604_ol_55">
@@ -1753,16 +1753,16 @@
           <w xml:id="xTok_EDint604_001883" ana="#REfRE" lemma="no">no</w>
           <w xml:id="xTok_EDint604_001885" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_EDint604_001887" ana="#RBfRB" lemma="really">really</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e4844"/>
           <w xml:id="xTok_EDint604_001890" ana="#VVZfVVZ" lemma="depend">depends</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e4852"/>
           <w xml:id="xTok_EDint604_001893" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_EDint604_001895" ana="#VHZfVHZ" lemma="have">has</w>
           <w xml:id="xTok_EDint604_001897" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_EDint604_001899" ana="#VVfVV" lemma="do">do</w>
           <w xml:id="xTok_EDint604_001901" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_EDint604_001903" ana="#DTfDT" lemma="some">some</w>
-          <incident voice:desc="mobile phone receives a message"/>
+          <incident voice:desc="mobile phone receives a message" xml:id="EDint604_d2e4880"/>
           <w xml:id="xTok_EDint604_001906" ana="#NNSfNNS" lemma="area">areas</w>
           <w xml:id="xTok_EDint604_001908" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_001910" ana="#DTfDT" lemma="the">the</w>
@@ -1775,14 +1775,14 @@
           <w xml:id="xTok_EDint604_001922" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_001920">'s</w>
           <w xml:id="xTok_EDint604_001924" ana="#RBfRB" lemma="also">also</w>
           <w xml:id="xTok_EDint604_001926" ana="#INfIN" lemma="about">about</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e4930"/>
           <w xml:id="xTok_EDint604_001929" ana="#NNfNN" lemma="patriotism">patriotism</w>
           <w xml:id="xTok_EDint604_001931" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_001933" ana="#VVPfVVP" lemma="think">think</w>
           <w xml:id="xTok_EDint604_001935" ana="#DMfDM" lemma="well">well</w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_108">
-          <emph>
+          <emph xml:id="EDint604_d2e4952">
             <w xml:id="xTok_EDint604_001939" ana="#REfRE" lemma="yes">yes</w>
           </emph>
           <anchor synch="#EDint604_oc_19" type="other_continuation" xml:id="EDint604_oc_18"/>
@@ -1801,12 +1801,12 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_110">
           <w xml:id="xTok_EDint604_001963" ana="#REfRE" lemma="yes">yes</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5012"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_111">
           <w xml:id="xTok_EDint604_001967" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_001969">it</w>
           <w xml:id="xTok_EDint604_001969" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_001967">'s</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5027"/>
           <w xml:id="xTok_EDint604_001972" ana="#PDTfPDT" lemma="quite">quite</w>
           <w xml:id="xTok_EDint604_001974" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_EDint604_001976" ana="#JJfJJ" lemma="big">big</w>
@@ -1825,11 +1825,11 @@
           <w xml:id="xTok_EDint604_001996" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_EDint604_001998" ana="#RBfRB" lemma="mostly">mostly</w>
           <w xml:id="xTok_EDint604_002000" ana="#RBfRB" lemma="now">now</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5096"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_112">
           <seg n="5" synch="#EDint604_ol_56" type="overlap" xml:id="EDint604_ol_57" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="EDint604_d2e5101"/>
           </seg>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_113">
@@ -1874,7 +1874,7 @@
           <w xml:id="xTok_EDint604_002071" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_EDint604_002073" ana="#JJfJJ" lemma="good">good</w>
           <w xml:id="xTok_EDint604_002075" ana="#NNfNN" lemma="thing">thing</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5260"/>
           <seg n="7" type="overlap" xml:id="EDint604_ol_60">
             <w xml:id="xTok_EDint604_002078" ana="#DTfDT #PREfPRE" lemma="that">that</w>
           </seg>
@@ -1896,11 +1896,11 @@
           <w xml:id="xTok_EDint604_002101" ana="#NNfNN" lemma="heritage">heritage</w>
           <w xml:id="xTok_EDint604_002103" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_EDint604_002105" ana="#VBGfVBG" lemma="be">being</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5328"/>
           <w xml:id="xTok_EDint604_002108" ana="#VVNfVVN" lemma="protect">protected</w>
           <w xml:id="xTok_EDint604_002110" ana="#RBfRB" lemma="kind">kind</w>
           <w xml:id="xTok_EDint604_002112" ana="#RBfRB" lemma="of">of</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e5344"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_119">
           <w xml:id="xTok_EDint604_002116" ana="#CCfCC" lemma="and">and</w>
@@ -1918,8 +1918,8 @@
           <w xml:id="xTok_EDint604_002140" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_EDint604_002142" ana="#JJRfJJR" lemma="more">more</w>
           <w xml:id="xTok_EDint604_002144" ana="#NNSfNNS" lemma="right">rights</w>
-          <pause/>
-          <w xml:id="xTok_EDint604_002147" part="I" next="#xTok_EDint604_002148" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <pause xml:id="EDint604_d2e5412"/>
+          <w xml:id="xTok_EDint604_002147" part="I" next="#xTok_EDint604_002148" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="EDint604_d2e5418"/>
           </w>
           <w xml:id="xTok_EDint604_002148" part="F" prev="#xTok_EDint604_002147">nd</w>
           <w xml:id="xTok_EDint604_002150" ana="#UHfUH" lemma="er">er</w>
@@ -1930,10 +1930,10 @@
           <w xml:id="xTok_EDint604_002160" ana="#RPfRP" lemma="up">up</w>
           <w xml:id="xTok_EDint604_002162" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_EDint604_002164" ana="#NNfNN" lemma="language">language</w>
-          <w xml:id="xTok_EDint604_002166" part="I" next="#xTok_EDint604_002167" ana="#CCfCC" lemma="or">o<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_002166" part="I" next="#xTok_EDint604_002167" ana="#CCfCC" lemma="or">o<c type="lengthening" xml:id="EDint604_d2e5458"/>
           </w>
           <w xml:id="xTok_EDint604_002167" part="F" prev="#xTok_EDint604_002166">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e5464"/>
           <w xml:id="xTok_EDint604_002170" ana="#UHfUH" lemma="er">er</w>
           <anchor synch="#EDint604_oc_21" type="other_continuation" xml:id="EDint604_oc_20"/>
         </u>
@@ -1954,11 +1954,11 @@
           <w xml:id="xTok_EDint604_002194" ana="#INfIN" lemma="because">because</w>
           <w xml:id="xTok_EDint604_002196" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_EDint604_002198" ana="#PPfPP" lemma="it">it</w>
-          <pause/>
-          <w xml:id="xTok_EDint604_002201" part="I" next="#xTok_EDint604_002202" ana="#CCfCC" lemma="or">o<c type="lengthening"/>
+          <pause xml:id="EDint604_d2e5533"/>
+          <w xml:id="xTok_EDint604_002201" part="I" next="#xTok_EDint604_002202" ana="#CCfCC" lemma="or">o<c type="lengthening" xml:id="EDint604_d2e5538"/>
           </w>
           <w xml:id="xTok_EDint604_002202" part="F" prev="#xTok_EDint604_002201">r</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5543"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_122">
           <seg n="1" synch="#EDint604_ol_62" type="overlap" xml:id="EDint604_ol_63">
@@ -1970,12 +1970,12 @@
         <u who="#EDint604_S3" xml:id="EDint604_u_123">
           <w xml:id="xTok_EDint604_002214" ana="#RBRfRBR" lemma="more">more</w>
           <w xml:id="xTok_EDint604_002216" ana="#VVfVV" lemma="spread">spread</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5576"/>
           <seg n="2" type="overlap" xml:id="EDint604_ol_64">
             <w xml:id="xTok_EDint604_002219" ana="#RBfRB" lemma="not">not</w>
             <w xml:id="xTok_EDint604_002221" ana="#RBfRB" lemma="really">really</w>
           </seg>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e5588"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_124">
           <seg n="2" synch="#EDint604_ol_64" type="overlap" xml:id="EDint604_ol_65">
@@ -1993,9 +1993,9 @@
           <w xml:id="xTok_EDint604_002243" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_002245" ana="#VVPfVVP" lemma="think">think</w>
           <w xml:id="xTok_EDint604_002247" ana="#PPfPP" lemma="they">they</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5645"/>
           <w xml:id="xTok_EDint604_002250" ana="#PPfPP" lemma="we">we</w>
-          <emph>
+          <emph xml:id="EDint604_d2e5653">
             <w xml:id="xTok_EDint604_002253" ana="#VVPfVVP" lemma="do">do</w>
           </emph>
           <w xml:id="xTok_EDint604_002256" ana="#VHfVH" lemma="have">have</w>
@@ -2027,7 +2027,7 @@
             <w xml:id="xTok_EDint604_002291" ana="#NPfNP" lemma="maltese">maltese</w>
           </seg>
           <w xml:id="xTok_EDint604_002294" ana="#RBfRB" lemma="basically">basically</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e5753"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_129">
           <seg n="4" synch="#EDint604_ol_68" type="overlap" xml:id="EDint604_ol_69">
@@ -2041,7 +2041,7 @@
           <w xml:id="xTok_EDint604_002308" ana="#VVDfVVD" lemma="hear">heard</w>
           <w xml:id="xTok_EDint604_002310" ana="#INfIN" lemma="that">that</w>
           <w xml:id="xTok_EDint604_002312" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5794"/>
           <w xml:id="xTok_EDint604_002315" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_002317" ana="#VVDfVVD" lemma="use">used</w>
           <w xml:id="xTok_EDint604_002319" ana="#TOfTO" lemma="to">to</w>
@@ -2085,14 +2085,14 @@
           </seg>
           <w xml:id="xTok_EDint604_002383" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_002385" ana="#VBDfVBD" lemma="be">were</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e5951"/>
           <w xml:id="xTok_EDint604_002388" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_002390" ana="#VBDfVBD" lemma="be">were</w>
           <w xml:id="xTok_EDint604_002392" ana="#DMfDM" lemma="like">like</w>
           <w xml:id="xTok_EDint604_002394" ana="#CDfCD" lemma="ten">ten</w>
           <w xml:id="xTok_EDint604_002396" ana="#RBfRB" lemma="then">then</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
-          <pause dur="PT2S"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="EDint604_d2e5975"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e5976"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_133">
           <w xml:id="xTok_EDint604_002400" ana="#PPfPP" lemma="i">i</w>
@@ -2112,9 +2112,9 @@
           <w xml:id="xTok_EDint604_002428" ana="#NNfNN" lemma="change">change</w>
           <w xml:id="xTok_EDint604_002430" ana="#PPfDM" lemma="i">i</w>
           <w xml:id="xTok_EDint604_002432" ana="#VVPfDM" lemma="mean">mean</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e6054"/>
           <w xml:id="xTok_EDint604_002435" ana="#BRfBR" lemma="">hh</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6061"/>
           <w xml:id="xTok_EDint604_002438" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_002440" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_002442" ana="#VVPfVVP" lemma="speak">speak</w>
@@ -2132,7 +2132,7 @@
           <seg n="6" type="overlap" xml:id="EDint604_ol_72">
             <w xml:id="xTok_EDint604_002467" ana="#CCfCC" lemma="but">but</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e6130"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_134">
           <seg n="6" synch="#EDint604_ol_72" type="overlap" xml:id="EDint604_ol_73">
@@ -2156,7 +2156,7 @@
           <w xml:id="xTok_EDint604_002501" ana="#CDfCD" lemma="ten">ten</w>
           <w xml:id="xTok_EDint604_002503" ana="#NNSfNNS" lemma="year">years</w>
           <w xml:id="xTok_EDint604_002505" ana="#RBfRB" lemma="ago">ago</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e6213"/>
           <w xml:id="xTok_EDint604_002508" ana="#VVDfVVD" lemma="remain">remained</w>
           <w xml:id="xTok_EDint604_002510" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_EDint604_002512" ana="#NNfNN" lemma="same">same</w>
@@ -2164,14 +2164,14 @@
           <w xml:id="xTok_EDint604_002516" ana="#VVDfVVD" lemma="do" part="I" next="xTok_EDint604_002518">did</w>
           <w xml:id="xTok_EDint604_002518" ana="#RBfRB" lemma="not" part="F" prev="xTok_EDint604_002516">n't</w>
           <w xml:id="xTok_EDint604_002520" ana="#RBfRB" lemma="actually">actually</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e6245"/>
           <w xml:id="xTok_EDint604_002523" ana="#RBfRB" lemma="maybe">maybe</w>
           <w xml:id="xTok_EDint604_002525" ana="#VVGfVVG" lemma="speak">speaking</w>
           <w xml:id="xTok_EDint604_002527" ana="#RBRfRBR" lemma="more">more</w>
           <w xml:id="xTok_EDint604_002529" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_002531" ana="#INfIN" lemma="than">than</w>
           <w xml:id="xTok_EDint604_002533" ana="#NPfNP" lemma="maltese">maltese</w>
-          <voice:track medium="1" num="6" type="md"/>
+          <voice:track medium="1" num="6" type="md" xml:id="EDint604_d2e6273"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_136">
           <w xml:id="xTok_EDint604_002537" ana="#REfRE" lemma="yeah">yeah</w>
@@ -2181,7 +2181,7 @@
           <w xml:id="xTok_EDint604_002543" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_EDint604_002545" ana="#NNfNN" lemma="opinion">opinion</w>
           <w xml:id="xTok_EDint604_002547" ana="#CCfCC" lemma="but">but</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e6304"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_138">
           <w xml:id="xTok_EDint604_002551" ana="#REfRE" lemma="yeah">yeah</w>
@@ -2201,8 +2201,8 @@
           <w xml:id="xTok_EDint604_002577" ana="#DMfDM" lemma="so">so</w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_140">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
-          <pause dur="PT1S"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="EDint604_d2e6373"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e6374"/>
           <w xml:id="xTok_EDint604_002581" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_141">
@@ -2210,11 +2210,11 @@
           <w xml:id="xTok_EDint604_002587" ana="#MDfMD" lemma="may">might</w>
           <w xml:id="xTok_EDint604_002589" ana="#VHfVH" lemma="have">have</w>
           <w xml:id="xTok_EDint604_002591" ana="#VVNfVVN" lemma="change">changed</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6402"/>
           <w xml:id="xTok_EDint604_002594" ana="#MDfMD" lemma="may">might</w>
           <w xml:id="xTok_EDint604_002596" ana="#VHfVH" lemma="have">have</w>
           <w xml:id="xTok_EDint604_002598" ana="#VVNfVVN" lemma="change">changed</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e6418"/>
           <seg n="1" type="overlap" xml:id="EDint604_ol_74">
             <w xml:id="xTok_EDint604_002601" ana="#CCfCC" lemma="but">but</w>
           </seg>
@@ -2232,7 +2232,7 @@
           <w xml:id="xTok_EDint604_002626" ana="#NNfNN" lemma="need">need</w>
           <w xml:id="xTok_EDint604_002628" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_EDint604_002630" ana="#NPfNP" lemma="maltese">maltese</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6487"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_142">
           <seg n="1" synch="#EDint604_ol_74" type="overlap" xml:id="EDint604_ol_75">
@@ -2241,7 +2241,7 @@
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_143">
           <w xml:id="xTok_EDint604_002638" ana="#RBfRB" lemma="especially">especially</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6507"/>
           <w xml:id="xTok_EDint604_002641" ana="#RBfRB" lemma="now">now</w>
           <w xml:id="xTok_EDint604_002643" ana="#INfIN" lemma="that">that</w>
           <w xml:id="xTok_EDint604_002645" ana="#PPfPP" lemma="we" part="I" next="xTok_EDint604_002647">we</w>
@@ -2253,13 +2253,13 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_144">
           <w xml:id="xTok_EDint604_002659" ana="#REfRE" lemma="yes">yes</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e6553"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_145">
           <w xml:id="xTok_EDint604_002663" ana="#RBfRB" lemma="even">even</w>
           <w xml:id="xTok_EDint604_002665" ana="#RBfRB" lemma="before">before</w>
           <w xml:id="xTok_EDint604_002667" ana="#CCfCC" lemma="but">but</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e6571"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_146">
           <w xml:id="xTok_EDint604_002671" ana="#CCfCC" lemma="and">and</w>
@@ -2271,21 +2271,21 @@
           <w xml:id="xTok_EDint604_002683" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_EDint604_002685" ana="#JJRfJJR" lemma="good">better</w>
           <w xml:id="xTok_EDint604_002687" ana="#NNfNN" lemma="job">job</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6614"/>
           <w xml:id="xTok_EDint604_002690" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_002692" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_002694" ana="#MDfMD" lemma="shall">should</w>
           <w xml:id="xTok_EDint604_002696" ana="#VVfVV" lemma="know">know</w>
           <w xml:id="xTok_EDint604_002698" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_002700" ana="#CCfCC" lemma="or">or</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e6643"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_147">
           <w xml:id="xTok_EDint604_002704" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_002706">it</w>
           <w xml:id="xTok_EDint604_002706" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_002704">'s</w>
           <w xml:id="xTok_EDint604_002708" ana="#DTfDT" lemma="a">an</w>
           <w xml:id="xTok_EDint604_002710" ana="#NNfNN" lemma="advantage">advantage</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e6665"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_148">
           <w xml:id="xTok_EDint604_002714" ana="#UHfUH" lemma="er">er</w>
@@ -2293,18 +2293,18 @@
           <w xml:id="xTok_EDint604_002718" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_002720" ana="#VVfVV" lemma="think">think</w>
           <w xml:id="xTok_EDint604_002722" ana="#VBZfVBZ" lemma="be">is</w>
-          <emph>
+          <emph xml:id="EDint604_d2e6692">
             <w xml:id="xTok_EDint604_002725" part="I" next="#xTok_EDint604_002726" ana="#JJfJJ" lemma="necessary">ne</w>
           </emph>
           <w xml:id="xTok_EDint604_002726" part="F" prev="#xTok_EDint604_002725">cessary</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6701"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_149">
           <w xml:id="xTok_EDint604_002730" ana="#PPfPP" lemma="it">it</w>
-          <emph>
+          <emph xml:id="EDint604_d2e6712">
             <w xml:id="xTok_EDint604_002733" ana="#VBZfVBZ" lemma="be">is</w>
           </emph>
-          <pause/>
+          <pause xml:id="EDint604_d2e6719"/>
           <seg n="2" type="overlap" xml:id="EDint604_ol_76">
             <w xml:id="xTok_EDint604_002736" ana="#RBfRB" lemma="definitely">definitely</w>
             <w xml:id="xTok_EDint604_002738" ana="#JJfJJ" lemma="necessary">necessary</w>
@@ -2322,7 +2322,7 @@
           <w xml:id="xTok_EDint604_002755" ana="#INfIN" lemma="without">without</w>
           <w xml:id="xTok_EDint604_002757" ana="#VVGfVVG" lemma="know">knowing</w>
           <w xml:id="xTok_EDint604_002759" ana="#NPfNP" lemma="english">english</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6776"/>
           <w xml:id="xTok_EDint604_002762" ana="#RBfRB" lemma="here">here</w>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_151">
@@ -2330,7 +2330,7 @@
           <w xml:id="xTok_EDint604_002768" ana="#MDfMD" lemma="will">will</w>
           <w xml:id="xTok_EDint604_002770" ana="#VBfVB" lemma="be">be</w>
           <w xml:id="xTok_EDint604_002772" ana="#JJRfJJR" lemma="hard">harder</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6804"/>
           <w xml:id="xTok_EDint604_002775" ana="#PPfDM" lemma="i">i</w>
           <w xml:id="xTok_EDint604_002777" ana="#VVPfDM" lemma="mean">mean</w>
           <w xml:id="xTok_EDint604_002779" ana="#PPfPP" lemma="you">you</w>
@@ -2338,7 +2338,7 @@
             <w xml:id="xTok_EDint604_002782" ana="#MDfMD" lemma="may">might</w>
           </seg>
           <w xml:id="xTok_EDint604_002785" ana="#XXfXX" lemma="">s-</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6833"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_152">
           <seg n="3" synch="#EDint604_ol_78" type="overlap" xml:id="EDint604_ol_79">
@@ -2366,7 +2366,7 @@
             <w xml:id="xTok_EDint604_002826" ana="#RBfRB" lemma="not">not</w>
             <w xml:id="xTok_EDint604_002828" ana="#INfIN" lemma="as">as</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e6927"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_154">
           <seg n="4" synch="#EDint604_ol_80" type="overlap" xml:id="EDint604_ol_81">
@@ -2380,16 +2380,16 @@
           <w xml:id="xTok_EDint604_002842" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_EDint604_002844" ana="#JJfJJ" lemma="certain">certain</w>
           <w xml:id="xTok_EDint604_002846" ana="#NNfNN" lemma="level">level</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e6969"/>
           <seg n="5" type="overlap" xml:id="EDint604_ol_82">
             <w xml:id="xTok_EDint604_002849" ana="#PPfDM" lemma="you">you</w>
             <w xml:id="xTok_EDint604_002851" ana="#VVPfDM" lemma="know">know</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e6981"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_156">
           <seg n="5" synch="#EDint604_ol_82" type="overlap" xml:id="EDint604_ol_83">
-            <w xml:id="xTok_EDint604_002855" part="I" next="#xTok_EDint604_002856" ana="#REfRE" lemma="yeah">yea<c type="lengthening"/>
+            <w xml:id="xTok_EDint604_002855" part="I" next="#xTok_EDint604_002856" ana="#REfRE" lemma="yeah">yea<c type="lengthening" xml:id="EDint604_d2e6990"/>
             </w>
             <w xml:id="xTok_EDint604_002856" part="F" prev="#xTok_EDint604_002855">h</w>
           </seg>
@@ -2414,19 +2414,19 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_160">
           <w xml:id="xTok_EDint604_002886" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7062"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_161">
           <w xml:id="xTok_EDint604_002890" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_EDint604_002892" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_002894" ana="#RBfRB" lemma="only">only</w>
-          <w xml:id="xTok_EDint604_002896" part="I" next="#xTok_EDint604_002897" ana="#VHPfVHP" lemma="have">hav<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_002896" part="I" next="#xTok_EDint604_002897" ana="#VHPfVHP" lemma="have">hav<c type="lengthening" xml:id="EDint604_d2e7082"/>
           </w>
           <w xml:id="xTok_EDint604_002897" part="F" prev="#xTok_EDint604_002896">e</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7088"/>
           <w xml:id="xTok_EDint604_002900" ana="#NNfNN" lemma="contact">contact</w>
           <w xml:id="xTok_EDint604_002902" ana="#INfIN" lemma="with">with</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7099"/>
           <w xml:id="xTok_EDint604_002905" ana="#JJfJJ" lemma="maltese">maltese</w>
           <w xml:id="xTok_EDint604_002907" ana="#NNSfNNS" lemma="people">people</w>
           <w xml:id="xTok_EDint604_002909" ana="#VVfVV" lemma="let" part="I" next="xTok_EDint604_002911">let</w>
@@ -2435,27 +2435,27 @@
           <w xml:id="xTok_EDint604_002915" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_002917" ana="#VVPfVVP" lemma="do" part="I" next="xTok_EDint604_002919">do</w>
           <w xml:id="xTok_EDint604_002919" ana="#RBfRB" lemma="not" part="F" prev="xTok_EDint604_002917">n't</w>
-          <w xml:id="xTok_EDint604_002921" ana="#VVfVV" lemma="know">know<c function="fall" type="intonation"/>
+          <w xml:id="xTok_EDint604_002921" ana="#VVfVV" lemma="know">know<c function="fall" type="intonation" xml:id="EDint604_d2e7138"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e7139"/>
           <w xml:id="xTok_EDint604_002923" ana="#PPfPP" lemma="you" part="I" next="xTok_EDint604_002925">you</w>
           <w xml:id="xTok_EDint604_002925" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_002923">'re</w>
           <w xml:id="xTok_EDint604_002927" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_EDint604_002929" ana="#NNfNN" lemma="delivery">delivery</w>
           <w xml:id="xTok_EDint604_002931" ana="#NNfNN" lemma="man">man</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7163"/>
           <w xml:id="xTok_EDint604_002934" ana="#INfIN" lemma="of">of</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7170"/>
           <w xml:id="xTok_EDint604_002937" ana="#NNSfNNS" lemma="appliance">appliances</w>
           <w xml:id="xTok_EDint604_002939" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_EDint604_002941" ana="#NNfNN" lemma="something">something</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7186"/>
           <w xml:id="xTok_EDint604_002944" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_EDint604_002946" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_EDint604_002948" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_EDint604_002950" ana="#RBfRB" lemma="really">really</w>
           <w xml:id="xTok_EDint604_002952" ana="#JJfJJ" lemma="necessary">necessary</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7210"/>
           <w xml:id="xTok_EDint604_002955" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_EDint604_002957" ana="#RBfRB" lemma="obviously">obviously</w>
           <w xml:id="xTok_EDint604_002959" ana="#INfIN" lemma="if">if</w>
@@ -2468,14 +2468,14 @@
           <w xml:id="xTok_EDint604_002973" ana="#PREfPRE" lemma="which">which</w>
           <w xml:id="xTok_EDint604_002975" ana="#JJfJJ" lemma="many">many</w>
           <w xml:id="xTok_EDint604_002977" ana="#NNSfNNS" lemma="job">jobs</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7264"/>
           <seg n="6" type="overlap" xml:id="EDint604_ol_84">
             <w xml:id="xTok_EDint604_002980" ana="#VBPfVBP" lemma="be">are</w>
             <w xml:id="xTok_EDint604_002982" ana="#INfIN" lemma="in">in</w>
           </seg>
           <w xml:id="xTok_EDint604_002985" ana="#NNfNN" lemma="tourism">tourism</w>
           <w xml:id="xTok_EDint604_002987" ana="#NNfNN" lemma="area">area</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7286"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_162">
           <seg n="6" synch="#EDint604_ol_84" type="overlap" xml:id="EDint604_ol_85">
@@ -2485,7 +2485,7 @@
         <u who="#EDint604_S3" xml:id="EDint604_u_163">
           <w xml:id="xTok_EDint604_002995" ana="#RBfRB" lemma="obviously">obviously</w>
           <w xml:id="xTok_EDint604_002997" ana="#PPfPP" lemma="you">you</w>
-          <emph>
+          <emph xml:id="EDint604_d2e7310">
             <w xml:id="xTok_EDint604_003000" ana="#VVPfVVP" lemma="need">need</w>
           </emph>
           <w xml:id="xTok_EDint604_003003" ana="#NPfNP" lemma="english">english</w>
@@ -2498,7 +2498,7 @@
         <u who="#EDint604_S3" xml:id="EDint604_u_165">
           <w xml:id="xTok_EDint604_003015" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_EDint604_003017" ana="#INfIN" lemma="even">even</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7354"/>
           <w xml:id="xTok_EDint604_003020" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_EDint604_003022" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_003024" ana="#MDfMD" lemma="can">can</w>
@@ -2511,15 +2511,15 @@
           <w xml:id="xTok_EDint604_003038" ana="#DTfDT" lemma="a">an</w>
           <w xml:id="xTok_EDint604_003040" ana="#NNfNN" lemma="advantage">advantage</w>
           <w xml:id="xTok_EDint604_003042" ana="#INfIN" lemma="in">in</w>
-          <emph>
+          <emph xml:id="EDint604_d2e7407">
             <w xml:id="xTok_EDint604_003045" ana="#DTfDT" lemma="any">any</w>
           </emph>
           <w xml:id="xTok_EDint604_003048" ana="#NNfNN" lemma="job">job</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7421"/>
           <seg n="7" type="overlap" xml:id="EDint604_ol_86">
             <w xml:id="xTok_EDint604_003051" ana="#INfIN" lemma="over">over</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e7429"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_166">
           <seg n="7" synch="#EDint604_ol_86" type="overlap" xml:id="EDint604_ol_87">
@@ -2548,7 +2548,7 @@
           <w xml:id="xTok_EDint604_003093" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_EDint604_003095" ana="#NNfNN" lemma="second">second</w>
           <w xml:id="xTok_EDint604_003097" ana="#NNfNN" lemma="language">language</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7530"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_168">
           <seg n="1" synch="#EDint604_ol_88" type="overlap" xml:id="EDint604_ol_89">
@@ -2588,20 +2588,20 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_172">
           <w xml:id="xTok_EDint604_003149" ana="#REfRE" lemma="yes">yes</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7648"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_173">
           <w xml:id="xTok_EDint604_003153" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_EDint604_003155" ana="#JJfJJ" lemma="necessary">necessary</w>
           <w xml:id="xTok_EDint604_003157" ana="#INfIN" lemma="in">in</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7666"/>
           <w xml:id="xTok_EDint604_003160" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_EDint604_003162" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_003164" ana="#VVPfVVP" lemma="want" part="I" next="xTok_EDint604_003166">wan</w>
           <w xml:id="xTok_EDint604_003166" contraction="1" ana="#DTfDT" lemma="a" part="F" prev="xTok_EDint604_003164">na</w>
           <w xml:id="xTok_EDint604_003168" ana="#JJfJJ" lemma="good">good</w>
           <w xml:id="xTok_EDint604_003170" ana="#NNfNN" lemma="job">job</w>
-          <emph>
+          <emph xml:id="EDint604_d2e7694">
             <w xml:id="xTok_EDint604_003173" ana="#REfRE" lemma="yes">yes</w>
           </emph>
           <w xml:id="xTok_EDint604_003176" ana="#PPfPP" lemma="i">i</w>
@@ -2612,7 +2612,7 @@
             <w xml:id="xTok_EDint604_003185" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_003183">'s</w>
             <w xml:id="xTok_EDint604_003187" ana="#JJfJJ" lemma="necessary">necessary</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e7731"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_174">
           <seg n="4" synch="#EDint604_ol_94" type="overlap" xml:id="EDint604_ol_95">
@@ -2626,11 +2626,11 @@
           <w xml:id="xTok_EDint604_003201" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_003199">'re</w>
           <w xml:id="xTok_EDint604_003203" ana="#JJfJJ" lemma="willing">willing</w>
           <w xml:id="xTok_EDint604_003205" ana="#TOfTO" lemma="to">to</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7772"/>
           <w xml:id="xTok_EDint604_003208" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_EDint604_003210" ana="#VVfVV" lemma="climb">climb</w>
           <w xml:id="xTok_EDint604_003212" ana="#RBfRB" lemma="up">up</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7787"/>
           <w xml:id="xTok_EDint604_003215" ana="#RBfRB" lemma="then">then</w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_176">
@@ -2639,7 +2639,7 @@
         <u who="#EDint604_S3" xml:id="EDint604_u_177">
           <w xml:id="xTok_EDint604_003223" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_003225" ana="#MDfMD" lemma="can">can</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7818"/>
           <w xml:id="xTok_EDint604_003228" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_EDint604_003230" ana="#VHfVH" lemma="have">have</w>
           <w xml:id="xTok_EDint604_003232" ana="#NPfNP" lemma="maltese">maltese</w>
@@ -2660,10 +2660,10 @@
           <seg n="5" type="overlap" xml:id="EDint604_ol_96">
             <w xml:id="xTok_EDint604_003257" ana="#INfIN" lemma="like">like</w>
           </seg>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="EDint604_d2e7890">
             <w xml:id="xTok_EDint604_003260" ana="#NPfNP" lemma="">[firstname1]</w>
           </supplied>
-          <pause/>
+          <pause xml:id="EDint604_d2e7897"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_179">
           <seg n="5" synch="#EDint604_ol_96" type="overlap" xml:id="EDint604_ol_97">
@@ -2671,30 +2671,30 @@
           </seg>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_180">
-          <w xml:id="xTok_EDint604_003268" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+          <w xml:id="xTok_EDint604_003268" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="EDint604_d2e7915"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e7916"/>
           <w xml:id="xTok_EDint604_003270" ana="#RBfRB" lemma="especially">especially</w>
           <w xml:id="xTok_EDint604_003272" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_EDint604_003274" ana="#PPfPP" lemma="you">you</w>
           <shift corresp="#EDint604_s_22" feature="voice" new="laugh" xml:id="EDint604_s_21"/>
           <w xml:id="xTok_EDint604_003277" ana="#PPfPP" lemma="it" part="I" next="xTok_EDint604_003279">it</w>
           <w xml:id="xTok_EDint604_003279" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_003277">'s</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e7943"/>
           <w xml:id="xTok_EDint604_003282" ana="#DMfDM" lemma="like">like</w>
           <shift corresp="#EDint604_s_21" feature="voice" new="neutral" xml:id="EDint604_s_22"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="EDint604_d2e7952"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_181">
           <w xml:id="xTok_EDint604_003286" ana="#RBfRB" lemma="of">of</w>
           <w xml:id="xTok_EDint604_003288" ana="#RBfRB" lemma="course">course</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="EDint604_d2e7966"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_182">
           <shift corresp="#EDint604_s_24" feature="voice" new="laugh" xml:id="EDint604_s_23"/>
           <w xml:id="xTok_EDint604_003292" ana="#JJfJJ" lemma="necessary">necessary</w>
           <shift corresp="#EDint604_s_23" feature="voice" new="neutral" xml:id="EDint604_s_24"/>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="EDint604_d2e7979"/>
           <w xml:id="xTok_EDint604_003295" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_EDint604_003297" ana="#RBfRB" lemma="now">now</w>
           <w xml:id="xTok_EDint604_003299" ana="#PPfPP" lemma="you">you</w>
@@ -2702,7 +2702,7 @@
           <w xml:id="xTok_EDint604_003303" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_EDint604_003305" ana="#NNSfNNS" lemma="exam">exams</w>
           <w xml:id="xTok_EDint604_003307" ana="#RBfRB" lemma="soon">soon</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8011"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_183">
           <seg n="5" type="overlap" xml:id="EDint604_ol_98">
@@ -2722,7 +2722,7 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_186">
           <seg n="6" type="overlap" xml:id="EDint604_ol_100">
-            <w xml:id="xTok_EDint604_003330" part="I" next="#xTok_EDint604_003331" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+            <w xml:id="xTok_EDint604_003330" part="I" next="#xTok_EDint604_003331" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="EDint604_d2e8063"/>
             </w>
             <w xml:id="xTok_EDint604_003331" part="F" prev="#xTok_EDint604_003330">h</w>
           </seg>
@@ -2737,13 +2737,13 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_188">
           <w xml:id="xTok_EDint604_003346" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e8102"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_189">
           <w xml:id="xTok_EDint604_003350" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_EDint604_003352" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_EDint604_003354" ana="#NNSfNNS" lemma="holiday">holidays</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8120"/>
           <seg n="7" type="overlap" xml:id="EDint604_ol_102">
             <w xml:id="xTok_EDint604_003357" ana="#DTfDT" lemma="that" part="I" next="xTok_EDint604_003359">that</w>
             <w xml:id="xTok_EDint604_003359" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_EDint604_003357">'s</w>
@@ -2759,10 +2759,10 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_190">
           <seg n="7" synch="#EDint604_ol_102" type="overlap" xml:id="EDint604_ol_103" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="EDint604_d2e8169"/>
           </seg>
           <seg n="8" type="overlap" xml:id="EDint604_ol_104" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="EDint604_d2e8171"/>
           </seg>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_191">
@@ -2776,16 +2776,16 @@
           <w xml:id="xTok_EDint604_003384" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_EDint604_003386" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_003388" ana="#VVGfVVG" lemma="go">going</w>
-          <w xml:id="xTok_EDint604_003390" ana="#RBfRB" lemma="somewhere">somewhere<c function="fall" type="intonation"/>
+          <w xml:id="xTok_EDint604_003390" ana="#RBfRB" lemma="somewhere">somewhere<c function="fall" type="intonation" xml:id="EDint604_d2e8203"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e8204"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_193">
           <w xml:id="xTok_EDint604_003393" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8215"/>
           <w xml:id="xTok_EDint604_003396" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_003398" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8226"/>
           <w xml:id="xTok_EDint604_003401" ana="#NPfNP" lemma="july">july</w>
           <w xml:id="xTok_EDint604_003403" ana="#PPfPP" lemma="we" part="I" next="xTok_EDint604_003405">we</w>
           <w xml:id="xTok_EDint604_003405" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_EDint604_003403">'re</w>
@@ -2798,7 +2798,7 @@
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_194">
           <w xml:id="xTok_EDint604_003421" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e8276"/>
           <seg n="1" type="overlap" xml:id="EDint604_ol_106">
             <w xml:id="xTok_EDint604_003424" ana="#DMfDM" lemma="so">so</w>
           </seg>
@@ -2808,23 +2808,23 @@
             <w xml:id="xTok_EDint604_003428" ana="#XXfXX" lemma="">s-</w>
           </seg>
           <w xml:id="xTok_EDint604_003431" ana="#NPfNP" lemma="september">september</w>
-          <foreign type="LN" voice:translation="beer festival in germany" xml:lang="ger">
+          <foreign type="LN" voice:translation="beer festival in germany" xml:lang="ger" xml:id="EDint604_d2e8300">
             <w xml:id="xTok_EDint604_003434" ana="#FWfFW" lemma="">oktoberfest</w>
           </foreign>
-          <pause/>
+          <pause xml:id="EDint604_d2e8307"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_196">
-          <w xml:id="xTok_EDint604_003438" ana="#REfRE" lemma="yeah">yeah<c function="rise" type="intonation"/>
+          <w xml:id="xTok_EDint604_003438" ana="#REfRE" lemma="yeah">yeah<c function="rise" type="intonation" xml:id="EDint604_d2e8315"/>
           </w>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_197">
           <w xml:id="xTok_EDint604_003441" ana="#CCfCC" lemma="and">and</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8325"/>
           <w xml:id="xTok_EDint604_003444" ana="#NPfNP" lemma="amsterdam">amsterdam</w>
           <w xml:id="xTok_EDint604_003446" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_003448" ana="#VVPfVVP" lemma="think">think</w>
           <w xml:id="xTok_EDint604_003450" ana="#DMfDM #INfIN" lemma="like">like</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="EDint604_d2e8345">
             <w xml:id="xTok_EDint604_003453" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <seg n="2" type="overlap" xml:id="EDint604_ol_108">
@@ -2832,7 +2832,7 @@
             <w xml:id="xTok_EDint604_003458" ana="#JJfJJ" lemma="sure">sure</w>
             <w xml:id="xTok_EDint604_003460" ana="#RBfRB" lemma="yet">yet</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e8367"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_198">
           <seg n="2" synch="#EDint604_ol_108" type="overlap" xml:id="EDint604_ol_109">
@@ -2843,7 +2843,7 @@
           <w xml:id="xTok_EDint604_003468" ana="#RBfRB" lemma="still">still</w>
           <w xml:id="xTok_EDint604_003470" ana="#RBfRB" lemma="far">far</w>
           <w xml:id="xTok_EDint604_003472" ana="#RBfRB" lemma="away">away</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8396"/>
           <w xml:id="xTok_EDint604_003475" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_EDint604_003477" ana="#VVGfVVG" lemma="look">looking</w>
           <w xml:id="xTok_EDint604_003479" ana="#RBfRB" lemma="forward">forward</w>
@@ -2883,11 +2883,11 @@
             <w xml:id="xTok_EDint604_003528" ana="#VBNfVBN" lemma="be">been</w>
             <w xml:id="xTok_EDint604_003530" ana="#RBfRB" lemma="there">there</w>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e8525"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_203">
           <seg n="5" synch="#EDint604_ol_114" type="overlap" xml:id="EDint604_ol_115">
-            <w xml:id="xTok_EDint604_003534" part="I" next="#xTok_EDint604_003535" ana="#REfRE" lemma="yes">y<c type="lengthening"/>
+            <w xml:id="xTok_EDint604_003534" part="I" next="#xTok_EDint604_003535" ana="#REfRE" lemma="yes">y<c type="lengthening" xml:id="EDint604_d2e8534"/>
             </w>
             <w xml:id="xTok_EDint604_003535" part="F" prev="#xTok_EDint604_003534">es</w>
             <w xml:id="xTok_EDint604_003537" ana="#REfRE" lemma="yes">yes</w>
@@ -2901,7 +2901,7 @@
           <w xml:id="xTok_EDint604_003549" ana="#NNfNN" lemma="father">father</w>
           <w xml:id="xTok_EDint604_003551" ana="#VVZfVVZ" lemma="travel">travels</w>
           <w xml:id="xTok_EDint604_003553" ana="#RBfRB" lemma="there">there</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e8578"/>
           <seg n="6" type="overlap" xml:id="EDint604_ol_116">
             <w xml:id="xTok_EDint604_003556" ana="#RBfRB" lemma="a">a</w>
             <w xml:id="xTok_EDint604_003558" ana="#RBfRB" lemma="lot">lot</w>
@@ -2915,7 +2915,7 @@
             <w xml:id="xTok_EDint604_003568" ana="#TOfTO" lemma="to">to</w>
           </seg>
           <w xml:id="xTok_EDint604_003571" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8618"/>
           <w xml:id="xTok_EDint604_003574" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_EDint604_003576" ana="#VVDfVVD" lemma="use">used</w>
           <w xml:id="xTok_EDint604_003578" ana="#TOfTO" lemma="to">to</w>
@@ -2932,7 +2932,7 @@
             <w xml:id="xTok_EDint604_003599" ana="#DTfDT" lemma="this">this</w>
           </seg>
           <w xml:id="xTok_EDint604_003602" ana="#NNfNN" lemma="job">job</w>
-          <w xml:id="xTok_EDint604_003604" ana="#INfIN" lemma="in">in<c type="lengthening"/>
+          <w xml:id="xTok_EDint604_003604" ana="#INfIN" lemma="in">in<c type="lengthening" xml:id="EDint604_d2e8687"/>
           </w>
           <seg n="1" type="overlap" xml:id="EDint604_ol_119">
             <w xml:id="xTok_EDint604_003606" ana="#INfIN" lemma="in">in</w>
@@ -2940,7 +2940,7 @@
           <w xml:id="xTok_EDint604_003609" ana="#NPfNP" lemma="germany">germany</w>
           <w xml:id="xTok_EDint604_003611" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_EDint604_003613" ana="#NPfNP" lemma="munich">munich</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8709"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_206">
           <seg n="7" synch="#EDint604_ol_118" type="overlap" xml:id="EDint604_ol_120">
@@ -2969,7 +2969,7 @@
           </seg>
           <w xml:id="xTok_EDint604_003645" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_EDint604_003647" ana="#NPfNP" lemma="austria">austria</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8788"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_210">
           <seg n="2" synch="#EDint604_ol_122" type="overlap" xml:id="EDint604_ol_123">
@@ -2980,11 +2980,11 @@
           <w xml:id="xTok_EDint604_003655" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_003657" ana="#VVPfVVP" lemma="speak">speak</w>
           <w xml:id="xTok_EDint604_003659" ana="#NPfNP" lemma="german">german</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8817"/>
           <seg n="3" type="overlap" xml:id="EDint604_ol_124">
             <w xml:id="xTok_EDint604_003662" ana="#RBfRB" lemma="fluently">fluently</w>
           </seg>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e8825"/>
         </u>
         <u who="#EDint604_S3" xml:id="EDint604_u_212">
           <seg n="3" synch="#EDint604_ol_124" type="overlap" xml:id="EDint604_ol_125">
@@ -2992,16 +2992,16 @@
           </seg>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_213">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="EDint604_d2e8839"/>
           <w xml:id="xTok_EDint604_003670" ana="#JJfJJ" lemma="great">great</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8846"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_214">
           <w xml:id="xTok_EDint604_003674" ana="#MDfMD" lemma="shall">shall</w>
           <w xml:id="xTok_EDint604_003676" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_EDint604_003678" ana="#VVfVV" lemma="make">make</w>
           <w xml:id="xTok_EDint604_003680" ana="#DTfDT" lemma="a">a</w>
-          <w xml:id="xTok_EDint604_003682" ana="#NNfNN" lemma="move">move<c function="rise" type="intonation"/>
+          <w xml:id="xTok_EDint604_003682" ana="#NNfNN" lemma="move">move<c function="rise" type="intonation" xml:id="EDint604_d2e8870"/>
           </w>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_215">
@@ -3020,11 +3020,11 @@
         <u who="#EDint604_S3" xml:id="EDint604_u_216">
           <anchor synch="#EDint604_oc_30" type="other_continuation" xml:id="EDint604_oc_31"/>
           <w xml:id="xTok_EDint604_003707" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e8929"/>
           <w xml:id="xTok_EDint604_003710" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_EDint604_003712" ana="#VVPfVVP" lemma="need">need</w>
           <w xml:id="xTok_EDint604_003714" ana="#TOfTO" lemma="to">to</w>
-          <w xml:id="xTok_EDint604_003716" ana="#VVfVV" lemma="leave">leave<c function="fall" type="intonation"/>
+          <w xml:id="xTok_EDint604_003716" ana="#VVfVV" lemma="leave">leave<c function="fall" type="intonation" xml:id="EDint604_d2e8947"/>
           </w>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_217">
@@ -3049,7 +3049,7 @@
         <u who="#EDint604_S1" xml:id="EDint604_u_218">
           <seg n="4" synch="#EDint604_ol_126" type="overlap" xml:id="EDint604_ol_128">
             <w xml:id="xTok_EDint604_003750" ana="#REfRE" lemma="yes">yes</w>
-            <emph>
+            <emph xml:id="EDint604_d2e9025">
               <w xml:id="xTok_EDint604_003753" ana="#FIfFI" lemma="please">please</w>
             </emph>
             <w xml:id="xTok_EDint604_003756" ana="#VVfVV" lemma="leave">leave</w>
@@ -3079,7 +3079,7 @@
           </seg>
           <w xml:id="xTok_EDint604_003784" ana="#REfRE" lemma="yes">yes</w>
           <seg n="7" type="overlap" xml:id="EDint604_ol_132">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="EDint604_d2e9104">
               <w xml:id="xTok_EDint604_003787" ana="#UNIfUNI" lemma="">xxx</w>
             </supplied>
           </seg>
@@ -3088,17 +3088,17 @@
           <seg n="7" synch="#EDint604_ol_132" type="overlap" xml:id="EDint604_ol_133">
             <w xml:id="xTok_EDint604_003791" ana="#FIfFI" lemma="thank">thank</w>
             <w xml:id="xTok_EDint604_003793" ana="#FIfFI" lemma="you">you</w>
-            <emph>
+            <emph xml:id="EDint604_d2e9125">
               <w xml:id="xTok_EDint604_003796" ana="#RBfRB" lemma="very">very</w>
             </emph>
-            <emph>
+            <emph xml:id="EDint604_d2e9132">
               <w xml:id="xTok_EDint604_003799" ana="#RBfRB" lemma="much">much</w>
             </emph>
           </seg>
-          <pause/>
+          <pause xml:id="EDint604_d2e9139"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_223">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="EDint604_d2e9143"/>
         </u>
         <u who="#EDint604_S1" xml:id="EDint604_u_224">
           <w xml:id="xTok_EDint604_003804" ana="#FIfFI" lemma="thank">thanks</w>
@@ -3110,7 +3110,7 @@
             <w xml:id="xTok_EDint604_003812" ana="#FIfFI" lemma="thank">thanks</w>
           </seg>
           <w xml:id="xTok_EDint604_003815" ana="#FIfFI" lemma="bye-bye">bye-bye</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e9177"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_226">
           <seg n="7" synch="#EDint604_ol_134" type="overlap" xml:id="EDint604_ol_135">
@@ -3128,7 +3128,7 @@
           <w xml:id="xTok_EDint604_003835" ana="#VVPfVVP" lemma="see">see</w>
           <w xml:id="xTok_EDint604_003837" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_003839" ana="#RBfRB" lemma="again">again</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e9232"/>
         </u>
         <u who="#EDint604_S4" xml:id="EDint604_u_228">
           <seg n="8" synch="#EDint604_ol_136" type="overlap" xml:id="EDint604_ol_137">
@@ -3142,18 +3142,18 @@
           <w xml:id="xTok_EDint604_003853" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_EDint604_003855" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_EDint604_003857" ana="#NNfNN" lemma="coffee">coffee</w>
-          <pause/>
+          <pause xml:id="EDint604_d2e9272"/>
           <w xml:id="xTok_EDint604_003860" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_EDint604_003862" ana="#NNfNN" lemma="something">something</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="EDint604_d2e9284"/>
           <w xml:id="xTok_EDint604_003865" ana="#FIfFI" lemma="thank">thanks</w>
           <w xml:id="xTok_EDint604_003867" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_EDint604_003869" ana="#DTfDT" lemma="this">this</w>
-          <pause/>
-          <w xml:id="xTok_EDint604_003872" ana="#FIfFI" lemma="bye">bye<c function="fall" type="intonation"/>
+          <pause xml:id="EDint604_d2e9300"/>
+          <w xml:id="xTok_EDint604_003872" ana="#FIfFI" lemma="bye">bye<c function="fall" type="intonation" xml:id="EDint604_d2e9305"/>
           </w>
-          <pause dur="PT1S"/>
-          <foreign type="L1" voice:translation="okay" xml:lang="scc">
+          <pause dur="PT1S" xml:id="EDint604_d2e9306"/>
+          <foreign type="L1" voice:translation="okay" xml:lang="scc" xml:id="EDint604_d2e9307">
             <w xml:id="xTok_EDint604_003874" ana="#FWfFW" lemma="">vazi</w>
           </foreign>
         </u>

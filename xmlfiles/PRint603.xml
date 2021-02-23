@@ -422,7 +422,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="medium" voice:end="00:09" voice:end_medium_number="1" voice:end_track="3" voice:medium_type="md" voice:start="01:06" voice:start_medium_number="1" voice:start_track="2">
+      <div type="medium" voice:end="00:09" voice:end_medium_number="1" voice:end_track="3" voice:medium_type="md" voice:start="01:06" voice:start_medium_number="1" voice:start_track="2" xml:id="PRint603_d2e546">
         <u who="#PRint603_S1" xml:id="PRint603_u_1">
           <w xml:id="xTok_PRint603_000007" ana="#FIfFI" lemma="hello">hello</w>
           <w xml:id="xTok_PRint603_000009" ana="#MDfMD" lemma="may">may</w>
@@ -444,10 +444,10 @@
           <w xml:id="xTok_PRint603_000039" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRint603_000041" ana="#NNfNN" lemma="project">project</w>
           <w xml:id="xTok_PRint603_000043" ana="#INfIN" lemma="on">on</w>
-          <voice:pvc>
+          <voice:pvc xml:id="PRint603_d2e632">
             <w xml:id="xTok_PRint603_000046" ana="#PVCfJJ" lemma="">intercultural</w>
           </voice:pvc>
-          <w xml:id="xTok_PRint603_000049" ana="#NNfNN" lemma="communication">communication<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRint603_000049" ana="#NNfNN" lemma="communication">communication<c function="fall" type="intonation" xml:id="PRint603_d2e643"/>
           </w>
           <w xml:id="xTok_PRint603_000051" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRint603_000053" ana="#PPfPP" lemma="we" part="I" next="xTok_PRint603_000055">we</w>
@@ -462,11 +462,11 @@
           <w xml:id="xTok_PRint603_000071" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PRint603_000073" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PRint603_000075" ana="#VVGfNN" lemma="meet/meeting">meeting</w>
-          <w xml:id="xTok_PRint603_000077" ana="#TOfTO" lemma="to">to<c type="lengthening"/>
+          <w xml:id="xTok_PRint603_000077" ana="#TOfTO" lemma="to">to<c type="lengthening" xml:id="PRint603_d2e703"/>
           </w>
           <w xml:id="xTok_PRint603_000079" ana="#VVfVV" lemma="interview">interview</w>
           <w xml:id="xTok_PRint603_000081" ana="#NNSfNNS" lemma="people">people</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e714"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_2">
           <seg n="4" synch="#PRint603_ol_0" type="overlap" xml:id="PRint603_ol_1">
@@ -492,7 +492,7 @@
           <w xml:id="xTok_PRint603_000115" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRint603_000117" ana="#MDfMD" lemma="can">could</w>
           <w xml:id="xTok_PRint603_000119" ana="#PPfPP" lemma="you">you</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e799"/>
           <w xml:id="xTok_PRint603_000122" ana="#RBfRB" lemma="perhaps">perhaps</w>
           <w xml:id="xTok_PRint603_000124" ana="#RBfRB" lemma="briefly">briefly</w>
           <w xml:id="xTok_PRint603_000126" ana="#VVfVV" lemma="tell">tell</w>
@@ -527,16 +527,16 @@
         <u who="#PRint603_S4" xml:id="PRint603_u_7">
           <w xml:id="xTok_PRint603_000172" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRint603_000174" ana="#PPfPP" lemma="i" part="I" next="xTok_PRint603_000176">i</w>
-          <w xml:id="xTok_PRint603_000176" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PRint603_000174">'m<c type="lengthening"/>
+          <w xml:id="xTok_PRint603_000176" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PRint603_000174">'m<c type="lengthening" xml:id="PRint603_d2e920"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e921"/>
           <w xml:id="xTok_PRint603_000178" ana="#VfV" lemma="come">come</w>
           <w xml:id="xTok_PRint603_000180" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRint603_000182" ana="#INfIN" lemma="because">because</w>
           <w xml:id="xTok_PRint603_000184" ana="#INfIN" lemma="of">of</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e941"/>
           <w xml:id="xTok_PRint603_000187" ana="#UNKfUNK" lemma="present">present</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e948"/>
           <w xml:id="xTok_PRint603_000190" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRint603_000192" ana="#DTfDT" lemma="the">the</w>
           <seg n="5" type="overlap" xml:id="PRint603_ol_4">
@@ -558,20 +558,20 @@
         <u who="#PRint603_S1" xml:id="PRint603_u_10">
           <anchor synch="#PRint603_oc_0" type="other_continuation" xml:id="PRint603_oc_1"/>
           <w xml:id="xTok_PRint603_000213" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e1009"/>
           <w xml:id="xTok_PRint603_000216" ana="#WRBfWRB" lemma="when">when</w>
           <w xml:id="xTok_PRint603_000218" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRint603_000220" ana="#PPSfPPS" lemma="you">your</w>
-          <w xml:id="xTok_PRint603_000222" ana="#NNfNN" lemma="presentation">presentation<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRint603_000222" ana="#NNfNN" lemma="presentation">presentation<c function="fall" type="intonation" xml:id="PRint603_d2e1027"/>
           </w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1028"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_11">
-          <unclear>
+          <unclear xml:id="PRint603_d2e1032">
             <w xml:id="xTok_PRint603_000225" ana="#PPfDM" lemma="you">you</w>
             <w xml:id="xTok_PRint603_000227" ana="#VVPfDM" lemma="know">know</w>
           </unclear>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRint603_d2e1043">
             <w xml:id="xTok_PRint603_000230" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
           <w xml:id="xTok_PRint603_000233" ana="#PPfPP" lemma="i">i</w>
@@ -579,7 +579,7 @@
           <w xml:id="xTok_PRint603_000237" ana="#PPfPP" lemma="it">it</w>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_12">
-          <w xml:id="xTok_PRint603_000241" part="I" next="#xTok_PRint603_000242" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          <w xml:id="xTok_PRint603_000241" part="I" next="#xTok_PRint603_000242" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="PRint603_d2e1072"/>
           </w>
           <w xml:id="xTok_PRint603_000242" part="F" prev="#xTok_PRint603_000241">h</w>
           <w xml:id="xTok_PRint603_000244" ana="#XXfXX" lemma="">y-</w>
@@ -606,27 +606,27 @@
           <w xml:id="xTok_PRint603_000269" ana="#RBfRB" lemma="yesterday">yesterday</w>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_16">
-          <w xml:id="xTok_PRint603_000273" part="I" next="#xTok_PRint603_000274" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <w xml:id="xTok_PRint603_000273" part="I" next="#xTok_PRint603_000274" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="PRint603_d2e1145"/>
           </w>
           <w xml:id="xTok_PRint603_000274" part="F" prev="#xTok_PRint603_000273">nd</w>
           <w xml:id="xTok_PRint603_000276" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PRint603_000278" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_PRint603_000280" ana="#JJfJJ" lemma="okay">okay<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRint603_000280" ana="#JJfJJ" lemma="okay">okay<c function="rise" type="intonation" xml:id="PRint603_d2e1160"/>
           </w>
           <w xml:id="xTok_PRint603_000282" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PRint603_000284" ana="#PPfPP" lemma="you">you<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRint603_000284" ana="#PPfPP" lemma="you">you<c function="rise" type="intonation" xml:id="PRint603_d2e1170"/>
           </w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1171"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_17">
-          <emph>
+          <emph xml:id="PRint603_d2e1176">
             <w xml:id="xTok_PRint603_000287" ana="#REfRE" lemma="yes">yes</w>
           </emph>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_18">
-          <w xml:id="xTok_PRint603_000291" ana="#JJfJJ" lemma="successful">successful<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRint603_000291" ana="#JJfJJ" lemma="successful">successful<c function="rise" type="intonation" xml:id="PRint603_d2e1190"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e1191"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_19">
           <w xml:id="xTok_PRint603_000294" ana="#PPfPP" lemma="i">i</w>
@@ -642,29 +642,29 @@
           <w xml:id="xTok_PRint603_000312" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PRint603_000314" ana="#NNfNN" lemma="feedback">feedback</w>
           <w xml:id="xTok_PRint603_000316" ana="#RBfRB" lemma="yet">yet</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1247"/>
           <w xml:id="xTok_PRint603_000319" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRint603_000321" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRint603_000323" ana="#JJfJJ" lemma="other">other</w>
           <w xml:id="xTok_PRint603_000325" ana="#NNSfNNS" lemma="listener">listeners</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1267"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_21">
-          <emph>
+          <emph xml:id="PRint603_d2e1271">
             <w xml:id="xTok_PRint603_000329" ana="#REfRE" lemma="no">no</w>
           </emph>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e1278"/>
           <w xml:id="xTok_PRint603_000332" ana="#PPfDM" lemma="i">i</w>
           <w xml:id="xTok_PRint603_000334" ana="#VVPfDM" lemma="mean">mean</w>
           <w xml:id="xTok_PRint603_000336" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRint603_000338" ana="#RBfRB" lemma="never">never</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1298"/>
           <w xml:id="xTok_PRint603_000341" ana="#VVPfVVP" lemma="ask">ask</w>
           <w xml:id="xTok_PRint603_000343" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PRint603_000345" ana="#NNSfNNS" lemma="question">questions</w>
           <w xml:id="xTok_PRint603_000347" ana="#CCfCC" lemma="or">or</w>
-          <pause/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <pause xml:id="PRint603_d2e1317"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="PRint603_d2e1319"/>
           <seg n="7" type="overlap" xml:id="PRint603_ol_8">
             <w xml:id="xTok_PRint603_000350" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_PRint603_000352" ana="#VVPfVVP" lemma="do" part="I" next="xTok_PRint603_000354">do</w>
@@ -678,7 +678,7 @@
             <w xml:id="xTok_PRint603_000362" ana="#PPfPP" lemma="it" part="I" next="xTok_PRint603_000364">it</w>
             <w xml:id="xTok_PRint603_000364" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRint603_000362">'s</w>
           </seg>
-          <w xml:id="xTok_PRint603_000367" ana="#UHfUH" lemma="erm">erm<c type="lengthening"/>
+          <w xml:id="xTok_PRint603_000367" ana="#UHfUH" lemma="erm">erm<c type="lengthening" xml:id="PRint603_d2e1361"/>
           </w>
           <w xml:id="xTok_PRint603_000369" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRint603_000371" ana="#VVPfVVP" lemma="do" part="I" next="xTok_PRint603_000373">do</w>
@@ -690,12 +690,12 @@
           <w xml:id="xTok_PRint603_000383" ana="#RBfRB" lemma="perhaps">perhaps</w>
           <w xml:id="xTok_PRint603_000385" ana="#RBRfRBR" lemma="late">later</w>
           <w xml:id="xTok_PRint603_000387" ana="#RPfRP" lemma="on">on</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1406"/>
           <w xml:id="xTok_PRint603_000390" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRint603_000392" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRint603_000394" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRint603_000396" ana="#EXfEX" lemma="there">there</w>
-          <emph>
+          <emph xml:id="PRint603_d2e1426">
             <w xml:id="xTok_PRint603_000399" ana="#DTfDT" lemma="no">no</w>
           </emph>
           <w xml:id="xTok_PRint603_000402" ana="#NNfNN" lemma="feedback">feedback</w>
@@ -720,24 +720,24 @@
             <w xml:id="xTok_PRint603_000423" ana="#VBZfVBZ" lemma="be">is</w>
           </seg>
           <w xml:id="xTok_PRint603_000426" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1495"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_26">
           <w xml:id="xTok_PRint603_000430" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRint603_000432" ana="#RBfRB" lemma="already">already</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1509"/>
           <w xml:id="xTok_PRint603_000435" ana="#VVGfVVG" lemma="proceed">proceeding</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1516"/>
           <w xml:id="xTok_PRint603_000438" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PRint603_000440" ana="#DTfDT" lemma="that">that</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1528"/>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_27">
           <w xml:id="xTok_PRint603_000444" ana="#REfRE" lemma="okay">okay</w>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_28">
           <w xml:id="xTok_PRint603_000448" ana="#CCfCC" lemma="and">and</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e1548"/>
           <w xml:id="xTok_PRint603_000451" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PRint603_000453" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PRint603_000455" ana="#NNfNN" lemma="time">time</w>
@@ -745,7 +745,7 @@
           <w xml:id="xTok_PRint603_000459" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRint603_000461" ana="#JJfJJ" lemma="few">few</w>
           <w xml:id="xTok_PRint603_000463" ana="#NNSfNNS" lemma="people">peoples</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1580"/>
           <w xml:id="xTok_PRint603_000466" ana="#VVGfVVG" lemma="sit">sitting</w>
           <w xml:id="xTok_PRint603_000468" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PRint603_000470" ana="#NNSfNNS" lemma="seat">seats</w>
@@ -754,7 +754,7 @@
         <u who="#PRint603_S1" xml:id="PRint603_u_29">
           <w xml:id="xTok_PRint603_000476" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRint603_000478" ana="#EXfEX" lemma="there">there</w>
-          <w xml:id="xTok_PRint603_000480" ana="#VBDfVBD" lemma="be">was<c type="lengthening"/>
+          <w xml:id="xTok_PRint603_000480" ana="#VBDfVBD" lemma="be">was<c type="lengthening" xml:id="PRint603_d2e1615"/>
           </w>
           <w xml:id="xTok_PRint603_000482" ana="#DTfDT" lemma="no">no</w>
           <w xml:id="xTok_PRint603_000484" ana="#JJfJJ" lemma="real">real</w>
@@ -764,7 +764,7 @@
           </seg>
           <w xml:id="xTok_PRint603_000490" ana="#PPfDM" lemma="i">i</w>
           <w xml:id="xTok_PRint603_000492" ana="#VVPfDM" lemma="see">see</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1644"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_30">
           <seg n="3" synch="#PRint603_ol_12" type="overlap" xml:id="PRint603_ol_13">
@@ -782,14 +782,14 @@
           <w xml:id="xTok_PRint603_000514" ana="#JJfJJ" lemma="first">first</w>
           <w xml:id="xTok_PRint603_000516" ana="#NNfNN" lemma="time">time</w>
           <w xml:id="xTok_PRint603_000518" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRint603_000520" ana="#NPfNP" lemma="vienna">vienna<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRint603_000520" ana="#NPfNP" lemma="vienna">vienna<c function="rise" type="intonation" xml:id="PRint603_d2e1704"/>
           </w>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_32">
           <w xml:id="xTok_PRint603_000523" ana="#REfRE" lemma="no">no</w>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_33">
-          <w xml:id="xTok_PRint603_000527" ana="#REfRE" lemma="no">no<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRint603_000527" ana="#REfRE" lemma="no">no<c function="rise" type="intonation" xml:id="PRint603_d2e1721"/>
           </w>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_34">
@@ -812,13 +812,13 @@
         <u who="#PRint603_S1" xml:id="PRint603_u_37">
           <anchor synch="#PRint603_oc_8" type="other_continuation" xml:id="PRint603_oc_9"/>
           <w xml:id="xTok_PRint603_000552" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1783"/>
           <w xml:id="xTok_PRint603_000555" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRint603_000557" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRint603_000559" ana="#VBDfVBD" lemma="be">were</w>
           <w xml:id="xTok_PRint603_000561" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRint603_000563" ana="#RBfRB" lemma="here">here</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1807"/>
           <w xml:id="xTok_PRint603_000566" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRint603_000568" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_PRint603_000570" ana="#NNSfNNS" lemma="holiday">holidays</w>
@@ -841,14 +841,14 @@
           <seg n="4" synch="#PRint603_ol_14" type="overlap" xml:id="PRint603_ol_15">
             <w xml:id="xTok_PRint603_000589" ana="#CCfCC" lemma="and">and</w>
           </seg>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRint603_d2e1869">
             <w xml:id="xTok_PRint603_000592" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="PRint603_d2e1876">
             <w xml:id="xTok_PRint603_000595" ana="#NNfNN" lemma="trip">trip</w>
           </unclear>
           <w xml:id="xTok_PRint603_000598" ana="#CCfCC" lemma="and">and</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1889"/>
           <w xml:id="xTok_PRint603_000601" ana="#VVPfVVP" lemma="go">go</w>
           <w xml:id="xTok_PRint603_000603" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PRint603_000605" ana="#DTfDT" lemma="the">the</w>
@@ -873,12 +873,12 @@
           <w xml:id="xTok_PRint603_000629" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRint603_000631" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_PRint603_000633" ana="#JJfJJ" lemma="classical">classical</w>
-          <w xml:id="xTok_PRint603_000635" ana="#NNfNN" lemma="music">music<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRint603_000635" ana="#NNfNN" lemma="music">music<c function="rise" type="intonation" xml:id="PRint603_d2e1970"/>
           </w>
-          <pause/>
+          <pause xml:id="PRint603_d2e1972"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_43">
-          <w xml:id="xTok_PRint603_000638" ana="#FIfFI" lemma="sorry">sorry<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRint603_000638" ana="#FIfFI" lemma="sorry">sorry<c function="rise" type="intonation" xml:id="PRint603_d2e1980"/>
           </w>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_44">
@@ -891,7 +891,7 @@
             <w xml:id="xTok_PRint603_000650" ana="#NNfNN" lemma="music">music</w>
           </seg>
           <w xml:id="xTok_PRint603_000653" ana="#REfRE" lemma="okay">okay</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e2016"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_45">
           <seg n="6" synch="#PRint603_ol_18" type="overlap" xml:id="PRint603_ol_19">
@@ -903,7 +903,7 @@
           <seg n="8" type="overlap" xml:id="PRint603_ol_20">
             <w xml:id="xTok_PRint603_000663" ana="#CCfCC" lemma="and">and</w>
           </seg>
-          <pause/>
+          <pause xml:id="PRint603_d2e2042"/>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_47">
           <seg n="8" synch="#PRint603_ol_20" type="overlap" xml:id="PRint603_ol_21">
@@ -915,54 +915,54 @@
         <u who="#PRint603_S4" xml:id="PRint603_u_48">
           <w xml:id="xTok_PRint603_000671" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRint603_000673" ana="#VVfVV" lemma="like">like</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e2068"/>
           <w xml:id="xTok_PRint603_000676" ana="#WPfWP" lemma="who" part="I" next="xTok_PRint603_000678">who</w>
           <w xml:id="xTok_PRint603_000678" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRint603_000676">'s</w>
-          <unclear>
+          <unclear xml:id="PRint603_d2e2080">
             <w xml:id="xTok_PRint603_000681" ana="#PPfPP" lemma="he">he</w>
           </unclear>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e2087"/>
           <w xml:id="xTok_PRint603_000684" ana="#XXfXX" lemma="">ke-</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PRint603_d2e2094"/>
           <w xml:id="xTok_PRint603_000687" ana="#XXfXX" lemma="">ko-</w>
           <w xml:id="xTok_PRint603_000689" ana="#XXfXX" lemma="">komit-</w>
-          <pause dur="PT1S"/>
-          <voice:pvc voice:ipa="ˈkrɪmpˌtən">
-            <emph>
+          <pause dur="PT1S" xml:id="PRint603_d2e2106"/>
+          <voice:pvc voice:ipa="ˈkrɪmpˌtən" xml:id="PRint603_d2e2107">
+            <emph xml:id="PRint603_d2e2108">
               <w xml:id="xTok_PRint603_000692" ana="#PVCfNP" lemma="">krimpton</w>
             </emph>
           </voice:pvc>
-          <pause/>
+          <pause xml:id="PRint603_d2e2115"/>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_49">
-          <voice:pvc voice:ipa="ˈkrɪmpˌtən">
-            <w xml:id="xTok_PRint603_000696" ana="#PVCfNP" lemma="">krimpton<c function="rise" type="intonation"/>
+          <voice:pvc voice:ipa="ˈkrɪmpˌtən" xml:id="PRint603_d2e2119">
+            <w xml:id="xTok_PRint603_000696" ana="#PVCfNP" lemma="">krimpton<c function="rise" type="intonation" xml:id="PRint603_d2e2124"/>
             </w>
           </voice:pvc>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e2125"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_50">
           <w xml:id="xTok_PRint603_000699" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e2136"/>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_51">
           <w xml:id="xTok_PRint603_000703" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e2146"/>
           <w xml:id="xTok_PRint603_000706" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PRint603_000708" ana="#RBfRB" lemma="exactly">exactly</w>
           <w xml:id="xTok_PRint603_000710" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_PRint603_000712" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRint603_000714" ana="#VVfVV" lemma="mean">mean</w>
           <w xml:id="xTok_PRint603_000716" ana="#INfIN" lemma="by">by</w>
-          <w xml:id="xTok_PRint603_000718" ana="#DTfDT" lemma="that">that<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRint603_000718" ana="#DTfDT" lemma="that">that<c function="rise" type="intonation" xml:id="PRint603_d2e2176"/>
           </w>
-          <pause/>
+          <pause xml:id="PRint603_d2e2177"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_52">
           <w xml:id="xTok_PRint603_000721" ana="#NNfNN" lemma="painter">painter</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e2187"/>
           <w xml:id="xTok_PRint603_000724" ana="#NNfNN" lemma="painter">painter</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e2194"/>
           <w xml:id="xTok_PRint603_000727" ana="#VVPfVVP" lemma="do" part="I" next="xTok_PRint603_000729">do</w>
           <w xml:id="xTok_PRint603_000729" ana="#RBfRB" lemma="not" part="F" prev="xTok_PRint603_000727">n't</w>
           <w xml:id="xTok_PRint603_000731" ana="#PPfPP" lemma="you">you</w>
@@ -976,17 +976,17 @@
           <w xml:id="xTok_PRint603_000743" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_55">
-          <w xml:id="xTok_PRint603_000747" part="I" next="#xTok_PRint603_000748" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          <w xml:id="xTok_PRint603_000747" part="I" next="#xTok_PRint603_000748" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="PRint603_d2e2243"/>
           </w>
           <w xml:id="xTok_PRint603_000748" part="F" prev="#xTok_PRint603_000747">h</w>
           <w xml:id="xTok_PRint603_000750" ana="#NNfNN" lemma="art">art</w>
           <w xml:id="xTok_PRint603_000752" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRint603_000754" ana="#VVPfVVP" lemma="like">like</w>
           <w xml:id="xTok_PRint603_000756" ana="#NNfNN" lemma="art">art</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRint603_d2e2265"/>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_56">
-          <unclear>
+          <unclear xml:id="PRint603_d2e2270">
             <w xml:id="xTok_PRint603_000760" ana="#REfRE" lemma="no">no</w>
           </unclear>
           <w xml:id="xTok_PRint603_000763" ana="#PPfPP" lemma="i">i</w>
@@ -1009,20 +1009,20 @@
           </seg>
         </u>
         <u who="#PRint603_S4" xml:id="PRint603_u_59">
-          <w xml:id="xTok_PRint603_000791" part="I" next="#xTok_PRint603_000792" ana="#REfRE" lemma="yeah">ye<c type="lengthening"/>
+          <w xml:id="xTok_PRint603_000791" part="I" next="#xTok_PRint603_000792" ana="#REfRE" lemma="yeah">ye<c type="lengthening" xml:id="PRint603_d2e2343"/>
           </w>
           <w xml:id="xTok_PRint603_000792" part="F" prev="#xTok_PRint603_000791">ah</w>
         </u>
         <u who="#PRint603_S1" xml:id="PRint603_u_60">
           <w xml:id="xTok_PRint603_000796" ana="#REfRE" lemma="yes">yes</w>
-          <pause/>
+          <pause xml:id="PRint603_d2e2357"/>
           <w xml:id="xTok_PRint603_000799" ana="#CCfCC" lemma="and">and</w>
-          <unclear>
+          <unclear xml:id="PRint603_d2e2364">
             <w xml:id="xTok_PRint603_000802" ana="#VVPfVVP" lemma="do">do</w>
             <w xml:id="xTok_PRint603_000804" ana="#PPfPP" lemma="you">you</w>
             <w xml:id="xTok_PRint603_000806" ana="#VVfVV" lemma="think">think</w>
           </unclear>
-          <voice:track medium="1" num="3" type="md"/>
+          <voice:track medium="1" num="3" type="md" xml:id="PRint603_d2e2379"/>
           <w xml:id="xTok_PRint603_000809" ana="#NPfNP" lemma="vienna">vienna</w>
           <w xml:id="xTok_PRint603_000811" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRint603_000813" ana="#DTfDT" lemma="a">a</w>
@@ -1065,7 +1065,7 @@
             <w xml:id="xTok_PRint603_000874" ana="#INfIN" lemma="for">for</w>
             <w xml:id="xTok_PRint603_000876" ana="#PPSfPPS" lemma="you">your</w>
           </seg>
-          <w xml:id="xTok_PRint603_000879" ana="#NNfNN" lemma="conversation">conversation<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRint603_000879" ana="#NNfNN" lemma="conversation">conversation<c function="fall" type="intonation" xml:id="PRint603_d2e2536"/>
           </w>
           <w xml:id="xTok_PRint603_000881" ana="#FIfFI" lemma="bye-bye">bye-bye</w>
         </u>
@@ -1073,7 +1073,7 @@
           <seg n="1" synch="#PRint603_ol_24" type="overlap" xml:id="PRint603_ol_25">
             <shift corresp="#PRint603_s_12" feature="loud" new="p" xml:id="PRint603_s_11"/>
             <w xml:id="xTok_PRint603_000885" ana="#REfRE" lemma="yeah">yeah</w>
-            <unclear>
+            <unclear xml:id="PRint603_d2e2554">
               <w xml:id="xTok_PRint603_000888" ana="#RBfRB" lemma="all">all</w>
               <w xml:id="xTok_PRint603_000890" ana="#RBfRB" lemma="right">right</w>
             </unclear>

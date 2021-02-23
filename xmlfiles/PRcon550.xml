@@ -385,24 +385,24 @@
   </teiHeader>
   <text>
     <body>
-      <div type="medium" voice:end="00:55" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1">
+      <div type="medium" voice:end="00:55" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1" xml:id="PRcon550_d2e506">
         <u who="#PRcon550_S1" xml:id="PRcon550_u_1">
-          <incident voice:desc="conversation already in progress"/>
+          <incident voice:desc="conversation already in progress" xml:id="PRcon550_d2e510"/>
           <w xml:id="xTok_PRcon550_000007" ana="#CCfCC" lemma="but">but</w>
-          <w xml:id="xTok_PRcon550_000009" part="I" next="#xTok_PRcon550_000010" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000009" part="I" next="#xTok_PRcon550_000010" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRcon550_d2e520"/>
           </w>
           <seg n="1" type="overlap" xml:id="PRcon550_ol_0">
             <w xml:id="xTok_PRcon550_000010" part="F" prev="#xTok_PRcon550_000009">r</w>
           </seg>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PRcon550_d2e525">
             <w xml:id="xTok_PRcon550_000013" ana="#NPfNP" lemma="">[firstname2]</w>
           </supplied>
           <w xml:id="xTok_PRcon550_000016" ana="#VVDfVVD" lemma="try">tried</w>
-          <w xml:id="xTok_PRcon550_000018" ana="#TOfTO" lemma="to">to<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000018" ana="#TOfTO" lemma="to">to<c type="lengthening" xml:id="PRcon550_d2e541"/>
           </w>
           <w xml:id="xTok_PRcon550_000020" ana="#VVfVV" lemma="send">send</w>
           <w xml:id="xTok_PRcon550_000022" ana="#NNfNN" lemma="something">something</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e552">
             <w xml:id="xTok_PRcon550_000025" ana="#UHfUH" lemma="er">er</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000028" ana="#VVfVV" lemma="send">send</w>
@@ -415,7 +415,7 @@
           <seg n="2" type="overlap" xml:id="PRcon550_ol_1">
             <w xml:id="xTok_PRcon550_000041" part="F" prev="#xTok_PRcon550_000040">ment</w>
           </seg>
-          <pause/>
+          <pause xml:id="PRcon550_d2e594"/>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_2">
           <seg n="1" synch="#PRcon550_ol_0" type="overlap" xml:id="PRcon550_ol_2">
@@ -429,13 +429,13 @@
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_4">
           <w xml:id="xTok_PRcon550_000053" ana="#UHfUH" lemma="er">er</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e624">
             <w xml:id="xTok_PRcon550_000056" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRcon550_000059" ana="#NNfNN" lemma="department">department</w>
           <w xml:id="xTok_PRcon550_000061" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRcon550_000063" ana="#DTfDT" lemma="the">the</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PRcon550_d2e646">
             <w xml:id="xTok_PRcon550_000066" ana="#NPfNP" lemma="">[org1]</w>
           </supplied>
           <w xml:id="xTok_PRcon550_000069" part="I" next="#xTok_PRcon550_000070" ana="#CCfCC" lemma="and">an</w>
@@ -444,7 +444,7 @@
             <w xml:id="xTok_PRcon550_000072" part="I" next="#xTok_PRcon550_000073" ana="#UHfUH" lemma="er">e</w>
           </seg>
           <w xml:id="xTok_PRcon550_000073" part="F" prev="#xTok_PRcon550_000072">r</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e668"/>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_5">
           <seg n="3" synch="#PRcon550_ol_4" type="overlap" xml:id="PRcon550_ol_5">
@@ -455,33 +455,33 @@
           <w xml:id="xTok_PRcon550_000081" ana="#NNSfNNS" lemma="thing">things</w>
           <w xml:id="xTok_PRcon550_000083" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRcon550_000085" ana="#TOfTO" lemma="to">to</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e697">
             <w xml:id="xTok_PRcon550_000088" ana="#VBfVB" lemma="be">be</w>
             <w xml:id="xTok_PRcon550_000090" ana="#RBfRB" lemma="once">once</w>
           </unclear>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e708">
             <w xml:id="xTok_PRcon550_000093" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e715">
             <w xml:id="xTok_PRcon550_000096" ana="#NNfNN" lemma="position">position</w>
           </unclear>
-          <pause/>
+          <pause xml:id="PRcon550_d2e722"/>
           <w xml:id="xTok_PRcon550_000099" ana="#PPfPP" lemma="it" part="I" next="xTok_PRcon550_000101">it</w>
           <w xml:id="xTok_PRcon550_000101" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRcon550_000099">'s</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e734">
             <w xml:id="xTok_PRcon550_000104" ana="#UHfUH" lemma="er">er</w>
             <w xml:id="xTok_PRcon550_000106" ana="#XXfXX" lemma="">t-</w>
             <w xml:id="xTok_PRcon550_000108" ana="#XXfXX" lemma="">t-</w>
           </unclear>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PRcon550_d2e749"/>
           <w xml:id="xTok_PRcon550_000111" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PRcon550_000113" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PRcon550_000115" ana="#RBfRB" lemma="quite">quite</w>
           <w xml:id="xTok_PRcon550_000117" ana="#JJfJJ" lemma="new">new</w>
-          <w xml:id="xTok_PRcon550_000119" part="I" next="#xTok_PRcon550_000120" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000119" part="I" next="#xTok_PRcon550_000120" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRcon550_d2e771"/>
           </w>
           <w xml:id="xTok_PRcon550_000120" part="F" prev="#xTok_PRcon550_000119">r</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e776">
             <w xml:id="xTok_PRcon550_000123" ana="#WRBfWRB" lemma="how">how</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000126" ana="#TOfTO" lemma="to">to</w>
@@ -491,8 +491,8 @@
           <w xml:id="xTok_PRcon550_000134" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRcon550_000136" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PRcon550_000138" ana="#NNfNN" lemma="time">time</w>
-          <pause/>
-          <unclear>
+          <pause xml:id="PRcon550_d2e815"/>
+          <unclear xml:id="PRcon550_d2e816">
             <w xml:id="xTok_PRcon550_000141" ana="#PPfPP" lemma="you">you</w>
             <w xml:id="xTok_PRcon550_000143" ana="#VVPfVVP" lemma="want">want</w>
           </unclear>
@@ -503,7 +503,7 @@
           <w xml:id="xTok_PRcon550_000154" ana="#NNfNN" lemma="everything">everything</w>
           <w xml:id="xTok_PRcon550_000156" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PRcon550_000158" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRcon550_000160" part="I" next="#xTok_PRcon550_000161" ana="#JJfJJ" lemma="same">sam<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000160" part="I" next="#xTok_PRcon550_000161" ana="#JJfJJ" lemma="same">sam<c type="lengthening" xml:id="PRcon550_d2e860"/>
           </w>
           <w xml:id="xTok_PRcon550_000161" part="F" prev="#xTok_PRcon550_000160">e</w>
           <w xml:id="xTok_PRcon550_000163" ana="#NNfNN" lemma="time">time</w>
@@ -511,7 +511,7 @@
           <seg n="4" type="overlap" xml:id="PRcon550_ol_6">
             <w xml:id="xTok_PRcon550_000166" part="F" prev="#xTok_PRcon550_000165">r</w>
           </seg>
-          <pause/>
+          <pause xml:id="PRcon550_d2e877"/>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_7">
           <seg n="4" synch="#PRcon550_ol_6" type="overlap" xml:id="PRcon550_ol_7">
@@ -520,20 +520,20 @@
           <w xml:id="xTok_PRcon550_000171" part="F" prev="#xTok_PRcon550_000170">hu</w>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_8">
-          <unclear>
+          <unclear xml:id="PRcon550_d2e893">
             <w xml:id="xTok_PRcon550_000175" ana="#DTfDT" lemma="this">this</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000178" ana="#UHfUH" lemma="er">er</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e906">
             <w xml:id="xTok_PRcon550_000181" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
           <w xml:id="xTok_PRcon550_000184" ana="#NNfNN" lemma="position">position</w>
-          <w xml:id="xTok_PRcon550_000186" part="I" next="#xTok_PRcon550_000187" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000186" part="I" next="#xTok_PRcon550_000187" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRcon550_d2e921"/>
           </w>
           <w xml:id="xTok_PRcon550_000187" part="F" prev="#xTok_PRcon550_000186">r</w>
           <w xml:id="xTok_PRcon550_000189" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRcon550_000191" ana="#JJfJJ" lemma="postdoctoral">postdoctoral</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e935">
             <w xml:id="xTok_PRcon550_000194" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRcon550_000197" ana="#PPfPP" lemma="it">it</w>
@@ -545,10 +545,10 @@
             <w xml:id="xTok_PRcon550_000206" part="F" prev="#xTok_PRcon550_000205">nd</w>
             <w xml:id="xTok_PRcon550_000208" ana="#RBfRB" lemma="also">also</w>
           </seg>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e972">
             <w xml:id="xTok_PRcon550_000211" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PRcon550_d2e979"/>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_9">
           <seg n="12" synch="#PRcon550_ol_8" type="overlap" xml:id="PRcon550_ol_9">
@@ -569,16 +569,16 @@
           <w xml:id="xTok_PRcon550_000239" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRcon550_000241" ana="#VVfVV" lemma="do">do</w>
           <w xml:id="xTok_PRcon550_000243" ana="#NNfNN" lemma="something">something</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e1049"/>
           <w xml:id="xTok_PRcon550_000246" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRcon550_000248" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRcon550_000250" ana="#VVPfVVP" lemma="think">think</w>
           <w xml:id="xTok_PRcon550_000252" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRcon550_000254" ana="#MDfMD" lemma="will">will</w>
           <w xml:id="xTok_PRcon550_000256" ana="#VVfVV" lemma="know">know</w>
-          <w xml:id="xTok_PRcon550_000258" ana="#INfIN" lemma="in">in<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000258" ana="#INfIN" lemma="in">in<c type="lengthening" xml:id="PRcon550_d2e1079"/>
           </w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e1080">
             <w xml:id="xTok_PRcon550_000260" ana="#UHfUH" lemma="er">er</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000263" ana="#DMfDM" lemma="so">so</w>
@@ -586,11 +586,11 @@
           <w xml:id="xTok_PRcon550_000267" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRcon550_000269" ana="#CDfCD" lemma="one">one</w>
           <w xml:id="xTok_PRcon550_000271" ana="#NNfNN" lemma="month">month</w>
-          <w xml:id="xTok_PRcon550_000273" part="I" next="#xTok_PRcon550_000274" ana="#CCfCC" lemma="or">o<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000273" part="I" next="#xTok_PRcon550_000274" ana="#CCfCC" lemma="or">o<c type="lengthening" xml:id="PRcon550_d2e1113"/>
           </w>
           <w xml:id="xTok_PRcon550_000274" part="F" prev="#xTok_PRcon550_000273">r</w>
           <seg n="13" type="overlap" xml:id="PRcon550_ol_10">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e1119">
               <w xml:id="xTok_PRcon550_000277" ana="#UNIfUNI" lemma="">xxx</w>
             </supplied>
           </seg>
@@ -598,7 +598,7 @@
         <u who="#PRcon550_S2" xml:id="PRcon550_u_11">
           <seg n="13" synch="#PRcon550_ol_10" type="overlap" xml:id="PRcon550_ol_11">
             <w xml:id="xTok_PRcon550_000281" ana="#VVPfVVP" lemma="do">do</w>
-            <unclear>
+            <unclear xml:id="PRcon550_d2e1136">
               <w xml:id="xTok_PRcon550_000284" ana="#PPfPP" lemma="we">we</w>
             </unclear>
             <w xml:id="xTok_PRcon550_000287" ana="#VVPfVVP" lemma="do">do</w>
@@ -608,7 +608,7 @@
           <w xml:id="xTok_PRcon550_000294" ana="#NNfNN" lemma="anything">anything</w>
           <w xml:id="xTok_PRcon550_000296" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRcon550_000298" ana="#PPfPP" lemma="i">me</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e1172"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_12">
           <w xml:id="xTok_PRcon550_000302" ana="#REfRE" lemma="no">no</w>
@@ -627,19 +627,19 @@
           </seg>
           <w xml:id="xTok_PRcon550_000320" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRcon550_000322" ana="#VVZfVVP" lemma="add">adds</w>
-          <w xml:id="xTok_PRcon550_000324" part="I" next="#xTok_PRcon550_000325" ana="#PPSfPPS" lemma="you">you<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000324" part="I" next="#xTok_PRcon550_000325" ana="#PPSfPPS" lemma="you">you<c type="lengthening" xml:id="PRcon550_d2e1230"/>
           </w>
           <w xml:id="xTok_PRcon550_000325" part="F" prev="#xTok_PRcon550_000324">r</w>
           <w xml:id="xTok_PRcon550_000327" ana="#PPSfPPS" lemma="you">your</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e1240">
             <w xml:id="xTok_PRcon550_000330" ana="#XXfXX" lemma="">s-</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000333" ana="#PPSfPPS" lemma="you">your</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e1253">
             <w xml:id="xTok_PRcon550_000336" ana="#XXfXX" lemma="">s-</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000339" voice:mode="spelt" spelt_orig="p s" ana="#NNfNN" lemma="s_ps">
-            <unclear>ps</unclear>
+            <unclear xml:id="PRcon550_d2e1263">ps</unclear>
           </w>
           <w xml:id="xTok_PRcon550_000341" ana="#NNfNN" lemma="file">file</w>
           <w xml:id="xTok_PRcon550_000343" ana="#XXfXX" lemma="">y-</w>
@@ -647,7 +647,7 @@
             <w xml:id="xTok_PRcon550_000346" ana="#INfIN" lemma="on">on</w>
             <w xml:id="xTok_PRcon550_000348" ana="#PPSfPPS" lemma="you">your</w>
           </seg>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e1287">
             <w xml:id="xTok_PRcon550_000351" ana="#XXfXX" lemma="">s-</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000354" ana="#REfRE" lemma="yes">yes</w>
@@ -659,17 +659,17 @@
             <w xml:id="xTok_PRcon550_000363" ana="#PPfPP" lemma="it">it</w>
             <w xml:id="xTok_PRcon550_000365" ana="#VBDfVBD" lemma="be">was</w>
             <w xml:id="xTok_PRcon550_000367" ana="#RBfRB" lemma="not">not</w>
-            <pause/>
+            <pause xml:id="PRcon550_d2e1328"/>
             <w xml:id="xTok_PRcon550_000370" ana="#RBfRB" lemma="quite">quite</w>
             <w xml:id="xTok_PRcon550_000372" ana="#JJfJJ" lemma="up">up</w>
             <w xml:id="xTok_PRcon550_000374" ana="#JJfJJ" lemma="to">to</w>
             <w xml:id="xTok_PRcon550_000376" ana="#JJfJJ" lemma="date">date</w>
             <w xml:id="xTok_PRcon550_000378" ana="#CCfCC" lemma="but">but</w>
-            <w xml:id="xTok_PRcon550_000380" part="I" next="#xTok_PRcon550_000381" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+            <w xml:id="xTok_PRcon550_000380" part="I" next="#xTok_PRcon550_000381" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRcon550_d2e1354"/>
             </w>
             <w xml:id="xTok_PRcon550_000381" part="F" prev="#xTok_PRcon550_000380">r</w>
           </seg>
-          <pause/>
+          <pause xml:id="PRcon550_d2e1360"/>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_15">
           <seg n="4" synch="#PRcon550_ol_12" type="overlap" xml:id="PRcon550_ol_15">
@@ -717,7 +717,7 @@
           <w xml:id="xTok_PRcon550_000448" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PRcon550_000450" ana="#VVDfVVD" lemma="happen">happened</w>
           <w xml:id="xTok_PRcon550_000452" ana="#VBDfVBD" lemma="be">was</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e1518"/>
           <w xml:id="xTok_PRcon550_000455" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_PRcon550_000457" ana="#JJfJJ" lemma="original">original</w>
           <w xml:id="xTok_PRcon550_000459" ana="#NNfNN" lemma="plan">plan</w>
@@ -730,7 +730,7 @@
           </seg>
           <w xml:id="xTok_PRcon550_000471" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PRcon550_000473" ana="#INfIN" lemma="for">for</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e1564"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_19">
           <seg n="7" synch="#PRcon550_ol_18" type="overlap" xml:id="PRcon550_ol_19">
@@ -739,7 +739,7 @@
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_20">
           <w xml:id="xTok_PRcon550_000481" ana="#NNfNN" lemma="spring">spring</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e1584"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_21">
           <w xml:id="xTok_PRcon550_000485" ana="#REfRE" lemma="yes">yes</w>
@@ -778,7 +778,7 @@
             <w xml:id="xTok_PRcon550_000538" ana="#INfIN" lemma="about">about</w>
             <w xml:id="xTok_PRcon550_000540" ana="#PPfPP" lemma="it">it</w>
             <w xml:id="xTok_PRcon550_000542" ana="#CCfCC" lemma="but">but</w>
-            <pause/>
+            <pause xml:id="PRcon550_d2e1718"/>
             <w xml:id="xTok_PRcon550_000545" ana="#CCfCC" lemma="but">but</w>
           </seg>
         </u>
@@ -807,14 +807,14 @@
           <shift corresp="#PRcon550_s_5" feature="voice" new="neutral" xml:id="PRcon550_s_6"/>
           <w xml:id="xTok_PRcon550_000588" ana="#MDfMD" lemma="will">will</w>
           <w xml:id="xTok_PRcon550_000590" ana="#VBfVB" lemma="be">be</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e1824"/>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_24">
-          <w xml:id="xTok_PRcon550_000594" part="I" next="#xTok_PRcon550_000595" ana="#REfRE" lemma="yes">y<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000594" part="I" next="#xTok_PRcon550_000595" ana="#REfRE" lemma="yes">y<c type="lengthening" xml:id="PRcon550_d2e1832"/>
           </w>
           <w xml:id="xTok_PRcon550_000595" part="F" prev="#xTok_PRcon550_000594">es</w>
           <w xml:id="xTok_PRcon550_000597" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PRcon550_000599" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_000599" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PRcon550_d2e1843"/>
           </w>
           <seg n="2" type="overlap" xml:id="PRcon550_ol_24">
             <w xml:id="xTok_PRcon550_000601" ana="#NNfNN" lemma="spring">spring</w>
@@ -823,7 +823,7 @@
             <w xml:id="xTok_PRcon550_000607" ana="#CDfCD" lemma="thousand">thousand</w>
             <w xml:id="xTok_PRcon550_000609" ana="#CDfCD" lemma="seven">seven</w>
             <w xml:id="xTok_PRcon550_000611" ana="#REfRE" lemma="yes">yes</w>
-            <pause/>
+            <pause xml:id="PRcon550_d2e1872"/>
             <w xml:id="xTok_PRcon550_000614" ana="#CCfCC" lemma="but">but</w>
             <w xml:id="xTok_PRcon550_000616" ana="#DTfDT" lemma="the">the</w>
           </seg>
@@ -832,7 +832,7 @@
           <w xml:id="xTok_PRcon550_000623" ana="#INfIN" lemma="that">that</w>
           <w xml:id="xTok_PRcon550_000625" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_PRcon550_000627" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e1906"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_25">
           <seg n="2" synch="#PRcon550_ol_24" type="overlap" xml:id="PRcon550_ol_25">
@@ -866,10 +866,10 @@
             <w xml:id="xTok_PRcon550_000678" part="F" prev="#xTok_PRcon550_000677">ally</w>
           </seg>
           <w xml:id="xTok_PRcon550_000681" ana="#INfIN" lemma="with">with</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PRcon550_d2e2022">
             <w xml:id="xTok_PRcon550_000684" ana="#NPfNP" lemma="">[firstname1]</w>
           </supplied>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRcon550_d2e2030"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_27">
           <seg n="3" synch="#PRcon550_ol_26" type="overlap" xml:id="PRcon550_ol_27">
@@ -879,14 +879,14 @@
         <u who="#PRcon550_S2" xml:id="PRcon550_u_28">
           <w xml:id="xTok_PRcon550_000692" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRcon550_000694" ana="#RBfRB" lemma="then">then</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PRcon550_d2e2055">
             <w xml:id="xTok_PRcon550_000697" ana="#NPfNP" lemma="">[firstname1]</w>
           </supplied>
           <w xml:id="xTok_PRcon550_000700" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PRcon550_000702" ana="#XXfXX" lemma="">als-</w>
           <w xml:id="xTok_PRcon550_000704" ana="#RBfRB" lemma="of">of</w>
           <w xml:id="xTok_PRcon550_000706" ana="#RBfRB" lemma="course">course</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2081"/>
           <w xml:id="xTok_PRcon550_000709" ana="#PPfPP" lemma="he">he</w>
           <w xml:id="xTok_PRcon550_000711" ana="#VVDfVVD" lemma="say">said</w>
           <w xml:id="xTok_PRcon550_000713" ana="#PPfPP" lemma="i" part="I" next="xTok_PRcon550_000715">i</w>
@@ -914,17 +914,17 @@
           <w xml:id="xTok_PRcon550_000753" ana="#PPfPP" lemma="one">one</w>
           <w xml:id="xTok_PRcon550_000755" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_PRcon550_000757" ana="#VVfVV" lemma="apply">apply</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e2189">
             <w xml:id="xTok_PRcon550_000760" ana="#INfIN" lemma="at">at</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000763" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PRcon550_000765" ana="#JJfJJ" lemma="italian">italian</w>
           <w xml:id="xTok_PRcon550_000767" ana="#NNfNN" lemma="agency">agency</w>
           <w xml:id="xTok_PRcon550_000769" ana="#INfIN" lemma="for">for</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2215"/>
           <w xml:id="xTok_PRcon550_000772" ana="#CDfCD" lemma="two">two</w>
           <w xml:id="xTok_PRcon550_000774" ana="#NNfNN" lemma="month">month</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2227"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_31">
           <w xml:id="xTok_PRcon550_000778" ana="#REfRE" lemma="yeah">yeah</w>
@@ -991,18 +991,18 @@
           <w xml:id="xTok_PRcon550_000870" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRcon550_000872" ana="#VVPfVVP" lemma="get">get</w>
           <w xml:id="xTok_PRcon550_000874" ana="#CDfCD" lemma="two">two</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e2445">
             <w xml:id="xTok_PRcon550_000877" ana="#CDfCD" lemma="hundred">hundred</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000880" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRcon550_000882" ana="#JJRfJJR" lemma="more">more</w>
           <w xml:id="xTok_PRcon550_000884" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRcon550_000886" ana="#XXfXX" lemma="">a-</w>
-          <pause/>
-          <emph>
+          <pause xml:id="PRcon550_d2e2470"/>
+          <emph xml:id="PRcon550_d2e2472">
             <w xml:id="xTok_PRcon550_000889" ana="#CCfCC" lemma="but">but</w>
           </emph>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2479"/>
           <w xml:id="xTok_PRcon550_000892" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRcon550_000894" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PRcon550_000896" ana="#NNfNN" lemma="case">case</w>
@@ -1018,14 +1018,14 @@
           <w xml:id="xTok_PRcon550_000916" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PRcon550_000918" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRcon550_000920" ana="#UHfUH" lemma="er">er</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRcon550_d2e2545"/>
           <w xml:id="xTok_PRcon550_000923" ana="#REfRE" lemma="okay">okay</w>
           <seg n="8" type="overlap" xml:id="PRcon550_ol_34">
             <w xml:id="xTok_PRcon550_000926" ana="#DMfDM" lemma="so">so</w>
             <w xml:id="xTok_PRcon550_000928" ana="#RBfRB" lemma="then">then</w>
           </seg>
           <w xml:id="xTok_PRcon550_000931" ana="#PPSfPPS" lemma="i">my</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2569"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_35">
           <seg n="8" synch="#PRcon550_ol_34" type="overlap" xml:id="PRcon550_ol_35">
@@ -1046,14 +1046,14 @@
           <w xml:id="xTok_PRcon550_000959" ana="#RBfRB" lemma="maybe">maybe</w>
           <w xml:id="xTok_PRcon550_000961" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRcon550_000963" ana="#VVfVV" lemma="fit">fit</w>
-          <pause/>
-          <unclear>
+          <pause xml:id="PRcon550_d2e2639"/>
+          <unclear xml:id="PRcon550_d2e2640">
             <w xml:id="xTok_PRcon550_000966" ana="#INfIN" lemma="although">although</w>
           </unclear>
           <w xml:id="xTok_PRcon550_000969" ana="#RBfRB" lemma="possibly">possibly</w>
           <w xml:id="xTok_PRcon550_000971" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRcon550_000973" ana="#MDfMD" lemma="can">could</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2662"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_37">
           <w xml:id="xTok_PRcon550_000977" ana="#REfRE" lemma="yes">yes</w>
@@ -1062,11 +1062,11 @@
           <w xml:id="xTok_PRcon550_000981" ana="#DTfDT" lemma="both">both</w>
           <w xml:id="xTok_PRcon550_000983" ana="#NNSfNNS" lemma="visit">visits</w>
           <w xml:id="xTok_PRcon550_000985" ana="#INfIN" lemma="in">in</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2689"/>
           <w xml:id="xTok_PRcon550_000988" ana="#CDfCD" lemma="two">two</w>
           <w xml:id="xTok_PRcon550_000990" ana="#CDfCD" lemma="thousand">thousand</w>
           <w xml:id="xTok_PRcon550_000992" ana="#CDfCD" lemma="seven">seven</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2705"/>
           <w xml:id="xTok_PRcon550_000995" ana="#RBfRB" lemma="possibly">possibly</w>
           <w xml:id="xTok_PRcon550_000997" ana="#PPfPP" lemma="i">i</w>
           <seg n="1" type="overlap" xml:id="PRcon550_ol_36">
@@ -1104,7 +1104,7 @@
           <w xml:id="xTok_PRcon550_001057" ana="#MDfMD" lemma="will">would</w>
           <w xml:id="xTok_PRcon550_001059" ana="#VBfVB" lemma="be">be</w>
           <w xml:id="xTok_PRcon550_001061" ana="#RBRfRBR" lemma="more">more</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2852"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_39">
           <seg n="1" synch="#PRcon550_ol_36" type="overlap" xml:id="PRcon550_ol_39">
@@ -1133,11 +1133,11 @@
           </seg>
           <w xml:id="xTok_PRcon550_001093" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PRcon550_001095" ana="#RPfRP" lemma="over">over</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2930"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_43">
           <seg n="4" synch="#PRcon550_ol_42" type="overlap" xml:id="PRcon550_ol_43">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e2935">
               <w xml:id="xTok_PRcon550_001099" ana="#UNIfUNI" lemma="">x</w>
             </supplied>
             <w xml:id="xTok_PRcon550_001102" ana="#REfRE" lemma="yes">yes</w>
@@ -1152,18 +1152,18 @@
             <w xml:id="xTok_PRcon550_001115" ana="#VVPfVVP" lemma="understand">understand</w>
             <w xml:id="xTok_PRcon550_001117" ana="#DMfDM" lemma="so">so</w>
           </seg>
-          <pause/>
+          <pause xml:id="PRcon550_d2e2980"/>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_45">
           <seg n="13" synch="#PRcon550_ol_44" type="overlap" xml:id="PRcon550_ol_45">
             <w xml:id="xTok_PRcon550_001121" ana="#INfIN" lemma="to">to</w>
             <w xml:id="xTok_PRcon550_001123" ana="#DTfDT" lemma="the">the</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e2996">
               <w xml:id="xTok_PRcon550_001126" ana="#UNIfUNI" lemma="">x</w>
             </supplied>
             <w xml:id="xTok_PRcon550_001129" ana="#INfIN" lemma="to">to</w>
             <w xml:id="xTok_PRcon550_001131" ana="#DTfDT" lemma="the">the</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e3014">
               <w xml:id="xTok_PRcon550_001134" ana="#UNIfUNI" lemma="">x</w>
             </supplied>
           </seg>
@@ -1171,13 +1171,13 @@
         <u who="#PRcon550_S1" xml:id="PRcon550_u_46">
           <w xml:id="xTok_PRcon550_001138" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRcon550_001140" ana="#VVDfVVD" lemma="do">did</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e3034"/>
           <w xml:id="xTok_PRcon550_001143" part="I" next="#xTok_PRcon550_001144" ana="#NNfNN" lemma="everything">ever</w>
           <seg n="4" synch="#PRcon550_ol_42" type="overlap" xml:id="PRcon550_ol_46">
             <w xml:id="xTok_PRcon550_001144" part="F" prev="#xTok_PRcon550_001143">ything</w>
             <w xml:id="xTok_PRcon550_001146" ana="#PPfPP" lemma="we">we</w>
             <w xml:id="xTok_PRcon550_001148" ana="#MDfMD" lemma="can">could</w>
-            <emph>
+            <emph xml:id="PRcon550_d2e3052">
               <w xml:id="xTok_PRcon550_001151" ana="#VVfVV" lemma="do">do</w>
             </emph>
           </seg>
@@ -1187,7 +1187,7 @@
             <w xml:id="xTok_PRcon550_001155" ana="#PPfPP" lemma="you">you</w>
             <w xml:id="xTok_PRcon550_001157" ana="#VVDfVVD" lemma="do">did</w>
             <w xml:id="xTok_PRcon550_001159" ana="#UHfUH" lemma="er">er</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e3077">
               <w xml:id="xTok_PRcon550_001162" ana="#UNIfUNI" lemma="">xx</w>
             </supplied>
             <w xml:id="xTok_PRcon550_001165" ana="#JJfJJ" lemma="good">good</w>
@@ -1197,12 +1197,12 @@
           <w xml:id="xTok_PRcon550_001172" ana="#FIfFI" lemma="you">you</w>
           <w xml:id="xTok_PRcon550_001174" ana="#RBfRB" lemma="very">very</w>
           <w xml:id="xTok_PRcon550_001176" ana="#RBfRB" lemma="much">much</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e3113"/>
           <w xml:id="xTok_PRcon550_001179" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRcon550_001181" part="I" next="#xTok_PRcon550_001182" ana="#VVPfVVP" lemma="appreciate">appre</w>
           <seg n="6" type="overlap" xml:id="PRcon550_ol_48">
             <w xml:id="xTok_PRcon550_001182" part="F" prev="#xTok_PRcon550_001181">ciate</w>
-            <unclear>
+            <unclear xml:id="PRcon550_d2e3127">
               <w xml:id="xTok_PRcon550_001185" ana="#PPfPP" lemma="it">it</w>
             </unclear>
           </seg>
@@ -1210,7 +1210,7 @@
         <u who="#PRcon550_S1" xml:id="PRcon550_u_48">
           <seg n="6" synch="#PRcon550_ol_48" type="overlap" xml:id="PRcon550_ol_49">
             <w xml:id="xTok_PRcon550_001189" ana="#CCfCC" lemma="and">and</w>
-            <w xml:id="xTok_PRcon550_001191" part="I" next="#xTok_PRcon550_001192" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+            <w xml:id="xTok_PRcon550_001191" part="I" next="#xTok_PRcon550_001192" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRcon550_d2e3146"/>
             </w>
           </seg>
           <w xml:id="xTok_PRcon550_001192" part="F" prev="#xTok_PRcon550_001191">r</w>
@@ -1244,9 +1244,9 @@
           </seg>
           <w xml:id="xTok_PRcon550_001232" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRcon550_001234" ana="#VVPfVVP" lemma="think">think</w>
-          <w xml:id="xTok_PRcon550_001236" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_001236" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PRcon550_d2e3246"/>
           </w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e3247"/>
           <w xml:id="xTok_PRcon550_001238" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRcon550_001240" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRcon550_001242" ana="#VVPfVVP" lemma="do" part="I" next="xTok_PRcon550_001244">do</w>
@@ -1261,13 +1261,13 @@
           <w xml:id="xTok_PRcon550_001260" ana="#PPfPP" lemma="it" part="I" next="xTok_PRcon550_001262">it</w>
           <w xml:id="xTok_PRcon550_001262" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRcon550_001260">'s</w>
           <w xml:id="xTok_PRcon550_001264" ana="#UHfUH" lemma="er">er</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e3309">
             <w xml:id="xTok_PRcon550_001267" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRcon550_001270" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRcon550_001272" ana="#JJfJJ" lemma="national">national</w>
           <w xml:id="xTok_PRcon550_001274" ana="#NNfNN" lemma="committee">committee</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e3331">
             <w xml:id="xTok_PRcon550_001277" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
           <w xml:id="xTok_PRcon550_001280" ana="#VVZfVVZ" lemma="take">takes</w>
@@ -1277,7 +1277,7 @@
           <w xml:id="xTok_PRcon550_001288" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PRcon550_001290" ana="#VVZfVVZ" lemma="do">does</w>
           <w xml:id="xTok_PRcon550_001292" ana="#RBfRB" lemma="not">not</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e3369">
             <w xml:id="xTok_PRcon550_001295" ana="#VHfVH" lemma="have">have</w>
           </unclear>
           <w xml:id="xTok_PRcon550_001298" ana="#DTfDT" lemma="the">the</w>
@@ -1285,17 +1285,17 @@
           <w xml:id="xTok_PRcon550_001302" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRcon550_001304" ana="#NNfNN" lemma="position">position</w>
           <w xml:id="xTok_PRcon550_001306" ana="#RBfRB" lemma="maybe">maybe</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e3399">
             <w xml:id="xTok_PRcon550_001309" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e3406">
             <w xml:id="xTok_PRcon550_001312" ana="#NNSfNNS" lemma="people">people</w>
           </unclear>
-          <pause/>
+          <pause xml:id="PRcon550_d2e3413"/>
           <w xml:id="xTok_PRcon550_001315" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRcon550_001317" ana="#JJfJJ" lemma="national">national</w>
           <w xml:id="xTok_PRcon550_001319" ana="#NNfNN" lemma="committee">committee</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e3429"/>
           <w xml:id="xTok_PRcon550_001322" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PRcon550_001324" ana="#XXfXX" lemma="">la-</w>
           <w xml:id="xTok_PRcon550_001326" ana="#JJfJJ" lemma="last">last</w>
@@ -1306,16 +1306,16 @@
           <seg n="9" type="overlap" xml:id="PRcon550_ol_54">
             <w xml:id="xTok_PRcon550_001337" ana="#DTfDT" lemma="no">no</w>
           </seg>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e3469">
             <w xml:id="xTok_PRcon550_001340" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRcon550_001343" ana="#CCfCC" lemma="and">and</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e3482">
             <w xml:id="xTok_PRcon550_001346" ana="#UHfUH" lemma="er">er</w>
           </unclear>
           <w xml:id="xTok_PRcon550_001349" ana="#JJfJJ" lemma="last">last</w>
           <w xml:id="xTok_PRcon550_001351" ana="#NPfNP" lemma="friday">friday</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e3500">
             <w xml:id="xTok_PRcon550_001354" ana="#INfIN" lemma="of">of</w>
           </unclear>
           <w xml:id="xTok_PRcon550_001357" ana="#WPfWP" lemma="what">what</w>
@@ -1338,7 +1338,7 @@
           <w xml:id="xTok_PRcon550_001381" ana="#RBfRB" lemma="little">little</w>
           <w xml:id="xTok_PRcon550_001383" ana="#RBfRB" lemma="bit">bit</w>
           <w xml:id="xTok_PRcon550_001385" ana="#RBRfRBR" lemma="late">later</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e3574"/>
           <w xml:id="xTok_PRcon550_001388" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRcon550_001390" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PRcon550_001392" ana="#NNfNN" lemma="case">case</w>
@@ -1355,7 +1355,7 @@
             <w xml:id="xTok_PRcon550_001410" ana="#PPfPP" lemma="it" part="I" next="xTok_PRcon550_001412">it</w>
             <w xml:id="xTok_PRcon550_001412" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRcon550_001410">'s</w>
             <w xml:id="xTok_PRcon550_001414" ana="#RBfRB" lemma="also">also</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e3639">
               <w xml:id="xTok_PRcon550_001417" ana="#UNIfUNI" lemma="">xx</w>
               <w xml:id="xTok_PRcon550_001419" ana="#UNIfUNI" lemma="">x</w>
               <w xml:id="xTok_PRcon550_001421" ana="#UNIfUNI" lemma="">xxx</w>
@@ -1366,12 +1366,12 @@
           <seg n="1" synch="#PRcon550_ol_56" type="overlap" xml:id="PRcon550_ol_57">
             <w xml:id="xTok_PRcon550_001425" ana="#INfIN" lemma="before">before</w>
             <w xml:id="xTok_PRcon550_001427" ana="#NPfNP" lemma="christmas">christmas</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e3668">
               <w xml:id="xTok_PRcon550_001430" ana="#UNIfUNI" lemma="">xx</w>
             </supplied>
-            <pause/>
+            <pause xml:id="PRcon550_d2e3675"/>
             <w xml:id="xTok_PRcon550_001433" ana="#REfRE" lemma="okay">okay</w>
-            <pause/>
+            <pause xml:id="PRcon550_d2e3682"/>
             <w xml:id="xTok_PRcon550_001436" ana="#DMfDM" lemma="so">so</w>
             <w xml:id="xTok_PRcon550_001438" ana="#INfIN" lemma="in">in</w>
             <w xml:id="xTok_PRcon550_001440" ana="#DTfDT" lemma="any">any</w>
@@ -1383,10 +1383,10 @@
           <w xml:id="xTok_PRcon550_001451" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRcon550_001453" ana="#VVfVV" lemma="tell">tell</w>
           <w xml:id="xTok_PRcon550_001455" ana="#UHfUH" lemma="er">er</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PRcon550_d2e3729">
             <w xml:id="xTok_PRcon550_001458" ana="#NPfNP" lemma="">[firstname3]</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PRcon550_d2e3736"/>
           <w xml:id="xTok_PRcon550_001461" ana="#INfIN" lemma="that">that</w>
           <w xml:id="xTok_PRcon550_001463" ana="#PPfPP" lemma="it" part="I" next="xTok_PRcon550_001465">it</w>
           <w xml:id="xTok_PRcon550_001465" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRcon550_001463">'s</w>
@@ -1398,13 +1398,13 @@
           <w xml:id="xTok_PRcon550_001477" ana="#VVfVV" lemma="apply">apply</w>
           <w xml:id="xTok_PRcon550_001479" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRcon550_001481" ana="#NPfNP" lemma="italy">italy</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e3785"/>
           <w xml:id="xTok_PRcon550_001484" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRcon550_001486" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_PRcon550_001488" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRcon550_001490" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_PRcon550_001492" ana="#UHfUH" lemma="er">er</w>
-          <w xml:id="xTok_PRcon550_001494" part="I" next="#xTok_PRcon550_001495" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_001494" part="I" next="#xTok_PRcon550_001495" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRcon550_d2e3811"/>
           </w>
           <w xml:id="xTok_PRcon550_001495" part="F" prev="#xTok_PRcon550_001494">r</w>
           <w xml:id="xTok_PRcon550_001497" ana="#PPfPP" lemma="we" part="I" next="xTok_PRcon550_001499">we</w>
@@ -1426,7 +1426,7 @@
           <w xml:id="xTok_PRcon550_001527" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRcon550_001529" ana="#NNfNN" lemma="fall">fall</w>
           <seg n="4" type="overlap" xml:id="PRcon550_ol_59">
-            <unclear>
+            <unclear xml:id="PRcon550_d2e3889">
               <w xml:id="xTok_PRcon550_001532" ana="#UHfUH" lemma="erm">erm</w>
             </unclear>
             <w xml:id="xTok_PRcon550_001535" ana="#INfIN" lemma="for">for</w>
@@ -1472,7 +1472,7 @@
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_60">
           <seg n="5" synch="#PRcon550_ol_62" type="overlap" xml:id="PRcon550_ol_63">
-            <unclear>
+            <unclear xml:id="PRcon550_d2e4028">
               <w xml:id="xTok_PRcon550_001595" ana="#REfRE" lemma="okay">okay</w>
             </unclear>
             <w xml:id="xTok_PRcon550_001598" ana="#PPfPP" lemma="it" part="I" next="xTok_PRcon550_001600">it</w>
@@ -1497,12 +1497,12 @@
           <w xml:id="xTok_PRcon550_001631" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRcon550_001633" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRcon550_001635" ana="#INfIN" lemma="as">as</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e4119">
             <w xml:id="xTok_PRcon550_001638" ana="#DTfDT" lemma="this">this</w>
           </unclear>
-          <voice:track medium="1" num="2" type="md"/>
+          <voice:track medium="1" num="2" type="md" xml:id="PRcon550_d2e4126"/>
           <seg n="7" type="overlap" xml:id="PRcon550_ol_65">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e4128">
               <w xml:id="xTok_PRcon550_001641" ana="#UNIfUNI" lemma="">xxx</w>
             </supplied>
             <w xml:id="xTok_PRcon550_001644" ana="#PPfPP" lemma="it" part="I" next="xTok_PRcon550_001646">it</w>
@@ -1511,18 +1511,18 @@
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_61">
           <seg n="6" synch="#PRcon550_ol_64" type="overlap" xml:id="PRcon550_ol_66">
-            <unclear>
+            <unclear xml:id="PRcon550_d2e4150">
               <w xml:id="xTok_PRcon550_001650" ana="#RBfRB" lemma="then">then</w>
             </unclear>
             <w xml:id="xTok_PRcon550_001653" ana="#DTfDT" lemma="the">the</w>
             <w xml:id="xTok_PRcon550_001655" ana="#JJfJJ" lemma="next">next</w>
-            <pause/>
+            <pause xml:id="PRcon550_d2e4167"/>
             <w xml:id="xTok_PRcon550_001658" ana="#REfRE" lemma="yes">yes</w>
           </seg>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_62">
           <seg n="7" synch="#PRcon550_ol_65" type="overlap" xml:id="PRcon550_ol_67">
-            <unclear>
+            <unclear xml:id="PRcon550_d2e4178">
               <w xml:id="xTok_PRcon550_001662" ana="#PPfPP" lemma="we">we</w>
             </unclear>
             <w xml:id="xTok_PRcon550_001665" ana="#MDfMD" lemma="will">will</w>
@@ -1539,7 +1539,7 @@
             <w xml:id="xTok_PRcon550_001683" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_PRcon550_001685" ana="#MDfMD" lemma="can">can</w>
           </seg>
-          <pause/>
+          <pause xml:id="PRcon550_d2e4234"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_63">
           <seg n="8" synch="#PRcon550_ol_68" type="overlap" xml:id="PRcon550_ol_70">
@@ -1581,17 +1581,17 @@
           </seg>
           <w xml:id="xTok_PRcon550_001736" ana="#PPfDM" lemma="you">you</w>
           <w xml:id="xTok_PRcon550_001738" ana="#VVPfDM" lemma="know">know</w>
-          <emph>
+          <emph xml:id="PRcon550_d2e4353">
             <w xml:id="xTok_PRcon550_001741" part="I" next="#xTok_PRcon550_001742" ana="#NNfNN" lemma="something">some</w>
           </emph>
           <w xml:id="xTok_PRcon550_001742" part="F" prev="#xTok_PRcon550_001741">thing</w>
           <w xml:id="xTok_PRcon550_001744" ana="#DMfDM" lemma="so">so</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRcon550_d2e4366"/>
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_66">
           <seg n="1" synch="#PRcon550_ol_72" type="overlap" xml:id="PRcon550_ol_76">
             <w xml:id="xTok_PRcon550_001748" ana="#PPfPP" lemma="it">it</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e4377">
               <w xml:id="xTok_PRcon550_001751" ana="#UNIfUNI" lemma="">xx</w>
             </supplied>
           </seg>
@@ -1624,10 +1624,10 @@
           <w xml:id="xTok_PRcon550_001781" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PRcon550_001783" ana="#VVZfVVZ" lemma="happen">happens</w>
           <w xml:id="xTok_PRcon550_001785" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PRcon550_001787" part="I" next="#xTok_PRcon550_001788" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_001787" part="I" next="#xTok_PRcon550_001788" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRcon550_d2e4466"/>
           </w>
           <w xml:id="xTok_PRcon550_001788" part="F" prev="#xTok_PRcon550_001787">r</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PRcon550_d2e4471">
             <w xml:id="xTok_PRcon550_001791" ana="#NPfNP" lemma="">[firstname2]</w>
           </supplied>
           <w xml:id="xTok_PRcon550_001794" ana="#VVDfVVD" lemma="do">did</w>
@@ -1637,12 +1637,12 @@
           <w xml:id="xTok_PRcon550_001802" ana="#NNfNN" lemma="information">information</w>
           <w xml:id="xTok_PRcon550_001804" ana="#INfIN" lemma="about">about</w>
           <w xml:id="xTok_PRcon550_001806" ana="#UHfUH" lemma="er">er</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e4509">
             <w xml:id="xTok_PRcon550_001809" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
-          <w xml:id="xTok_PRcon550_001812" ana="#NNfNN" lemma="position">position<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRcon550_001812" ana="#NNfNN" lemma="position">position<c function="rise" type="intonation" xml:id="PRcon550_d2e4521"/>
           </w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e4522"/>
           <w xml:id="xTok_PRcon550_001814" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRcon550_001816" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRcon550_001818" ana="#UHfUH" lemma="er">er</w>
@@ -1656,16 +1656,16 @@
           <w xml:id="xTok_PRcon550_001834" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PRcon550_001836" ana="#CDfCD" lemma="two">two</w>
           <w xml:id="xTok_PRcon550_001838" ana="#XXfXX" lemma="">thousan-</w>
-          <w xml:id="xTok_PRcon550_001840" ana="#CDfCD" lemma="two">two<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_001840" ana="#CDfCD" lemma="two">two<c type="lengthening" xml:id="PRcon550_d2e4581"/>
           </w>
           <w xml:id="xTok_PRcon550_001842" ana="#CDfCD" lemma="thousand">thousand</w>
           <w xml:id="xTok_PRcon550_001844" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRcon550_001846" part="I" next="#xTok_PRcon550_001847" ana="#NNSfNNS #NNSfCD" lemma="seven">seven</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e4595">
             <w xml:id="xTok_PRcon550_001847" part="F" prev="#xTok_PRcon550_001846">s</w>
           </unclear>
           <seg n="5" type="overlap" xml:id="PRcon550_ol_80">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e4601">
               <w xml:id="xTok_PRcon550_001850" ana="#UNIfUNI" lemma="">xx</w>
             </supplied>
           </seg>
@@ -1681,7 +1681,7 @@
             <w xml:id="xTok_PRcon550_001864" ana="#CCfCC" lemma="but">but</w>
             <w xml:id="xTok_PRcon550_001866" ana="#PPfPP" lemma="it">it</w>
             <w xml:id="xTok_PRcon550_001868" ana="#VBDfVBD" lemma="be">was</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e4647">
               <w xml:id="xTok_PRcon550_001871" ana="#UNIfUNI" lemma="">x</w>
             </supplied>
             <w xml:id="xTok_PRcon550_001874" ana="#RBfRB" lemma="just">just</w>
@@ -1715,18 +1715,18 @@
           <w xml:id="xTok_PRcon550_001921" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRcon550_001923" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRcon550_001925" ana="#DTfDT" lemma="this">this</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e4771">
             <w xml:id="xTok_PRcon550_001928" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
           <w xml:id="xTok_PRcon550_001931" ana="#NNfNN" lemma="position">position</w>
           <w xml:id="xTok_PRcon550_001933" ana="#CCfCC" lemma="but">but</w>
-          <w xml:id="xTok_PRcon550_001935" part="I" next="#xTok_PRcon550_001936" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_001935" part="I" next="#xTok_PRcon550_001936" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRcon550_d2e4790"/>
           </w>
           <w xml:id="xTok_PRcon550_001936" part="F" prev="#xTok_PRcon550_001935">r</w>
           <w xml:id="xTok_PRcon550_001938" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e4800"/>
           <w xml:id="xTok_PRcon550_001941" ana="#PPfPP" lemma="i">i</w>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e4807">
             <w xml:id="xTok_PRcon550_001944" ana="#VVDfVVD" lemma="do">did</w>
           </unclear>
           <seg n="7" type="overlap" xml:id="PRcon550_ol_84">
@@ -1746,14 +1746,14 @@
           <w xml:id="xTok_PRcon550_001970" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_PRcon550_001972" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_PRcon550_001974" ana="#VBDfVBD" lemma="be">was</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRcon550_d2e4878">
             <w xml:id="xTok_PRcon550_001977" ana="#UNIfUNI" lemma="">xxxxx</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="PRcon550_d2e4885">
             <w xml:id="xTok_PRcon550_001980" ana="#NNfNN" lemma="something">something</w>
           </unclear>
           <w xml:id="xTok_PRcon550_001983" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e4899"/>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_74">
           <seg n="7" synch="#PRcon550_ol_84" type="overlap" xml:id="PRcon550_ol_86">
@@ -1767,13 +1767,13 @@
         </u>
         <u who="#PRcon550_S1" xml:id="PRcon550_u_76">
           <w xml:id="xTok_PRcon550_001995" ana="#UHfUH" lemma="er">er</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PRcon550_d2e4929">
             <w xml:id="xTok_PRcon550_001998" ana="#NPfNP" lemma="">[firstname2]</w>
           </supplied>
           <seg n="9" type="overlap" xml:id="PRcon550_ol_88">
             <w xml:id="xTok_PRcon550_002001" ana="#VVDfVVD" lemma="try">tried</w>
           </seg>
-          <w xml:id="xTok_PRcon550_002004" ana="#TOfTO" lemma="to">to<c type="lengthening"/>
+          <w xml:id="xTok_PRcon550_002004" ana="#TOfTO" lemma="to">to<c type="lengthening" xml:id="PRcon550_d2e4947"/>
           </w>
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_77">
@@ -1806,7 +1806,7 @@
         </u>
         <u who="#PRcon550_S2" xml:id="PRcon550_u_80">
           <seg n="1" synch="#PRcon550_ol_90" type="overlap" xml:id="PRcon550_ol_91">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRcon550_d2e5036">
               <w xml:id="xTok_PRcon550_002044" ana="#UNIfUNI" lemma="">xx</w>
             </supplied>
             <w xml:id="xTok_PRcon550_002047" part="I" next="#xTok_PRcon550_002048" ana="#NPfNP" lemma="christmas">chris</w>
@@ -1849,16 +1849,16 @@
         <u who="#PRcon550_S2" xml:id="PRcon550_u_84">
           <w xml:id="xTok_PRcon550_002104" ana="#RBfRB" lemma="all">all</w>
           <w xml:id="xTok_PRcon550_002106" ana="#RBfRB" lemma="right">right</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e5177"/>
           <w xml:id="xTok_PRcon550_002109" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="PRcon550_d2e5184"/>
           <w xml:id="xTok_PRcon550_002112" ana="#DMfDM" lemma="well">well</w>
           <w xml:id="xTok_PRcon550_002114" ana="#RBfRB" lemma="actually">actually</w>
           <w xml:id="xTok_PRcon550_002116" ana="#VVfVV" lemma="let" part="I" next="xTok_PRcon550_002118">let</w>
           <w xml:id="xTok_PRcon550_002118" ana="#PPfPP" lemma="we" part="F" prev="xTok_PRcon550_002116">'s</w>
           <w xml:id="xTok_PRcon550_002120" ana="#VVfVV" lemma="go">go</w>
-          <incident voice:desc="starts walking away"/>
-          <unclear>
+          <incident voice:desc="starts walking away" xml:id="PRcon550_d2e5208"/>
+          <unclear xml:id="PRcon550_d2e5210">
             <w xml:id="xTok_PRcon550_002123" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_PRcon550_002125" ana="#MDfMD" lemma="will">will</w>
             <w xml:id="xTok_PRcon550_002127" ana="#VHfVH" lemma="have">have</w>

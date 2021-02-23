@@ -452,12 +452,12 @@
   </teiHeader>
   <text>
     <body>
-      <div type="medium" voice:end="01:54" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1">
+      <div type="medium" voice:end="01:54" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1" xml:id="LEcon228_d2e584">
         <u who="#LEcon228_S3" xml:id="LEcon228_u_1">
-          <voice:track medium="1" num="1" type="md"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4"/>
+          <voice:track medium="1" num="1" type="md" xml:id="LEcon228_d2e588"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" xml:id="LEcon228_d2e589"/>
           <w xml:id="xTok_LEcon228_000007" ana="#BRfBR" lemma="">hh</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e596"/>
           <w xml:id="xTok_LEcon228_000010" ana="#VVfVV" lemma="take">take</w>
           <w xml:id="xTok_LEcon228_000012" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_000014" ana="#NNfNN" lemma="microphone">microphone</w>
@@ -465,74 +465,74 @@
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_2">
           <anchor synch="#LEcon228_oc_0" type="other_continuation" xml:id="LEcon228_oc_1" mode="inline"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="LEcon228_d2e617"/>
           <seg n="1" type="overlap" xml:id="LEcon228_ol_0" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEcon228_d2e619"/>
           </seg>
         </u>
         <u who="#LEcon228_S3" xml:id="LEcon228_u_3">
           <seg n="1" synch="#LEcon228_ol_0" type="overlap" xml:id="LEcon228_ol_1" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEcon228_d2e624"/>
           </seg>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEcon228_d2e625"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_4">
           <seg n="2" type="overlap" xml:id="LEcon228_ol_2">
             <w xml:id="xTok_LEcon228_000020" ana="#BRfBR" lemma="">hh</w>
-            <w xml:id="xTok_LEcon228_000022" part="I" next="#xTok_LEcon228_000023" ana="#REfRE" lemma="okay">oka<c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_000022" part="I" next="#xTok_LEcon228_000023" ana="#REfRE" lemma="okay">oka<c type="lengthening" xml:id="LEcon228_d2e638"/>
             </w>
             <w xml:id="xTok_LEcon228_000023" part="F" prev="#xTok_LEcon228_000022">y</w>
-            <pause/>
+            <pause xml:id="LEcon228_d2e643"/>
             <w xml:id="xTok_LEcon228_000026" ana="#PPfPP" lemma="i" part="I" next="xTok_LEcon228_000028">i</w>
             <w xml:id="xTok_LEcon228_000028" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_LEcon228_000026">'m</w>
-            <supplied reason="anonymization">
+            <supplied reason="anonymization" xml:id="LEcon228_d2e655">
               <w xml:id="xTok_LEcon228_000031" ana="#NPfNP" lemma="">[S1]</w>
             </supplied>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEcon228_d2e662"/>
             <w xml:id="xTok_LEcon228_000034" ana="#JJfJJ" lemma="all">all</w>
             <w xml:id="xTok_LEcon228_000036" ana="#JJfJJ" lemma="right">right</w>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="6"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="6" xml:id="LEcon228_d2e673"/>
             <w xml:id="xTok_LEcon228_000039" ana="#BRfBR" lemma="">hh</w>
             <w xml:id="xTok_LEcon228_000041" ana="#REfRE" lemma="yeah">yeah</w>
-            <w xml:id="xTok_LEcon228_000043" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
-              <c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_000043" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e687"/>
+              <c type="lengthening" xml:id="LEcon228_d2e688"/>
             </w>
-            <w xml:id="xTok_LEcon228_000045" ana="#REfRE" lemma="yeah">yeah<c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_000045" ana="#REfRE" lemma="yeah">yeah<c type="lengthening" xml:id="LEcon228_d2e693"/>
             </w>
-            <w xml:id="xTok_LEcon228_000047" ana="#REfRE" lemma="yeah">yeah<c type="lengthening"/>
-              <c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_000047" ana="#REfRE" lemma="yeah">yeah<c type="lengthening" xml:id="LEcon228_d2e699"/>
+              <c type="lengthening" xml:id="LEcon228_d2e700"/>
             </w>
-            <pause/>
+            <pause xml:id="LEcon228_d2e701"/>
             <w xml:id="xTok_LEcon228_000049" ana="#REfRE" lemma="yeah">yeah</w>
             <w xml:id="xTok_LEcon228_000051" ana="#REfRE" lemma="okay">okay</w>
-            <w xml:id="xTok_LEcon228_000053" part="I" next="#xTok_LEcon228_000054" ana="#CCfCC" lemma="and">an<c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_000053" part="I" next="#xTok_LEcon228_000054" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="LEcon228_d2e714"/>
             </w>
             <w xml:id="xTok_LEcon228_000054" part="F" prev="#xTok_LEcon228_000053">d</w>
-            <w xml:id="xTok_LEcon228_000056" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_000056" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e722"/>
             </w>
           </seg>
-          <pause dur="PT3S"/>
+          <pause dur="PT3S" xml:id="LEcon228_d2e723"/>
         </u>
         <u who="#LEcon228_S3" xml:id="LEcon228_u_5">
           <seg n="2" synch="#LEcon228_ol_2" type="overlap" xml:id="LEcon228_ol_3" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="14" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="14" mode="inline" xml:id="LEcon228_d2e728"/>
           </seg>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_6">
           <w xml:id="xTok_LEcon228_000060" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_LEcon228_000062" ana="#REfRE" lemma="okay">okay</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e743"/>
           <w xml:id="xTok_LEcon228_000065" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_LEcon228_000067" ana="#PPfPP" lemma="he">he</w>
           <w xml:id="xTok_LEcon228_000069" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_LEcon228_000071" ana="#VVGfVVG" lemma="stand">standing</w>
           <w xml:id="xTok_LEcon228_000073" ana="#RBfRB" lemma="outside">outside</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e767"/>
           <w xml:id="xTok_LEcon228_000076" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_LEcon228_000078" part="I" next="#xTok_LEcon228_000079" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000078" part="I" next="#xTok_LEcon228_000079" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e777"/>
           </w>
           <w xml:id="xTok_LEcon228_000079" part="F" prev="#xTok_LEcon228_000078">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e782"/>
           <w xml:id="xTok_LEcon228_000082" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_LEcon228_000084" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_000086" ana="#VVDfVVD" lemma="do" part="I" next="xTok_LEcon228_000088">did</w>
@@ -545,7 +545,7 @@
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_7">
           <w xml:id="xTok_LEcon228_000102" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e832"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_8">
           <w xml:id="xTok_LEcon228_000106" ana="#UHfUH" lemma="er">er</w>
@@ -564,33 +564,33 @@
           <w xml:id="xTok_LEcon228_000132" ana="#RBfRB" lemma="kind">kind</w>
           <w xml:id="xTok_LEcon228_000134" ana="#RBfRB" lemma="of">of</w>
           <w xml:id="xTok_LEcon228_000136" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e905"/>
           <w xml:id="xTok_LEcon228_000139" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_LEcon228_000141" ana="#VVDfVVD" lemma="take">took</w>
           <w xml:id="xTok_LEcon228_000143" ana="#NNfNN" lemma="hold">hold</w>
           <w xml:id="xTok_LEcon228_000145" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_LEcon228_000147" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_000149" ana="#NNfNN" lemma="door">door</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e933"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_9">
           <w xml:id="xTok_LEcon228_000153" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e943"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_10">
           <w xml:id="xTok_LEcon228_000157" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_LEcon228_000159" ana="#VVDfVVD" lemma="go">went</w>
           <w xml:id="xTok_LEcon228_000161" ana="#RBfRB" lemma="inside">inside</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e961"/>
           <w xml:id="xTok_LEcon228_000164" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_LEcon228_000166" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_LEcon228_000168" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_000170" ana="#VVDfVVD" lemma="think">thought</w>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_LEcon228_000173" part="I" next="#xTok_LEcon228_000174" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e981"/>
+          <w xml:id="xTok_LEcon228_000173" part="I" next="#xTok_LEcon228_000174" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e986"/>
           </w>
           <w xml:id="xTok_LEcon228_000174" part="F" prev="#xTok_LEcon228_000173">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e992"/>
           <w xml:id="xTok_LEcon228_000177" ana="#FIfFI" lemma="shit">shit</w>
           <w xml:id="xTok_LEcon228_000179" ana="#PPfPP" lemma="it" part="I" next="xTok_LEcon228_000181">it</w>
           <w xml:id="xTok_LEcon228_000181" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_LEcon228_000179">'s</w>
@@ -600,14 +600,14 @@
           <w xml:id="xTok_LEcon228_000189" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_000191" ana="#VVDfVVD" lemma="see">saw</w>
           <w xml:id="xTok_LEcon228_000193" ana="#RBfRB" lemma="yesterday">yesterday</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e1032"/>
           <seg n="3" type="overlap" xml:id="LEcon228_ol_4">
             <w xml:id="xTok_LEcon228_000196" ana="#CCfCC" lemma="and">and</w>
           </seg>
           <w xml:id="xTok_LEcon228_000199" ana="#PPfPP" lemma="he">he</w>
           <w xml:id="xTok_LEcon228_000201" ana="#RBfRB" lemma="actually">actually</w>
           <w xml:id="xTok_LEcon228_000203" ana="#VVDfVVD" lemma="go">went</w>
-          <emph>
+          <emph xml:id="LEcon228_d2e1055">
             <w xml:id="xTok_LEcon228_000206" ana="#INfIN" lemma="into">into</w>
           </emph>
           <w xml:id="xTok_LEcon228_000209" ana="#DTfDT" lemma="the">the</w>
@@ -615,7 +615,7 @@
           <w xml:id="xTok_LEcon228_000213" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_LEcon228_000215" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_000217" ana="#VVDfVVD" lemma="think">thought</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1085"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_11">
           <seg n="3" synch="#LEcon228_ol_4" type="overlap" xml:id="LEcon228_ol_5">
@@ -625,15 +625,15 @@
         <u who="#LEcon228_S1" xml:id="LEcon228_u_12">
           <w xml:id="xTok_LEcon228_000225" ana="#UHfUH" lemma="oh">oh</w>
           <w xml:id="xTok_LEcon228_000227" ana="#FIfFI" lemma="shit">shit</w>
-          <pause/>
-          <w xml:id="xTok_LEcon228_000230" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
+          <pause xml:id="LEcon228_d2e1110"/>
+          <w xml:id="xTok_LEcon228_000230" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e1115"/>
           </w>
           <w xml:id="xTok_LEcon228_000232" ana="#REfRE" lemma="okay">okay</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1123"/>
           <w xml:id="xTok_LEcon228_000235" ana="#WPfWP" lemma="what">what</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1130"/>
           <w xml:id="xTok_LEcon228_000238" ana="#MDfMD" lemma="shall">should</w>
-          <w xml:id="xTok_LEcon228_000240" ana="#PPfPP" lemma="i">i<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000240" ana="#PPfPP" lemma="i">i<c type="lengthening" xml:id="LEcon228_d2e1139"/>
           </w>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_13">
@@ -645,22 +645,22 @@
           <w xml:id="xTok_LEcon228_000249" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_LEcon228_000251" ana="#MDfMD" lemma="shall">should</w>
           <w xml:id="xTok_LEcon228_000253" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_LEcon228_000255" ana="#VVfVV" lemma="do">do<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_000255" ana="#VVfVV" lemma="do">do<c function="rise" type="intonation" xml:id="LEcon228_d2e1174"/>
           </w>
           <shift corresp="#LEcon228_s_1" feature="tempo" new="neutral" xml:id="LEcon228_s_2"/>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e1176"/>
           <w xml:id="xTok_LEcon228_000257" ana="#CCfCC" lemma="but">but</w>
-          <w xml:id="xTok_LEcon228_000259" part="I" next="#xTok_LEcon228_000260" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
-            <c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000259" part="I" next="#xTok_LEcon228_000260" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e1185"/>
+            <c type="lengthening" xml:id="LEcon228_d2e1186"/>
           </w>
           <w xml:id="xTok_LEcon228_000260" part="F" prev="#xTok_LEcon228_000259">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1192"/>
           <w xml:id="xTok_LEcon228_000263" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_000265" ana="#VVDfVVD" lemma="go">went</w>
           <w xml:id="xTok_LEcon228_000267" ana="#RBfRB" lemma="up">up</w>
-          <w xml:id="xTok_LEcon228_000269" ana="#INfIN" lemma="to">to<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000269" ana="#INfIN" lemma="to">to<c type="lengthening" xml:id="LEcon228_d2e1209"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1210"/>
           <w xml:id="xTok_LEcon228_000271" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_LEcon228_000273" ana="#XXfXX" lemma="">ju-</w>
           <w xml:id="xTok_LEcon228_000275" ana="#RBfRB" lemma="just">just</w>
@@ -669,33 +669,33 @@
           <w xml:id="xTok_LEcon228_000281" ana="#NNfNN" lemma="corner">corner</w>
           <w xml:id="xTok_LEcon228_000283" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000285" ana="#VBZfVBZ" lemma="be">is</w>
-          <w xml:id="xTok_LEcon228_000287" ana="#DTfDT" lemma="a">a<c type="lengthening"/>
-            <c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000287" ana="#DTfDT" lemma="a">a<c type="lengthening" xml:id="LEcon228_d2e1249"/>
+            <c type="lengthening" xml:id="LEcon228_d2e1250"/>
           </w>
           <w xml:id="xTok_LEcon228_000289" ana="#REfRE" lemma="yeah">yeah</w>
-          <w xml:id="xTok_LEcon228_000291" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
-            <c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000291" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e1260"/>
+            <c type="lengthening" xml:id="LEcon228_d2e1261"/>
           </w>
           <w xml:id="xTok_LEcon228_000293" ana="#RBfRB" lemma="kind">kind</w>
           <w xml:id="xTok_LEcon228_000295" ana="#RBfRB" lemma="of">of</w>
-          <w xml:id="xTok_LEcon228_000297" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000297" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e1274"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1276"/>
           <w xml:id="xTok_LEcon228_000299" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_LEcon228_000301" ana="#WRBfWRB" lemma="where">where</w>
           <w xml:id="xTok_LEcon228_000303" ana="#DTfDT" lemma="the">the</w>
-          <foreign type="LN" voice:translation="tram" xml:lang="ger">
+          <foreign type="LN" voice:translation="tram" xml:lang="ger" xml:id="LEcon228_d2e1291">
             <w xml:id="xTok_LEcon228_000306" ana="#FWfFW" lemma="">strassenbahn</w>
           </foreign>
           <w xml:id="xTok_LEcon228_000309" ana="#NNSfNNS" lemma="stop">stops</w>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_15">
           <w xml:id="xTok_LEcon228_000313" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e1314"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_16">
           <w xml:id="xTok_LEcon228_000317" ana="#DMfDM" lemma="so">so</w>
-          <w xml:id="xTok_LEcon228_000319" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000319" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e1326"/>
           </w>
           <w xml:id="xTok_LEcon228_000321" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_000323" ana="#VBDfVBD" lemma="be">was</w>
@@ -708,13 +708,13 @@
           <w xml:id="xTok_LEcon228_000337" ana="#VVDfVVD" lemma="see">saw</w>
           <w xml:id="xTok_LEcon228_000339" ana="#PPfPP" lemma="he">him</w>
           <w xml:id="xTok_LEcon228_000341" ana="#RBfRB" lemma="actually">actually</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1375"/>
           <w xml:id="xTok_LEcon228_000344" ana="#VVGfVVG" lemma="walk">walking</w>
           <w xml:id="xTok_LEcon228_000346" ana="#INfIN" lemma="up">up</w>
           <w xml:id="xTok_LEcon228_000348" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_000350" ana="#NNfNN" lemma="road">road</w>
           <w xml:id="xTok_LEcon228_000352" ana="#RBfRB" lemma="again">again</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1399"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_17">
           <w xml:id="xTok_LEcon228_000356" ana="#REfRE" lemma="okay">okay</w>
@@ -723,7 +723,7 @@
         <u who="#LEcon228_S1" xml:id="LEcon228_u_18">
           <anchor synch="#LEcon228_oc_2" type="other_continuation" xml:id="LEcon228_oc_3"/>
           <w xml:id="xTok_LEcon228_000360" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1421"/>
           <w xml:id="xTok_LEcon228_000363" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_LEcon228_000365" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_LEcon228_000367" ana="#PPfPP" lemma="i">i</w>
@@ -734,7 +734,7 @@
           <w xml:id="xTok_LEcon228_000377" ana="#RBfRB" lemma="actually">actually</w>
           <w xml:id="xTok_LEcon228_000379" ana="#VVGfVVG" lemma="do">doing</w>
           <w xml:id="xTok_LEcon228_000381" ana="#RBfRB" lemma="there">there</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e1466"/>
           <w xml:id="xTok_LEcon228_000384" ana="#RBfRB" lemma="a">a</w>
           <seg n="4" type="overlap" xml:id="LEcon228_ol_6">
             <w xml:id="xTok_LEcon228_000387" ana="#RBfRB" lemma="little">little</w>
@@ -754,13 +754,13 @@
         <u who="#LEcon228_S2" xml:id="LEcon228_u_20">
           <anchor synch="#LEcon228_oc_4" type="other_continuation" xml:id="LEcon228_oc_5"/>
           <w xml:id="xTok_LEcon228_000406" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1524"/>
           <w xml:id="xTok_LEcon228_000409" ana="#INfIN" lemma="because">because</w>
           <w xml:id="xTok_LEcon228_000411" ana="#PPfPP" lemma="he">he</w>
           <w xml:id="xTok_LEcon228_000413" ana="#MDfMD" lemma="can">could</w>
           <w xml:id="xTok_LEcon228_000415" ana="#VBfVB" lemma="be">be</w>
           <w xml:id="xTok_LEcon228_000417" ana="#DMfDM" lemma="like">like</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1548"/>
           <w xml:id="xTok_LEcon228_000420" ana="#VVGfVVG" lemma="check">checking</w>
           <w xml:id="xTok_LEcon228_000422" ana="#RPfRP" lemma="out">out</w>
           <w xml:id="xTok_LEcon228_000424" ana="#DTfDT" lemma="the">the</w>
@@ -773,7 +773,7 @@
           <w xml:id="xTok_LEcon228_000438" ana="#INfIN" lemma="in">in</w>
           <seg n="5" type="overlap" xml:id="LEcon228_ol_8">
             <w xml:id="xTok_LEcon228_000441" ana="#CCfCC" lemma="and">and</w>
-            <pause/>
+            <pause xml:id="LEcon228_d2e1600"/>
             <w xml:id="xTok_LEcon228_000444" ana="#PDTfPDT" lemma="all">all</w>
             <w xml:id="xTok_LEcon228_000446" ana="#DTfDT" lemma="that">that</w>
             <w xml:id="xTok_LEcon228_000448" ana="#NNfNN" lemma="stuff">stuff</w>
@@ -788,7 +788,7 @@
             <w xml:id="xTok_LEcon228_000460" ana="#VBfVB" lemma="be">be</w>
           </seg>
           <w xml:id="xTok_LEcon228_000463" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1647"/>
           <seg n="6" type="overlap" xml:id="LEcon228_ol_10">
             <w xml:id="xTok_LEcon228_000466" ana="#CCfCC" lemma="and">and</w>
             <w xml:id="xTok_LEcon228_000468" ana="#PPfPP" lemma="i">i</w>
@@ -802,7 +802,7 @@
           <w xml:id="xTok_LEcon228_000483" ana="#NNSfNNS" lemma="people">people</w>
           <w xml:id="xTok_LEcon228_000485" ana="#RBfRB" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000487" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1698"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_22">
           <seg n="6" synch="#LEcon228_ol_10" type="overlap" xml:id="LEcon228_ol_11">
@@ -814,27 +814,27 @@
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_23">
           <w xml:id="xTok_LEcon228_000501" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="LEcon228_d2e1731"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_24">
           <w xml:id="xTok_LEcon228_000505" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_LEcon228_000507" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000509" ana="#VBZfVBZ" lemma="be">is</w>
-          <w xml:id="xTok_LEcon228_000511" part="I" next="#xTok_LEcon228_000512" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000511" part="I" next="#xTok_LEcon228_000512" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e1751"/>
           </w>
           <w xml:id="xTok_LEcon228_000512" part="F" prev="#xTok_LEcon228_000511">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1757"/>
           <w xml:id="xTok_LEcon228_000515" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEcon228_000517" ana="#VVPfVVP #VfVVZ" lemma="think">think</w>
           <w xml:id="xTok_LEcon228_000519" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000521" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000523" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_LEcon228_000525" ana="#DTfDT" lemma="a">a</w>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_LEcon228_000528" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
-            <c type="lengthening"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e1785"/>
+          <w xml:id="xTok_LEcon228_000528" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e1790"/>
+            <c type="lengthening" xml:id="LEcon228_d2e1791"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1792"/>
           <w xml:id="xTok_LEcon228_000530" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000532" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_LEcon228_000534" ana="#DTfDT" lemma="a">a</w>
@@ -847,13 +847,13 @@
         <u who="#LEcon228_S1" xml:id="LEcon228_u_26">
           <anchor synch="#LEcon228_oc_6" type="other_continuation" xml:id="LEcon228_oc_7"/>
           <w xml:id="xTok_LEcon228_000544" ana="#WRBfWRB" lemma="where">where</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1832"/>
           <w xml:id="xTok_LEcon228_000547" ana="#RBfRB" lemma="probably">probably</w>
-          <w xml:id="xTok_LEcon228_000549" part="I" next="#xTok_LEcon228_000550" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
-            <c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000549" part="I" next="#xTok_LEcon228_000550" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e1841"/>
+            <c type="lengthening" xml:id="LEcon228_d2e1842"/>
           </w>
           <w xml:id="xTok_LEcon228_000550" part="F" prev="#xTok_LEcon228_000549">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1848"/>
           <w xml:id="xTok_LEcon228_000553" ana="#DMfDM" lemma="well">well</w>
           <w xml:id="xTok_LEcon228_000555" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_LEcon228_000557" ana="#DTfDT" lemma="a">a</w>
@@ -865,13 +865,13 @@
           <w xml:id="xTok_LEcon228_000569" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_LEcon228_000571" ana="#RBfRB" lemma="kind">kind</w>
           <w xml:id="xTok_LEcon228_000573" ana="#RBfRB" lemma="of">of</w>
-          <w xml:id="xTok_LEcon228_000575" part="I" next="#xTok_LEcon228_000576" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000575" part="I" next="#xTok_LEcon228_000576" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e1899"/>
           </w>
           <w xml:id="xTok_LEcon228_000576" part="F" prev="#xTok_LEcon228_000575">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1904"/>
           <w xml:id="xTok_LEcon228_000579" ana="#XXfXX" lemma="">s-</w>
           <w xml:id="xTok_LEcon228_000581" ana="#VVfVV" lemma="sit">sit</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e1916"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_27">
           <w xml:id="xTok_LEcon228_000585" ana="#REfRE" lemma="yeah">yeah</w>
@@ -879,7 +879,7 @@
         <u who="#LEcon228_S1" xml:id="LEcon228_u_28">
           <w xml:id="xTok_LEcon228_000589" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_LEcon228_000591" ana="#VHfVH" lemma="have">have</w>
-          <w xml:id="xTok_LEcon228_000593" part="I" next="#xTok_LEcon228_000594" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000593" part="I" next="#xTok_LEcon228_000594" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e1942"/>
           </w>
           <w xml:id="xTok_LEcon228_000594" part="F" prev="#xTok_LEcon228_000593">r</w>
           <w xml:id="xTok_LEcon228_000596" ana="#XXfXX" lemma="">b-</w>
@@ -896,12 +896,12 @@
         <u who="#LEcon228_S2" xml:id="LEcon228_u_29">
           <anchor synch="#LEcon228_oc_8" type="other_continuation" xml:id="LEcon228_oc_9"/>
           <w xml:id="xTok_LEcon228_000616" ana="#REfRE" lemma="okay">okay</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e1996"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_30">
-          <w xml:id="xTok_LEcon228_000620" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000620" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e2004"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2005"/>
           <w xml:id="xTok_LEcon228_000622" ana="#PPfPP" lemma="i">i</w>
           <seg n="7" type="overlap" xml:id="LEcon228_ol_12">
             <w xml:id="xTok_LEcon228_000625" ana="#VVPfVVP" lemma="do" part="I" next="xTok_LEcon228_000627">do</w>
@@ -923,10 +923,10 @@
           <w xml:id="xTok_LEcon228_000650" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEcon228_000652" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_LEcon228_000654" ana="#NNfNN" lemma="someone">someone</w>
-          <w xml:id="xTok_LEcon228_000656" part="I" next="#xTok_LEcon228_000657" ana="#CCfCC" lemma="or">o<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000656" part="I" next="#xTok_LEcon228_000657" ana="#CCfCC" lemma="or">o<c type="lengthening" xml:id="LEcon228_d2e2082"/>
           </w>
           <w xml:id="xTok_LEcon228_000657" part="F" prev="#xTok_LEcon228_000656">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2088"/>
           <seg n="1" type="overlap" xml:id="LEcon228_ol_14">
             <w xml:id="xTok_LEcon228_000660" ana="#VVfVV" lemma="tell">tell</w>
           </seg>
@@ -934,7 +934,7 @@
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_32">
           <seg n="1" synch="#LEcon228_ol_14" type="overlap" xml:id="LEcon228_ol_15">
-            <w xml:id="xTok_LEcon228_000667" ana="#REfRE" lemma="yeah">yeah<c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_000667" ana="#REfRE" lemma="yeah">yeah<c type="lengthening" xml:id="LEcon228_d2e2110"/>
             </w>
           </seg>
         </u>
@@ -958,7 +958,7 @@
             <w xml:id="xTok_LEcon228_000697" ana="#PPfDM" lemma="i">i</w>
           </seg>
           <w xml:id="xTok_LEcon228_000700" ana="#VVPfDM" lemma="mean">mean</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e2186"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_35">
           <seg n="2" synch="#LEcon228_ol_16" type="overlap" xml:id="LEcon228_ol_18">
@@ -972,7 +972,7 @@
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_37">
           <w xml:id="xTok_LEcon228_000712" ana="#CCfCC" lemma="but">but</w>
-          <unclear>
+          <unclear xml:id="LEcon228_d2e2216">
             <w xml:id="xTok_LEcon228_000715" ana="#EXfEX" lemma="there">there</w>
           </unclear>
           <w xml:id="xTok_LEcon228_000718" ana="#VBZfVBZ" lemma="be">is</w>
@@ -981,11 +981,11 @@
           <w xml:id="xTok_LEcon228_000724" ana="#RBfRB" lemma="bit">bit</w>
           <w xml:id="xTok_LEcon228_000726" ana="#JJfJJ" lemma="difficult">difficult</w>
           <w xml:id="xTok_LEcon228_000728" ana="#INfIN" lemma="because">because</w>
-          <w xml:id="xTok_LEcon228_000730" part="I" next="#xTok_LEcon228_000731" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
-            <c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000730" part="I" next="#xTok_LEcon228_000731" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e2252"/>
+            <c type="lengthening" xml:id="LEcon228_d2e2253"/>
           </w>
           <w xml:id="xTok_LEcon228_000731" part="F" prev="#xTok_LEcon228_000730">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e2259"/>
           <w xml:id="xTok_LEcon228_000734" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000736" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_LEcon228_000738" ana="#DTfDT" lemma="a">a</w>
@@ -994,7 +994,7 @@
           <w xml:id="xTok_LEcon228_000744" ana="#NNSfNNS" lemma="people">people</w>
           <w xml:id="xTok_LEcon228_000746" ana="#VVGfVVG" lemma="stand">standing</w>
           <w xml:id="xTok_LEcon228_000748" ana="#RBfRB" lemma="outside">outside</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2295"/>
           <w xml:id="xTok_LEcon228_000751" ana="#DMfDM" lemma="like">like</w>
           <anchor synch="#LEcon228_oc_11" type="other_continuation" xml:id="LEcon228_oc_10"/>
         </u>
@@ -1011,39 +1011,39 @@
           <w xml:id="xTok_LEcon228_000769" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_LEcon228_000771" ana="#PPfPP" lemma="they" part="I" next="xTok_LEcon228_000773">they</w>
           <w xml:id="xTok_LEcon228_000773" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_LEcon228_000771">'re</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2353"/>
           <w xml:id="xTok_LEcon228_000776" ana="#VVGfVVG" lemma="go">going</w>
           <w xml:id="xTok_LEcon228_000778" ana="#RBfRB" lemma="in">in</w>
-          <unclear>
+          <unclear xml:id="LEcon228_d2e2365">
             <w xml:id="xTok_LEcon228_000781" ana="#DMfDM" lemma="like">like</w>
           </unclear>
           <w xml:id="xTok_LEcon228_000784" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000786" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_LEcon228_000788" ana="#NNfNN" lemma="somebody">somebody</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2386"/>
           <w xml:id="xTok_LEcon228_000791" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_LEcon228_000793" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEcon228_000795" ana="#RBfRB" lemma="never">never</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2402"/>
           <w xml:id="xTok_LEcon228_000798" ana="#VVPfVVP" lemma="know">know</w>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_40">
           <w xml:id="xTok_LEcon228_000802" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_41">
-          <w xml:id="xTok_LEcon228_000806" ana="#RBfRB" lemma="really">really<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000806" ana="#RBfRB" lemma="really">really<c type="lengthening" xml:id="LEcon228_d2e2425"/>
           </w>
           <w xml:id="xTok_LEcon228_000808" ana="#WPfWP" lemma="who" part="I" next="xTok_LEcon228_000810">who</w>
           <w xml:id="xTok_LEcon228_000810" ana="#VBSfVBS #VHSfVHS" lemma="be/have" part="F" prev="xTok_LEcon228_000808">'s</w>
-          <w xml:id="xTok_LEcon228_000812" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_000812" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e2438"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="LEcon228_d2e2439"/>
           <w xml:id="xTok_LEcon228_000814" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2447"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_42">
           <w xml:id="xTok_LEcon228_000818" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2457"/>
           <w xml:id="xTok_LEcon228_000821" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_000823" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_LEcon228_000825" ana="#DTfDT" lemma="the">the</w>
@@ -1051,21 +1051,21 @@
           <w xml:id="xTok_LEcon228_000829" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEcon228_000831" ana="#VBDfVBD" lemma="be">were</w>
           <w xml:id="xTok_LEcon228_000833" ana="#INfIN" lemma="at">at</w>
-          <foreign type="LN" voice:translation="name of a street" xml:lang="ger">
+          <foreign type="LN" voice:translation="name of a street" xml:lang="ger" xml:id="LEcon228_d2e2489">
             <w xml:id="xTok_LEcon228_000836" ana="#FWfFW" lemma="">tigergasse</w>
           </foreign>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2496"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_43">
           <w xml:id="xTok_LEcon228_000840" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_44">
           <w xml:id="xTok_LEcon228_000844" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e2515"/>
           <w xml:id="xTok_LEcon228_000847" ana="#WRBfWRB" lemma="when">when</w>
           <w xml:id="xTok_LEcon228_000849" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_000851" ana="#VVDfVVD" lemma="leave">left</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2531"/>
           <w xml:id="xTok_LEcon228_000854" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_000856" ana="#VBDfVBD" lemma="be">were</w>
           <w xml:id="xTok_LEcon228_000858" ana="#DTfDT" lemma="a">a</w>
@@ -1097,7 +1097,7 @@
           <w xml:id="xTok_LEcon228_000906" ana="#RBfRB" lemma="now">now</w>
           <w xml:id="xTok_LEcon228_000908" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_LEcon228_000910" ana="#PPfPP" lemma="i">i</w>
-          <emph>
+          <emph xml:id="LEcon228_d2e2657">
             <w xml:id="xTok_LEcon228_000913" ana="#VVfVV" lemma="go">go</w>
           </emph>
           <w xml:id="xTok_LEcon228_000916" ana="#RBfRB" lemma="outside">outside</w>
@@ -1108,7 +1108,7 @@
           <w xml:id="xTok_LEcon228_000926" ana="#VVGfVVG" lemma="go" part="I" next="xTok_LEcon228_000928">gon</w>
           <w xml:id="xTok_LEcon228_000928" contraction="1" ana="#TOfTO" lemma="to" part="F" prev="xTok_LEcon228_000926">na</w>
           <w xml:id="xTok_LEcon228_000930" ana="#VVfVV" lemma="come">come</w>
-          <w xml:id="xTok_LEcon228_000932" ana="#RBfRB" lemma="in">in<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_000932" ana="#RBfRB" lemma="in">in<c function="rise" type="intonation" xml:id="LEcon228_d2e2702"/>
           </w>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_47">
@@ -1125,7 +1125,7 @@
           </seg>
           <w xml:id="xTok_LEcon228_000953" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_LEcon228_000955" ana="#VBDfVBD" lemma="be">were</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2755"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_49">
           <seg n="4" synch="#LEcon228_ol_20" type="overlap" xml:id="LEcon228_ol_21">
@@ -1138,7 +1138,7 @@
           <w xml:id="xTok_LEcon228_000967" ana="#RBfRB" lemma="not" part="F" prev="xTok_LEcon228_000965">n't</w>
           <w xml:id="xTok_LEcon228_000969" ana="#VVfVV" lemma="look">look</w>
           <w xml:id="xTok_LEcon228_000971" ana="#INfIN" lemma="like">like</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2793"/>
           <w xml:id="xTok_LEcon228_000974" ana="#NNSfNNS" lemma="student">students</w>
           <w xml:id="xTok_LEcon228_000976" ana="#INfIN" lemma="to">to</w>
           <seg n="5" type="overlap" xml:id="LEcon228_ol_22">
@@ -1149,7 +1149,7 @@
           <seg n="5" synch="#LEcon228_ol_22" type="overlap" xml:id="LEcon228_ol_23">
             <w xml:id="xTok_LEcon228_000983" ana="#REfRE" lemma="yeah">yeah</w>
           </seg>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2821"/>
           <w xml:id="xTok_LEcon228_000986" ana="#REfRE" lemma="okay">okay</w>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_52">
@@ -1164,7 +1164,7 @@
           <w xml:id="xTok_LEcon228_001006" contraction="1" ana="#TOfTO" lemma="to" part="F" prev="xTok_LEcon228_001004">ta</w>
           <w xml:id="xTok_LEcon228_001008" ana="#VVfVV" lemma="go">go</w>
           <w xml:id="xTok_LEcon228_001010" ana="#RPfRP" lemma="out">out</w>
-          <emph>
+          <emph xml:id="LEcon228_d2e2879">
             <w xml:id="xTok_LEcon228_001013" part="I" next="#xTok_LEcon228_001014" ana="#RBfRB" lemma="sometimes">some</w>
           </emph>
           <w xml:id="xTok_LEcon228_001014" part="F" prev="#xTok_LEcon228_001013">times</w>
@@ -1193,7 +1193,7 @@
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_56">
           <w xml:id="xTok_LEcon228_001052" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e2972"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_57">
           <w xml:id="xTok_LEcon228_001056" ana="#INfIN" lemma="because">because</w>
@@ -1205,12 +1205,12 @@
           <w xml:id="xTok_LEcon228_001068" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_LEcon228_001070" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_LEcon228_001072" ana="#INfIN" lemma="in">in</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="LEcon228_d2e3015">
             <w xml:id="xTok_LEcon228_001075" ana="#NPfNP" lemma="">[place1]</w>
           </supplied>
           <w xml:id="xTok_LEcon228_001078" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_LEcon228_001080" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3033"/>
           <w xml:id="xTok_LEcon228_001083" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_LEcon228_001085" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_LEcon228_001087" ana="#NNfNN" lemma="student">student</w>
@@ -1221,7 +1221,7 @@
         <u who="#LEcon228_S2" xml:id="LEcon228_u_58">
           <anchor synch="#LEcon228_oc_14" type="other_continuation" xml:id="LEcon228_oc_15"/>
           <w xml:id="xTok_LEcon228_001095" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3068"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_59">
           <w xml:id="xTok_LEcon228_001099" ana="#DTfDT" lemma="a">a</w>
@@ -1229,17 +1229,17 @@
           <w xml:id="xTok_LEcon228_001103" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_LEcon228_001105" ana="#NNSfNNS" lemma="people">people</w>
           <w xml:id="xTok_LEcon228_001107" ana="#PREfPRE" lemma="that">that</w>
-          <w xml:id="xTok_LEcon228_001109" part="I" next="#xTok_LEcon228_001110" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001109" part="I" next="#xTok_LEcon228_001110" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e3097"/>
           </w>
           <w xml:id="xTok_LEcon228_001110" part="F" prev="#xTok_LEcon228_001109">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3102"/>
           <w xml:id="xTok_LEcon228_001113" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_LEcon228_001115" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_LEcon228_001117" ana="#VVDfVVN" lemma="forget">forgot</w>
           <w xml:id="xTok_LEcon228_001119" ana="#PPSfPPS" lemma="they">their</w>
           <w xml:id="xTok_LEcon228_001121" ana="#NNSfNNS" lemma="key">keys</w>
-          <pause/>
-          <w xml:id="xTok_LEcon228_001124" part="I" next="#xTok_LEcon228_001125" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="LEcon228_d2e3126"/>
+          <w xml:id="xTok_LEcon228_001124" part="I" next="#xTok_LEcon228_001125" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e3131"/>
           </w>
           <w xml:id="xTok_LEcon228_001125" part="F" prev="#xTok_LEcon228_001124">r</w>
           <w xml:id="xTok_LEcon228_001127" ana="#CCfCC" lemma="or">or</w>
@@ -1251,41 +1251,41 @@
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_61">
           <w xml:id="xTok_LEcon228_001139" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3168"/>
           <w xml:id="xTok_LEcon228_001142" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_LEcon228_001144" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEcon228_001146" ana="#VVDfVVD" lemma="let">let</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3184"/>
           <w xml:id="xTok_LEcon228_001149" ana="#VVDfVVD" lemma="let">let</w>
           <w xml:id="xTok_LEcon228_001151" ana="#PPfPP" lemma="they">them</w>
           <w xml:id="xTok_LEcon228_001153" ana="#RPfRP" lemma="in">in</w>
-          <w xml:id="xTok_LEcon228_001155" part="I" next="#xTok_LEcon228_001156" ana="#RPfRP" lemma="in">i<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001155" part="I" next="#xTok_LEcon228_001156" ana="#RPfRP" lemma="in">i<c type="lengthening" xml:id="LEcon228_d2e3201"/>
           </w>
           <w xml:id="xTok_LEcon228_001156" part="F" prev="#xTok_LEcon228_001155">n</w>
           <w xml:id="xTok_LEcon228_001158" ana="#CCfCC" lemma="but">but</w>
-          <w xml:id="xTok_LEcon228_001160" part="I" next="#xTok_LEcon228_001161" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001160" part="I" next="#xTok_LEcon228_001161" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e3213"/>
           </w>
           <w xml:id="xTok_LEcon228_001161" part="F" prev="#xTok_LEcon228_001160">r</w>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_62">
           <w xml:id="xTok_LEcon228_001165" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3227"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_63">
           <w xml:id="xTok_LEcon228_001169" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
-          <unclear>
+          <pause xml:id="LEcon228_d2e3237"/>
+          <unclear xml:id="LEcon228_d2e3238">
             <w xml:id="xTok_LEcon228_001172" ana="#PPfPP" lemma="they">they</w>
             <w xml:id="xTok_LEcon228_001174" ana="#VVDfVVD" lemma="say">said</w>
             <w xml:id="xTok_LEcon228_001176" ana="#PREfPRE" lemma="which">which</w>
           </unclear>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e3253"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_64">
           <w xml:id="xTok_LEcon228_001180" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_LEcon228_001182" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_LEcon228_001184" ana="#PPfPP" lemma="you">you</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3271"/>
           <w xml:id="xTok_LEcon228_001187" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_LEcon228_001189" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEcon228_001191" ana="#VVfVV" lemma="know">know</w>
@@ -1294,16 +1294,16 @@
           <w xml:id="xTok_LEcon228_001197" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_LEcon228_001199" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_001201" ana="#JJfJJ" lemma="same">same</w>
-          <w xml:id="xTok_LEcon228_001203" ana="#NNfNN" lemma="guy">guy<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_001203" ana="#NNfNN" lemma="guy">guy<c function="rise" type="intonation" xml:id="LEcon228_d2e3310"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3311"/>
           <w xml:id="xTok_LEcon228_001205" ana="#PPfPP" lemma="you" part="I" next="xTok_LEcon228_001207">you</w>
           <w xml:id="xTok_LEcon228_001207" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_LEcon228_001205">'re</w>
           <w xml:id="xTok_LEcon228_001209" ana="#RBfRB" lemma="not">not</w>
-          <w xml:id="xTok_LEcon228_001211" ana="#JJfJJ" lemma="sure">sure<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_001211" ana="#JJfJJ" lemma="sure">sure<c function="rise" type="intonation" xml:id="LEcon228_d2e3329"/>
           </w>
-          <pause/>
-          <w xml:id="xTok_LEcon228_001213" ana="#CCfCC" lemma="or">or<c function="rise" type="intonation"/>
+          <pause xml:id="LEcon228_d2e3330"/>
+          <w xml:id="xTok_LEcon228_001213" ana="#CCfCC" lemma="or">or<c function="rise" type="intonation" xml:id="LEcon228_d2e3335"/>
           </w>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_65">
@@ -1322,12 +1322,12 @@
             <w xml:id="xTok_LEcon228_001239" ana="#NNfNN" lemma="guy">guy</w>
             <w xml:id="xTok_LEcon228_001241" ana="#RBfRB" lemma="actually">actually</w>
           </seg>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e3398"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_66">
           <seg n="6" synch="#LEcon228_ol_24" type="overlap" xml:id="LEcon228_ol_25">
             <w xml:id="xTok_LEcon228_001245" ana="#UHfUH" lemma="oh">oh</w>
-            <unclear>
+            <unclear xml:id="LEcon228_d2e3409">
               <w xml:id="xTok_LEcon228_001248" ana="#REfRE" lemma="okay">okay</w>
             </unclear>
             <w xml:id="xTok_LEcon228_001251" ana="#REfRE" lemma="okay">okay</w>
@@ -1340,32 +1340,32 @@
           <w xml:id="xTok_LEcon228_001261" ana="#VVDfVVD" lemma="do" part="I" next="xTok_LEcon228_001263">did</w>
           <w xml:id="xTok_LEcon228_001263" ana="#RBfRB" lemma="not" part="F" prev="xTok_LEcon228_001261">n't</w>
           <w xml:id="xTok_LEcon228_001265" ana="#RBfRB" lemma="really">really</w>
-          <pause/>
-          <w xml:id="xTok_LEcon228_001268" part="I" next="#xTok_LEcon228_001269" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="LEcon228_d2e3453"/>
+          <w xml:id="xTok_LEcon228_001268" part="I" next="#xTok_LEcon228_001269" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e3458"/>
           </w>
           <w xml:id="xTok_LEcon228_001269" part="F" prev="#xTok_LEcon228_001268">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3463"/>
           <w xml:id="xTok_LEcon228_001272" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_001274" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_LEcon228_001276" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEcon228_001278" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_LEcon228_001280" ana="#XXfXX" lemma="">i-</w>
-          <w xml:id="xTok_LEcon228_001282" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001282" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e3489"/>
           </w>
           <w xml:id="xTok_LEcon228_001284" ana="#XXfXX" lemma="">i-</w>
-          <w xml:id="xTok_LEcon228_001286" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
-            <c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001286" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e3499"/>
+            <c type="lengthening" xml:id="LEcon228_d2e3500"/>
           </w>
           <w xml:id="xTok_LEcon228_001288" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEcon228_001290" ana="#VBDfVBD" lemma="be" part="I" next="xTok_LEcon228_001292">was</w>
           <w xml:id="xTok_LEcon228_001292" ana="#RBfRB" lemma="not" part="F" prev="xTok_LEcon228_001290">n't</w>
           <w xml:id="xTok_LEcon228_001294" ana="#RBfRB" lemma="really">really</w>
-          <w xml:id="xTok_LEcon228_001296" part="I" next="#xTok_LEcon228_001297" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001296" part="I" next="#xTok_LEcon228_001297" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e3522"/>
           </w>
           <w xml:id="xTok_LEcon228_001297" part="F" prev="#xTok_LEcon228_001296">r</w>
           <w xml:id="xTok_LEcon228_001299" ana="#INfIN" lemma="before">before</w>
           <w xml:id="xTok_LEcon228_001301" ana="#PPfPP" lemma="i">i</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3536"/>
           <w xml:id="xTok_LEcon228_001304" ana="#RBfRB" lemma="kind">kind</w>
           <w xml:id="xTok_LEcon228_001306" ana="#RBfRB" lemma="of">of</w>
           <w xml:id="xTok_LEcon228_001308" ana="#PPfPP" lemma="he">he</w>
@@ -1391,10 +1391,10 @@
           <seg n="7" type="overlap" xml:id="LEcon228_ol_26">
             <w xml:id="xTok_LEcon228_001349" ana="#PREfPRE" lemma="that">that</w>
           </seg>
-          <w xml:id="xTok_LEcon228_001352" part="I" next="#xTok_LEcon228_001353" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001352" part="I" next="#xTok_LEcon228_001353" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e3642"/>
           </w>
           <w xml:id="xTok_LEcon228_001353" part="F" prev="#xTok_LEcon228_001352">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e3647"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_68">
           <seg n="7" synch="#LEcon228_ol_26" type="overlap" xml:id="LEcon228_ol_27">
@@ -1407,7 +1407,7 @@
           <w xml:id="xTok_LEcon228_001365" ana="#VHPfVHP" lemma="have" part="F" prev="xTok_LEcon228_001363">'ve</w>
           <w xml:id="xTok_LEcon228_001367" ana="#VVNfVVN" lemma="see">seen</w>
           <w xml:id="xTok_LEcon228_001369" ana="#RBfRB" lemma="before">before</w>
-          <voice:track medium="1" num="2" type="md"/>
+          <voice:track medium="1" num="2" type="md" xml:id="LEcon228_d2e3684"/>
           <w xml:id="xTok_LEcon228_001372" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_LEcon228_001374" ana="#VBDfVBD" lemma="be">was</w>
           <seg n="1" type="overlap" xml:id="LEcon228_ol_28">
@@ -1416,7 +1416,7 @@
           </seg>
           <w xml:id="xTok_LEcon228_001382" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_001384" ana="#NNfNN" lemma="window">window</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="LEcon228_d2e3717"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_70">
           <seg n="1" synch="#LEcon228_ol_28" type="overlap" xml:id="LEcon228_ol_29">
@@ -1426,21 +1426,21 @@
         <u who="#LEcon228_S1" xml:id="LEcon228_u_71">
           <w xml:id="xTok_LEcon228_001392" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEcon228_001394" ana="#VBDfVBD" lemma="be">was</w>
-          <unclear>
+          <unclear xml:id="LEcon228_d2e3741">
             <w xml:id="xTok_LEcon228_001397" ana="#RBfRB" lemma="a">a</w>
             <w xml:id="xTok_LEcon228_001399" ana="#RBfRB" lemma="bit">bit</w>
           </unclear>
           <w xml:id="xTok_LEcon228_001402" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3758"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_72">
           <w xml:id="xTok_LEcon228_001406" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_LEcon228_001408" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_LEcon228_001410" ana="#VVDfVVD" lemma="do">did</w>
           <w xml:id="xTok_LEcon228_001412" ana="#PPfPP" lemma="he">he</w>
-          <w xml:id="xTok_LEcon228_001414" ana="#VVfVV" lemma="do">do<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_001414" ana="#VVfVV" lemma="do">do<c function="rise" type="intonation" xml:id="LEcon228_d2e3783"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3785"/>
           <w xml:id="xTok_LEcon228_001416" ana="#UHfUH" lemma="erm">erm</w>
           <w xml:id="xTok_LEcon228_001418" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_001420" ana="#JJfJJ" lemma="other">other</w>
@@ -1449,17 +1449,17 @@
           <w xml:id="xTok_LEcon228_001426" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEcon228_001428" ana="#VVDfVVD" lemma="see">saw</w>
           <w xml:id="xTok_LEcon228_001430" ana="#PPfPP" lemma="he">him</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3821"/>
           <w xml:id="xTok_LEcon228_001433" ana="#DMfDM" lemma="like">like</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3829"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_73">
           <w xml:id="xTok_LEcon228_001437" ana="#REfRE" lemma="yeah">yeah</w>
           <seg n="2" type="overlap" xml:id="LEcon228_ol_30">
-            <w xml:id="xTok_LEcon228_001440" ana="#PPfPP" lemma="he">he<c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_001440" ana="#PPfPP" lemma="he">he<c type="lengthening" xml:id="LEcon228_d2e3844"/>
             </w>
-            <w xml:id="xTok_LEcon228_001442" part="I" next="#xTok_LEcon228_001443" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
-              <c type="lengthening"/>
+            <w xml:id="xTok_LEcon228_001442" part="I" next="#xTok_LEcon228_001443" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e3849"/>
+              <c type="lengthening" xml:id="LEcon228_d2e3850"/>
             </w>
             <w xml:id="xTok_LEcon228_001443" part="F" prev="#xTok_LEcon228_001442">r</w>
           </seg>
@@ -1471,23 +1471,23 @@
             <w xml:id="xTok_LEcon228_001451" ana="#VVDfVVD" lemma="do">did</w>
             <w xml:id="xTok_LEcon228_001453" ana="#PPfPP" lemma="he">he</w>
           </seg>
-          <w xml:id="xTok_LEcon228_001456" ana="#VVfVV" lemma="react">react<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_001456" ana="#VVfVV" lemma="react">react<c function="rise" type="intonation" xml:id="LEcon228_d2e3881"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3882"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_75">
           <w xml:id="xTok_LEcon228_001459" ana="#REfRE" lemma="no">no</w>
-          <w xml:id="xTok_LEcon228_001461" ana="#PPfPP" lemma="he">he<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001461" ana="#PPfPP" lemma="he">he<c type="lengthening" xml:id="LEcon228_d2e3894"/>
           </w>
           <w xml:id="xTok_LEcon228_001463" ana="#RBfRB" lemma="just">just</w>
-          <w xml:id="xTok_LEcon228_001465" ana="#UHfUH" lemma="er">er<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001465" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="LEcon228_d2e3903"/>
           </w>
           <w xml:id="xTok_LEcon228_001467" ana="#VVDfVVD" lemma="start">started</w>
           <w xml:id="xTok_LEcon228_001469" ana="#VVGfVVG" lemma="walk">walking</w>
           <w xml:id="xTok_LEcon228_001471" ana="#RBfRB" lemma="down">down</w>
           <w xml:id="xTok_LEcon228_001473" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_001475" ana="#NNfNN" lemma="street">street</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3927"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_76">
           <w xml:id="xTok_LEcon228_001479" ana="#UHfUH" lemma="oh">oh</w>
@@ -1502,14 +1502,14 @@
           <w xml:id="xTok_LEcon228_001489" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_001491" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_LEcon228_001493" ana="#DMfDM" lemma="like">like</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e3968"/>
           <w xml:id="xTok_LEcon228_001496" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_LEcon228_001498" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_LEcon228_001500" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEcon228_001502" ana="#VVGfVVG" lemma="do">doing</w>
           <w xml:id="xTok_LEcon228_001504" ana="#RBfRB" lemma="here">here</w>
           <seg n="4" type="overlap" xml:id="LEcon228_ol_34">
-            <unclear>
+            <unclear xml:id="LEcon228_d2e3993">
               <w xml:id="xTok_LEcon228_001507" ana="#WPfWP" lemma="what">what</w>
             </unclear>
           </seg>
@@ -1517,10 +1517,10 @@
           <w xml:id="xTok_LEcon228_001512" ana="#VVDfVVD" lemma="do">did</w>
           <w xml:id="xTok_LEcon228_001514" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEcon228_001516" ana="#VVfVV" lemma="do">do</w>
-          <w xml:id="xTok_LEcon228_001518" ana="#DTfDT" lemma="that">that<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_001518" ana="#DTfDT" lemma="that">that<c function="rise" type="intonation" xml:id="LEcon228_d2e4021"/>
           </w>
           <w xml:id="xTok_LEcon228_001520" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="LEcon228_d2e4029"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_78">
           <seg n="4" synch="#LEcon228_ol_34" type="overlap" xml:id="LEcon228_ol_35">
@@ -1529,7 +1529,7 @@
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_79">
           <w xml:id="xTok_LEcon228_001528" ana="#UHfUH" lemma="wow">wow</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e4050"/>
           <w xml:id="xTok_LEcon228_001531" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_001533" ana="#RBfRB" lemma="probably">probably</w>
           <w xml:id="xTok_LEcon228_001535" ana="#VHPfVHP" lemma="have">have</w>
@@ -1545,7 +1545,7 @@
           <w xml:id="xTok_LEcon228_001555" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_001557" ana="#NNfNN" lemma="corner">corner</w>
           <w xml:id="xTok_LEcon228_001559" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4116"/>
           <w xml:id="xTok_LEcon228_001562" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_001564" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_LEcon228_001566" ana="#CDfCD" lemma="three">three</w>
@@ -1557,11 +1557,11 @@
         <u who="#LEcon228_S2" xml:id="LEcon228_u_80">
           <anchor synch="#LEcon228_oc_16" type="other_continuation" xml:id="LEcon228_oc_17"/>
           <w xml:id="xTok_LEcon228_001576" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4155"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_81">
           <w xml:id="xTok_LEcon228_001580" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4165"/>
           <w xml:id="xTok_LEcon228_001583" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_001585" ana="#JJfJJ" lemma="other">other</w>
           <w xml:id="xTok_LEcon228_001587" ana="#NNSfNNS" lemma="people">people</w>
@@ -1574,13 +1574,13 @@
           <w xml:id="xTok_LEcon228_001599" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_83">
-          <w xml:id="xTok_LEcon228_001603" ana="#DMfDM" lemma="so">so<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001603" ana="#DMfDM" lemma="so">so<c type="lengthening" xml:id="LEcon228_d2e4214"/>
           </w>
-          <w xml:id="xTok_LEcon228_001605" part="I" next="#xTok_LEcon228_001606" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001605" part="I" next="#xTok_LEcon228_001606" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e4219"/>
           </w>
           <w xml:id="xTok_LEcon228_001606" part="F" prev="#xTok_LEcon228_001605">r</w>
-          <pause/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <pause xml:id="LEcon228_d2e4224"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEcon228_d2e4225"/>
           <shift corresp="#LEcon228_s_4" feature="voice" new="laugh" xml:id="LEcon228_s_3"/>
           <w xml:id="xTok_LEcon228_001609" ana="#REfRE" lemma="yeah">yeah</w>
           <shift corresp="#LEcon228_s_3" feature="voice" new="neutral" xml:id="LEcon228_s_4"/>
@@ -1590,9 +1590,9 @@
           <w xml:id="xTok_LEcon228_001618" ana="#RBfRB" lemma="little">little</w>
           <w xml:id="xTok_LEcon228_001620" ana="#RBfRB" lemma="bit">bit</w>
           <w xml:id="xTok_LEcon228_001622" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="LEcon228_d2e4262"/>
           <w xml:id="xTok_LEcon228_001625" ana="#UHfUH" lemma="er">er</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e4269"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_84">
           <w xml:id="xTok_LEcon228_001629" ana="#PPfPP" lemma="you">you</w>
@@ -1601,7 +1601,7 @@
           <w xml:id="xTok_LEcon228_001635" ana="#VVfVV" lemma="go">go</w>
           <w xml:id="xTok_LEcon228_001637" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_LEcon228_001639" ana="#DTfDT" lemma="the">the</w>
-          <foreign type="LN" voice:translation="austrian academic exchange service" xml:lang="ger">
+          <foreign type="LN" voice:translation="austrian academic exchange service" xml:lang="ger" xml:id="LEcon228_d2e4300">
             <w xml:id="xTok_LEcon228_001642" voice:mode="spelt" spelt_orig="oe a d" ana="#NPfNP" lemma="s_oead">oead</w>
           </foreign>
           <w xml:id="xTok_LEcon228_001644" ana="#CCfCC" lemma="and">and</w>
@@ -1621,7 +1621,7 @@
           <w xml:id="xTok_LEcon228_001670" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_LEcon228_001672" ana="#NNfNN" lemma="room">room</w>
           <w xml:id="xTok_LEcon228_001674" ana="#INfIN" lemma="at">at</w>
-          <foreign type="LN" voice:translation="name of a street" xml:lang="ger">
+          <foreign type="LN" voice:translation="name of a street" xml:lang="ger" xml:id="LEcon228_d2e4374">
             <w xml:id="xTok_LEcon228_001677" ana="#FWfFW" lemma="">tigergasse</w>
           </foreign>
           <anchor synch="#LEcon228_oc_19" type="other_continuation" xml:id="LEcon228_oc_18"/>
@@ -1629,7 +1629,7 @@
         <u who="#LEcon228_S1" xml:id="LEcon228_u_85">
           <seg n="5" synch="#LEcon228_ol_36" type="overlap" xml:id="LEcon228_ol_37">
             <w xml:id="xTok_LEcon228_001681" ana="#REfRE" lemma="yeah">yeah</w>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="LEcon228_d2e4392"/>
             <w xml:id="xTok_LEcon228_001684" ana="#REfRE" lemma="yeah">yeah</w>
             <w xml:id="xTok_LEcon228_001686" ana="#REfRE" lemma="yeah">yeah</w>
             <w xml:id="xTok_LEcon228_001688" ana="#REfRE" lemma="yeah">yeah</w>
@@ -1648,7 +1648,7 @@
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_87">
           <seg n="6" synch="#LEcon228_ol_38" type="overlap" xml:id="LEcon228_ol_39">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="LEcon228_d2e4438"/>
           </seg>
           <w xml:id="xTok_LEcon228_001703" ana="#BRfBR" lemma="">hh</w>
         </u>
@@ -1657,42 +1657,42 @@
           <w xml:id="xTok_LEcon228_001709" ana="#DTfDT" lemma="that" part="I" next="xTok_LEcon228_001711">that</w>
           <w xml:id="xTok_LEcon228_001711" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_LEcon228_001709">'s</w>
           <w xml:id="xTok_LEcon228_001713" ana="#JJfJJ" lemma="sure">sure</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4466"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_89">
           <w xml:id="xTok_LEcon228_001717" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4477"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_90">
           <w xml:id="xTok_LEcon228_001721" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4487"/>
           <w xml:id="xTok_LEcon228_001724" ana="#UHfUH" lemma="er">er</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e4494"/>
           <w xml:id="xTok_LEcon228_001727" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e4502"/>
           <w xml:id="xTok_LEcon228_001730" ana="#CCfCC" lemma="but">but</w>
-          <w xml:id="xTok_LEcon228_001732" part="I" next="#xTok_LEcon228_001733" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
-            <c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001732" part="I" next="#xTok_LEcon228_001733" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e4511"/>
+            <c type="lengthening" xml:id="LEcon228_d2e4512"/>
           </w>
           <w xml:id="xTok_LEcon228_001733" part="F" prev="#xTok_LEcon228_001732">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e4517"/>
           <w xml:id="xTok_LEcon228_001736" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4525"/>
           <w xml:id="xTok_LEcon228_001739" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_001741" ana="#MDfMD" lemma="will">would</w>
           <w xml:id="xTok_LEcon228_001743" ana="#VVfVV" lemma="like">like</w>
-          <w xml:id="xTok_LEcon228_001745" ana="#TOfTO" lemma="to">to<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001745" ana="#TOfTO" lemma="to">to<c type="lengthening" xml:id="LEcon228_d2e4543"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4544"/>
           <w xml:id="xTok_LEcon228_001747" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_LEcon228_001749" ana="#RBfRB" lemma="just">just</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4555"/>
           <w xml:id="xTok_LEcon228_001752" ana="#PPfPP" lemma="it" part="I" next="xTok_LEcon228_001754">it</w>
           <w xml:id="xTok_LEcon228_001754" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_LEcon228_001752">'s</w>
           <w xml:id="xTok_LEcon228_001756" ana="#PDTfPDT" lemma="such">such</w>
-          <w xml:id="xTok_LEcon228_001758" ana="#DTfDT" lemma="a">a<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001758" ana="#DTfDT" lemma="a">a<c type="lengthening" xml:id="LEcon228_d2e4573"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4574"/>
           <w xml:id="xTok_LEcon228_001760" ana="#PPfPP" lemma="it" part="I" next="xTok_LEcon228_001762">it</w>
           <w xml:id="xTok_LEcon228_001762" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_LEcon228_001760">'s</w>
           <w xml:id="xTok_LEcon228_001764" ana="#DTfDT" lemma="such">such</w>
@@ -1701,7 +1701,7 @@
           <w xml:id="xTok_LEcon228_001770" ana="#WRBfWRB" lemma="where">where</w>
           <w xml:id="xTok_LEcon228_001772" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_001774" ana="#VVPfVVP" lemma="live">live</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4611"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_91">
           <w xml:id="xTok_LEcon228_001778" ana="#REfRE" lemma="yeah">yeah</w>
@@ -1722,9 +1722,9 @@
           <w xml:id="xTok_LEcon228_001806" ana="#NNfNN" lemma="something">something</w>
           <w xml:id="xTok_LEcon228_001808" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_LEcon228_001810" ana="#DMfDM #RBfRB" lemma="so">so</w>
-          <pause dur="PT3S"/>
+          <pause dur="PT3S" xml:id="LEcon228_d2e4688"/>
           <w xml:id="xTok_LEcon228_001813" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4696"/>
           <seg n="7" type="overlap" xml:id="LEcon228_ol_40">
             <w xml:id="xTok_LEcon228_001816" part="I" next="#xTok_LEcon228_001817" ana="#JJfJJ" lemma="difficult">diffi</w>
           </seg>
@@ -1750,30 +1750,30 @@
           <w xml:id="xTok_LEcon228_001847" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEcon228_001849" ana="#VVfVV" lemma="take">take</w>
           <w xml:id="xTok_LEcon228_001851" ana="#DTfDT" lemma="a">a</w>
-          <foreign type="LN" voice:translation="underground" xml:lang="ger">
+          <foreign type="LN" voice:translation="underground" xml:lang="ger" xml:id="LEcon228_d2e4780">
             <w xml:id="xTok_LEcon228_001854" voice:mode="spelt" spelt_orig="u" ana="#NNfNN" lemma="s_u">u</w>
-            <w xml:id="xTok_LEcon228_001856" ana="#FWfFW" lemma="">bahn<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEcon228_001856" ana="#FWfFW" lemma="">bahn<c function="rise" type="intonation" xml:id="LEcon228_d2e4789"/>
             </w>
           </foreign>
           <w xml:id="xTok_LEcon228_001858" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_LEcon228_001860" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_LEcon228_001862" ana="#NNfNN" lemma="tram">tram</w>
           <w xml:id="xTok_LEcon228_001864" ana="#CCfCC" lemma="or">or</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4809"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_95">
-          <w xml:id="xTok_LEcon228_001868" part="I" next="#xTok_LEcon228_001869" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001868" part="I" next="#xTok_LEcon228_001869" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e4817"/>
           </w>
           <w xml:id="xTok_LEcon228_001869" part="F" prev="#xTok_LEcon228_001868">r</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4822"/>
           <w xml:id="xTok_LEcon228_001872" ana="#DMfDM" lemma="well">well</w>
-          <w xml:id="xTok_LEcon228_001874" part="I" next="#xTok_LEcon228_001875" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001874" part="I" next="#xTok_LEcon228_001875" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e4831"/>
           </w>
           <w xml:id="xTok_LEcon228_001875" part="F" prev="#xTok_LEcon228_001874">r</w>
           <w xml:id="xTok_LEcon228_001877" ana="#INfIN" lemma="during">during</w>
           <w xml:id="xTok_LEcon228_001879" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_001881" ana="#NNfNN" lemma="daytime">daytime</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4849"/>
           <w xml:id="xTok_LEcon228_001884" ana="#RBfRB" lemma="now">now</w>
           <w xml:id="xTok_LEcon228_001886" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_001888" ana="#VVDfVVD" lemma="take">took</w>
@@ -1792,10 +1792,10 @@
           <w xml:id="xTok_LEcon228_001913" ana="#NNfNN" lemma="number">number</w>
           <w xml:id="xTok_LEcon228_001915" ana="#CDfCD" lemma="five">five</w>
           <shift corresp="#LEcon228_s_7" feature="tempo" new="neutral" xml:id="LEcon228_s_8"/>
-          <pause/>
+          <pause xml:id="LEcon228_d2e4924"/>
           <w xml:id="xTok_LEcon228_001918" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_LEcon228_001920" ana="#UHfUH" lemma="er">er</w>
-          <foreign type="LN" voice:translation="name of tram stop" xml:lang="ger">
+          <foreign type="LN" voice:translation="name of tram stop" xml:lang="ger" xml:id="LEcon228_d2e4935">
             <w xml:id="xTok_LEcon228_001923" ana="#FWfFW" lemma="">praterstern</w>
           </foreign>
         </u>
@@ -1806,7 +1806,7 @@
         <u who="#LEcon228_S1" xml:id="LEcon228_u_97">
           <anchor synch="#LEcon228_oc_20" type="other_continuation" xml:id="LEcon228_oc_21"/>
           <w xml:id="xTok_LEcon228_001931" ana="#DTfDT" lemma="the">the</w>
-          <foreign type="LN" voice:translation="tram" xml:lang="ger">
+          <foreign type="LN" voice:translation="tram" xml:lang="ger" xml:id="LEcon228_d2e4962">
             <w xml:id="xTok_LEcon228_001934" ana="#FWfFW" lemma="">strassenbahn</w>
           </foreign>
         </u>
@@ -1820,15 +1820,15 @@
           <w xml:id="xTok_LEcon228_001948" ana="#PDTfPDT" lemma="all">all</w>
           <w xml:id="xTok_LEcon228_001950" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEcon228_001952" ana="#NNfNN" lemma="way">way</w>
-          <w xml:id="xTok_LEcon228_001954" ana="#INfIN" lemma="to">to<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001954" ana="#INfIN" lemma="to">to<c type="lengthening" xml:id="LEcon228_d2e5010"/>
           </w>
           <w xml:id="xTok_LEcon228_001956" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_LEcon228_001958" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_LEcon228_001960" ana="#INfIN" lemma="outside">outside</w>
-          <foreign type="LN" voice:translation="name of a street" xml:lang="ger">
+          <foreign type="LN" voice:translation="name of a street" xml:lang="ger" xml:id="LEcon228_d2e5026">
             <w xml:id="xTok_LEcon228_001963" ana="#FWfFW" lemma="">tigergasse</w>
           </foreign>
-          <pause/>
+          <pause xml:id="LEcon228_d2e5033"/>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_100">
           <w xml:id="xTok_LEcon228_001967" ana="#REfRE" lemma="okay">okay</w>
@@ -1848,24 +1848,24 @@
           <w xml:id="xTok_LEcon228_001993" ana="#VHDfVHD" lemma="have">had</w>
           <w xml:id="xTok_LEcon228_001995" ana="#VVNfVVN" lemma="forget">forgotten</w>
           <w xml:id="xTok_LEcon228_001997" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_LEcon228_001999" part="I" next="#xTok_LEcon228_002000" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_001999" part="I" next="#xTok_LEcon228_002000" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e5109"/>
           </w>
           <w xml:id="xTok_LEcon228_002000" part="F" prev="#xTok_LEcon228_001999">r</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e5115"/>
           <w xml:id="xTok_LEcon228_002003" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEcon228_002005" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_LEcon228_002007" ana="#DTfDT" lemma="a">a</w>
-          <foreign type="LN" voice:translation="tram" xml:lang="ger">
+          <foreign type="LN" voice:translation="tram" xml:lang="ger" xml:id="LEcon228_d2e5130">
             <w xml:id="xTok_LEcon228_002010" ana="#FWfFW" lemma="">strassenbahn</w>
           </foreign>
           <w xml:id="xTok_LEcon228_002013" ana="#PREfPRE" lemma="that">that</w>
           <w xml:id="xTok_LEcon228_002015" ana="#VVDfVVD" lemma="go">went</w>
           <w xml:id="xTok_LEcon228_002017" ana="#INfIN" lemma="from">from</w>
-          <w xml:id="xTok_LEcon228_002019" part="I" next="#xTok_LEcon228_002020" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_002019" part="I" next="#xTok_LEcon228_002020" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEcon228_d2e5154"/>
           </w>
           <w xml:id="xTok_LEcon228_002020" part="F" prev="#xTok_LEcon228_002019">r</w>
-          <pause/>
-          <foreign type="LN" voice:translation="name of a street" xml:lang="ger">
+          <pause xml:id="LEcon228_d2e5159"/>
+          <foreign type="LN" voice:translation="name of a street" xml:lang="ger" xml:id="LEcon228_d2e5160">
             <w xml:id="xTok_LEcon228_002023" ana="#FWfFW" lemma="">josefstaetterstrasse</w>
           </foreign>
           <w xml:id="xTok_LEcon228_002026" ana="#PPfPP" lemma="i">i</w>
@@ -1873,7 +1873,7 @@
           <w xml:id="xTok_LEcon228_002030" ana="#VVDfVVD" lemma="realize">realized</w>
           <w xml:id="xTok_LEcon228_002032" ana="#RBfRB" lemma="today">today</w>
           <w xml:id="xTok_LEcon228_002034" ana="#PPfPP" lemma="i">i</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e5191"/>
           <w xml:id="xTok_LEcon228_002037" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_LEcon228_002039" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEcon228_002041" ana="#VVDfVVD" lemma="remember">remembered</w>
@@ -1885,11 +1885,11 @@
           <shift corresp="#LEcon228_s_9" feature="voice" new="neutral" xml:id="LEcon228_s_10"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_103">
-          <w xml:id="xTok_LEcon228_002051" ana="#DMfDM" lemma="so">so<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_002051" ana="#DMfDM" lemma="so">so<c type="lengthening" xml:id="LEcon228_d2e5228"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="LEcon228_d2e5229"/>
           <w xml:id="xTok_LEcon228_002053" ana="#RBfRB" lemma="now">now</w>
-          <pause dur="PT3S"/>
+          <pause dur="PT3S" xml:id="LEcon228_d2e5236"/>
           <w xml:id="xTok_LEcon228_002056" ana="#UHfUH" lemma="er">er</w>
         </u>
         <u who="#LEcon228_S2" xml:id="LEcon228_u_104">
@@ -1899,11 +1899,11 @@
           <w xml:id="xTok_LEcon228_002066" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_LEcon228_002068" ana="#JJfJJ" lemma="long">long</w>
           <w xml:id="xTok_LEcon228_002070" ana="#NNfNN" lemma="way">way</w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e5273"/>
           <w xml:id="xTok_LEcon228_002073" ana="#INfIN" lemma="to">to</w>
-          <w xml:id="xTok_LEcon228_002075" ana="#NNfNN" lemma="school">school<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_002075" ana="#NNfNN" lemma="school">school<c function="rise" type="intonation" xml:id="LEcon228_d2e5282"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEcon228_d2e5283"/>
           <w xml:id="xTok_LEcon228_002077" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_LEcon228_002079" ana="#RBfRB" lemma="at">at</w>
           <seg n="1" type="overlap" xml:id="LEcon228_ol_42">
@@ -1914,12 +1914,12 @@
           <w xml:id="xTok_LEcon228_002089" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_LEcon228_002091" ana="#VVfVV" lemma="get">get</w>
           <seg n="2" type="overlap" xml:id="LEcon228_ol_43">
-            <w xml:id="xTok_LEcon228_002094" ana="#RBfRB" lemma="there">there<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEcon228_002094" ana="#RBfRB" lemma="there">there<c function="rise" type="intonation" xml:id="LEcon228_d2e5326"/>
             </w>
           </seg>
-          <w xml:id="xTok_LEcon228_002096" ana="#CCfCC" lemma="or">or<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEcon228_002096" ana="#CCfCC" lemma="or">or<c function="rise" type="intonation" xml:id="LEcon228_d2e5331"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e5332"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_105">
           <seg n="1" synch="#LEcon228_ol_42" type="overlap" xml:id="LEcon228_ol_44">
@@ -1941,22 +1941,22 @@
           <w xml:id="xTok_LEcon228_002119" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_LEcon228_002121" ana="#RBfRB" lemma="actually">actually</w>
           <w xml:id="xTok_LEcon228_002123" ana="#VVfVV" lemma="take">take</w>
-          <w xml:id="xTok_LEcon228_002125" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
-            <c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_002125" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="LEcon228_d2e5398"/>
+            <c type="lengthening" xml:id="LEcon228_d2e5399"/>
           </w>
-          <pause/>
+          <pause xml:id="LEcon228_d2e5401"/>
           <w xml:id="xTok_LEcon228_002127" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_LEcon228_002129" ana="#VVfVV" lemma="take">take</w>
           <w xml:id="xTok_LEcon228_002131" ana="#DTfDT" lemma="the">the</w>
-          <foreign type="LN" voice:translation="train" xml:lang="ger">
+          <foreign type="LN" voice:translation="train" xml:lang="ger" xml:id="LEcon228_d2e5416">
             <w xml:id="xTok_LEcon228_002134" ana="#FWfFW" lemma="">schne-</w>
             <w xml:id="xTok_LEcon228_002136" ana="#FWfFW" lemma="">schnellbahn</w>
           </foreign>
-          <pause dur="PT3S"/>
-          <incident dur="PT3S" voice:desc="someone comes to the table, probably the waiter "/>
+          <pause dur="PT3S" xml:id="LEcon228_d2e5427"/>
+          <incident dur="PT3S" voice:desc="someone comes to the table, probably the waiter " xml:id="LEcon228_d2e5428"/>
         </u>
         <u who="#LEcon228_S4" xml:id="LEcon228_u_108">
-          <w xml:id="xTok_LEcon228_002140" part="I" next="#xTok_LEcon228_002141" ana="#UHfUH" lemma="oh">o<c type="lengthening"/>
+          <w xml:id="xTok_LEcon228_002140" part="I" next="#xTok_LEcon228_002141" ana="#UHfUH" lemma="oh">o<c type="lengthening" xml:id="LEcon228_d2e5436"/>
           </w>
           <w xml:id="xTok_LEcon228_002141" part="F" prev="#xTok_LEcon228_002140">h</w>
           <w xml:id="xTok_LEcon228_002143" ana="#PPfPP" lemma="you" part="I" next="xTok_LEcon228_002145">you</w>
@@ -1966,15 +1966,15 @@
           <w xml:id="xTok_LEcon228_002151" ana="#NNfNN" lemma="interview">interview</w>
         </u>
         <u who="#LEcon228_S3" xml:id="LEcon228_u_109">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="LEcon228_d2e5465"/>
         </u>
         <u who="#LEcon228_S1" xml:id="LEcon228_u_110">
           <w xml:id="xTok_LEcon228_002156" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#LEcon228_S3" xml:id="LEcon228_u_111">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="LEcon228_d2e5479"/>
           <w xml:id="xTok_LEcon228_002160" ana="#BRfBR" lemma="">hh</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEcon228_d2e5486"/>
         </u>
       </div>
     </body>

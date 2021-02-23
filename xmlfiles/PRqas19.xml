@@ -450,12 +450,12 @@
   </teiHeader>
   <text>
     <body>
-      <div type="medium" voice:end="00:01" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1">
+      <div type="medium" voice:end="00:01" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1" xml:id="PRqas19_d2e590">
         <u who="#PRqas19_S1" xml:id="PRqas19_u_1">
           <w xml:id="xTok_PRqas19_000007" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_000009" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_000012" ana="#NNfNN" lemma="director">director<c function="rise" type="intonation"/>
+          <pause xml:id="PRqas19_d2e604"/>
+          <w xml:id="xTok_PRqas19_000012" ana="#NNfNN" lemma="director">director<c function="rise" type="intonation" xml:id="PRqas19_d2e609"/>
           </w>
           <w xml:id="xTok_PRqas19_000014" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000016" ana="#DTfDT" lemma="the">the</w>
@@ -465,55 +465,55 @@
           <w xml:id="xTok_PRqas19_000024" ana="#NPfNP" lemma="language">language</w>
           <w xml:id="xTok_PRqas19_000026" ana="#NPSfNPS" lemma="study">studies</w>
           <w xml:id="xTok_PRqas19_000028" ana="#INfIN" lemma="at">at</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e646">
             <w xml:id="xTok_PRqas19_000031" ana="#NPfNP" lemma="korea">korea</w>
           </emph>
-          <w xml:id="xTok_PRqas19_000034" ana="#NPfNP" lemma="university">university<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000034" ana="#NPfNP" lemma="university">university<c function="fall" type="intonation" xml:id="PRqas19_d2e657"/>
           </w>
           <w xml:id="xTok_PRqas19_000036" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000038" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000040" ana="#NNfNN" lemma="title">title</w>
           <w xml:id="xTok_PRqas19_000042" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000044" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PRqas19_000046" ana="#NNfNN" lemma="presentation">presentation<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000046" ana="#NNfNN" lemma="presentation">presentation<c function="rise" type="intonation" xml:id="PRqas19_d2e683"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e684"/>
           <w xml:id="xTok_PRqas19_000048" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_000050" ana="#NNfNN" lemma="diversity">diversity</w>
           <w xml:id="xTok_PRqas19_000052" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000054" ana="#NNfNN" lemma="higher">higher</w>
-          <w xml:id="xTok_PRqas19_000056" ana="#NNfNN" lemma="education">education<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000056" ana="#NNfNN" lemma="education">education<c function="rise" type="intonation" xml:id="PRqas19_d2e706"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e708"/>
           <w xml:id="xTok_PRqas19_000058" ana="#VVGfVVG" lemma="drive">driving</w>
-          <voice:pvc>
+          <voice:pvc xml:id="PRqas19_d2e715">
             <w xml:id="xTok_PRqas19_000061" ana="#PVCfNN" lemma="">multilingualism</w>
           </voice:pvc>
-          <pause/>
+          <pause xml:id="PRqas19_d2e722"/>
           <w xml:id="xTok_PRqas19_000064" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_000066" ana="#NNSfNNS" lemma="part">parts</w>
           <w xml:id="xTok_PRqas19_000068" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000070" ana="#NPfNP" lemma="east">east</w>
-          <w xml:id="xTok_PRqas19_000072" ana="#NPfNP" lemma="asia">asia<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000072" ana="#NPfNP" lemma="asia">asia<c function="fall" type="intonation" xml:id="PRqas19_d2e744"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e745"/>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_2">
           <w xml:id="xTok_PRqas19_000075" ana="#FIfFI" lemma="thank">thanks</w>
           <w xml:id="xTok_PRqas19_000077" ana="#RBfRB" lemma="so">so</w>
-          <w xml:id="xTok_PRqas19_000079" ana="#JJfJJ" lemma="much">much<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000079" ana="#JJfJJ" lemma="much">much<c function="rise" type="intonation" xml:id="PRqas19_d2e761"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e762"/>
           <w xml:id="xTok_PRqas19_000081" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRqas19_000083" ana="#NNfNN #NNfNNS" lemma="lady">lady</w>
           <w xml:id="xTok_PRqas19_000085" ana="#NNSfNNS" lemma="gentleman">gentlemen</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e778"/>
           <w xml:id="xTok_PRqas19_000088" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000090" ana="#JJfJJ" lemma="dear">dear</w>
-          <w xml:id="xTok_PRqas19_000092" ana="#NNSfNNS" lemma="colleague">colleagues<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000092" ana="#NNSfNNS" lemma="colleague">colleagues<c function="rise" type="intonation" xml:id="PRqas19_d2e792"/>
           </w>
-          <pause/>
-          <unclear>
+          <pause xml:id="PRqas19_d2e793"/>
+          <unclear xml:id="PRqas19_d2e794">
             <w xml:id="xTok_PRqas19_000094" ana="#PPfPP" lemma="i" part="I" next="xTok_PRqas19_000096">i</w>
             <w xml:id="xTok_PRqas19_000096" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PRqas19_000094">'m</w>
           </unclear>
@@ -523,57 +523,57 @@
           <w xml:id="xTok_PRqas19_000105" ana="#NPfNP" lemma="university">university</w>
           <w xml:id="xTok_PRqas19_000107" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000109" ana="#NNfNN" lemma="president">president</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e832">
             <w xml:id="xTok_PRqas19_000112" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_000114" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_000116" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PRqas19_d2e847"/>
           <w xml:id="xTok_PRqas19_000119" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000121" ana="#VVfVV" lemma="let">let</w>
           <w xml:id="xTok_PRqas19_000123" ana="#VVfVV" lemma="thank">thank</w>
           <w xml:id="xTok_PRqas19_000125" ana="#INfIN" lemma="for">for</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e867">
             <w xml:id="xTok_PRqas19_000128" ana="#UNIfUNI" lemma="">xx</w>
             <w xml:id="xTok_PRqas19_000130" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
           <w xml:id="xTok_PRqas19_000133" ana="#INfIN" lemma="for">for</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e884">
             <w xml:id="xTok_PRqas19_000136" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRqas19_000139" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000141" ana="#DTfDT" lemma="this">this</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e902"/>
           <w xml:id="xTok_PRqas19_000144" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PRqas19_000146" ana="#JJfJJ" lemma="respective">respective</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e913">
             <w xml:id="xTok_PRqas19_000149" ana="#NNfNN" lemma="conference">conference</w>
           </unclear>
-          <pause/>
+          <pause xml:id="PRqas19_d2e921"/>
           <w xml:id="xTok_PRqas19_000152" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PRqas19_000154" ana="#VVGfVVG" lemma="invite">inviting<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000154" ana="#VVGfVVG" lemma="invite">inviting<c function="rise" type="intonation" xml:id="PRqas19_d2e930"/>
           </w>
           <w xml:id="xTok_PRqas19_000156" ana="#PPfPP" lemma="i">me</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e937"/>
           <w xml:id="xTok_PRqas19_000159" ana="#RBfRB" lemma="here">here</w>
-          <w xml:id="xTok_PRqas19_000161" ana="#RBfRB" lemma="today">today<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000161" ana="#RBfRB" lemma="today">today<c function="rise" type="intonation" xml:id="PRqas19_d2e947"/>
           </w>
           <w xml:id="xTok_PRqas19_000163" ana="#CCfCC" lemma="and">and</w>
           <shift corresp="#PRqas19_s_2" feature="tempo" new="a" xml:id="PRqas19_s_1"/>
           <w xml:id="xTok_PRqas19_000166" ana="#VVGfVVG" lemma="give">giving</w>
           <w xml:id="xTok_PRqas19_000168" ana="#PPfPP" lemma="i">me</w>
           <w xml:id="xTok_PRqas19_000170" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_000172" ana="#NNfNN" lemma="chance">chance<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000172" ana="#NNfNN" lemma="chance">chance<c function="fall" type="intonation" xml:id="PRqas19_d2e972"/>
           </w>
           <shift corresp="#PRqas19_s_1" feature="tempo" new="neutral" xml:id="PRqas19_s_2"/>
           <w xml:id="xTok_PRqas19_000174" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_000176" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000178" ana="#NNfNN" lemma="rest">rest</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e989"/>
           <w xml:id="xTok_PRqas19_000181" ana="#DTfDT" lemma="all">all</w>
-          <w xml:id="xTok_PRqas19_000183" ana="#NNSfNNS" lemma="participant">participants<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000183" ana="#NNSfNNS" lemma="participant">participants<c function="fall" type="intonation" xml:id="PRqas19_d2e998"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e999"/>
           <w xml:id="xTok_PRqas19_000185" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PRqas19_000187" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_000189" ana="#PDTfPDT" lemma="such">such</w>
@@ -583,45 +583,45 @@
           <w xml:id="xTok_PRqas19_000197" ana="#NNfNN" lemma="pleasure">pleasure</w>
           <w xml:id="xTok_PRqas19_000199" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_000201" ana="#VBfVB" lemma="be">be</w>
-          <w xml:id="xTok_PRqas19_000203" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000203" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation" xml:id="PRqas19_d2e1042"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e1043"/>
           <w xml:id="xTok_PRqas19_000205" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_000207" ana="#MDfMD" lemma="will">would</w>
           <w xml:id="xTok_PRqas19_000209" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_PRqas19_000211" ana="#VVfVV" lemma="talk">talk</w>
           <w xml:id="xTok_PRqas19_000213" ana="#INfIN" lemma="about">about</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1067"/>
           <w xml:id="xTok_PRqas19_000216" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000218" ana="#JJfJJ" lemma="recent">recent</w>
           <w xml:id="xTok_PRqas19_000220" ana="#NNSfNNS" lemma="trend">trends</w>
           <w xml:id="xTok_PRqas19_000222" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_000224" ana="#NPfNP" lemma="korea">korea<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000224" ana="#NPfNP" lemma="korea">korea<c function="rise" type="intonation" xml:id="PRqas19_d2e1089"/>
           </w>
           <w xml:id="xTok_PRqas19_000226" ana="#JJfJJ" lemma="korean">korean</w>
           <w xml:id="xTok_PRqas19_000228" ana="#NNfNN" lemma="higher">higher</w>
           <w xml:id="xTok_PRqas19_000230" ana="#NNfNN" lemma="education">education</w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_000233" ana="#RBfRB" lemma="particularly">particularly<c function="rise" type="intonation"/>
+          <pause xml:id="PRqas19_d2e1105"/>
+          <w xml:id="xTok_PRqas19_000233" ana="#RBfRB" lemma="particularly">particularly<c function="rise" type="intonation" xml:id="PRqas19_d2e1110"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1112"/>
           <w xml:id="xTok_PRqas19_000235" ana="#INfIN" lemma="along">along</w>
           <w xml:id="xTok_PRqas19_000237" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PRqas19_000239" ana="#JJfJJ" lemma="korean">korean</w>
           <w xml:id="xTok_PRqas19_000241" ana="#NNfNN" lemma="university">university</w>
-          <w xml:id="xTok_PRqas19_000243" ana="#NNSfNNS" lemma="model">models<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000243" ana="#NNSfNNS" lemma="model">models<c function="fall" type="intonation" xml:id="PRqas19_d2e1134"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PRqas19_d2e1135"/>
           <w xml:id="xTok_PRqas19_000245" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000247" ana="#NNfNN" lemma="initiative">initiative</w>
           <w xml:id="xTok_PRqas19_000249" ana="#PREfPRE" lemma="that">that</w>
           <w xml:id="xTok_PRqas19_000251" ana="#JJfJJ" lemma="korean">korean</w>
           <w xml:id="xTok_PRqas19_000253" ana="#NNfNNS" lemma="university">university</w>
           <w xml:id="xTok_PRqas19_000255" ana="#VVPfVVP" lemma="adapt">adapt</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e1163">
             <w xml:id="xTok_PRqas19_000258" ana="#PPfPP" lemma="you">you</w>
           </unclear>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1170"/>
           <w xml:id="xTok_PRqas19_000261" ana="#VVDfVVD" lemma="find">found</w>
           <w xml:id="xTok_PRqas19_000263" ana="#RPfRP" lemma="out">out</w>
           <w xml:id="xTok_PRqas19_000265" ana="#TOfTO" lemma="to">to</w>
@@ -629,29 +629,29 @@
           <w xml:id="xTok_PRqas19_000269" ana="#RBfRB" lemma="very">very</w>
           <w xml:id="xTok_PRqas19_000271" ana="#JJfJJ" lemma="successful">successful</w>
           <w xml:id="xTok_PRqas19_000273" ana="#INfIN" lemma="in">in</w>
-          <unclear>
-            <w xml:id="xTok_PRqas19_000276" ana="#NNfNN" lemma="destiny">destiny<c function="rise" type="intonation"/>
+          <unclear xml:id="PRqas19_d2e1202">
+            <w xml:id="xTok_PRqas19_000276" ana="#NNfNN" lemma="destiny">destiny<c function="rise" type="intonation" xml:id="PRqas19_d2e1210"/>
             </w>
           </unclear>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1211"/>
           <w xml:id="xTok_PRqas19_000279" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000281" ana="#PPfPP" lemma="i" part="I" next="xTok_PRqas19_000283">i</w>
           <w xml:id="xTok_PRqas19_000283" ana="#VHPfVHP" lemma="have" part="F" prev="xTok_PRqas19_000281">'ve</w>
           <w xml:id="xTok_PRqas19_000285" ana="#VVNfVVN" lemma="let">let</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1231"/>
           <w xml:id="xTok_PRqas19_000288" ana="#VVfVV" lemma="share">share</w>
           <w xml:id="xTok_PRqas19_000290" ana="#PPSfPPS" lemma="we">our</w>
           <w xml:id="xTok_PRqas19_000292" ana="#NNfNN" lemma="experience">experience</w>
           <w xml:id="xTok_PRqas19_000294" ana="#INfIN" lemma="with">with</w>
-          <w xml:id="xTok_PRqas19_000296" ana="#PPfPP" lemma="you">you<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000296" ana="#PPfPP" lemma="you">you<c function="fall" type="intonation" xml:id="PRqas19_d2e1253"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1254"/>
           <w xml:id="xTok_PRqas19_000298" ana="#PPfPP" lemma="we" part="I" next="xTok_PRqas19_000300">we</w>
           <w xml:id="xTok_PRqas19_000300" ana="#VHDfVHD" lemma="have" part="F" prev="xTok_PRqas19_000298">'d</w>
           <w xml:id="xTok_PRqas19_000302" ana="#VVNfVVN" lemma="let">let</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1269"/>
           <w xml:id="xTok_PRqas19_000305" ana="#RBfRB" lemma="also">also</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e1277">
             <w xml:id="xTok_PRqas19_000308" ana="#VVfVV" lemma="present">present</w>
           </unclear>
           <w xml:id="xTok_PRqas19_000311" ana="#NPfNP" lemma="asia">asia</w>
@@ -661,7 +661,7 @@
           <w xml:id="xTok_PRqas19_000319" ana="#NNfNN" lemma="association">association</w>
           <w xml:id="xTok_PRqas19_000321" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_000323" ana="#JJfJJ" lemma="international">international</w>
-          <w xml:id="xTok_PRqas19_000325" ana="#NNfNN" lemma="education">education<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000325" ana="#NNfNN" lemma="education">education<c function="fall" type="intonation" xml:id="PRqas19_d2e1317"/>
           </w>
           <w xml:id="xTok_PRqas19_000327" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PRqas19_000329" ana="#DTfDT" lemma="a">an</w>
@@ -671,9 +671,9 @@
           <w xml:id="xTok_PRqas19_000337" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000339" ana="#JJfJJ" lemma="regional">regional</w>
           <w xml:id="xTok_PRqas19_000341" ana="#JJfJJ" lemma="international">international</w>
-          <w xml:id="xTok_PRqas19_000343" ana="#NNSfNNS" lemma="educator">educators<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000343" ana="#NNSfNNS" lemma="educator">educators<c function="fall" type="intonation" xml:id="PRqas19_d2e1356"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PRqas19_d2e1357"/>
           <w xml:id="xTok_PRqas19_000345" ana="#NNfNN" lemma="globalization">globalization</w>
           <w xml:id="xTok_PRqas19_000347" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRqas19_000349" ana="#XXfXX" lemma="">internet-</w>
@@ -682,44 +682,44 @@
           <w xml:id="xTok_PRqas19_000355" ana="#VBNfVBN" lemma="be">been</w>
           <w xml:id="xTok_PRqas19_000357" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000359" ana="#XXfXX" lemma="">boost-</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e1394">
             <w xml:id="xTok_PRqas19_000362" ana="#NNSfNNS" lemma="bird">birds</w>
             <w xml:id="xTok_PRqas19_000364" ana="#NNfNN" lemma="work">work</w>
           </unclear>
           <w xml:id="xTok_PRqas19_000367" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000369" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000371" ana="#JJfJJ" lemma="late">late</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1419"/>
           <w xml:id="xTok_PRqas19_000374" ana="#JJfJJ" lemma="last">last</w>
           <w xml:id="xTok_PRqas19_000376" ana="#NNSfNNS" lemma="decade">decades</w>
           <w xml:id="xTok_PRqas19_000378" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_000380" ana="#JJfJJ" lemma="many">many</w>
           <w xml:id="xTok_PRqas19_000382" ana="#NNSfNNS" lemma="field">fields</w>
           <w xml:id="xTok_PRqas19_000384" ana="#INfIN" lemma="of">of</w>
-          <w xml:id="xTok_PRqas19_000386" ana="#NNfNN" lemma="society">society<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000386" ana="#NNfNN" lemma="society">society<c function="fall" type="intonation" xml:id="PRqas19_d2e1450"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1451"/>
           <w xml:id="xTok_PRqas19_000388" ana="#PPfPP" lemma="you" part="I" next="xTok_PRqas19_000390">you</w>
           <w xml:id="xTok_PRqas19_000390" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PRqas19_000388">'re</w>
           <w xml:id="xTok_PRqas19_000392" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000394" ana="#JJSfJJS" lemma="good">best</w>
           <w xml:id="xTok_PRqas19_000396" ana="#NNfNN" lemma="one">one</w>
           <w xml:id="xTok_PRqas19_000398" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_000400" ana="#NNfNN" lemma="transportation">transportation<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000400" ana="#NNfNN" lemma="transportation">transportation<c function="rise" type="intonation" xml:id="PRqas19_d2e1481"/>
           </w>
           <w xml:id="xTok_PRqas19_000402" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PRqas19_000404" ana="#NNfNN" lemma="telecommunication">telecommunication<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000404" ana="#NNfNN" lemma="telecommunication">telecommunication<c function="rise" type="intonation" xml:id="PRqas19_d2e1491"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1492"/>
           <w xml:id="xTok_PRqas19_000406" ana="#VVDfVVD" lemma="make">made</w>
           <w xml:id="xTok_PRqas19_000408" ana="#DTfDT" lemma="all">all</w>
           <w xml:id="xTok_PRqas19_000410" ana="#JJRfJJR" lemma="small">smaller</w>
           <w xml:id="xTok_PRqas19_000412" ana="#INfIN" lemma="than">than</w>
-          <w xml:id="xTok_PRqas19_000414" ana="#RBfRB" lemma="ever">ever<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000414" ana="#RBfRB" lemma="ever">ever<c function="rise" type="intonation" xml:id="PRqas19_d2e1514"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1515"/>
           <w xml:id="xTok_PRqas19_000416" ana="#DTfDT" lemma="a">an</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e1522">
             <w xml:id="xTok_PRqas19_000419" ana="#NNSfNN" lemma="explanation">explanations</w>
           </unclear>
           <w xml:id="xTok_PRqas19_000422" ana="#INfIN" lemma="to">to</w>
@@ -729,40 +729,40 @@
           <w xml:id="xTok_PRqas19_000430" ana="#NNfNN" lemma="culture">culture</w>
           <w xml:id="xTok_PRqas19_000432" ana="#VVDfVVD" lemma="become">became</w>
           <w xml:id="xTok_PRqas19_000434" ana="#RBfRB" lemma="indeed">indeed</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1561"/>
           <w xml:id="xTok_PRqas19_000437" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRqas19_000439" ana="#NNfNN" lemma="necessity">necessity</w>
           <w xml:id="xTok_PRqas19_000441" ana="#CCfCC" lemma="and">and</w>
-          <unclear>
-            <w xml:id="xTok_PRqas19_000444" ana="#NNfNN" lemma="bigness">bigness<c function="fall" type="intonation"/>
+          <unclear xml:id="PRqas19_d2e1576">
+            <w xml:id="xTok_PRqas19_000444" ana="#NNfNN" lemma="bigness">bigness<c function="fall" type="intonation" xml:id="PRqas19_d2e1584"/>
             </w>
           </unclear>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1585"/>
           <w xml:id="xTok_PRqas19_000447" ana="#VVGfNN" lemma="understand/understanding">understanding</w>
           <w xml:id="xTok_PRqas19_000449" ana="#INfIN" lemma="of">of</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1596"/>
           <w xml:id="xTok_PRqas19_000452" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000454" ana="#VVDfVVD" lemma="expose">exposed</w>
           <w xml:id="xTok_PRqas19_000456" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_000458" ana="#JJfJJ" lemma="other">other</w>
           <w xml:id="xTok_PRqas19_000460" ana="#NNSfNNS" lemma="culture">cultures</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1620"/>
           <w xml:id="xTok_PRqas19_000463" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_000465" ana="#CDfCD" lemma="one">one</w>
           <w xml:id="xTok_PRqas19_000467" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000469" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000471" ana="#RBSfRBS" lemma="most">most</w>
           <w xml:id="xTok_PRqas19_000473" ana="#JJfJJ" lemma="critical">critical</w>
-          <w xml:id="xTok_PRqas19_000475" ana="#NNSfNNS" lemma="characteristic">characteristics<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000475" ana="#NNSfNNS" lemma="characteristic">characteristics<c function="fall" type="intonation" xml:id="PRqas19_d2e1651"/>
           </w>
           <w xml:id="xTok_PRqas19_000477" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRqas19_000479" ana="#NNSfNNS" lemma="person">persons</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1662"/>
           <w xml:id="xTok_PRqas19_000482" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PRqas19_000484" ana="#JJfJJ" lemma="global">global</w>
-          <w xml:id="xTok_PRqas19_000486" ana="#NNfNN" lemma="scope">scope<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000486" ana="#NNfNN" lemma="scope">scope<c function="fall" type="intonation" xml:id="PRqas19_d2e1676"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e1677"/>
           <w xml:id="xTok_PRqas19_000488" ana="#JJfJJ" lemma="high">high</w>
           <w xml:id="xTok_PRqas19_000490" ana="#NNfNN" lemma="higher">higher</w>
           <w xml:id="xTok_PRqas19_000492" ana="#NNfNN" lemma="education">education</w>
@@ -773,39 +773,39 @@
           <shift corresp="#PRqas19_s_4" feature="tempo" new="a" xml:id="PRqas19_s_3"/>
           <w xml:id="xTok_PRqas19_000503" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PRqas19_000505" ana="#DTfDT" lemma="a">a</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e1721">
             <w xml:id="xTok_PRqas19_000508" ana="#NNfNN" lemma="bit">bit</w>
             <w xml:id="xTok_PRqas19_000510" ana="#INfIN" lemma="of">of</w>
           </unclear>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e1732">
             <w xml:id="xTok_PRqas19_000513" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <shift corresp="#PRqas19_s_3" feature="tempo" new="neutral" xml:id="PRqas19_s_4"/>
           <w xml:id="xTok_PRqas19_000516" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PRqas19_000518" ana="#NNfNN" lemma="path">path<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000518" ana="#NNfNN" lemma="path">path<c function="fall" type="intonation" xml:id="PRqas19_d2e1749"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e1750"/>
           <w xml:id="xTok_PRqas19_000520" ana="#INfIN" lemma="while">while</w>
           <w xml:id="xTok_PRqas19_000522" ana="#NNfNN" lemma="university">university</w>
           <w xml:id="xTok_PRqas19_000524" ana="#VBZfVBZ" lemma="be">is</w>
-          <pause/>
-          <unclear>
-            <w xml:id="xTok_PRqas19_000527" ana="#NNfNN" lemma="role">role<c function="rise" type="intonation"/>
+          <pause xml:id="PRqas19_d2e1765"/>
+          <unclear xml:id="PRqas19_d2e1766">
+            <w xml:id="xTok_PRqas19_000527" ana="#NNfNN" lemma="role">role<c function="rise" type="intonation" xml:id="PRqas19_d2e1774"/>
             </w>
           </unclear>
           <w xml:id="xTok_PRqas19_000530" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PRqas19_000532" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PRqas19_000534" ana="#JJfJJ" lemma="academic">academic</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1789"/>
           <w xml:id="xTok_PRqas19_000537" ana="#NNfNN" lemma="power">power</w>
           <w xml:id="xTok_PRqas19_000539" ana="#VVZfVVZ" lemma="remain">remains</w>
           <w xml:id="xTok_PRqas19_000541" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_000543" ana="#JJfJJ" lemma="same">same<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000543" ana="#JJfJJ" lemma="same">same<c function="rise" type="intonation" xml:id="PRqas19_d2e1807"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1808"/>
           <w xml:id="xTok_PRqas19_000545" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000547" ana="#NNfNN" lemma="society">society</w>
-          <w xml:id="xTok_PRqas19_000549" ana="#VVZfVVZ" lemma="improve">improves<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000549" ana="#VVZfVVZ" lemma="improve">improves<c function="fall" type="intonation" xml:id="PRqas19_d2e1822"/>
           </w>
           <w xml:id="xTok_PRqas19_000551" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PRqas19_000553" ana="#DTfDT" lemma="that">that</w>
@@ -813,9 +813,9 @@
           <w xml:id="xTok_PRqas19_000557" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000559" ana="#VVGfVVG" lemma="produce">producing</w>
           <w xml:id="xTok_PRqas19_000561" ana="#JJfJJ" lemma="competent">competent</w>
-          <w xml:id="xTok_PRqas19_000563" ana="#NNSfNNS" lemma="worker">workers<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000563" ana="#NNSfNNS" lemma="worker">workers<c function="fall" type="intonation" xml:id="PRqas19_d2e1852"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1853"/>
           <shift corresp="#PRqas19_s_6" feature="tempo" new="a" xml:id="PRqas19_s_5"/>
           <w xml:id="xTok_PRqas19_000565" ana="#PREfPRE" lemma="who">who</w>
           <w xml:id="xTok_PRqas19_000567" ana="#MDfMD" lemma="can">can</w>
@@ -826,57 +826,57 @@
           <w xml:id="xTok_PRqas19_000576" ana="#PPSfPPS" lemma="it">its</w>
           <w xml:id="xTok_PRqas19_000578" ana="#JJfJJ" lemma="challenging">challenging</w>
           <w xml:id="xTok_PRqas19_000580" ana="#JJfJJ" lemma="international">international</w>
-          <w xml:id="xTok_PRqas19_000582" ana="#NNfNN" lemma="environment">environment<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000582" ana="#NNfNN" lemma="environment">environment<c function="fall" type="intonation" xml:id="PRqas19_d2e1896"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1897"/>
           <w xml:id="xTok_PRqas19_000584" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PRqas19_000586" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000588" ana="#JJfJJ" lemma="korean">korean</w>
           <w xml:id="xTok_PRqas19_000590" ana="#NNfNN" lemma="society">society</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1917"/>
           <w xml:id="xTok_PRqas19_000593" ana="#VfVVZ" lemma="repeat">repeat</w>
           <w xml:id="xTok_PRqas19_000595" ana="#NNSfNNS #VVZfVVZ" lemma="change">changes</w>
           <w xml:id="xTok_PRqas19_000597" ana="#INfIN" lemma="along">along</w>
           <w xml:id="xTok_PRqas19_000599" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PRqas19_000601" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_000603" ana="#NNfNN" lemma="world">world<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000603" ana="#NNfNN" lemma="world">world<c function="rise" type="intonation" xml:id="PRqas19_d2e1943"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1945"/>
           <w xml:id="xTok_PRqas19_000605" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000607" ana="#NNSfNNS" lemma="university">universities</w>
           <w xml:id="xTok_PRqas19_000609" ana="#NPfNP" lemma="indonesia">indonesia</w>
           <w xml:id="xTok_PRqas19_000611" ana="#VHDfVHD" lemma="have">had</w>
           <w xml:id="xTok_PRqas19_000613" ana="#TOfTO" lemma="to">to</w>
-          <w xml:id="xTok_PRqas19_000615" ana="#VVfVV" lemma="adapt">adapt<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000615" ana="#VVfVV" lemma="adapt">adapt<c function="fall" type="intonation" xml:id="PRqas19_d2e1971"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e1972"/>
           <w xml:id="xTok_PRqas19_000617" ana="#JJfJJ" lemma="korean">korean</w>
           <w xml:id="xTok_PRqas19_000619" ana="#NNSfNNS" lemma="university">universities</w>
           <w xml:id="xTok_PRqas19_000621" ana="#VVDfVVD" lemma="consider">considered</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e1988"/>
           <w xml:id="xTok_PRqas19_000624" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_000626" ana="#VBfVB" lemma="be">be</w>
           <w xml:id="xTok_PRqas19_000628" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_000630" ana="#NNfNN" lemma="leader">leader<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000630" ana="#NNfNN" lemma="leader">leader<c function="rise" type="intonation" xml:id="PRqas19_d2e2005"/>
           </w>
           <w xml:id="xTok_PRqas19_000632" ana="#CCfCC" lemma="and">and</w>
-          <pause/>
-          <voice:pvc>
-            <unclear>
+          <pause xml:id="PRqas19_d2e2013"/>
+          <voice:pvc xml:id="PRqas19_d2e2014">
+            <unclear xml:id="PRqas19_d2e2015">
               <w xml:id="xTok_PRqas19_000635" ana="#PVCfNN" lemma="">epidemy</w>
             </unclear>
           </voice:pvc>
           <w xml:id="xTok_PRqas19_000638" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_000640" ana="#DTfDT" lemma="this">this</w>
-          <unclear>
-            <w xml:id="xTok_PRqas19_000643" ana="#NNfNN" lemma="train">train<c function="rise" type="intonation"/>
+          <unclear xml:id="PRqas19_d2e2032">
+            <w xml:id="xTok_PRqas19_000643" ana="#NNfNN" lemma="train">train<c function="rise" type="intonation" xml:id="PRqas19_d2e2039"/>
             </w>
           </unclear>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e2041"/>
           <w xml:id="xTok_PRqas19_000646" ana="#INfIN" lemma="while">while</w>
           <w xml:id="xTok_PRqas19_000648" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PRqas19_000650" ana="#NNfNN" lemma="university">university</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e2056">
             <w xml:id="xTok_PRqas19_000653" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRqas19_000656" ana="#VBZfVBZ" lemma="be">is</w>
@@ -885,41 +885,41 @@
           <w xml:id="xTok_PRqas19_000662" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000664" ana="#RBSfRBS" lemma="most">most</w>
           <w xml:id="xTok_PRqas19_000666" ana="#XXfXX" lemma="">pres-</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2091"/>
           <w xml:id="xTok_PRqas19_000669" ana="#XXfXX" lemma="">-stigious</w>
           <w xml:id="xTok_PRqas19_000671" ana="#NNSfNNS" lemma="university">universities</w>
           <w xml:id="xTok_PRqas19_000673" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_000675" ana="#NPfNP" lemma="korea">korea<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000675" ana="#NPfNP" lemma="korea">korea<c function="rise" type="intonation" xml:id="PRqas19_d2e2108"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2109"/>
           <w xml:id="xTok_PRqas19_000677" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000679" ana="#XXfXX" lemma="">univic-</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2121"/>
           <w xml:id="xTok_PRqas19_000682" ana="#NNfNN" lemma="university" part="I" next="xTok_PRqas19_000684">university</w>
           <w xml:id="xTok_PRqas19_000684" ana="#POSfPOS" lemma="'s" part="F" prev="xTok_PRqas19_000682">'s</w>
           <w xml:id="xTok_PRqas19_000686" ana="#NNfNN" lemma="determination">determination</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2137"/>
           <w xml:id="xTok_PRqas19_000689" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000691" ana="#NNfNN" lemma="drive">drive</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2148"/>
           <w xml:id="xTok_PRqas19_000694" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_000696" ana="#NNfNN" lemma="globalization">globalization</w>
           <w xml:id="xTok_PRqas19_000698" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_000700" ana="#RBfRB" lemma="very">very</w>
-          <w xml:id="xTok_PRqas19_000702" ana="#JJfJJ" lemma="strong">strong<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000702" ana="#JJfJJ" lemma="strong">strong<c function="fall" type="intonation" xml:id="PRqas19_d2e2170"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PRqas19_d2e2171"/>
           <w xml:id="xTok_PRqas19_000704" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PRqas19_000706" ana="#VVGfVVG" lemma="mean">meaning</w>
           <w xml:id="xTok_PRqas19_000708" ana="#PPSfPPS" lemma="it">its</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2187"/>
           <w xml:id="xTok_PRqas19_000711" ana="#CDfCD" lemma="one">one</w>
           <w xml:id="xTok_PRqas19_000713" ana="#JJfJJ" lemma="hundredth">hundredth</w>
-          <voice:pvc>
-            <w xml:id="xTok_PRqas19_000716" ana="#PVCfNN" lemma="">anniversity<c function="rise" type="intonation"/>
+          <voice:pvc xml:id="PRqas19_d2e2199">
+            <w xml:id="xTok_PRqas19_000716" ana="#PVCfNN" lemma="">anniversity<c function="rise" type="intonation" xml:id="PRqas19_d2e2204"/>
             </w>
           </voice:pvc>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2205"/>
           <w xml:id="xTok_PRqas19_000718" ana="#JJfJJ" lemma="korean">korean</w>
           <w xml:id="xTok_PRqas19_000720" ana="#NNfNN" lemma="university">university</w>
           <w xml:id="xTok_PRqas19_000722" ana="#VHZfVHZ" lemma="have">has</w>
@@ -927,21 +927,21 @@
           <w xml:id="xTok_PRqas19_000726" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_000728" ana="#VVfVV" lemma="take">take</w>
           <w xml:id="xTok_PRqas19_000730" ana="#RPfRP" lemma="off">off</w>
-          <pause dur="PT3S"/>
+          <pause dur="PT3S" xml:id="PRqas19_d2e2237"/>
           <w xml:id="xTok_PRqas19_000733" ana="#RBfRB" lemma="as">as</w>
           <w xml:id="xTok_PRqas19_000735" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_PRqas19_000737" ana="#DTfDT" lemma="a">a</w>
-          <voice:pvc>
+          <voice:pvc xml:id="PRqas19_d2e2253">
             <w xml:id="xTok_PRqas19_000740" ana="#PVCfNN" lemma="">foreform</w>
           </voice:pvc>
           <w xml:id="xTok_PRqas19_000743" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000745" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_000747" ana="#NNfNN" lemma="globalization">globalization<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000747" ana="#NNfNN" lemma="globalization">globalization<c function="fall" type="intonation" xml:id="PRqas19_d2e2273"/>
           </w>
           <w xml:id="xTok_PRqas19_000749" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000751" ana="#NNfNN" lemma="university">university</w>
           <w xml:id="xTok_PRqas19_000753" ana="#VBZfVBZ" lemma="be">is</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2288"/>
           <w xml:id="xTok_PRqas19_000756" ana="#VfVVG" lemma="write">write</w>
           <w xml:id="xTok_PRqas19_000758" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRqas19_000760" ana="#JJfJJ" lemma="new">new</w>
@@ -951,26 +951,26 @@
           <w xml:id="xTok_PRqas19_000768" ana="#NNfNN" lemma="history">history</w>
           <w xml:id="xTok_PRqas19_000770" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000772" ana="#NPfNP" lemma="korea">korea</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2329"/>
           <w xml:id="xTok_PRqas19_000775" ana="#NNfNN" lemma="higher">higher</w>
-          <w xml:id="xTok_PRqas19_000777" ana="#NNfNN" lemma="education">education<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000777" ana="#NNfNN" lemma="education">education<c function="fall" type="intonation" xml:id="PRqas19_d2e2339"/>
           </w>
           <w xml:id="xTok_PRqas19_000779" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000781" ana="#DTfDT" lemma="the">the</w>
-          <unclear>
-            <w xml:id="xTok_PRqas19_000784" ana="#NNfNN" lemma="motor">motor<c function="rise" type="intonation"/>
+          <unclear xml:id="PRqas19_d2e2350">
+            <w xml:id="xTok_PRqas19_000784" ana="#NNfNN" lemma="motor">motor<c function="rise" type="intonation" xml:id="PRqas19_d2e2357"/>
             </w>
           </unclear>
           <w xml:id="xTok_PRqas19_000787" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000789" ana="#NNfNN" lemma="reverse">reverse</w>
           <w xml:id="xTok_PRqas19_000791" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_000793" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_000795" ana="#NNfNN" lemma="university">university<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000795" ana="#NNfNN" lemma="university">university<c function="fall" type="intonation" xml:id="PRqas19_d2e2379"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2380"/>
           <w xml:id="xTok_PRqas19_000797" ana="#RBfRB" lemma="internally">internally</w>
           <w xml:id="xTok_PRqas19_000799" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2392"/>
           <w xml:id="xTok_PRqas19_000802" ana="#NNfNN" lemma="desire">desire</w>
           <w xml:id="xTok_PRqas19_000804" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PRqas19_000806" ana="#VVNfVVN" lemma="materialize">materialized</w>
@@ -978,28 +978,28 @@
           <w xml:id="xTok_PRqas19_000810" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000812" ana="#JJfJJ" lemma="global">global</w>
           <w xml:id="xTok_PRqas19_000814" voice:mode="spelt" spelt_orig="k u" ana="#NPfNP" lemma="s_ku">ku</w>
-          <voice:track medium="1" num="2" type="md"/>
-          <w xml:id="xTok_PRqas19_000816" ana="#NNfNN" lemma="project">project<c function="fall" type="intonation"/>
+          <voice:track medium="1" num="2" type="md" xml:id="PRqas19_d2e2422"/>
+          <w xml:id="xTok_PRqas19_000816" ana="#NNfNN" lemma="project">project<c function="fall" type="intonation" xml:id="PRqas19_d2e2427"/>
           </w>
         </u>
       </div>
-      <gap dur="PT00H04M59S" reason="not_transcribed" voice:desc=""/>
-      <div type="medium" voice:end="01:52" voice:end_medium_number="1" voice:end_track="6" voice:medium_type="md" voice:start="02:00" voice:start_medium_number="1" voice:start_track="3">
+      <gap dur="PT00H04M59S" reason="not_transcribed" voice:desc="" xml:id="PRqas19_d2e2432"/>
+      <div type="medium" voice:end="01:52" voice:end_medium_number="1" voice:end_track="6" voice:medium_type="md" voice:start="02:00" voice:start_medium_number="1" voice:start_track="3" xml:id="PRqas19_d2e2435">
         <u who="#PRqas19_S2" xml:id="PRqas19_u_3">
           <w xml:id="xTok_PRqas19_000822" ana="#INfIN" lemma="as">as</w>
           <w xml:id="xTok_PRqas19_000824" ana="#DTfDT" lemma="every">every</w>
           <w xml:id="xTok_PRqas19_000826" ana="#NNfNN" lemma="member">member</w>
           <w xml:id="xTok_PRqas19_000828" ana="#INfIN" lemma="of">of</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2457"/>
           <w xml:id="xTok_PRqas19_000831" ana="#JJfJJ" lemma="international">international</w>
-          <w xml:id="xTok_PRqas19_000833" ana="#NNfNN" lemma="committee">committee<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000833" ana="#NNfNN" lemma="committee">committee<c function="rise" type="intonation" xml:id="PRqas19_d2e2467"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2468"/>
           <w xml:id="xTok_PRqas19_000835" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_000837" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRqas19_000839" ana="#JJfJJ" lemma="sure">sure</w>
           <w xml:id="xTok_PRqas19_000841" ana="#RBfRB" lemma="there">there</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2488"/>
           <w xml:id="xTok_PRqas19_000844" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRqas19_000846" ana="#MDfMD" lemma="will">will</w>
           <w xml:id="xTok_PRqas19_000848" ana="#VVfVV" lemma="agree">agree</w>
@@ -1007,10 +1007,10 @@
           <w xml:id="xTok_PRqas19_000852" ana="#NNfNN" lemma="association">association</w>
           <w xml:id="xTok_PRqas19_000854" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_000856" ana="#NNfNN" lemma="chess">chess</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2520"/>
           <w xml:id="xTok_PRqas19_000859" ana="#NPfNP" lemma="nafsa">nafsa</w>
           <w xml:id="xTok_PRqas19_000861" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PRqas19_000863" voice:mode="spelt" spelt_orig="e a i e" ana="#NPfNP" lemma="s_eaie">eaie<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000863" voice:mode="spelt" spelt_orig="e a i e" ana="#NPfNP" lemma="s_eaie">eaie<c function="rise" type="intonation" xml:id="PRqas19_d2e2534"/>
           </w>
           <w xml:id="xTok_PRqas19_000865" ana="#VVPfVVP" lemma="play">play</w>
           <w xml:id="xTok_PRqas19_000867" ana="#DTfDT" lemma="a">a</w>
@@ -1020,30 +1020,30 @@
           <w xml:id="xTok_PRqas19_000875" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000877" ana="#NNfNN" lemma="advancement">advancement</w>
           <w xml:id="xTok_PRqas19_000879" ana="#INfIN" lemma="of">of</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e2570">
             <w xml:id="xTok_PRqas19_000882" ana="#PPSfPPS" lemma="we">our</w>
           </emph>
           <w xml:id="xTok_PRqas19_000885" ana="#JJfJJ" lemma="professional">professional</w>
-          <w xml:id="xTok_PRqas19_000887" ana="#NNSfNNS" lemma="mission">missions<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000887" ana="#NNSfNNS" lemma="mission">missions<c function="fall" type="intonation" xml:id="PRqas19_d2e2586"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2587"/>
           <w xml:id="xTok_PRqas19_000889" ana="#DTfDT" lemma="these">these</w>
           <w xml:id="xTok_PRqas19_000891" ana="#NNSfNNS" lemma="organization">organizations</w>
           <w xml:id="xTok_PRqas19_000893" ana="#VVPfVVP" lemma="promote">promote</w>
-          <w xml:id="xTok_PRqas19_000895" ana="#NNfNN" lemma="communication">communication<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000895" ana="#NNfNN" lemma="communication">communication<c function="fall" type="intonation" xml:id="PRqas19_d2e2605"/>
           </w>
-          <w xml:id="xTok_PRqas19_000897" ana="#NNfNN" lemma="corporation">corporation<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000897" ana="#NNfNN" lemma="corporation">corporation<c function="rise" type="intonation" xml:id="PRqas19_d2e2610"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2611"/>
           <w xml:id="xTok_PRqas19_000899" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000901" ana="#XXfXX" lemma="">develop-</w>
-          <pause/>
-          <emph>
+          <pause xml:id="PRqas19_d2e2623"/>
+          <emph xml:id="PRqas19_d2e2624">
             <w xml:id="xTok_PRqas19_000904" part="I" next="#xTok_PRqas19_000905" ana="#NNfNN" lemma="expertise">ex</w>
           </emph>
-          <w xml:id="xTok_PRqas19_000905" part="F" prev="#xTok_PRqas19_000904">pertise<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000905" part="F" prev="#xTok_PRqas19_000904">pertise<c function="rise" type="intonation" xml:id="PRqas19_d2e2631"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2632"/>
           <w xml:id="xTok_PRqas19_000907" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000909" ana="#VVPfVVP" lemma="provide">provide</w>
           <w xml:id="xTok_PRqas19_000911" ana="#JJfJJ" lemma="various">various</w>
@@ -1051,48 +1051,48 @@
           <w xml:id="xTok_PRqas19_000915" ana="#NNSfNNS" lemma="opportunity">opportunities</w>
           <w xml:id="xTok_PRqas19_000917" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_000919" ana="#XXfXX" lemma="">bu-</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2665"/>
           <w xml:id="xTok_PRqas19_000922" ana="#XXfXX" lemma="">pers-</w>
           <w xml:id="xTok_PRqas19_000924" ana="#JJfJJ" lemma="respective">respective</w>
-          <w xml:id="xTok_PRqas19_000926" ana="#NNSfNNS" lemma="university">universities<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000926" ana="#NNSfNNS" lemma="university">universities<c function="fall" type="intonation" xml:id="PRqas19_d2e2678"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e2679"/>
           <w xml:id="xTok_PRqas19_000928" ana="#INfIN" lemma="while">while</w>
           <w xml:id="xTok_PRqas19_000930" ana="#NPfNP" lemma="asia">asia</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e2691">
             <w xml:id="xTok_PRqas19_000933" ana="#UNIfUNI" lemma="">xx</w>
             <w xml:id="xTok_PRqas19_000935" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRqas19_000938" ana="#VVZfVVZ" lemma="remain">remains</w>
           <w xml:id="xTok_PRqas19_000940" ana="#RBSfRBS" lemma="most">most</w>
           <w xml:id="xTok_PRqas19_000942" ana="#JJfJJ" lemma="populous">populous</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2717"/>
           <w xml:id="xTok_PRqas19_000945" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_000947" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_000949" ana="#RBSfRBS" lemma="most">most</w>
           <w xml:id="xTok_PRqas19_000951" ana="#JJfJJ" lemma="important">important</w>
           <w xml:id="xTok_PRqas19_000953" ana="#NNfNN" lemma="education">education</w>
-          <w xml:id="xTok_PRqas19_000955" ana="#NNfNN" lemma="market">market<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000955" ana="#NNfNN" lemma="market">market<c function="rise" type="intonation" xml:id="PRqas19_d2e2743"/>
           </w>
           <w xml:id="xTok_PRqas19_000957" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_000959" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_000961" ana="#NNfNN" lemma="world">world<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000961" ana="#NNfNN" lemma="world">world<c function="rise" type="intonation" xml:id="PRqas19_d2e2756"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2757"/>
           <w xml:id="xTok_PRqas19_000963" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_PRqas19_000965" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_000967" ana="#NNfNN" lemma="no">no</w>
           <w xml:id="xTok_PRqas19_000969" ana="#NNfNN" lemma="one">one</w>
           <w xml:id="xTok_PRqas19_000971" ana="#NNfNN" lemma="venue">venue</w>
           <w xml:id="xTok_PRqas19_000973" ana="#INfIN" lemma="for">for</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e2786">
             <w xml:id="xTok_PRqas19_000976" ana="#VVfVV" lemma="want">want</w>
             <w xml:id="xTok_PRqas19_000978" ana="#PPfPP" lemma="i">me</w>
           </unclear>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2797"/>
           <w xml:id="xTok_PRqas19_000981" ana="#INfIN" lemma="for">for</w>
-          <pause/>
-          <unclear>
+          <pause xml:id="PRqas19_d2e2804"/>
+          <unclear xml:id="PRqas19_d2e2805">
             <w xml:id="xTok_PRqas19_000984" ana="#NNfNN" lemma="fellow">fellow</w>
           </unclear>
           <w xml:id="xTok_PRqas19_000987" ana="#INfIN" lemma="in">in</w>
@@ -1101,27 +1101,27 @@
           <w xml:id="xTok_PRqas19_000993" ana="#NNSfNNS" lemma="educator">educators</w>
           <w xml:id="xTok_PRqas19_000995" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_000997" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_000999" ana="#NNfNN" lemma="region">region<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_000999" ana="#NNfNN" lemma="region">region<c function="fall" type="intonation" xml:id="PRqas19_d2e2842"/>
           </w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_001001" ana="#DMfDM" lemma="so">so<c function="rise" type="intonation"/>
+          <pause xml:id="PRqas19_d2e2843"/>
+          <w xml:id="xTok_PRqas19_001001" ana="#DMfDM" lemma="so">so<c function="rise" type="intonation" xml:id="PRqas19_d2e2848"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2849"/>
           <w xml:id="xTok_PRqas19_001003" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001005" ana="#VVPfVVP" lemma="call">call</w>
           <w xml:id="xTok_PRqas19_001007" ana="#DTfDT" lemma="all">all</w>
           <w xml:id="xTok_PRqas19_001009" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_001011" ana="#PPfPP" lemma="you">you</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e2873">
             <w xml:id="xTok_PRqas19_001014" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRqas19_001017" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_001019" ana="#NNfNN" lemma="support">support</w>
           <w xml:id="xTok_PRqas19_001021" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_001023" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PRqas19_001025" ana="#NNfNN" lemma="endeavour">endeavour<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001025" ana="#NNfNN" lemma="endeavour">endeavour<c function="fall" type="intonation" xml:id="PRqas19_d2e2901"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2902"/>
           <w xml:id="xTok_PRqas19_001027" ana="#JJfJJ" lemma="many">many</w>
           <w xml:id="xTok_PRqas19_001029" ana="#JJRfJJR" lemma="more">more</w>
           <w xml:id="xTok_PRqas19_001031" ana="#VVPfVVP" lemma="suggest">suggest</w>
@@ -1130,26 +1130,26 @@
           <w xml:id="xTok_PRqas19_001037" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_001039" ana="#RBRfRBR" lemma="more">more</w>
           <w xml:id="xTok_PRqas19_001041" ana="#XXfXX" lemma="">intere-</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2939"/>
           <w xml:id="xTok_PRqas19_001044" ana="#VVfVV" lemma="interest">interest</w>
           <w xml:id="xTok_PRqas19_001046" ana="#NNSfNNS" lemma="participant">participants</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e2950"/>
           <w xml:id="xTok_PRqas19_001049" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_001051" ana="#DTfDT" lemma="a">a</w>
-          <w xml:id="xTok_PRqas19_001053" ana="#NNfNN" lemma="need">need<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001053" ana="#NNfNN" lemma="need">need<c function="fall" type="intonation" xml:id="PRqas19_d2e2964"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e2965"/>
           <w xml:id="xTok_PRqas19_001055" ana="#INfIN" lemma="while">while</w>
           <w xml:id="xTok_PRqas19_001057" ana="#VVfVV" lemma="remain">remain</w>
           <w xml:id="xTok_PRqas19_001059" ana="#VVNfVVN" lemma="open">opened</w>
           <w xml:id="xTok_PRqas19_001061" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001063" ana="#DTfDT" lemma="the">the</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e2989">
             <w xml:id="xTok_PRqas19_001066" ana="#JJfJJ" lemma="grown">grown</w>
           </unclear>
-          <w xml:id="xTok_PRqas19_001069" ana="#NNfNN" lemma="community">community<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001069" ana="#NNfNN" lemma="community">community<c function="rise" type="intonation" xml:id="PRqas19_d2e3001"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3002"/>
           <w xml:id="xTok_PRqas19_001071" ana="#PPSfPPS" lemma="we">our</w>
           <w xml:id="xTok_PRqas19_001073" ana="#JJfJJ" lemma="utmost">utmost</w>
           <w xml:id="xTok_PRqas19_001075" ana="#NNfNN" lemma="goal">goal</w>
@@ -1161,12 +1161,12 @@
           <w xml:id="xTok_PRqas19_001087" ana="#NNfNN" lemma="conference">conference</w>
           <w xml:id="xTok_PRqas19_001089" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_001091" ana="#NPfNP" lemma="asia">asia</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e3051">
             <w xml:id="xTok_PRqas19_001094" ana="#UNIfUNI" lemma="">xx</w>
-            <w xml:id="xTok_PRqas19_001096" ana="#UNIfUNI" lemma="">xx<c function="fall" type="intonation"/>
+            <w xml:id="xTok_PRqas19_001096" ana="#UNIfUNI" lemma="">xx<c function="fall" type="intonation" xml:id="PRqas19_d2e3060"/>
             </w>
           </supplied>
-          <voice:track medium="1" num="4" type="md"/>
+          <voice:track medium="1" num="4" type="md" xml:id="PRqas19_d2e3061"/>
           <w xml:id="xTok_PRqas19_001098" ana="#RBfRB" lemma="however">however</w>
           <w xml:id="xTok_PRqas19_001100" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001102" ana="#VVPfVVP" lemma="understand">understand</w>
@@ -1174,19 +1174,19 @@
           <w xml:id="xTok_PRqas19_001106" ana="#PDTfPDT" lemma="such">such</w>
           <w xml:id="xTok_PRqas19_001108" ana="#DTfDT" lemma="a">an</w>
           <w xml:id="xTok_PRqas19_001110" ana="#NNfNN" lemma="association">association</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3093"/>
           <w xml:id="xTok_PRqas19_001113" ana="#PPfPP" lemma="we">we</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e3101">
             <w xml:id="xTok_PRqas19_001116" ana="#RBfRB" lemma="only">only</w>
           </emph>
           <w xml:id="xTok_PRqas19_001119" ana="#VVPfVVP" lemma="succeed">succeed</w>
           <w xml:id="xTok_PRqas19_001121" ana="#INfIN" lemma="through">through</w>
           <w xml:id="xTok_PRqas19_001123" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3122"/>
           <w xml:id="xTok_PRqas19_001126" ana="#VVNfVVN" lemma="consorted">consorted</w>
-          <w xml:id="xTok_PRqas19_001128" ana="#NNSfNNS" lemma="effort">efforts<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001128" ana="#NNSfNNS" lemma="effort">efforts<c function="fall" type="intonation" xml:id="PRqas19_d2e3132"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3133"/>
           <w xml:id="xTok_PRqas19_001130" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_001132" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_001134" ana="#JJfJJ" lemma="light-minded">light-minded</w>
@@ -1196,17 +1196,17 @@
           <w xml:id="xTok_PRqas19_001142" ana="#NNfNN" lemma="higher">higher</w>
           <w xml:id="xTok_PRqas19_001144" ana="#NNfNN" lemma="education">education</w>
           <w xml:id="xTok_PRqas19_001146" ana="#VBZfVBZ" lemma="be">is</w>
-          <w xml:id="xTok_PRqas19_001148" ana="#JJfJJ" lemma="due">due<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001148" ana="#JJfJJ" lemma="due">due<c function="fall" type="intonation" xml:id="PRqas19_d2e3176"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e3177"/>
           <w xml:id="xTok_PRqas19_001150" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRqas19_001152" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001154" ana="#VVPfVVP" lemma="call">call</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e3193">
             <w xml:id="xTok_PRqas19_001157" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_001159" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3204"/>
           <w xml:id="xTok_PRqas19_001162" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_001164" ana="#RBfRB" lemma="above">above</w>
           <w xml:id="xTok_PRqas19_001166" ana="#VVNfJJ" lemma="mention">mentioned</w>
@@ -1222,17 +1222,17 @@
           <w xml:id="xTok_PRqas19_001186" ana="#NNfNN" lemma="target">target</w>
           <w xml:id="xTok_PRqas19_001188" ana="#NNfNN" lemma="date">date</w>
           <w xml:id="xTok_PRqas19_001190" ana="#INfIN" lemma="of">of</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3270"/>
           <w xml:id="xTok_PRqas19_001193" ana="#NPfNP" lemma="march">march</w>
           <w xml:id="xTok_PRqas19_001195" ana="#CDfCD" lemma="twenty-nine">twenty-nine</w>
           <w xml:id="xTok_PRqas19_001197" ana="#CDfCD" lemma="two">two</w>
           <w xml:id="xTok_PRqas19_001199" voice:mode="spelt" spelt_orig="o" ana="#CDfCD" lemma="s_o">o</w>
           <w xml:id="xTok_PRqas19_001201" ana="#JJfJJ" lemma="double">double</w>
           <w xml:id="xTok_PRqas19_001203" voice:mode="spelt" spelt_orig="o" ana="#CDfCD" lemma="s_o">o</w>
-          <w xml:id="xTok_PRqas19_001205" ana="#CDfCD" lemma="six">six<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001205" ana="#CDfCD" lemma="six">six<c function="fall" type="intonation" xml:id="PRqas19_d2e3300"/>
           </w>
           <w xml:id="xTok_PRqas19_001207" ana="#INfIN" lemma="with">with</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e3307">
             <w xml:id="xTok_PRqas19_001210" ana="#UNIfUNI" lemma="">xx</w>
             <w xml:id="xTok_PRqas19_001212" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
@@ -1240,10 +1240,10 @@
           <w xml:id="xTok_PRqas19_001217" ana="#NNfNN" lemma="invitation">invitation</w>
           <w xml:id="xTok_PRqas19_001219" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001221" ana="#DTfDT" lemma="this">this</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e3337">
             <w xml:id="xTok_PRqas19_001224" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e3344">
             <w xml:id="xTok_PRqas19_001227" ana="#NNfNN" lemma="part">part</w>
           </unclear>
           <w xml:id="xTok_PRqas19_001230" ana="#INfIN" lemma="of">of</w>
@@ -1252,9 +1252,9 @@
           <w xml:id="xTok_PRqas19_001236" ana="#NNfNN" lemma="association">association</w>
           <w xml:id="xTok_PRqas19_001238" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001240" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PRqas19_001242" ana="#NNfNN" lemma="occasion">occasion<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001242" ana="#NNfNN" lemma="occasion">occasion<c function="fall" type="intonation" xml:id="PRqas19_d2e3381"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3382"/>
           <w xml:id="xTok_PRqas19_001244" ana="#PPfPP" lemma="we" part="I" next="xTok_PRqas19_001246">we</w>
           <w xml:id="xTok_PRqas19_001246" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PRqas19_001244">'re</w>
           <w xml:id="xTok_PRqas19_001248" ana="#JJfJJ" lemma="determined">determined</w>
@@ -1269,9 +1269,9 @@
           <w xml:id="xTok_PRqas19_001266" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_001268" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_001270" ana="#JJfJJ" lemma="near">near</w>
-          <w xml:id="xTok_PRqas19_001272" ana="#NNfNN" lemma="future">future<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001272" ana="#NNfNN" lemma="future">future<c function="fall" type="intonation" xml:id="PRqas19_d2e3446"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3447"/>
           <w xml:id="xTok_PRqas19_001274" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001276" ana="#VVPfVVP" lemma="build">build</w>
           <w xml:id="xTok_PRqas19_001278" ana="#RBfRB" lemma="there">there</w>
@@ -1283,14 +1283,14 @@
           <w xml:id="xTok_PRqas19_001290" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_001292" ana="#VVDfVVD" lemma="realize">realized</w>
           <w xml:id="xTok_PRqas19_001294" ana="#INfIN" lemma="by">by</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e3496">
             <w xml:id="xTok_PRqas19_001297" ana="#DTfDT" lemma="all">all</w>
           </emph>
           <w xml:id="xTok_PRqas19_001300" ana="#INfIN" lemma="of">of</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e3509">
             <w xml:id="xTok_PRqas19_001303" ana="#PPfPP" lemma="you">you</w>
           </emph>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3516"/>
           <w xml:id="xTok_PRqas19_001306" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_001308" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001310" ana="#DTfDT" lemma="all">all</w>
@@ -1299,16 +1299,16 @@
           <w xml:id="xTok_PRqas19_001316" ana="#JJfJJ" lemma="keen">keen</w>
           <w xml:id="xTok_PRqas19_001318" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001320" ana="#VHfVH" lemma="have">have</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3553"/>
           <w xml:id="xTok_PRqas19_001323" ana="#JJfJJ" lemma="close">close</w>
           <w xml:id="xTok_PRqas19_001325" ana="#NNfNN" lemma="relationship">relationship</w>
           <w xml:id="xTok_PRqas19_001327" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PRqas19_001329" ana="#PPSfPPS" lemma="we">our</w>
           <w xml:id="xTok_PRqas19_001331" ana="#JJfJJ" lemma="utmost">utmost</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3577"/>
           <w xml:id="xTok_PRqas19_001334" ana="#JJfJJ" lemma="precious">precious</w>
           <w xml:id="xTok_PRqas19_001336" ana="#NNSfNNS" lemma="partner">partners</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3589"/>
           <w xml:id="xTok_PRqas19_001339" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_001341" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001343" ana="#VVfVV" lemma="expand">expand</w>
@@ -1318,73 +1318,73 @@
           <w xml:id="xTok_PRqas19_001351" ana="#NNSfNNS" lemma="part">parts</w>
           <w xml:id="xTok_PRqas19_001353" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_001355" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_001357" ana="#NNfNN" lemma="world">world<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001357" ana="#NNfNN" lemma="world">world<c function="fall" type="intonation" xml:id="PRqas19_d2e3632"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3633"/>
           <w xml:id="xTok_PRqas19_001359" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001361" ana="#DTfDT" lemma="all">all</w>
           <w xml:id="xTok_PRqas19_001363" ana="#VVPfVVP" lemma="need">need</w>
           <w xml:id="xTok_PRqas19_001365" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001367" ana="#VVfVV" lemma="work">work</w>
-          <w xml:id="xTok_PRqas19_001369" ana="#RBfRB" lemma="together">together<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001369" ana="#RBfRB" lemma="together">together<c function="rise" type="intonation" xml:id="PRqas19_d2e3659"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3660"/>
           <w xml:id="xTok_PRqas19_001371" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001373" ana="#VVfVV" lemma="achieve">achieve</w>
           <w xml:id="xTok_PRqas19_001375" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_001377" ana="#JJfJJ" lemma="true">true</w>
           <w xml:id="xTok_PRqas19_001379" ana="#NNfNN" lemma="globalization">globalization</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3684"/>
           <w xml:id="xTok_PRqas19_001382" ana="#PPfPP" lemma="it" part="I" next="xTok_PRqas19_001384">it</w>
           <w xml:id="xTok_PRqas19_001384" ana="#MDfMD" lemma="will" part="F" prev="xTok_PRqas19_001382">'ll</w>
           <w xml:id="xTok_PRqas19_001386" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_PRqas19_001388" ana="#VBfVB" lemma="be">be</w>
           <w xml:id="xTok_PRqas19_001390" ana="#RBfRB" lemma="so">so</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e3708">
             <w xml:id="xTok_PRqas19_001393" ana="#JJfJJ" lemma="forceful">forceful</w>
           </unclear>
           <w xml:id="xTok_PRqas19_001396" ana="#INfIN" lemma="if">if</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e3722">
             <w xml:id="xTok_PRqas19_001399" ana="#CDfCD" lemma="one">one</w>
           </emph>
           <w xml:id="xTok_PRqas19_001402" ana="#NNfNN" lemma="university">university</w>
           <w xml:id="xTok_PRqas19_001404" ana="#VVZfVVZ" lemma="walk">walks</w>
-          <w xml:id="xTok_PRqas19_001406" ana="#RBfRB" lemma="alone">alone<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001406" ana="#RBfRB" lemma="alone">alone<c function="rise" type="intonation" xml:id="PRqas19_d2e3741"/>
           </w>
           <w xml:id="xTok_PRqas19_001408" ana="#INfIN" lemma="without">without</w>
           <w xml:id="xTok_PRqas19_001410" ana="#JJfJJ" lemma="international">international</w>
-          <w xml:id="xTok_PRqas19_001412" ana="#NNSfNNS" lemma="partner">partners<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001412" ana="#NNSfNNS" lemma="partner">partners<c function="fall" type="intonation" xml:id="PRqas19_d2e3755"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3756"/>
           <w xml:id="xTok_PRqas19_001414" ana="#RBfRB" lemma="once">once</w>
-          <w xml:id="xTok_PRqas19_001416" ana="#RBfRB" lemma="again">again<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001416" ana="#RBfRB" lemma="again">again<c function="rise" type="intonation" xml:id="PRqas19_d2e3765"/>
           </w>
           <w xml:id="xTok_PRqas19_001418" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_001420" ana="#MDfMD" lemma="will">would</w>
           <w xml:id="xTok_PRqas19_001422" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_PRqas19_001424" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001426" ana="#XXfXX" lemma="">s-</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3789"/>
           <w xml:id="xTok_PRqas19_001429" ana="#VVfVV" lemma="say">say</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e3797">
             <w xml:id="xTok_PRqas19_001432" ana="#WRBfWRB" lemma="how">how</w>
           </emph>
           <w xml:id="xTok_PRqas19_001435" ana="#JJfJJ" lemma="honoured">honoured</w>
           <w xml:id="xTok_PRqas19_001437" ana="#PPfPP" lemma="i">i</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e3814">
             <w xml:id="xTok_PRqas19_001440" ana="#VBPfVBP" lemma="be">am</w>
           </emph>
           <w xml:id="xTok_PRqas19_001443" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001445" ana="#VBfVB" lemma="be">be</w>
           <w xml:id="xTok_PRqas19_001447" ana="#RBfRB" lemma="here">here</w>
-          <w xml:id="xTok_PRqas19_001449" ana="#RBfRB" lemma="today">today<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001449" ana="#RBfRB" lemma="today">today<c function="rise" type="intonation" xml:id="PRqas19_d2e3838"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3839"/>
           <w xml:id="xTok_PRqas19_001451" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PRqas19_001453" ana="#NNfNN" lemma="behalf">behalf</w>
           <w xml:id="xTok_PRqas19_001455" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_001457" ana="#NNfNN" lemma="president">president</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e3859">
             <w xml:id="xTok_PRqas19_001460" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_001462" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_001464" ana="#UNIfUNI" lemma="">x</w>
@@ -1397,7 +1397,7 @@
           <w xml:id="xTok_PRqas19_001477" ana="#NNfNN" lemma="discussion">discussion</w>
           <w xml:id="xTok_PRqas19_001479" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_001481" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_001483" ana="#NNfNN" lemma="session">session<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001483" ana="#NNfNN" lemma="session">session<c function="fall" type="intonation" xml:id="PRqas19_d2e3912"/>
           </w>
           <w xml:id="xTok_PRqas19_001485" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_001487" ana="#PPfPP" lemma="we">we</w>
@@ -1405,10 +1405,10 @@
           <w xml:id="xTok_PRqas19_001491" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001493" ana="#VVfVV" lemma="share">share</w>
           <w xml:id="xTok_PRqas19_001495" ana="#PPSfPPS" lemma="we">our</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3940"/>
           <w xml:id="xTok_PRqas19_001498" ana="#NNfNN" lemma="experience">experience</w>
           <w xml:id="xTok_PRqas19_001500" ana="#INfIN" lemma="with">with</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e3952">
             <w xml:id="xTok_PRqas19_001503" ana="#PPfPP" lemma="you">you</w>
           </emph>
           <w xml:id="xTok_PRqas19_001506" ana="#CCfCC" lemma="and">and</w>
@@ -1416,21 +1416,21 @@
           <w xml:id="xTok_PRqas19_001510" ana="#VVfVV" lemma="hear">hear</w>
           <w xml:id="xTok_PRqas19_001512" ana="#INfIN" lemma="about">about</w>
           <w xml:id="xTok_PRqas19_001514" ana="#PPSfPPS" lemma="you">your</w>
-          <w xml:id="xTok_PRqas19_001516" ana="#NNSfNNS" lemma="endeavour">endeavours<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001516" ana="#NNSfNNS" lemma="endeavour">endeavours<c function="fall" type="intonation" xml:id="PRqas19_d2e3984"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e3985"/>
           <w xml:id="xTok_PRqas19_001518" ana="#FIfFI" lemma="thank">thanks</w>
           <w xml:id="xTok_PRqas19_001520" ana="#RBfRB" lemma="so">so</w>
-          <w xml:id="xTok_PRqas19_001522" ana="#JJfJJ" lemma="much">much<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001522" ana="#JJfJJ" lemma="much">much<c function="fall" type="intonation" xml:id="PRqas19_d2e3999"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e4000"/>
         </u>
         <u who="#PRqas19_SS" xml:id="PRqas19_u_4">
-          <vocal voice:desc="applauds" mode="inline"/>
+          <vocal voice:desc="applauds" mode="inline" xml:id="PRqas19_d2e4004"/>
           <seg n="9" type="overlap" xml:id="PRqas19_ol_0" mode="inline">
-            <vocal voice:desc="applauds" mode="inline"/>
+            <vocal voice:desc="applauds" mode="inline" xml:id="PRqas19_d2e4006"/>
           </seg>
-          <vocal voice:desc="applauds" mode="inline"/>
+          <vocal voice:desc="applauds" mode="inline" xml:id="PRqas19_d2e4007"/>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_5">
           <seg n="9" synch="#PRqas19_ol_0" type="overlap" xml:id="PRqas19_ol_1">
@@ -1439,10 +1439,10 @@
             <w xml:id="xTok_PRqas19_001530" ana="#VVDfVVD" lemma="try">tried</w>
             <w xml:id="xTok_PRqas19_001532" ana="#TOfTO" lemma="to">to</w>
           </seg>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e4030"/>
         </u>
         <u who="#PRqas19_SX-f" xml:id="PRqas19_u_6">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline" xml:id="PRqas19_d2e4034"/>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_7">
           <w xml:id="xTok_PRqas19_001537" ana="#RBfRB" lemma="maybe">maybe</w>
@@ -1450,15 +1450,15 @@
           <w xml:id="xTok_PRqas19_001541" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001543" ana="#VVPfVVP" lemma="need">need</w>
           <w xml:id="xTok_PRqas19_001545" ana="#CDfCD" lemma="fifteen">fifteen</w>
-          <w xml:id="xTok_PRqas19_001547" ana="#NNSfNNS" lemma="minute">minutes<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001547" ana="#NNSfNNS" lemma="minute">minutes<c function="rise" type="intonation" xml:id="PRqas19_d2e4063"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4064"/>
           <w xml:id="xTok_PRqas19_001549" ana="#PPfPP" lemma="i" part="I" next="xTok_PRqas19_001551">i</w>
           <w xml:id="xTok_PRqas19_001551" ana="#MDfMD" lemma="will" part="F" prev="xTok_PRqas19_001549">'d</w>
           <w xml:id="xTok_PRqas19_001553" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_PRqas19_001555" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001557" ana="#VVfVV" lemma="read">read</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4088"/>
           <seg n="1" type="overlap" xml:id="PRqas19_ol_2">
             <w xml:id="xTok_PRqas19_001560" ana="#DTfDT" lemma="this">this</w>
             <w xml:id="xTok_PRqas19_001562" ana="#UHfUH" lemma="er">er</w>
@@ -1474,7 +1474,7 @@
           <w xml:id="xTok_PRqas19_001575" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_001577" ana="#FIfFI" lemma="thank">thanks</w>
           <w xml:id="xTok_PRqas19_001579" ana="#INfIN" lemma="for">for</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4138"/>
           <w xml:id="xTok_PRqas19_001582" ana="#VBGfVBG" lemma="be">being</w>
           <shift corresp="#PRqas19_s_8" feature="voice" new="laugh" xml:id="PRqas19_s_7"/>
           <w xml:id="xTok_PRqas19_001585" ana="#RBfRB" lemma="not">not</w>
@@ -1484,20 +1484,20 @@
           <shift corresp="#PRqas19_s_7" feature="voice" new="neutral" xml:id="PRqas19_s_8"/>
         </u>
         <u who="#PRqas19_SX-f" xml:id="PRqas19_u_9">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline" xml:id="PRqas19_d2e4169"/>
         </u>
         <u who="#PRqas19_S1" xml:id="PRqas19_u_10">
           <w xml:id="xTok_PRqas19_001596" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PRqas19_001598" part="I" next="#xTok_PRqas19_001599" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRqas19_001598" part="I" next="#xTok_PRqas19_001599" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRqas19_d2e4181"/>
           </w>
           <w xml:id="xTok_PRqas19_001599" part="F" prev="#xTok_PRqas19_001598">r</w>
           <w xml:id="xTok_PRqas19_001601" ana="#WRBfWRB" lemma="when">when</w>
           <w xml:id="xTok_PRqas19_001603" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001605" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_PRqas19_001607" ana="#CDfCD" lemma="four">four</w>
-          <w xml:id="xTok_PRqas19_001609" ana="#NNSfNNS" lemma="presentation">presentations<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001609" ana="#NNSfNNS" lemma="presentation">presentations<c function="rise" type="intonation" xml:id="PRqas19_d2e4205"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4206"/>
           <w xml:id="xTok_PRqas19_001611" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_001613" ana="#VVPfVVP" lemma="find">find</w>
           <w xml:id="xTok_PRqas19_001615" ana="#PPfPP" lemma="it">it</w>
@@ -1514,7 +1514,7 @@
           <w xml:id="xTok_PRqas19_001637" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_001639" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_PRqas19_001641" ana="#UHfUH" lemma="er">er</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e4276">
             <w xml:id="xTok_PRqas19_001644" ana="#UNIfUNI" lemma="">xxxx</w>
           </supplied>
           <w xml:id="xTok_PRqas19_001647" ana="#UHfUH" lemma="er">er</w>
@@ -1526,9 +1526,9 @@
           <w xml:id="xTok_PRqas19_001659" ana="#NNfNN" lemma="time">time</w>
           <w xml:id="xTok_PRqas19_001661" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_001663" ana="#UHfUH" lemma="er">er</w>
-          <w xml:id="xTok_PRqas19_001665" ana="#NNSfNNS" lemma="question">questions<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001665" ana="#NNSfNNS" lemma="question">questions<c function="rise" type="intonation" xml:id="PRqas19_d2e4325"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PRqas19_d2e4326"/>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_11">
           <w xml:id="xTok_PRqas19_001668" ana="#DMfDM" lemma="so">so</w>
@@ -1544,7 +1544,7 @@
           <w xml:id="xTok_PRqas19_001688" ana="#NNfNN" lemma="time">time</w>
           <w xml:id="xTok_PRqas19_001690" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_001692" ana="#JJfJJ" lemma="european">european</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4386"/>
           <w xml:id="xTok_PRqas19_001695" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRqas19_001697" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRqas19_001699" ana="#RBfRB" lemma="just">just</w>
@@ -1553,20 +1553,20 @@
           <w xml:id="xTok_PRqas19_001705" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_001707" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_001709" ana="#VVDfVVD" lemma="enjoy">enjoyed</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4423"/>
           <w xml:id="xTok_PRqas19_001712" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_001714" ana="#INfIN" lemma="by">by</w>
           <w xml:id="xTok_PRqas19_001716" ana="#PPfPP" lemma="i">myself</w>
           <w xml:id="xTok_PRqas19_001718" ana="#RBfRB" lemma="really">really</w>
-          <w xml:id="xTok_PRqas19_001720" ana="#VVDfVVD" lemma="enjoy">enjoyed<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001720" ana="#VVDfVVD" lemma="enjoy">enjoyed<c function="fall" type="intonation" xml:id="PRqas19_d2e4445"/>
           </w>
           <w xml:id="xTok_PRqas19_001722" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_PRqas19_001724" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRqas19_001726" ana="#JJfJJ" lemma="bilingual">bilingual</w>
           <w xml:id="xTok_PRqas19_001728" ana="#UHfUH" lemma="er">er</w>
-          <w xml:id="xTok_PRqas19_001730" ana="#NNfNN" lemma="situation">situation<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001730" ana="#NNfNN" lemma="situation">situation<c function="fall" type="intonation" xml:id="PRqas19_d2e4467"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4468"/>
           <w xml:id="xTok_PRqas19_001732" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRqas19_001734" ana="#JJfJJ" lemma="multilingual">multilingual</w>
           <w xml:id="xTok_PRqas19_001736" ana="#NNfNN" lemma="situation">situation</w>
@@ -1577,16 +1577,16 @@
           <w xml:id="xTok_PRqas19_001746" ana="#JJfJJ" lemma="different">different</w>
           <w xml:id="xTok_PRqas19_001748" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRqas19_001750" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_001752" ana="#NPfNP" lemma="asia">asia<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001752" ana="#NPfNP" lemma="asia">asia<c function="fall" type="intonation" xml:id="PRqas19_d2e4515"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4516"/>
           <w xml:id="xTok_PRqas19_001754" ana="#REfRE" lemma="yes">yes</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e4523"/>
         </u>
         <u who="#PRqas19_S3" xml:id="PRqas19_u_12">
           <w xml:id="xTok_PRqas19_001758" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PRqas19_001760" ana="#VBPfVBP" lemma="be">are</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4537"/>
           <w xml:id="xTok_PRqas19_001763" ana="#UHfUH" lemma="erm">erm</w>
           <w xml:id="xTok_PRqas19_001765" ana="#FIfFI" lemma="sorry">sorry</w>
         </u>
@@ -1594,7 +1594,7 @@
           <w xml:id="xTok_PRqas19_001769" ana="#DMfDM" lemma="well">well</w>
           <w xml:id="xTok_PRqas19_001771" ana="#VVfVV" lemma="go">go</w>
           <w xml:id="xTok_PRqas19_001773" ana="#RBfRB" lemma="ahead">ahead</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4565"/>
           <w xml:id="xTok_PRqas19_001776" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#PRqas19_S3" xml:id="PRqas19_u_14">
@@ -1604,26 +1604,26 @@
           <w xml:id="xTok_PRqas19_001786" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001788" ana="#VVfVV" lemma="ask">ask</w>
           <w xml:id="xTok_PRqas19_001790" ana="#WPfWP" lemma="what">what</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4603"/>
           <w xml:id="xTok_PRqas19_001793" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_PRqas19_001795" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRqas19_001797" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_001799" ana="#NNSfNNS" lemma="nationality">nationalities</w>
           <w xml:id="xTok_PRqas19_001801" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PRqas19_001803" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_001805" ana="#NNfNN" lemma="university">university<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001805" ana="#NNfNN" lemma="university">university<c function="rise" type="intonation" xml:id="PRqas19_d2e4633"/>
           </w>
           <w xml:id="xTok_PRqas19_001807" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PRqas19_001809" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_001811" ana="#NNfNN" lemma="moment">moment<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001811" ana="#NNfNN" lemma="moment">moment<c function="rise" type="intonation" xml:id="PRqas19_d2e4647"/>
           </w>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_15">
           <w xml:id="xTok_PRqas19_001814" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_001816" ana="#NNSfNNS" lemma="nationality">nationalities<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001816" ana="#NNSfNNS" lemma="nationality">nationalities<c function="rise" type="intonation" xml:id="PRqas19_d2e4659"/>
           </w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_001818" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <pause xml:id="PRqas19_d2e4660"/>
+          <w xml:id="xTok_PRqas19_001818" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PRqas19_d2e4665"/>
           </w>
         </u>
         <u who="#PRqas19_S3" xml:id="PRqas19_u_16">
@@ -1633,10 +1633,10 @@
         <u who="#PRqas19_S2" xml:id="PRqas19_u_17">
           <w xml:id="xTok_PRqas19_001827" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_001829" ana="#JJfJJ" lemma="international">international</w>
-          <w xml:id="xTok_PRqas19_001831" ana="#NNSfNNS" lemma="student">students<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001831" ana="#NNSfNNS" lemma="student">students<c function="rise" type="intonation" xml:id="PRqas19_d2e4694"/>
           </w>
           <w xml:id="xTok_PRqas19_001833" ana="#DTfDT" lemma="the">the</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e4701">
             <w xml:id="xTok_PRqas19_001836" ana="#JJfJJ" lemma="moderate">moderate</w>
             <w xml:id="xTok_PRqas19_001838" ana="#JJfJJ" lemma="korean">korean</w>
             <w xml:id="xTok_PRqas19_001840" ana="#NNSfNNS" lemma="student">students</w>
@@ -1648,46 +1648,46 @@
           <w xml:id="xTok_PRqas19_001851" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_PRqas19_001853" ana="#VHfVH" lemma="have">have</w>
           <w xml:id="xTok_PRqas19_001855" ana="#XXfXX" lemma="">al-</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4748"/>
           <w xml:id="xTok_PRqas19_001858" ana="#RBfRB" lemma="almost">almost</w>
           <w xml:id="xTok_PRqas19_001860" ana="#UHfUH" lemma="er">er</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4759"/>
           <w xml:id="xTok_PRqas19_001863" ana="#CDfCD" lemma="four">four</w>
           <w xml:id="xTok_PRqas19_001865" ana="#CDfCD" lemma="hundred">hundred</w>
           <w xml:id="xTok_PRqas19_001867" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRqas19_001869" ana="#CDfCD" lemma="five">five</w>
           <w xml:id="xTok_PRqas19_001871" ana="#CDfCD" lemma="hundred">hundred</w>
           <w xml:id="xTok_PRqas19_001873" ana="#JJfJJ" lemma="international">international</w>
-          <w xml:id="xTok_PRqas19_001875" ana="#NNSfNNS" lemma="student">students<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001875" ana="#NNSfNNS" lemma="student">students<c function="fall" type="intonation" xml:id="PRqas19_d2e4790"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4791"/>
           <w xml:id="xTok_PRqas19_001877" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRqas19_001879" ana="#RBfRB" lemma="almost">almost</w>
           <w xml:id="xTok_PRqas19_001881" ana="#CDfCD" lemma="forty-five">forty-five</w>
-          <w xml:id="xTok_PRqas19_001883" ana="#NNSfNNS" lemma="country">countries<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001883" ana="#NNSfNNS" lemma="country">countries<c function="fall" type="intonation" xml:id="PRqas19_d2e4809"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4810"/>
           <w xml:id="xTok_PRqas19_001885" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4817"/>
           <w xml:id="xTok_PRqas19_001888" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001890" ana="#MDfMD" lemma="will">would</w>
           <w xml:id="xTok_PRqas19_001892" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_PRqas19_001894" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001896" ana="#RBfRB" lemma="really">really</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4841"/>
           <w xml:id="xTok_PRqas19_001899" ana="#RBfRB" lemma="right">right</w>
           <w xml:id="xTok_PRqas19_001901" ana="#RBfRB" lemma="now">now</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4853"/>
           <w xml:id="xTok_PRqas19_001904" ana="#RBfRB" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_001906" ana="#RBfRB" lemma="example">example</w>
-          <w xml:id="xTok_PRqas19_001908" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_PRqas19_001908" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PRqas19_d2e4866"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4868"/>
           <w xml:id="xTok_PRqas19_001910" ana="#JJfJJ" lemma="foreign">foreign</w>
-          <w xml:id="xTok_PRqas19_001912" ana="#NNSfNNS" lemma="student">students<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001912" ana="#NNSfNNS" lemma="student">students<c function="fall" type="intonation" xml:id="PRqas19_d2e4877"/>
           </w>
-          <pause/>
-          <emph>
+          <pause xml:id="PRqas19_d2e4878"/>
+          <emph xml:id="PRqas19_d2e4879">
             <w xml:id="xTok_PRqas19_001914" ana="#PPfPP" lemma="they">they</w>
           </emph>
           <w xml:id="xTok_PRqas19_001917" ana="#MDfMD" lemma="shall">should</w>
@@ -1698,22 +1698,22 @@
           <w xml:id="xTok_PRqas19_001927" ana="#RBfRB" lemma="least">least</w>
           <w xml:id="xTok_PRqas19_001929" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_001931" ana="#CDfCD" lemma="one">one</w>
-          <w xml:id="xTok_PRqas19_001933" ana="#NNfNN" lemma="semester">semester<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001933" ana="#NNfNN" lemma="semester">semester<c function="fall" type="intonation" xml:id="PRqas19_d2e4924"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e4925"/>
           <w xml:id="xTok_PRqas19_001935" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_001937" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_001939" ana="#NNfNN" lemma="language">language<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001939" ana="#NNfNN" lemma="language">language<c function="fall" type="intonation" xml:id="PRqas19_d2e4939"/>
           </w>
           <w xml:id="xTok_PRqas19_001941" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_PRqas19_001943" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_001945" ana="#VVDfVVD" lemma="finish">finished</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e4954">
             <w xml:id="xTok_PRqas19_001948" ana="#UNIfUNI" lemma="">xx</w>
             <w xml:id="xTok_PRqas19_001950" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_001952" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e4969">
             <w xml:id="xTok_PRqas19_001955" ana="#VVfVV" lemma="go">go</w>
             <w xml:id="xTok_PRqas19_001957" ana="#RBfRB" lemma="abroad">abroad</w>
           </unclear>
@@ -1726,13 +1726,13 @@
           <w xml:id="xTok_PRqas19_001972" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_001974" ana="#NNfNN" lemma="number">number</w>
           <w xml:id="xTok_PRqas19_001976" ana="#INfIN" lemma="of">of</w>
-          <unclear>
-            <emph>
+          <unclear xml:id="PRqas19_d2e5020">
+            <emph xml:id="PRqas19_d2e5021">
               <w xml:id="xTok_PRqas19_001979" part="I" next="#xTok_PRqas19_001980" ana="#JJfJJ" lemma="unbalanced">un</w>
             </emph>
             <w xml:id="xTok_PRqas19_001980" part="F" prev="#xTok_PRqas19_001979">balanced</w>
           </unclear>
-          <w xml:id="xTok_PRqas19_001983" ana="#NNSfNNS" lemma="student">students<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_001983" ana="#NNSfNNS" lemma="student">students<c function="fall" type="intonation" xml:id="PRqas19_d2e5035"/>
           </w>
           <w xml:id="xTok_PRqas19_001985" ana="#DTfDT" lemma="that" part="I" next="xTok_PRqas19_001987">that</w>
           <w xml:id="xTok_PRqas19_001987" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRqas19_001985">'s</w>
@@ -1740,44 +1740,44 @@
           <w xml:id="xTok_PRqas19_001991" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_001993" ana="#VVPfVVP" lemma="encourage">encourage</w>
           <w xml:id="xTok_PRqas19_001995" ana="#PPSfPPS" lemma="we">our</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e5063">
             <w xml:id="xTok_PRqas19_001998" ana="#NNfNN" lemma="fact">fact</w>
           </unclear>
           <w xml:id="xTok_PRqas19_002001" ana="#NNSfNNS" lemma="member">members</w>
           <w xml:id="xTok_PRqas19_002003" ana="#VVfVV" lemma="teach">teach</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5080"/>
           <w xml:id="xTok_PRqas19_002006" ana="#INfIN" lemma="if">if</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5088"/>
           <w xml:id="xTok_PRqas19_002009" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002011" ana="#NNfNN" lemma="course">course</w>
           <w xml:id="xTok_PRqas19_002013" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_002015" ana="#INfIN" lemma="in">in</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e5108">
             <w xml:id="xTok_PRqas19_002018" ana="#NPfNP" lemma="english">english</w>
           </emph>
           <w xml:id="xTok_PRqas19_002021" ana="#DMfDM #INfIN" lemma="so">so</w>
           <w xml:id="xTok_PRqas19_002023" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5125"/>
           <w xml:id="xTok_PRqas19_002026" ana="#JJfJJ" lemma="foreign">foreign</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5133"/>
           <w xml:id="xTok_PRqas19_002029" ana="#NNSfNNS" lemma="student">students</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5140"/>
           <w xml:id="xTok_PRqas19_002032" ana="#VVPfVVP" lemma="come">come</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5147"/>
           <w xml:id="xTok_PRqas19_002035" ana="#TOfTO" lemma="to">to</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5155"/>
           <w xml:id="xTok_PRqas19_002038" ana="#VVfVV" lemma="hear">hear</w>
           <w xml:id="xTok_PRqas19_002040" ana="#DTfDT" lemma="these">these</w>
-          <w xml:id="xTok_PRqas19_002042" ana="#NNSfNNS" lemma="thing">things<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002042" ana="#NNSfNNS" lemma="thing">things<c function="fall" type="intonation" xml:id="PRqas19_d2e5168"/>
           </w>
           <w xml:id="xTok_PRqas19_002044" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5176"/>
           <w xml:id="xTok_PRqas19_002047" ana="#NNfNN" lemma="one">one</w>
           <w xml:id="xTok_PRqas19_002049" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_002051" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002053" ana="#JJfJJ" lemma="international">international</w>
-          <unclear>
-            <w xml:id="xTok_PRqas19_002056" ana="#NNfNN" lemma="campus">campus<c function="fall" type="intonation"/>
+          <unclear xml:id="PRqas19_d2e5196">
+            <w xml:id="xTok_PRqas19_002056" ana="#NNfNN" lemma="campus">campus<c function="fall" type="intonation" xml:id="PRqas19_d2e5203"/>
             </w>
           </unclear>
           <w xml:id="xTok_PRqas19_002059" ana="#PPfPP" lemma="we">we</w>
@@ -1788,47 +1788,47 @@
           <w xml:id="xTok_PRqas19_002069" ana="#NNSfNNS" lemma="member">members</w>
           <w xml:id="xTok_PRqas19_002071" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRqas19_002073" ana="#DTfDT" lemma="the">the</w>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="PRqas19_d2e5239">
             <w xml:id="xTok_PRqas19_002076" ana="#NPfNP" lemma="">[name1]</w>
           </supplied>
-          <w xml:id="xTok_PRqas19_002079" ana="#NPfNP" lemma="university">university<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002079" ana="#NPfNP" lemma="university">university<c function="rise" type="intonation" xml:id="PRqas19_d2e5251"/>
           </w>
           <w xml:id="xTok_PRqas19_002081" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_002083" ana="#VVfVV" lemma="come">come</w>
           <w xml:id="xTok_PRqas19_002085" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_002087" ana="#VVfVV" lemma="teach">teach</w>
-          <voice:track medium="1" num="5" type="md"/>
+          <voice:track medium="1" num="5" type="md" xml:id="PRqas19_d2e5270"/>
           <w xml:id="xTok_PRqas19_002090" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRqas19_002092" ana="#VVfVV" lemma="let">let</w>
           <w xml:id="xTok_PRqas19_002094" ana="#JJfJJ" lemma="other">other</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5286"/>
           <w xml:id="xTok_PRqas19_002097" ana="#NNSfNNS" lemma="student">students</w>
           <w xml:id="xTok_PRqas19_002099" ana="#VVPfVVP" lemma="come">come</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5298"/>
           <w xml:id="xTok_PRqas19_002102" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_002104" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_PRqas19_002106" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_PRqas19_002108" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRqas19_002110" ana="#NNfNN" lemma="chance">chance</w>
           <w xml:id="xTok_PRqas19_002112" ana="#TOfTO" lemma="to">to</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5326"/>
           <w xml:id="xTok_PRqas19_002115" ana="#VVfVV" lemma="get">get</w>
           <w xml:id="xTok_PRqas19_002117" ana="#NNSfNNS" lemma="course">courses</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5338"/>
           <w xml:id="xTok_PRqas19_002120" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRqas19_002122" ana="#JJfJJ" lemma="other">other</w>
-          <pause/>
-          <unclear>
+          <pause xml:id="PRqas19_d2e5349"/>
+          <unclear xml:id="PRqas19_d2e5350">
             <w xml:id="xTok_PRqas19_002125" ana="#NNfNN" lemma="fact">fact</w>
           </unclear>
           <w xml:id="xTok_PRqas19_002128" ana="#NNSfNNS" lemma="member">members</w>
           <w xml:id="xTok_PRqas19_002130" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_002132" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002134" ana="#JJfJJ" lemma="foreign">foreign</w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_002137" ana="#NNSfNNS" lemma="country">countries<c function="fall" type="intonation"/>
+          <pause xml:id="PRqas19_d2e5376"/>
+          <w xml:id="xTok_PRqas19_002137" ana="#NNSfNNS" lemma="country">countries<c function="fall" type="intonation" xml:id="PRqas19_d2e5381"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e5382"/>
         </u>
         <u who="#PRqas19_S1" xml:id="PRqas19_u_18">
           <w xml:id="xTok_PRqas19_002140" ana="#REfRE" lemma="yeah">yeah</w>
@@ -1836,7 +1836,7 @@
           <w xml:id="xTok_PRqas19_002144" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_002146" ana="#DTfDT" lemma="another">another</w>
           <w xml:id="xTok_PRqas19_002148" ana="#NNfNN" lemma="question">question</w>
-          <w xml:id="xTok_PRqas19_002150" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002150" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation" xml:id="PRqas19_d2e5411"/>
           </w>
         </u>
         <u who="#PRqas19_S4" xml:id="PRqas19_u_19">
@@ -1844,12 +1844,12 @@
           <w xml:id="xTok_PRqas19_002155" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PRqas19_002157" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_PRqas19_002159" ana="#JJfJJ" lemma="other">other</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5434"/>
           <w xml:id="xTok_PRqas19_002162" ana="#RBfRB" lemma="sort">sort</w>
           <w xml:id="xTok_PRqas19_002164" ana="#RBfRB" lemma="of">of</w>
-          <w xml:id="xTok_PRqas19_002166" ana="#JJfJJ" lemma="related">related<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002166" ana="#JJfJJ" lemma="related">related<c function="fall" type="intonation" xml:id="PRqas19_d2e5448"/>
           </w>
-          <w xml:id="xTok_PRqas19_002168" part="I" next="#xTok_PRqas19_002169" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRqas19_002168" part="I" next="#xTok_PRqas19_002169" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRqas19_d2e5453"/>
           </w>
           <w xml:id="xTok_PRqas19_002169" part="F" prev="#xTok_PRqas19_002168">r</w>
           <w xml:id="xTok_PRqas19_002171" ana="#PPfPP" lemma="you">you</w>
@@ -1862,7 +1862,7 @@
           <w xml:id="xTok_PRqas19_002185" ana="#NNSfNNS" lemma="course">courses</w>
           <w xml:id="xTok_PRqas19_002187" ana="#VVNfVVN" lemma="teach">taught</w>
           <w xml:id="xTok_PRqas19_002189" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_002191" ana="#NPfNP" lemma="english">english<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002191" ana="#NPfNP" lemma="english">english<c function="rise" type="intonation" xml:id="PRqas19_d2e5502"/>
           </w>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_20">
@@ -1898,7 +1898,7 @@
           <w xml:id="xTok_PRqas19_002234" ana="#JJfJJ" lemma="foreign">foreign</w>
           <w xml:id="xTok_PRqas19_002236" ana="#NNSfNNS" lemma="student">students</w>
           <w xml:id="xTok_PRqas19_002238" ana="#VVGfVVG" lemma="come">coming</w>
-          <w xml:id="xTok_PRqas19_002240" ana="#INfIN" lemma="in">in<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002240" ana="#INfIN" lemma="in">in<c function="rise" type="intonation" xml:id="PRqas19_d2e5611"/>
           </w>
           <w xml:id="xTok_PRqas19_002242" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_PRqas19_002244" ana="#PPfPP" lemma="they">they</w>
@@ -1907,30 +1907,30 @@
           <w xml:id="xTok_PRqas19_002250" ana="#JJfJJ" lemma="full">full</w>
           <w xml:id="xTok_PRqas19_002252" ana="#NNfNN" lemma="university">university</w>
           <w xml:id="xTok_PRqas19_002254" ana="#NNfNN" lemma="program">program</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e5644">
             <w xml:id="xTok_PRqas19_002257" ana="#INfIN" lemma="in">in</w>
           </emph>
-          <w xml:id="xTok_PRqas19_002260" ana="#NPfNP" lemma="english">english<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002260" ana="#NPfNP" lemma="english">english<c function="rise" type="intonation" xml:id="PRqas19_d2e5655"/>
           </w>
           <w xml:id="xTok_PRqas19_002262" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRqas19_002264" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_002266" ana="#VVPfVVP" lemma="need">need</w>
           <w xml:id="xTok_PRqas19_002268" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_002270" ana="#VVfVV" lemma="learn">learn</w>
-          <w xml:id="xTok_PRqas19_002272" ana="#NPfNP" lemma="korean">korean<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002272" ana="#NPfNP" lemma="korean">korean<c function="fall" type="intonation" xml:id="PRqas19_d2e5681"/>
           </w>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_25">
-          <w xml:id="xTok_PRqas19_002275" part="I" next="#xTok_PRqas19_002276" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_PRqas19_002275" part="I" next="#xTok_PRqas19_002276" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRqas19_d2e5690"/>
           </w>
           <w xml:id="xTok_PRqas19_002276" part="F" prev="#xTok_PRqas19_002275">r</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5695"/>
           <w xml:id="xTok_PRqas19_002279" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PRqas19_002281" ana="#XXfXX" lemma="">de-</w>
           <w xml:id="xTok_PRqas19_002283" ana="#VVZfVVZ" lemma="depend">depends</w>
-          <w xml:id="xTok_PRqas19_002285" ana="#INfIN" lemma="on">on<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002285" ana="#INfIN" lemma="on">on<c function="fall" type="intonation" xml:id="PRqas19_d2e5713"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5714"/>
           <w xml:id="xTok_PRqas19_002287" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRqas19_002289" ana="#RBfRB" lemma="right">right</w>
           <w xml:id="xTok_PRqas19_002291" ana="#RBfRB" lemma="now">now</w>
@@ -1943,31 +1943,31 @@
           <w xml:id="xTok_PRqas19_002305" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_002307" ana="#VVfVV" lemma="take">take</w>
           <w xml:id="xTok_PRqas19_002309" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5767"/>
           <w xml:id="xTok_PRqas19_002312" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002314" ana="#NPfNP" lemma="korean">korean</w>
-          <w xml:id="xTok_PRqas19_002316" ana="#NNSfNNS" lemma="language">languages<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002316" ana="#NNSfNNS" lemma="language">languages<c function="rise" type="intonation" xml:id="PRqas19_d2e5781"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5782"/>
           <w xml:id="xTok_PRqas19_002318" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_002320" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_PRqas19_002322" ana="#NNfNN" lemma="step">step</w>
           <w xml:id="xTok_PRqas19_002324" ana="#INfIN" lemma="by">by</w>
-          <w xml:id="xTok_PRqas19_002326" ana="#NNfNN" lemma="step">step<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002326" ana="#NNfNN" lemma="step">step<c function="fall" type="intonation" xml:id="PRqas19_d2e5804"/>
           </w>
-          <w xml:id="xTok_PRqas19_002328" ana="#DMfDM" lemma="so">so<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002328" ana="#DMfDM" lemma="so">so<c function="fall" type="intonation" xml:id="PRqas19_d2e5809"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5810"/>
           <w xml:id="xTok_PRqas19_002330" ana="#VVZfVVZ" lemma="depend">depends</w>
           <w xml:id="xTok_PRqas19_002332" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_PRqas19_002334" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRqas19_002336" ana="#JJfJJ" lemma="much">much</w>
           <w xml:id="xTok_PRqas19_002338" ana="#INfIN" lemma="of">of</w>
-          <pause/>
-          <voice:pvc>
+          <pause xml:id="PRqas19_d2e5834"/>
+          <voice:pvc xml:id="PRqas19_d2e5836">
             <w xml:id="xTok_PRqas19_002341" ana="#PVCfJJ" lemma="">tailor-maded</w>
           </voice:pvc>
-          <w xml:id="xTok_PRqas19_002344" ana="#NNSfNNS" lemma="program">programs<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002344" ana="#NNSfNNS" lemma="program">programs<c function="fall" type="intonation" xml:id="PRqas19_d2e5847"/>
           </w>
           <w xml:id="xTok_PRqas19_002346" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PRqas19_002348" ana="#VVZfVVZ" lemma="depend">depends</w>
@@ -1978,24 +1978,24 @@
           <w xml:id="xTok_PRqas19_002358" ana="#JJfJJ" lemma="proper">proper</w>
           <w xml:id="xTok_PRqas19_002360" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRqas19_002362" ana="#XXfXX" lemma="">pro-</w>
-          <w xml:id="xTok_PRqas19_002364" ana="#XXfXX" lemma="">-ficiency<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002364" ana="#XXfXX" lemma="">-ficiency<c function="fall" type="intonation" xml:id="PRqas19_d2e5890"/>
           </w>
           <w xml:id="xTok_PRqas19_002366" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_PRqas19_002368" ana="#PPfPP" lemma="they">they</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5901"/>
           <w xml:id="xTok_PRqas19_002371" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRqas19_002373" ana="#JJfJJ" lemma="good">good</w>
           <w xml:id="xTok_PRqas19_002375" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PRqas19_002377" ana="#NPfNP" lemma="english">english</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e5921"/>
           <w xml:id="xTok_PRqas19_002380" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_PRqas19_002382" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_002384" ana="#VVPfVVP" lemma="get">get</w>
-          <w xml:id="xTok_PRqas19_002386" ana="#JJfJJ #RBfRB" lemma="direct">direct<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002386" ana="#JJfJJ #RBfRB" lemma="direct">direct<c function="fall" type="intonation" xml:id="PRqas19_d2e5939"/>
           </w>
           <w xml:id="xTok_PRqas19_002388" ana="#VVPfVVP" lemma="take">take</w>
           <w xml:id="xTok_PRqas19_002390" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_002392" ana="#NNfNN" lemma="course">course<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002392" ana="#NNfNN" lemma="course">course<c function="fall" type="intonation" xml:id="PRqas19_d2e5953"/>
           </w>
           <w xml:id="xTok_PRqas19_002394" ana="#RBfRB" lemma="otherwise">otherwise</w>
           <w xml:id="xTok_PRqas19_002396" ana="#PPfPP" lemma="they">they</w>
@@ -2009,12 +2009,12 @@
           <w xml:id="xTok_PRqas19_002412" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_002414" ana="#VVfVV" lemma="take">take</w>
           <w xml:id="xTok_PRqas19_002416" ana="#DTfDT" lemma="some">some</w>
-          <w xml:id="xTok_PRqas19_002418" ana="#NPfNP" lemma="korean">korean<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002418" ana="#NPfNP" lemma="korean">korean<c function="fall" type="intonation" xml:id="PRqas19_d2e6008"/>
           </w>
           <w xml:id="xTok_PRqas19_002420" ana="#NNSfNNS" lemma="course">courses</w>
           <w xml:id="xTok_PRqas19_002422" ana="#VVNfVVN" lemma="teach">taught</w>
           <w xml:id="xTok_PRqas19_002424" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_002426" ana="#NPfNP" lemma="korean">korean<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002426" ana="#NPfNP" lemma="korean">korean<c function="fall" type="intonation" xml:id="PRqas19_d2e6026"/>
           </w>
         </u>
         <u who="#PRqas19_S4" xml:id="PRqas19_u_26">
@@ -2023,13 +2023,13 @@
           <w xml:id="xTok_PRqas19_002433" ana="#VHDfVHD" lemma="have">had</w>
           <w xml:id="xTok_PRqas19_002435" ana="#DTfDT" lemma="another">another</w>
           <w xml:id="xTok_PRqas19_002437" ana="#RBfRB" lemma="completely">completely</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e6053">
             <w xml:id="xTok_PRqas19_002440" part="I" next="#xTok_PRqas19_002441" ana="#JJfJJ" lemma="unrelated">un</w>
           </emph>
           <w xml:id="xTok_PRqas19_002441" part="F" prev="#xTok_PRqas19_002440">related</w>
-          <w xml:id="xTok_PRqas19_002443" ana="#NNfNN" lemma="question">question<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002443" ana="#NNfNN" lemma="question">question<c function="fall" type="intonation" xml:id="PRqas19_d2e6064"/>
           </w>
-          <emph>
+          <emph xml:id="PRqas19_d2e6065">
             <w xml:id="xTok_PRqas19_002445" ana="#WRBfWRB" lemma="where">where</w>
           </emph>
           <w xml:id="xTok_PRqas19_002448" ana="#INfIN" lemma="in">in</w>
@@ -2045,7 +2045,7 @@
         </u>
         <u who="#PRqas19_SS" xml:id="PRqas19_u_27">
           <seg n="3" synch="#PRqas19_ol_6" type="overlap" xml:id="PRqas19_ol_7" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="PRqas19_d2e6114"/>
           </seg>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_28">
@@ -2054,7 +2054,7 @@
             <w xml:id="xTok_PRqas19_002470" ana="#DTfDT" lemma="the">the</w>
           </seg>
           <w xml:id="xTok_PRqas19_002473" ana="#NPfNP" lemma="seoul">seoul</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6135"/>
           <seg n="4" type="overlap" xml:id="PRqas19_ol_9">
             <w xml:id="xTok_PRqas19_002476" ana="#DTfDT" lemma="the">the</w>
             <w xml:id="xTok_PRqas19_002478" ana="#JJfJJ" lemma="korean">korean</w>
@@ -2069,17 +2069,17 @@
           <w xml:id="xTok_PRqas19_002495" ana="#CDfCD" lemma="three">three</w>
           <w xml:id="xTok_PRqas19_002497" ana="#NNfNNS" lemma="university">university</w>
           <w xml:id="xTok_PRqas19_002499" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_002501" ana="#NPfNP" lemma="korea">korea<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002501" ana="#NPfNP" lemma="korea">korea<c function="fall" type="intonation" xml:id="PRqas19_d2e6193"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6194"/>
         </u>
         <u who="#PRqas19_S4" xml:id="PRqas19_u_29">
           <seg n="4" synch="#PRqas19_ol_9" type="overlap" xml:id="PRqas19_ol_10">
-            <unclear>
+            <unclear xml:id="PRqas19_d2e6199">
               <w xml:id="xTok_PRqas19_002504" ana="#INfIN" lemma="in">in</w>
               <w xml:id="xTok_PRqas19_002506" ana="#DTfDT" lemma="the">the</w>
             </unclear>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="PRqas19_d2e6210">
               <w xml:id="xTok_PRqas19_002509" ana="#UNIfUNI" lemma="">x</w>
             </supplied>
           </seg>
@@ -2093,28 +2093,28 @@
           <w xml:id="xTok_PRqas19_002523" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRqas19_002521">'s</w>
           <w xml:id="xTok_PRqas19_002525" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRqas19_002527" ana="#JJfJJ" lemma="private">private</w>
-          <w xml:id="xTok_PRqas19_002529" ana="#NNfNN" lemma="university">university<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002529" ana="#NNfNN" lemma="university">university<c function="fall" type="intonation" xml:id="PRqas19_d2e6258"/>
           </w>
-          <pause dur="PT3S"/>
+          <pause dur="PT3S" xml:id="PRqas19_d2e6259"/>
         </u>
         <u who="#PRqas19_S1" xml:id="PRqas19_u_31">
           <w xml:id="xTok_PRqas19_002532" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PRqas19_002534" ana="#JJfJJ" lemma="other">other</w>
-          <w xml:id="xTok_PRqas19_002536" ana="#NNSfNNS" lemma="question">questions<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002536" ana="#NNSfNNS" lemma="question">questions<c function="rise" type="intonation" xml:id="PRqas19_d2e6275"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6276"/>
         </u>
         <u who="#PRqas19_S3" xml:id="PRqas19_u_32">
           <w xml:id="xTok_PRqas19_002539" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_PRqas19_002541" ana="#VVPfVVP" lemma="do">do</w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_002544" part="I" next="#xTok_PRqas19_002545" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PRqas19_d2e6290"/>
+          <w xml:id="xTok_PRqas19_002544" part="I" next="#xTok_PRqas19_002545" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRqas19_d2e6295"/>
           </w>
           <w xml:id="xTok_PRqas19_002545" part="F" prev="#xTok_PRqas19_002544">r</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6301"/>
           <w xml:id="xTok_PRqas19_002548" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_PRqas19_002550" ana="#VVPfVVP" lemma="do">do</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e6312">
             <w xml:id="xTok_PRqas19_002553" ana="#PPfPP" lemma="you">you</w>
           </emph>
           <w xml:id="xTok_PRqas19_002556" ana="#VVfVV" lemma="relate">relate</w>
@@ -2122,12 +2122,12 @@
           <w xml:id="xTok_PRqas19_002560" ana="#NPfNP" lemma="korean">korean</w>
           <w xml:id="xTok_PRqas19_002562" ana="#NNfNN" lemma="language">language</w>
           <w xml:id="xTok_PRqas19_002564" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PRqas19_002566" ana="#NNfNN" lemma="culture">culture<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002566" ana="#NNfNN" lemma="culture">culture<c function="fall" type="intonation" xml:id="PRqas19_d2e6344"/>
           </w>
           <w xml:id="xTok_PRqas19_002568" ana="#INfIN" lemma="at">at</w>
           <w xml:id="xTok_PRqas19_002570" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PRqas19_002572" ana="#JJfJJ" lemma="particular">particular</w>
-          <w xml:id="xTok_PRqas19_002574" ana="#NNfNN" lemma="time">time<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002574" ana="#NNfNN" lemma="time">time<c function="fall" type="intonation" xml:id="PRqas19_d2e6362"/>
           </w>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_33">
@@ -2142,42 +2142,42 @@
           <w xml:id="xTok_PRqas19_002591" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_002593" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PRqas19_002595" ana="#NNfNN" lemma="way">way</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6410"/>
           <w xml:id="xTok_PRqas19_002598" ana="#XXfXX" lemma="">thr-</w>
           <w xml:id="xTok_PRqas19_002600" ana="#VVNfVVN" lemma="threaten">threatened</w>
           <w xml:id="xTok_PRqas19_002602" ana="#CCfCC" lemma="or">or</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6426"/>
           <w xml:id="xTok_PRqas19_002605" ana="#VVGfVVG" lemma="become">becoming</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e6433">
             <w xml:id="xTok_PRqas19_002608" ana="#RBRfRBR" lemma="less">less</w>
           </emph>
           <w xml:id="xTok_PRqas19_002611" ana="#JJfJJ" lemma="important">important</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6447"/>
           <w xml:id="xTok_PRqas19_002614" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_002616" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002618" ana="#NNfNN" lemma="life">life</w>
           <w xml:id="xTok_PRqas19_002620" ana="#INfIN" lemma="of">of</w>
-          <w xml:id="xTok_PRqas19_002622" ana="#NPfNP" lemma="korea">korea<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002622" ana="#NPfNP" lemma="korea">korea<c function="rise" type="intonation" xml:id="PRqas19_d2e6469"/>
           </w>
           <seg n="5" type="overlap" xml:id="PRqas19_ol_11">
             <w xml:id="xTok_PRqas19_002624" ana="#INfIN" lemma="because">because</w>
           </seg>
           <w xml:id="xTok_PRqas19_002627" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_002629" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PRqas19_002631" ana="#NNfNN" lemma="internationalization">internationalization<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002631" ana="#NNfNN" lemma="internationalization">internationalization<c function="rise" type="intonation" xml:id="PRqas19_d2e6489"/>
           </w>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_35">
           <seg n="5" synch="#PRqas19_ol_11" type="overlap" xml:id="PRqas19_ol_12">
-            <w xml:id="xTok_PRqas19_002634" part="I" next="#xTok_PRqas19_002635" ana="#CCfCC" lemma="or">o<c type="lengthening"/>
+            <w xml:id="xTok_PRqas19_002634" part="I" next="#xTok_PRqas19_002635" ana="#CCfCC" lemma="or">o<c type="lengthening" xml:id="PRqas19_d2e6498"/>
             </w>
             <w xml:id="xTok_PRqas19_002635" part="F" prev="#xTok_PRqas19_002634">r</w>
           </seg>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_36">
           <w xml:id="xTok_PRqas19_002639" ana="#UHfUH" lemma="erm">erm</w>
-          <voice:pvc>
-            <w xml:id="xTok_PRqas19_002642" ana="#PVCfJJ #PVCfRB" lemma="">non-necessary<c function="fall" type="intonation"/>
+          <voice:pvc xml:id="PRqas19_d2e6513">
+            <w xml:id="xTok_PRqas19_002642" ana="#PVCfJJ #PVCfRB" lemma="">non-necessary<c function="fall" type="intonation" xml:id="PRqas19_d2e6518"/>
             </w>
           </voice:pvc>
           <w xml:id="xTok_PRqas19_002644" ana="#PPfPP" lemma="i" part="I" next="xTok_PRqas19_002646">i</w>
@@ -2187,55 +2187,55 @@
           <w xml:id="xTok_PRqas19_002652" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_002654" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002656" ana="#XXfXX" lemma="">instit-</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6550"/>
           <w xml:id="xTok_PRqas19_002659" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002661" ana="#NPfNP" lemma="institute">institute</w>
           <w xml:id="xTok_PRqas19_002663" ana="#NPfNP" lemma="of">of</w>
           <w xml:id="xTok_PRqas19_002665" ana="#NPfNP" lemma="foreign">foreign</w>
           <w xml:id="xTok_PRqas19_002667" ana="#NPfNP" lemma="language">language</w>
-          <w xml:id="xTok_PRqas19_002669" ana="#NPfNP" lemma="studies">studies<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002669" ana="#NPfNP" lemma="studies">studies<c function="rise" type="intonation" xml:id="PRqas19_d2e6576"/>
           </w>
           <w xml:id="xTok_PRqas19_002671" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_002673" ana="#VVPfVVP" lemma="recover">recover</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6588"/>
           <w xml:id="xTok_PRqas19_002676" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002678" ana="#JJfJJ" lemma="foreign">foreign</w>
           <w xml:id="xTok_PRqas19_002680" ana="#NNfNN" lemma="language">language</w>
           <w xml:id="xTok_PRqas19_002682" ana="#NNSfNNS" lemma="teaching">teachings</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6608"/>
           <w xml:id="xTok_PRqas19_002685" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002687" ana="#NNfNN" lemma="majority">majority</w>
           <w xml:id="xTok_PRqas19_002689" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRqas19_002691" ana="#VVGfVVG" lemma="take">taking</w>
           <w xml:id="xTok_PRqas19_002693" ana="#NPfNP" lemma="english">english</w>
-          <w xml:id="xTok_PRqas19_002695" ana="#NNSfNNS" lemma="course">courses<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002695" ana="#NNSfNNS" lemma="course">courses<c function="fall" type="intonation" xml:id="PRqas19_d2e6634"/>
           </w>
           <w xml:id="xTok_PRqas19_002697" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_PRqas19_002699" ana="#RBfRB" lemma="still">still</w>
           <w xml:id="xTok_PRqas19_002701" ana="#PPfPP" lemma="we">we</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6650"/>
           <w xml:id="xTok_PRqas19_002704" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRqas19_002706" ana="#VVPfVVP" lemma="provide">provide</w>
           <w xml:id="xTok_PRqas19_002708" ana="#NNSfNNS" lemma="course">courses</w>
           <w xml:id="xTok_PRqas19_002710" ana="#NPfNP" lemma="french">french</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6670"/>
           <w xml:id="xTok_PRqas19_002713" ana="#NPfNP" lemma="german">german</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6677"/>
           <w xml:id="xTok_PRqas19_002716" ana="#NPfNP" lemma="japanese">japanese</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6684"/>
           <w xml:id="xTok_PRqas19_002719" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_002721" ana="#NPfNP" lemma="chinese">chinese</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6696"/>
           <w xml:id="xTok_PRqas19_002724" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_002726" ana="#NPfNP" lemma="russia">russia</w>
           <w xml:id="xTok_PRqas19_002728" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PRqas19_002730" ana="#NPfNP" lemma="spanish">spanish<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002730" ana="#NPfNP" lemma="spanish">spanish<c function="fall" type="intonation" xml:id="PRqas19_d2e6714"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6715"/>
           <w xml:id="xTok_PRqas19_002732" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6722"/>
           <w xml:id="xTok_PRqas19_002735" ana="#CDfCD" lemma="three">three</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6730"/>
           <w xml:id="xTok_PRqas19_002738" ana="#CDfCD" lemma="twenty">twenty</w>
           <w xml:id="xTok_PRqas19_002740" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRqas19_002742" ana="#CDfCD" lemma="thirty">thirty</w>
@@ -2252,14 +2252,14 @@
           <w xml:id="xTok_PRqas19_002764" ana="#CCfCC" lemma="either">either</w>
           <w xml:id="xTok_PRqas19_002766" ana="#NPfNP" lemma="french">french</w>
           <w xml:id="xTok_PRqas19_002768" ana="#CCfCC" lemma="or">or</w>
-          <w xml:id="xTok_PRqas19_002770" ana="#NPfNP" lemma="german">german<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002770" ana="#NPfNP" lemma="german">german<c function="fall" type="intonation" xml:id="PRqas19_d2e6802"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6803"/>
           <w xml:id="xTok_PRqas19_002772" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_PRqas19_002774" ana="#RBfRB" lemma="right">right</w>
           <w xml:id="xTok_PRqas19_002776" ana="#RBfRB" lemma="now">now</w>
           <w xml:id="xTok_PRqas19_002778" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_PRqas19_002780" ana="#VVDfVVD" lemma="change">changed<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002780" ana="#VVDfVVD" lemma="change">changed<c function="fall" type="intonation" xml:id="PRqas19_d2e6825"/>
           </w>
           <w xml:id="xTok_PRqas19_002782" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002784" ana="#XXfXX" lemma="">chi-</w>
@@ -2278,15 +2278,15 @@
           <w xml:id="xTok_PRqas19_002810" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRqas19_002812" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002814" ana="#NNSfNNS" lemma="force">forces</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6899"/>
           <w xml:id="xTok_PRqas19_002817" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002819" ana="#NPfNP" lemma="french">french</w>
           <w xml:id="xTok_PRqas19_002821" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_002823" ana="#XXfXX" lemma="">germ-</w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_002826" ana="#NPfNP" lemma="german">german<c function="fall" type="intonation"/>
+          <pause xml:id="PRqas19_d2e6919"/>
+          <w xml:id="xTok_PRqas19_002826" ana="#NPfNP" lemma="german">german<c function="fall" type="intonation" xml:id="PRqas19_d2e6924"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6925"/>
           <w xml:id="xTok_PRqas19_002828" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_002830" ana="#RBfRB" lemma="also">also</w>
           <w xml:id="xTok_PRqas19_002832" ana="#WRBfWRB" lemma="how">how</w>
@@ -2294,13 +2294,13 @@
           <w xml:id="xTok_PRqas19_002836" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_002838" ana="#VVfVV" lemma="teach">teach</w>
           <w xml:id="xTok_PRqas19_002840" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_002842" ana="#NPfNP" lemma="korean">korean<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002842" ana="#NPfNP" lemma="korean">korean<c function="fall" type="intonation" xml:id="PRqas19_d2e6960"/>
           </w>
           <w xml:id="xTok_PRqas19_002844" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e6967"/>
           <w xml:id="xTok_PRqas19_002847" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_002849" ana="#VVPfVVP" lemma="teach">teach</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e6979">
             <w xml:id="xTok_PRqas19_002852" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
           <w xml:id="xTok_PRqas19_002855" ana="#INfIN" lemma="for">for</w>
@@ -2308,22 +2308,22 @@
           <w xml:id="xTok_PRqas19_002859" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRqas19_002857">'s</w>
           <w xml:id="xTok_PRqas19_002861" ana="#INfIN" lemma="against">against</w>
           <w xml:id="xTok_PRqas19_002863" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_002865" ana="#NPfNPS" lemma="korean">korean<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002865" ana="#NPfNPS" lemma="korean">korean<c function="fall" type="intonation" xml:id="PRqas19_d2e7011"/>
           </w>
           <w xml:id="xTok_PRqas19_002867" ana="#INfIN" lemma="at">at</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e7018">
             <w xml:id="xTok_PRqas19_002870" ana="#DTfDT" lemma="this">this</w>
           </emph>
           <w xml:id="xTok_PRqas19_002873" ana="#NNfNN" lemma="moment">moment</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7032"/>
           <w xml:id="xTok_PRqas19_002876" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_PRqas19_002878" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_002880" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRqas19_002882" ana="#NNfNN" lemma="balance">balance</w>
           <w xml:id="xTok_PRqas19_002884" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PRqas19_002886" ana="#VVPfVVP" lemma="think">think<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002886" ana="#VVPfVVP" lemma="think">think<c function="fall" type="intonation" xml:id="PRqas19_d2e7058"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7059"/>
           <w xml:id="xTok_PRqas19_002888" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_002890" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_PRqas19_002892" ana="#DTfDT" lemma="the">the</w>
@@ -2337,7 +2337,7 @@
           <w xml:id="xTok_PRqas19_002908" ana="#NNfNN" lemma="thing">thing</w>
           <w xml:id="xTok_PRqas19_002910" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_002912" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7117"/>
           <w xml:id="xTok_PRqas19_002915" ana="#JJfJJ" lemma="major">major</w>
           <w xml:id="xTok_PRqas19_002917" ana="#XXfXX" lemma="">univ-</w>
           <w xml:id="xTok_PRqas19_002919" ana="#JJfJJ" lemma="major">major</w>
@@ -2345,59 +2345,59 @@
           <w xml:id="xTok_PRqas19_002923" ana="#INfIN" lemma="like">like</w>
           <w xml:id="xTok_PRqas19_002925" ana="#NPfNP" lemma="samsung">samsung</w>
           <w xml:id="xTok_PRqas19_002927" ana="#CCfCC" lemma="or">or</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e7149">
             <w xml:id="xTok_PRqas19_002930" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
-          <pause/>
-          <w xml:id="xTok_PRqas19_002933" ana="#PPfPP" lemma="they">they<c function="rise" type="intonation"/>
+          <pause xml:id="PRqas19_d2e7156"/>
+          <w xml:id="xTok_PRqas19_002933" ana="#PPfPP" lemma="they">they<c function="rise" type="intonation" xml:id="PRqas19_d2e7161"/>
           </w>
           <w xml:id="xTok_PRqas19_002935" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_002937" ana="#VHPfVHP" lemma="have" part="I" next="xTok_PRqas19_002939">have</w>
           <w xml:id="xTok_PRqas19_002939" ana="#RBfRB" lemma="not" part="F" prev="xTok_PRqas19_002937">n't</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7177"/>
           <w xml:id="xTok_PRqas19_002942" ana="#VVNfVVN" lemma="teach">taught</w>
           <w xml:id="xTok_PRqas19_002944" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_PRqas19_002946" ana="#RBfRB" lemma="really">really</w>
           <w xml:id="xTok_PRqas19_002948" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRqas19_002950" ana="#NNfNN" lemma="lot">lot</w>
           <w xml:id="xTok_PRqas19_002952" ana="#INfIN" lemma="of">of</w>
-          <w xml:id="xTok_PRqas19_002954" ana="#NNfNN" lemma="time">time<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002954" ana="#NNfNN" lemma="time">time<c function="fall" type="intonation" xml:id="PRqas19_d2e7208"/>
           </w>
           <w xml:id="xTok_PRqas19_002956" ana="#INfIN" lemma="since">since</w>
           <w xml:id="xTok_PRqas19_002958" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_002960" ana="#JJfJJ" lemma="third">third</w>
           <w xml:id="xTok_PRqas19_002962" ana="#NNfNN" lemma="grade">grade</w>
           <w xml:id="xTok_PRqas19_002964" ana="#CCfCC" lemma="but">but</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7232"/>
           <w xml:id="xTok_PRqas19_002967" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_002969" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_PRqas19_002971" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_002973" ana="#VHDfVHD" lemma="have">had</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e7252">
             <w xml:id="xTok_PRqas19_002976" ana="#JJfJJ" lemma="digital">digital</w>
           </unclear>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e7259">
             <w xml:id="xTok_PRqas19_002979" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7266"/>
           <w xml:id="xTok_PRqas19_002982" ana="#JJfJJ" lemma="real">real</w>
-          <w xml:id="xTok_PRqas19_002984" ana="#NNfNN" lemma="communication">communication<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_002984" ana="#NNfNN" lemma="communication">communication<c function="fall" type="intonation" xml:id="PRqas19_d2e7275"/>
           </w>
           <w xml:id="xTok_PRqas19_002986" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_PRqas19_002988" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_PRqas19_002990" ana="#VVNfVVN" lemma="teach">taught</w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_002993" part="I" next="#xTok_PRqas19_002994" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="PRqas19_d2e7291"/>
+          <w xml:id="xTok_PRqas19_002993" part="I" next="#xTok_PRqas19_002994" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="PRqas19_d2e7296"/>
           </w>
           <w xml:id="xTok_PRqas19_002994" part="F" prev="#xTok_PRqas19_002993">r</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7301"/>
           <w xml:id="xTok_PRqas19_002997" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_PRqas19_002999" ana="#INfIN" lemma="about">about</w>
-          <w xml:id="xTok_PRqas19_003001" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003001" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation" xml:id="PRqas19_d2e7315"/>
           </w>
           <w xml:id="xTok_PRqas19_003003" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_PRqas19_003005" ana="#NPfNP" lemma="english">english</w>
-          <w xml:id="xTok_PRqas19_003007" ana="#PPfPP" lemma="it">itself<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003007" ana="#PPfPP" lemma="it">itself<c function="fall" type="intonation" xml:id="PRqas19_d2e7329"/>
           </w>
           <w xml:id="xTok_PRqas19_003009" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRqas19_003011" ana="#PPfPP" lemma="we">we</w>
@@ -2407,25 +2407,25 @@
           <w xml:id="xTok_PRqas19_003019" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_PRqas19_003021" ana="#NNfNN" lemma="kind">kind</w>
           <w xml:id="xTok_PRqas19_003023" ana="#INfIN" lemma="of">of</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7365"/>
           <w xml:id="xTok_PRqas19_003026" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_PRqas19_003028" ana="#NNfNN" lemma="competence">competence</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7377"/>
           <w xml:id="xTok_PRqas19_003031" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_003033" ana="#VVfVV" lemma="increase">increase</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7388"/>
           <w xml:id="xTok_PRqas19_003036" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_003038" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_PRqas19_003040" ana="#NNfNN" lemma="competence">competence</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
-          <pause dur="PT2S"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="PRqas19_d2e7404"/>
+          <pause dur="PT2S" xml:id="PRqas19_d2e7405"/>
         </u>
         <u who="#PRqas19_S3" xml:id="PRqas19_u_37">
           <w xml:id="xTok_PRqas19_003044" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRqas19_003046" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRqas19_003048" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRqas19_003050" ana="#DMfDM" lemma="well">well</w>
-          <voice:track medium="1" num="6" type="md"/>
+          <voice:track medium="1" num="6" type="md" xml:id="PRqas19_d2e7427"/>
           <w xml:id="xTok_PRqas19_003053" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_PRqas19_003055" ana="#VVDfVVD" lemma="say">said</w>
           <w xml:id="xTok_PRqas19_003057" ana="#INfIN" lemma="that">that</w>
@@ -2447,27 +2447,27 @@
           <w xml:id="xTok_PRqas19_003087" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#PRqas19_S3" xml:id="PRqas19_u_39">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e7509">
             <w xml:id="xTok_PRqas19_003091" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_003093" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_003095" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
           <w xml:id="xTok_PRqas19_003098" ana="#MDfMD" lemma="may">may</w>
           <w xml:id="xTok_PRqas19_003100" ana="#VHfVH" lemma="have">have</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e7534">
             <w xml:id="xTok_PRqas19_003103" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_40">
-          <w xml:id="xTok_PRqas19_003107" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003107" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation" xml:id="PRqas19_d2e7548"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7549"/>
           <w xml:id="xTok_PRqas19_003109" ana="#DTfDT" lemma="that" part="I" next="xTok_PRqas19_003111">that</w>
           <w xml:id="xTok_PRqas19_003111" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRqas19_003109">'s</w>
           <w xml:id="xTok_PRqas19_003113" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_003115" ana="#NNfNN" lemma="president" part="I" next="xTok_PRqas19_003117">president</w>
           <w xml:id="xTok_PRqas19_003117" ana="#POSfPOS" lemma="'s" part="F" prev="xTok_PRqas19_003115">'s</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e7573">
             <w xml:id="xTok_PRqas19_003120" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_PRqas19_003123" ana="#NNfNN" lemma="president" part="I" next="xTok_PRqas19_003125">president</w>
@@ -2477,7 +2477,7 @@
           <w xml:id="xTok_PRqas19_003129" ana="#REfRE" lemma="mhm">mhm</w>
         </u>
         <u who="#PRqas19_S2" xml:id="PRqas19_u_42">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e7603">
             <w xml:id="xTok_PRqas19_003133" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_003135" ana="#UNIfUNI" lemma="">x</w>
             <w xml:id="xTok_PRqas19_003137" ana="#UNIfUNI" lemma="">x</w>
@@ -2499,50 +2499,50 @@
           <w xml:id="xTok_PRqas19_003157" ana="#NNfNN" lemma="way">way</w>
           <w xml:id="xTok_PRqas19_003159" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_003161" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7671"/>
           <w xml:id="xTok_PRqas19_003164" ana="#WRBfWRB" lemma="when">when</w>
           <w xml:id="xTok_PRqas19_003166" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_003168" ana="#VVPfVVP" lemma="recruit">recruit</w>
           <w xml:id="xTok_PRqas19_003170" ana="#JJfJJ" lemma="new">new</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e7691">
             <w xml:id="xTok_PRqas19_003173" ana="#NNfNN" lemma="fact">fact</w>
           </unclear>
-          <w xml:id="xTok_PRqas19_003176" ana="#NNSfNNS" lemma="member">members<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003176" ana="#NNSfNNS" lemma="member">members<c function="fall" type="intonation" xml:id="PRqas19_d2e7702"/>
           </w>
           <w xml:id="xTok_PRqas19_003178" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_003180" ana="#JJfJJ" lemma="first">first</w>
           <w xml:id="xTok_PRqas19_003182" ana="#NNfNN" lemma="condition">condition</w>
           <w xml:id="xTok_PRqas19_003184" ana="#VBZfVBZ" lemma="be">is</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7722"/>
           <w xml:id="xTok_PRqas19_003187" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_003189" ana="#MDfMD" lemma="shall">should</w>
           <w xml:id="xTok_PRqas19_003191" ana="#PDTfPDT" lemma="all">all</w>
           <w xml:id="xTok_PRqas19_003193" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_003195" ana="#NNSfNNS" lemma="course">courses</w>
           <w xml:id="xTok_PRqas19_003197" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_003199" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003199" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation" xml:id="PRqas19_d2e7752"/>
           </w>
           <w xml:id="xTok_PRqas19_003201" ana="#DTfDT" lemma="that" part="I" next="xTok_PRqas19_003203">that</w>
           <w xml:id="xTok_PRqas19_003203" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRqas19_003201">'s</w>
-          <w xml:id="xTok_PRqas19_003205" ana="#NNfNN" lemma="obligation">obligation<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003205" ana="#NNfNN" lemma="obligation">obligation<c function="fall" type="intonation" xml:id="PRqas19_d2e7766"/>
           </w>
           <w xml:id="xTok_PRqas19_003207" ana="#JJfJJ" lemma="mandatory">mandatory</w>
-          <w xml:id="xTok_PRqas19_003209" ana="#NNfNN" lemma="one">one<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003209" ana="#NNfNN" lemma="one">one<c function="fall" type="intonation" xml:id="PRqas19_d2e7775"/>
           </w>
           <w xml:id="xTok_PRqas19_003211" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_003213" ana="#JJfJJ" lemma="new">new</w>
-          <unclear>
+          <unclear xml:id="PRqas19_d2e7787">
             <w xml:id="xTok_PRqas19_003216" ana="#NNSfNNS" lemma="career">careers</w>
           </unclear>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7794"/>
           <w xml:id="xTok_PRqas19_003219" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_003221" ana="#MDfMD" lemma="shall">should</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7805"/>
           <w xml:id="xTok_PRqas19_003224" ana="#VVfVV" lemma="teach">teach</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e7813"/>
           <w xml:id="xTok_PRqas19_003227" ana="#INfIN" lemma="in">in</w>
-          <pause/>
-          <w xml:id="xTok_PRqas19_003230" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation"/>
+          <pause xml:id="PRqas19_d2e7820"/>
+          <w xml:id="xTok_PRqas19_003230" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation" xml:id="PRqas19_d2e7825"/>
           </w>
           <shift corresp="#PRqas19_s_10" feature="tempo" new="a" xml:id="PRqas19_s_9"/>
           <w xml:id="xTok_PRqas19_003232" ana="#MDfMD" lemma="shall">should</w>
@@ -2592,12 +2592,12 @@
         <u who="#PRqas19_S2" xml:id="PRqas19_u_48">
           <seg n="7" synch="#PRqas19_ol_17" type="overlap" xml:id="PRqas19_ol_18">
             <w xml:id="xTok_PRqas19_003303" ana="#DMfDM" lemma="so">so</w>
-            <pause/>
+            <pause xml:id="PRqas19_d2e7989"/>
             <w xml:id="xTok_PRqas19_003306" ana="#CCfCC" lemma="and">and</w>
           </seg>
           <w xml:id="xTok_PRqas19_003309" ana="#INfIN" lemma="for">for</w>
           <w xml:id="xTok_PRqas19_003311" ana="#PPfPP" lemma="i">me</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8006"/>
           <w xml:id="xTok_PRqas19_003314" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_003316" ana="#PPfPP" lemma="i" part="I" next="xTok_PRqas19_003318">i</w>
           <w xml:id="xTok_PRqas19_003318" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PRqas19_003316">'m</w>
@@ -2607,9 +2607,9 @@
           <w xml:id="xTok_PRqas19_003326" ana="#VVNfVVN" lemma="see">seen</w>
           <w xml:id="xTok_PRqas19_003328" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_PRqas19_003330" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8047"/>
           <w xml:id="xTok_PRqas19_003333" ana="#XXfXX" lemma="">in-</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8054"/>
           <w xml:id="xTok_PRqas19_003336" ana="#NNfNN" lemma="department">department</w>
           <w xml:id="xTok_PRqas19_003338" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_003340" ana="#NPfNP" lemma="english">english</w>
@@ -2619,14 +2619,14 @@
           <w xml:id="xTok_PRqas19_003348" ana="#VVGfVVG" lemma="teach">teaching</w>
           <w xml:id="xTok_PRqas19_003350" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_PRqas19_003352" ana="#XXfXX" lemma="">ling-</w>
-          <w xml:id="xTok_PRqas19_003354" ana="#NNfNN" lemma="linguistics">linguistics<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003354" ana="#NNfNN" lemma="linguistics">linguistics<c function="fall" type="intonation" xml:id="PRqas19_d2e8097"/>
           </w>
           <w xml:id="xTok_PRqas19_003356" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_003358" ana="#VVfVV" lemma="listen">listen</w>
           <w xml:id="xTok_PRqas19_003360" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_003362" ana="#VVDfVVD" lemma="get">got</w>
           <w xml:id="xTok_PRqas19_003364" ana="#VVNfVVN" lemma="pressure">pressured</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8121"/>
           <w xml:id="xTok_PRqas19_003367" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_PRqas19_003369" ana="#PPfPP" lemma="it" part="I" next="xTok_PRqas19_003371">it</w>
           <w xml:id="xTok_PRqas19_003371" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PRqas19_003369">'s</w>
@@ -2639,15 +2639,15 @@
           <w xml:id="xTok_PRqas19_003385" ana="#RBfRB" lemma="away">away</w>
           <w xml:id="xTok_PRqas19_003387" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_PRqas19_003389" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PRqas19_003391" ana="#NNfNN" lemma="stage">stage<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003391" ana="#NNfNN" lemma="stage">stage<c function="fall" type="intonation" xml:id="PRqas19_d2e8177"/>
           </w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="PRqas19_d2e8178"/>
           <w xml:id="xTok_PRqas19_003393" ana="#INfIN" lemma="because">because</w>
           <w xml:id="xTok_PRqas19_003395" ana="#NNSfNNS" lemma="lot">lots</w>
           <w xml:id="xTok_PRqas19_003397" ana="#INfIN" lemma="of">of</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8194"/>
           <w xml:id="xTok_PRqas19_003400" ana="#JJfJJ" lemma="new">new</w>
-          <w xml:id="xTok_PRqas19_003402" ana="#NNfNN" lemma="generation">generation<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003402" ana="#NNfNN" lemma="generation">generation<c function="fall" type="intonation" xml:id="PRqas19_d2e8203"/>
           </w>
           <w xml:id="xTok_PRqas19_003404" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_003406" ana="#VVPfVVP" lemma="speak">speak</w>
@@ -2655,25 +2655,25 @@
           <w xml:id="xTok_PRqas19_003410" ana="#RBfRB" lemma="much">much</w>
           <w xml:id="xTok_PRqas19_003412" ana="#RBRfRBR" lemma="good">better</w>
           <w xml:id="xTok_PRqas19_003414" ana="#INfIN" lemma="than">than</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e8231">
             <w xml:id="xTok_PRqas19_003417" ana="#PPfPP" lemma="i">i</w>
           </emph>
-          <w xml:id="xTok_PRqas19_003420" ana="#VVPfVVP" lemma="do">do<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003420" ana="#VVPfVVP" lemma="do">do<c function="fall" type="intonation" xml:id="PRqas19_d2e8243"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e8244"/>
           <w xml:id="xTok_PRqas19_003422" ana="#DMfDM" lemma="so">so</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="PRqas19_d2e8251"/>
           <w xml:id="xTok_PRqas19_003425" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_PRqas19_003427" ana="#JJfJJ" lemma="young">young</w>
-          <w xml:id="xTok_PRqas19_003429" ana="#NNfNN" lemma="generation">generation<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003429" ana="#NNfNN" lemma="generation">generation<c function="fall" type="intonation" xml:id="PRqas19_d2e8265"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8266"/>
           <w xml:id="xTok_PRqas19_003431" ana="#PPfPP" lemma="they">they</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8273"/>
           <w xml:id="xTok_PRqas19_003434" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_003436" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_PRqas19_003438" ana="#RBfRB" lemma="really">really</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8289"/>
           <w xml:id="xTok_PRqas19_003441" ana="#JJfJJ" lemma="comfortable">comfortable</w>
           <w xml:id="xTok_PRqas19_003443" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_003445" ana="#VVfVV" lemma="deliver">deliver</w>
@@ -2682,17 +2682,17 @@
           <w xml:id="xTok_PRqas19_003451" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_PRqas19_003453" ana="#XXfXX" lemma="">en-</w>
           <w xml:id="xTok_PRqas19_003455" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_003457" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003457" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation" xml:id="PRqas19_d2e8328"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8329"/>
           <w xml:id="xTok_PRqas19_003459" ana="#RBfRB" lemma="sometimes">sometimes</w>
           <w xml:id="xTok_PRqas19_003461" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_003463" ana="#VHPfVHP" lemma="have">have</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8344"/>
           <w xml:id="xTok_PRqas19_003466" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PRqas19_003468" ana="#NNfNN" lemma="kind">kind</w>
           <w xml:id="xTok_PRqas19_003470" ana="#INfIN" lemma="of">of</w>
-          <w xml:id="xTok_PRqas19_003472" ana="#NNfNN" lemma="pressure">pressure<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003472" ana="#NNfNN" lemma="pressure">pressure<c function="fall" type="intonation" xml:id="PRqas19_d2e8362"/>
           </w>
           <w xml:id="xTok_PRqas19_003474" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_PRqas19_003476" ana="#WRBfWRB" lemma="how">how</w>
@@ -2704,21 +2704,21 @@
           <w xml:id="xTok_PRqas19_003488" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_PRqas19_003490" ana="#NNfNN" lemma="lecture">lecture</w>
           <w xml:id="xTok_PRqas19_003492" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_PRqas19_003494" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003494" ana="#NPfNP" lemma="english">english<c function="fall" type="intonation" xml:id="PRqas19_d2e8409"/>
           </w>
           <w xml:id="xTok_PRqas19_003496" ana="#CCfCC" lemma="and">and</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8417"/>
           <w xml:id="xTok_PRqas19_003499" ana="#CDfCD" lemma="one">one</w>
           <w xml:id="xTok_PRqas19_003501" ana="#NNfNN" lemma="month">month</w>
           <w xml:id="xTok_PRqas19_003503" ana="#RBRfRBR" lemma="late">later</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8432"/>
           <w xml:id="xTok_PRqas19_003506" ana="#RBfRB" lemma="sometimes">sometimes</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8440"/>
           <w xml:id="xTok_PRqas19_003509" ana="#INfIN" lemma="if">if</w>
           <w xml:id="xTok_PRqas19_003511" ana="#PPfPP" lemma="i" part="I" next="xTok_PRqas19_003513">i</w>
           <w xml:id="xTok_PRqas19_003513" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PRqas19_003511">'m</w>
           <w xml:id="xTok_PRqas19_003515" ana="#JJfJJ" lemma="good">good</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8460"/>
           <w xml:id="xTok_PRqas19_003518" ana="#PPSfPPS" lemma="i">my</w>
           <w xml:id="xTok_PRqas19_003520" ana="#NPfNP" lemma="english">english</w>
           <w xml:id="xTok_PRqas19_003522" ana="#VBZfVBZ" lemma="be">is</w>
@@ -2727,20 +2727,20 @@
           <w xml:id="xTok_PRqas19_003528" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_003530" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_003532" ana="#VVPfVVP" lemma="feel">feel</w>
-          <w xml:id="xTok_PRqas19_003534" ana="#JJfJJ" lemma="comfortable">comfortable<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003534" ana="#JJfJJ" lemma="comfortable">comfortable<c function="fall" type="intonation" xml:id="PRqas19_d2e8498"/>
           </w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8499"/>
           <w xml:id="xTok_PRqas19_003536" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_PRqas19_003538" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_PRqas19_003540" ana="#JJfJJ" lemma="other">other</w>
           <w xml:id="xTok_PRqas19_003542" ana="#NNfNN" lemma="day">day</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8519"/>
           <w xml:id="xTok_PRqas19_003545" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_003547" ana="#VVPfVVP" lemma="feel">feel</w>
           <w xml:id="xTok_PRqas19_003549" ana="#RBfRB" lemma="really">really</w>
           <w xml:id="xTok_PRqas19_003551" ana="#JJfJJ" lemma="frustrated">frustrated</w>
           <w xml:id="xTok_PRqas19_003553" ana="#INfIN" lemma="because">because</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8543"/>
           <w xml:id="xTok_PRqas19_003556" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_PRqas19_003558" ana="#XXfXX" lemma="">could-</w>
           <w xml:id="xTok_PRqas19_003560" ana="#PPfPP" lemma="i">i</w>
@@ -2753,44 +2753,44 @@
           <w xml:id="xTok_PRqas19_003574" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_PRqas19_003576" ana="#VVfVV" lemma="deliver">deliver</w>
           <w xml:id="xTok_PRqas19_003578" ana="#INfIN" lemma="to">to</w>
-          <w xml:id="xTok_PRqas19_003580" ana="#PPfPP" lemma="they">them<c function="fall" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003580" ana="#PPfPP" lemma="they">them<c function="fall" type="intonation" xml:id="PRqas19_d2e8599"/>
           </w>
           <w xml:id="xTok_PRqas19_003582" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_003584" ana="#RBfRB" lemma="then">then</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8610"/>
           <w xml:id="xTok_PRqas19_003587" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_PRqas19_003589" ana="#VVZfVVZ" lemma="make">makes</w>
           <w xml:id="xTok_PRqas19_003591" ana="#PPfPP" lemma="i">me</w>
           <w xml:id="xTok_PRqas19_003593" ana="#JJfJJ" lemma="frustrated">frustrated</w>
           <w xml:id="xTok_PRqas19_003595" ana="#DMfDM" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8635"/>
           <w xml:id="xTok_PRqas19_003598" ana="#JJfJJ" lemma="old">old</w>
           <w xml:id="xTok_PRqas19_003600" ana="#NNfNN" lemma="generation">generation</w>
           <w xml:id="xTok_PRqas19_003602" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_PRqas19_003604" ana="#RBfRB" lemma="really">really</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8654"/>
           <w xml:id="xTok_PRqas19_003607" ana="#INfIN" lemma="against">against</w>
           <w xml:id="xTok_PRqas19_003609" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_PRqas19_003611" ana="#NNfNN" lemma="kind">kind</w>
           <w xml:id="xTok_PRqas19_003613" ana="#INfIN" lemma="of">of</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="PRqas19_d2e8674">
             <w xml:id="xTok_PRqas19_003616" ana="#UNIfUNI" lemma="">xxxx</w>
           </supplied>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8681"/>
           <w xml:id="xTok_PRqas19_003619" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_PRqas19_003621" ana="#JJfJJ" lemma="young">young</w>
           <w xml:id="xTok_PRqas19_003623" ana="#NNfNN" lemma="generation">generation</w>
           <w xml:id="xTok_PRqas19_003625" ana="#PPfPP" lemma="they">they</w>
-          <emph>
+          <emph xml:id="PRqas19_d2e8701">
             <w xml:id="xTok_PRqas19_003628" ana="#VHPfVHP" lemma="have">have</w>
           </emph>
           <w xml:id="xTok_PRqas19_003631" ana="#TOfTO" lemma="to">to</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8715"/>
           <w xml:id="xTok_PRqas19_003634" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_PRqas19_003636" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_PRqas19_003638" ana="#VBPfVBP" lemma="be">are</w>
-          <pause/>
-          <emph>
+          <pause xml:id="PRqas19_d2e8730"/>
+          <emph xml:id="PRqas19_d2e8732">
             <w xml:id="xTok_PRqas19_003641" ana="#VVNfVVN" lemma="force">forced</w>
           </emph>
           <w xml:id="xTok_PRqas19_003644" ana="#TOfTO" lemma="to">to</w>
@@ -2812,14 +2812,14 @@
           <w xml:id="xTok_PRqas19_003672" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_PRqas19_003674" ana="#JJfJJ" lemma="korean">korean</w>
           <w xml:id="xTok_PRqas19_003676" ana="#NNfNN" lemma="situation">situation</w>
-          <pause/>
+          <pause xml:id="PRqas19_d2e8813"/>
         </u>
         <u who="#PRqas19_S1" xml:id="PRqas19_u_51">
           <w xml:id="xTok_PRqas19_003680" ana="#DTfDT" lemma="any">any</w>
           <w xml:id="xTok_PRqas19_003682" ana="#JJfJJ" lemma="other">other</w>
-          <w xml:id="xTok_PRqas19_003684" ana="#NNSfNNS" lemma="question">questions<c function="rise" type="intonation"/>
+          <w xml:id="xTok_PRqas19_003684" ana="#NNSfNNS" lemma="question">questions<c function="rise" type="intonation" xml:id="PRqas19_d2e8829"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="PRqas19_d2e8830"/>
           <w xml:id="xTok_PRqas19_003686" ana="#REfRE" lemma="okay">okay</w>
           <w xml:id="xTok_PRqas19_003688" ana="#FIfFI" lemma="thank">thank</w>
           <w xml:id="xTok_PRqas19_003690" ana="#FIfFI" lemma="you">you</w>
@@ -2832,7 +2832,7 @@
           <w xml:id="xTok_PRqas19_003702" ana="#RBfRB" lemma="much">much</w>
         </u>
         <u who="#PRqas19_SS" xml:id="PRqas19_u_53">
-          <vocal dur="PT3S" iterated="true" voice:desc="applauds" mode="inline"/>
+          <vocal dur="PT3S" iterated="true" voice:desc="applauds" mode="inline" xml:id="PRqas19_d2e8875"/>
         </u>
       </div>
     </body>

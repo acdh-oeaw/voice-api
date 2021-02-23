@@ -498,11 +498,11 @@
   </teiHeader>
   <text>
     <body>
-      <div type="medium" voice:end="01:14" voice:end_medium_number="1" voice:end_track="1" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1">
+      <div type="medium" voice:end="01:14" voice:end_medium_number="1" voice:end_track="1" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1" xml:id="POcon591_d2e639">
         <u who="#POcon591_S19" xml:id="POcon591_u_1">
-          <w xml:id="xTok_POcon591_000007" ana="#DMfDM" lemma="so">so<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000007" ana="#DMfDM" lemma="so">so<c function="fall" type="intonation" xml:id="POcon591_d2e647"/>
           </w>
-          <pause/>
+          <pause xml:id="POcon591_d2e648"/>
           <w xml:id="xTok_POcon591_000009" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_POcon591_000011" ana="#VVPfVVP" lemma="stay">stay</w>
           <w xml:id="xTok_POcon591_000013" ana="#INfIN" lemma="for">for</w>
@@ -512,17 +512,17 @@
           <w xml:id="xTok_POcon591_000021" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_POcon591_000023" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_POcon591_000025" ana="#VVPfVVP" lemma="go">go</w>
-          <incident voice:desc="parallel conversations start"/>
+          <incident voice:desc="parallel conversations start" xml:id="POcon591_d2e689"/>
           <w xml:id="xTok_POcon591_000028" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_POcon591_000030" ana="#PPSfPPS" lemma="you">your</w>
           <w xml:id="xTok_POcon591_000032" ana="#JJfJJ" lemma="second">second</w>
           <w xml:id="xTok_POcon591_000034" ana="#NNfNN" lemma="room">room</w>
         </u>
         <u who="#POcon591_S8" xml:id="POcon591_u_2">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="5" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="5" mode="inline" xml:id="POcon591_d2e711"/>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_3">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="POcon591_d2e715"/>
           <w xml:id="xTok_POcon591_000039" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_000041" ana="#VVPfVVP" lemma="drink">drink</w>
           <w xml:id="xTok_POcon591_000043" ana="#DTfDT" lemma="a">a</w>
@@ -534,7 +534,7 @@
           <w xml:id="xTok_POcon591_000055" ana="#RBfRB" lemma="too">too</w>
           <w xml:id="xTok_POcon591_000057" ana="#JJfJJ" lemma="much">much</w>
           <w xml:id="xTok_POcon591_000059" ana="#NNfNN" lemma="coffee">coffee</w>
-          <w xml:id="xTok_POcon591_000061" ana="#RBfRB" lemma="today">today<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000061" ana="#RBfRB" lemma="today">today<c function="fall" type="intonation" xml:id="POcon591_d2e766"/>
           </w>
         </u>
         <u who="#POcon591_S8" xml:id="POcon591_u_4">
@@ -542,7 +542,7 @@
           <w xml:id="xTok_POcon591_000066" ana="#VVPfVVP" lemma="like">like</w>
           <w xml:id="xTok_POcon591_000068" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_POcon591_000070" ana="#NNSfNNS" lemma="window">windows</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e788">
             <w xml:id="xTok_POcon591_000073" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
         </u>
@@ -556,17 +556,17 @@
           <w xml:id="xTok_POcon591_000089" ana="#NNfNN" lemma="floor">floor</w>
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_6">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e833">
             <w xml:id="xTok_POcon591_000093" ana="#UNIfUNI" lemma="">xxxx</w>
           </supplied>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_7">
-          <w xml:id="xTok_POcon591_000097" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000097" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="POcon591_d2e847"/>
           </w>
         </u>
         <u who="#POcon591_S9" xml:id="POcon591_u_8">
-          <voice:to who="#POcon591_S8">
-            <w xml:id="xTok_POcon591_000100" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          <voice:to who="#POcon591_S8" xml:id="POcon591_d2e851">
+            <w xml:id="xTok_POcon591_000100" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation" xml:id="POcon591_d2e856"/>
             </w>
             <w xml:id="xTok_POcon591_000102" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_POcon591_000104" ana="#XXfXX" lemma="">als-</w>
@@ -583,25 +583,25 @@
           <w xml:id="xTok_POcon591_000120" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_POcon591_000122" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_POcon591_000124" ana="#DTfDT" lemma="a">a</w>
-          <w xml:id="xTok_POcon591_000126" ana="#NNfNN" lemma="toilet">toilet<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_000126" ana="#NNfNN" lemma="toilet">toilet<c function="rise" type="intonation" xml:id="POcon591_d2e912"/>
           </w>
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_11">
-          <w xml:id="xTok_POcon591_000129" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000129" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation" xml:id="POcon591_d2e920"/>
           </w>
           <w xml:id="xTok_POcon591_000131" ana="#REfRE" lemma="yes">yes</w>
           <w xml:id="xTok_POcon591_000133" ana="#REfRE" lemma="yes">yes</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e931"/>
           <w xml:id="xTok_POcon591_000136" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_000138" ana="#VVPfVVP" lemma="show">show</w>
-          <w xml:id="xTok_POcon591_000140" ana="#PPfPP" lemma="you">you<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000140" ana="#PPfPP" lemma="you">you<c function="fall" type="intonation" xml:id="POcon591_d2e945"/>
           </w>
         </u>
         <u who="#POcon591_S9" xml:id="POcon591_u_12">
           <w xml:id="xTok_POcon591_000143" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_000145" ana="#DMfDM #INfIN" lemma="like">like</w>
-          <supplied reason="unintelligible">
-            <w xml:id="xTok_POcon591_000148" ana="#UNIfUNI" lemma="">xxxx<c function="fall" type="intonation"/>
+          <supplied reason="unintelligible" xml:id="POcon591_d2e960">
+            <w xml:id="xTok_POcon591_000148" ana="#UNIfUNI" lemma="">xxxx<c function="fall" type="intonation" xml:id="POcon591_d2e965"/>
             </w>
           </supplied>
         </u>
@@ -611,26 +611,26 @@
           <w xml:id="xTok_POcon591_000155" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_POcon591_000157" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_000159" ana="#NNSfNNS" lemma="plane">planes</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="POcon591_d2e992"/>
         </u>
         <u who="#POcon591_S5" xml:id="POcon591_u_14">
-          <w xml:id="xTok_POcon591_000163" ana="#REfRE" lemma="hm">hm<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_000163" ana="#REfRE" lemma="hm">hm<c function="rise" type="intonation" xml:id="POcon591_d2e1000"/>
           </w>
-          <pause/>
-          <w xml:id="xTok_POcon591_000165" ana="#FIfFI" lemma="pardon">pardon<c function="rise" type="intonation"/>
+          <pause xml:id="POcon591_d2e1001"/>
+          <w xml:id="xTok_POcon591_000165" ana="#FIfFI" lemma="pardon">pardon<c function="rise" type="intonation" xml:id="POcon591_d2e1006"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_15">
           <w xml:id="xTok_POcon591_000168" ana="#JJfJJ" lemma="dark">dark</w>
           <w xml:id="xTok_POcon591_000170" ana="#NNSfNNS" lemma="shadow">shadows</w>
           <w xml:id="xTok_POcon591_000172" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_POcon591_000174" part="I" next="#xTok_POcon591_000175" ana="#NNSfNNS" lemma="plane">pla<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_000174" part="I" next="#xTok_POcon591_000175" ana="#NNSfNNS" lemma="plane">pla<c type="lengthening" xml:id="POcon591_d2e1026"/>
           </w>
           <w xml:id="xTok_POcon591_000175" part="F" prev="#xTok_POcon591_000174">nes</w>
           <w xml:id="xTok_POcon591_000177" ana="#VVPfVVP" lemma="go">go</w>
           <seg n="1" type="overlap" xml:id="POcon591_ol_0">
             <w xml:id="xTok_POcon591_000180" ana="#INfIN" lemma="over">over</w>
-            <w xml:id="xTok_POcon591_000182" ana="#PPfPP" lemma="you">you<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_000182" ana="#PPfPP" lemma="you">you<c function="fall" type="intonation" xml:id="POcon591_d2e1045"/>
             </w>
           </seg>
         </u>
@@ -641,7 +641,7 @@
           </seg>
           <w xml:id="xTok_POcon591_000190" ana="#REfRE" lemma="yeah">yeah</w>
           <seg n="13" type="overlap" xml:id="POcon591_ol_2">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="POcon591_d2e1067"/>
           </seg>
         </u>
         <u who="#POcon591_S9" xml:id="POcon591_u_17">
@@ -650,7 +650,7 @@
             <w xml:id="xTok_POcon591_000196" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_000194">'s</w>
             <w xml:id="xTok_POcon591_000198" ana="#JJfJJ" lemma="awful">awful</w>
           </seg>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e1087"/>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_18">
           <w xml:id="xTok_POcon591_000202" ana="#PPfPP" lemma="i" part="I" next="xTok_POcon591_000204">i</w>
@@ -661,12 +661,12 @@
           <w xml:id="xTok_POcon591_000212" ana="#RBfRB" lemma="not" part="F" prev="xTok_POcon591_000210">n't</w>
           <w xml:id="xTok_POcon591_000214" ana="#VHfVH" lemma="have">have</w>
           <w xml:id="xTok_POcon591_000216" ana="#NNfNN" lemma="anything">anything</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1126"/>
           <w xml:id="xTok_POcon591_000219" ana="#INfIN" lemma="against">against</w>
           <w xml:id="xTok_POcon591_000221" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_000223" ana="#NNSfNNS" lemma="bird">birds</w>
           <w xml:id="xTok_POcon591_000225" ana="#RBfRB" lemma="here">here</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1146"/>
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_19">
           <seg n="2" type="overlap" xml:id="POcon591_ol_4">
@@ -695,15 +695,15 @@
           <w xml:id="xTok_POcon591_000258" ana="#NNSfNNS" lemma="bird">birds</w>
           <w xml:id="xTok_POcon591_000260" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_POcon591_000262" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_POcon591_000264" ana="#NNSfNNS" lemma="window">windows<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000264" ana="#NNSfNNS" lemma="window">windows<c function="fall" type="intonation" xml:id="POcon591_d2e1232"/>
           </w>
           <w xml:id="xTok_POcon591_000266" ana="#WRBfWRB" lemma="when">when</w>
           <w xml:id="xTok_POcon591_000268" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_POcon591_000270" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_POcon591_000272" ana="#RBfRB" lemma="so">so</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1252"/>
           <seg n="3" type="overlap" xml:id="POcon591_ol_6">
-            <w xml:id="xTok_POcon591_000275" ana="#JJfJJ" lemma="huge">huge<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_000275" ana="#JJfJJ" lemma="huge">huge<c function="fall" type="intonation" xml:id="POcon591_d2e1258"/>
             </w>
           </seg>
         </u>
@@ -714,16 +714,16 @@
           <w xml:id="xTok_POcon591_000281" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_POcon591_000283" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_POcon591_000285" ana="#DTfDT" lemma="the">the</w>
-          <emph>
+          <emph xml:id="POcon591_d2e1284">
             <w xml:id="xTok_POcon591_000288" ana="#NNSfNNS" lemma="blind">blinds</w>
           </emph>
           <seg n="4" type="overlap" xml:id="POcon591_ol_8">
-            <unclear>
+            <unclear xml:id="POcon591_d2e1292">
               <w xml:id="xTok_POcon591_000291" ana="#INfIN" lemma="with">with</w>
               <w xml:id="xTok_POcon591_000293" ana="#DTfDT" lemma="the">the</w>
             </unclear>
-            <emph>
-              <w xml:id="xTok_POcon591_000296" ana="#NNSfNNS" lemma="shape">shapes<c function="fall" type="intonation"/>
+            <emph xml:id="POcon591_d2e1303">
+              <w xml:id="xTok_POcon591_000296" ana="#NNSfNNS" lemma="shape">shapes<c function="fall" type="intonation" xml:id="POcon591_d2e1310"/>
               </w>
             </emph>
           </seg>
@@ -735,13 +735,13 @@
             <w xml:id="xTok_POcon591_000304" ana="#VVPfDM" lemma="know">know</w>
             <w xml:id="xTok_POcon591_000306" ana="#DTfDT" lemma="that">that</w>
           </seg>
-          <unclear>
+          <unclear xml:id="POcon591_d2e1333">
             <w xml:id="xTok_POcon591_000309" ana="#VVZfVVZ" lemma="explain">explains</w>
           </unclear>
           <w xml:id="xTok_POcon591_000312" ana="#RBfRB" lemma="maybe">maybe</w>
           <w xml:id="xTok_POcon591_000314" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_POcon591_000316" ana="#VBPfVBP" lemma="be">are</w>
-          <emph>
+          <emph xml:id="POcon591_d2e1354">
             <w xml:id="xTok_POcon591_000319" ana="#DTfDT" lemma="no">no</w>
           </emph>
           <w xml:id="xTok_POcon591_000322" ana="#NNSfNNS" lemma="bird">birds</w>
@@ -751,7 +751,7 @@
           <w xml:id="xTok_POcon591_000330" ana="#INfIN" lemma="because">because</w>
         </u>
         <u who="#POcon591_SS" xml:id="POcon591_u_25">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="9" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="9" mode="inline" xml:id="POcon591_d2e1387"/>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_26">
           <w xml:id="xTok_POcon591_000335" ana="#DTfDT" lemma="the">the</w>
@@ -760,7 +760,7 @@
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_27">
           <seg n="14" type="overlap" xml:id="POcon591_ol_10">
-            <foreign type="LQ" voice:translation="yes yes yes" xml:lang="spa">
+            <foreign type="LQ" voice:translation="yes yes yes" xml:lang="spa" xml:id="POcon591_d2e1409">
               <w xml:id="xTok_POcon591_000343" ana="#FWfFW" lemma="">si</w>
               <w xml:id="xTok_POcon591_000345" ana="#FWfFW" lemma="">si</w>
               <w xml:id="xTok_POcon591_000347" ana="#FWfFW" lemma="">si</w>
@@ -786,9 +786,9 @@
           <w xml:id="xTok_POcon591_000371" ana="#NNfNN" lemma="bird">bird</w>
           <w xml:id="xTok_POcon591_000373" ana="#VVDfVVD" lemma="fly">flew</w>
           <w xml:id="xTok_POcon591_000375" ana="#INfIN" lemma="against">against</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1487"/>
           <w xml:id="xTok_POcon591_000378" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_POcon591_000380" ana="#NNfNN" lemma="window">window<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000380" ana="#NNfNN" lemma="window">window<c function="fall" type="intonation" xml:id="POcon591_d2e1497"/>
           </w>
         </u>
         <u who="#POcon591_S5" xml:id="POcon591_u_30">
@@ -802,7 +802,7 @@
           <w xml:id="xTok_POcon591_000395" ana="#DTfDT" lemma="these">these</w>
           <w xml:id="xTok_POcon591_000397" ana="#JJfJJ" lemma="plastic">plastic</w>
           <w xml:id="xTok_POcon591_000399" ana="#NNSfNNS" lemma="bird">birds</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1541"/>
           <w xml:id="xTok_POcon591_000402" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_POcon591_000404" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_POcon591_000406" ana="#VBDfVBD" lemma="be">was</w>
@@ -822,11 +822,11 @@
           <w xml:id="xTok_POcon591_000434" ana="#VVDfVVD" lemma="think">thought</w>
           <w xml:id="xTok_POcon591_000436" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_POcon591_000438" ana="#VBDfVBD" lemma="be">was</w>
-          <emph>
+          <emph xml:id="POcon591_d2e1624">
             <w xml:id="xTok_POcon591_000441" part="I" next="#xTok_POcon591_000442" ana="#VVGfVVG" lemma="burst">burst</w>
           </emph>
           <w xml:id="xTok_POcon591_000442" part="F" prev="#xTok_POcon591_000441">ing</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1633"/>
           <w xml:id="xTok_POcon591_000445" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_POcon591_000447" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_000449" ana="#VVDfVVD" lemma="turn">turned</w>
@@ -836,7 +836,7 @@
           <w xml:id="xTok_POcon591_000457" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_POcon591_000459" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_POcon591_000461" ana="#DTfDT" lemma="some">some</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e1674"/>
           <w xml:id="xTok_POcon591_000464" ana="#UHfUH" lemma="erm">erm</w>
           <w xml:id="xTok_POcon591_000466" ana="#NNfNN" lemma="oil">oil</w>
           <w xml:id="xTok_POcon591_000468" ana="#INfIN" lemma="of">of</w>
@@ -847,7 +847,7 @@
           </seg>
           <w xml:id="xTok_POcon591_000478" ana="#XXfXX" lemma="">f-</w>
           <w xml:id="xTok_POcon591_000480" ana="#DTfDT" lemma="some">some</w>
-          <emph>
+          <emph xml:id="POcon591_d2e1715">
             <w xml:id="xTok_POcon591_000483" ana="#NNfNN" lemma="fat">fat</w>
           </emph>
           <w xml:id="xTok_POcon591_000486" ana="#INfIN" lemma="from">from</w>
@@ -857,9 +857,9 @@
           <w xml:id="xTok_POcon591_000494" ana="#POSfPOS" lemma="'s" part="F" prev="xTok_POcon591_000492">'s</w>
           <w xml:id="xTok_POcon591_000496" ana="#NNSfNNS" lemma="feather">feathers</w>
           <w xml:id="xTok_POcon591_000498" ana="#INfIN" lemma="on">on</w>
-          <w xml:id="xTok_POcon591_000500" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_000500" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="POcon591_d2e1756"/>
           </w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1757"/>
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_32">
           <seg n="5" synch="#POcon591_ol_12" type="overlap" xml:id="POcon591_ol_13">
@@ -870,18 +870,18 @@
           <w xml:id="xTok_POcon591_000507" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_POcon591_000509" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_000511" ana="#NNfNN" lemma="window">window</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1785"/>
           <w xml:id="xTok_POcon591_000514" ana="#REfRE" lemma="mhm">mhm</w>
         </u>
       </div>
-      <gap dur="PT00H00M50S" reason="not_transcribed" voice:desc="un; people continue talking very softly and/or in other languages"/>
-      <div type="medium" voice:end="01:05" voice:end_medium_number="1" voice:end_track="3" voice:medium_type="md" voice:start="02:03" voice:start_medium_number="1" voice:start_track="1">
+      <gap dur="PT00H00M50S" reason="not_transcribed" voice:desc="un; people continue talking very softly and/or in other languages" xml:id="POcon591_d2e1797"/>
+      <div type="medium" voice:end="01:05" voice:end_medium_number="1" voice:end_track="3" voice:medium_type="md" voice:start="02:03" voice:start_medium_number="1" voice:start_track="1" xml:id="POcon591_d2e1800">
         <u who="#POcon591_S7" xml:id="POcon591_u_34">
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="POcon591_d2e1804">
             <w xml:id="xTok_POcon591_000521" ana="#NPfNP" lemma="">[S10]</w>
           </supplied>
           <w xml:id="xTok_POcon591_000524" ana="#VVDfVVD" lemma="do">did</w>
-          <emph>
+          <emph xml:id="POcon591_d2e1817">
             <w xml:id="xTok_POcon591_000527" ana="#PPfPP" lemma="you">you</w>
           </emph>
           <w xml:id="xTok_POcon591_000530" ana="#VVfVV" lemma="say">say</w>
@@ -889,15 +889,15 @@
           <w xml:id="xTok_POcon591_000534" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_POcon591_000536" ana="#VVDfVVD" lemma="go">went</w>
           <w xml:id="xTok_POcon591_000538" ana="#INfIN" lemma="to">to</w>
-          <w xml:id="xTok_POcon591_000540" ana="#DTfDT" lemma="a">a<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_000540" ana="#DTfDT" lemma="a">a<c type="lengthening" xml:id="POcon591_d2e1849"/>
           </w>
-          <vocal type="speaker_noise" voice:desc="smacks lips"/>
-          <pause dur="PT1S"/>
+          <vocal type="speaker_noise" voice:desc="smacks lips" xml:id="POcon591_d2e1850"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e1851"/>
           <w xml:id="xTok_POcon591_000542" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_POcon591_000544" ana="#VVGfNN" lemma="shop/shopping">shopping</w>
-          <w xml:id="xTok_POcon591_000546" ana="#NNfNN" lemma="mall">mall<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_000546" ana="#NNfNN" lemma="mall">mall<c function="rise" type="intonation" xml:id="POcon591_d2e1865"/>
           </w>
-          <incident voice:desc="still multiple parallel conversations in background"/>
+          <incident voice:desc="still multiple parallel conversations in background" xml:id="POcon591_d2e1866"/>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_35">
           <w xml:id="xTok_POcon591_000549" ana="#REfRE" lemma="no">no</w>
@@ -907,19 +907,19 @@
           <w xml:id="xTok_POcon591_000557" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_POcon591_000559" ana="#UHfUH" lemma="erm">erm</w>
           <w xml:id="xTok_POcon591_000561" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1901"/>
           <w xml:id="xTok_POcon591_000564" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_000566" ana="#NNfNN" lemma="receptionist">receptionist</w>
           <w xml:id="xTok_POcon591_000568" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_POcon591_000570" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_000572" ana="#NNfNN" lemma="hotel">hotel</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e1925"/>
           <w xml:id="xTok_POcon591_000575" ana="#VVDfVVD" lemma="tell">told</w>
           <w xml:id="xTok_POcon591_000577" ana="#PPfPP" lemma="i">me</w>
           <w xml:id="xTok_POcon591_000579" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_POcon591_000581" ana="#PPfPP" lemma="he">he</w>
           <w xml:id="xTok_POcon591_000583" ana="#VVDfVVD" lemma="recommend">recommended</w>
-          <w xml:id="xTok_POcon591_000585" ana="#NNfNN" lemma="one">one<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000585" ana="#NNfNN" lemma="one">one<c function="fall" type="intonation" xml:id="POcon591_d2e1951"/>
           </w>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_36">
@@ -927,9 +927,9 @@
           <w xml:id="xTok_POcon591_000590" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_POcon591_000592" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_POcon591_000594" ana="#UHfUH" lemma="er">er</w>
-          <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa">
+          <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa" xml:id="POcon591_d2e1973">
             <w xml:id="xTok_POcon591_000597" ana="#FWfFW" lemma="">corte</w>
-            <w xml:id="xTok_POcon591_000599" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation"/>
+            <w xml:id="xTok_POcon591_000599" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation" xml:id="POcon591_d2e1982"/>
             </w>
           </foreign>
         </u>
@@ -949,7 +949,7 @@
           <shift corresp="#POcon591_s_3" feature="voice" new="neutral" xml:id="POcon591_s_4"/>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_38">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e2037">
             <w xml:id="xTok_POcon591_000625" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
           <w xml:id="xTok_POcon591_000628" ana="#REfRE" lemma="yes">yes</w>
@@ -959,19 +959,19 @@
           <w xml:id="xTok_POcon591_000636" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_POcon591_000638" ana="#PPfPP" lemma="it" part="I" next="xTok_POcon591_000640">it</w>
           <w xml:id="xTok_POcon591_000640" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_000638">'s</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e2075">
             <w xml:id="xTok_POcon591_000643" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_POcon591_000646" ana="#WRBfWRB" lemma="where">where</w>
-          <emph>
+          <emph xml:id="POcon591_d2e2088">
             <w xml:id="xTok_POcon591_000649" ana="#RBfRB" lemma="else">else</w>
           </emph>
           <seg n="14" type="overlap" xml:id="POcon591_ol_14">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e2096">
               <w xml:id="xTok_POcon591_000652" ana="#UNIfUNI" lemma="">xx</w>
             </supplied>
           </seg>
-          <pause/>
+          <pause xml:id="POcon591_d2e2104"/>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_39">
           <seg n="14" synch="#POcon591_ol_14" type="overlap" xml:id="POcon591_ol_15">
@@ -984,7 +984,7 @@
             <w xml:id="xTok_POcon591_000662" ana="#MDfMD" lemma="will">would</w>
             <w xml:id="xTok_POcon591_000664" ana="#VVfVV" lemma="like">like</w>
             <w xml:id="xTok_POcon591_000666" ana="#TOfTO" lemma="to">to</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e2138">
               <w xml:id="xTok_POcon591_000669" ana="#UNIfUNI" lemma="">xxx</w>
             </supplied>
           </seg>
@@ -992,10 +992,10 @@
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_41">
           <seg n="15" synch="#POcon591_ol_16" type="overlap" xml:id="POcon591_ol_17">
-            <emph>
+            <emph xml:id="POcon591_d2e2155">
               <w xml:id="xTok_POcon591_000676" ana="#PPfPP" lemma="he">he</w>
             </emph>
-            <unclear>
+            <unclear xml:id="POcon591_d2e2162">
               <w xml:id="xTok_POcon591_000679" ana="#MDfMD" lemma="will">would</w>
             </unclear>
             <w xml:id="xTok_POcon591_000682" ana="#VVfVV" lemma="recommend">recommend</w>
@@ -1009,7 +1009,7 @@
           <w xml:id="xTok_POcon591_000694" ana="#PPfPP" lemma="he">he</w>
           <w xml:id="xTok_POcon591_000696" ana="#VVDfVVD" lemma="say">said</w>
           <w xml:id="xTok_POcon591_000698" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e2209"/>
           <w xml:id="xTok_POcon591_000701" ana="#DTfDT" lemma="that" part="I" next="xTok_POcon591_000703">that</w>
           <w xml:id="xTok_POcon591_000703" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_000701">'s</w>
           <w xml:id="xTok_POcon591_000705" ana="#DTfDT" lemma="the">the</w>
@@ -1026,11 +1026,11 @@
           <seg n="7" type="overlap" xml:id="POcon591_ol_19">
             <w xml:id="xTok_POcon591_000726" ana="#NNfNN" lemma="stop">stop</w>
           </seg>
-          <pause/>
+          <pause xml:id="POcon591_d2e2270"/>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_43">
           <seg n="6" synch="#POcon591_ol_18" type="overlap" xml:id="POcon591_ol_20">
-            <w xml:id="xTok_POcon591_000730" ana="#REfRE" lemma="yes">yes<c function="rise" type="intonation"/>
+            <w xml:id="xTok_POcon591_000730" ana="#REfRE" lemma="yes">yes<c function="rise" type="intonation" xml:id="POcon591_d2e2279"/>
             </w>
           </seg>
         </u>
@@ -1040,7 +1040,7 @@
           </seg>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_45">
-          <w xml:id="xTok_POcon591_000737" ana="#UHfUH" lemma="erm">erm<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_000737" ana="#UHfUH" lemma="erm">erm<c type="lengthening" xml:id="POcon591_d2e2298"/>
           </w>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_46">
@@ -1050,13 +1050,13 @@
           <w xml:id="xTok_POcon591_000746" ana="#VVfVV" lemma="get">get</w>
           <w xml:id="xTok_POcon591_000748" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_POcon591_000750" ana="#INfIN" lemma="from">from</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e2329"/>
           <w xml:id="xTok_POcon591_000753" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_POcon591_000755" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_POcon591_000757" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_POcon591_000759" ana="#PPSfPPS" lemma="we">our</w>
-          <pause/>
-          <w xml:id="xTok_POcon591_000762" ana="#NNfNN" lemma="map">map<c function="rise" type="intonation"/>
+          <pause xml:id="POcon591_d2e2349"/>
+          <w xml:id="xTok_POcon591_000762" ana="#NNfNN" lemma="map">map<c function="rise" type="intonation" xml:id="POcon591_d2e2354"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_47">
@@ -1079,15 +1079,15 @@
         <u who="#POcon591_S10" xml:id="POcon591_u_49">
           <w xml:id="xTok_POcon591_000795" ana="#DTfDT" lemma="that" part="I" next="xTok_POcon591_000797">that</w>
           <w xml:id="xTok_POcon591_000797" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_000795">'s</w>
-          <unclear>
+          <unclear xml:id="POcon591_d2e2432">
             <w xml:id="xTok_POcon591_000800" ana="#RBfRB" lemma="down">down</w>
             <w xml:id="xTok_POcon591_000802" ana="#RBfRB" lemma="there">there</w>
-            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
-              <w xml:id="xTok_POcon591_000805" ana="#FWfFW" lemma="">colombo<c function="fall" type="intonation"/>
+            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e2443">
+              <w xml:id="xTok_POcon591_000805" ana="#FWfFW" lemma="">colombo<c function="fall" type="intonation" xml:id="POcon591_d2e2448"/>
               </w>
             </foreign>
           </unclear>
-          <pause/>
+          <pause xml:id="POcon591_d2e2449"/>
           <w xml:id="xTok_POcon591_000807" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_POcon591_000809" ana="#EXfEX" lemma="there" part="I" next="xTok_POcon591_000811">there</w>
           <w xml:id="xTok_POcon591_000811" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_000809">'s</w>
@@ -1096,7 +1096,7 @@
           <w xml:id="xTok_POcon591_000817" ana="#NNfNN" lemma="stop">stop</w>
           <w xml:id="xTok_POcon591_000819" ana="#INfIN" lemma="on">on</w>
           <w xml:id="xTok_POcon591_000821" ana="#PPSfPPS" lemma="we">our</w>
-          <w xml:id="xTok_POcon591_000823" ana="#NNfNN" lemma="line">line<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000823" ana="#NNfNN" lemma="line">line<c function="fall" type="intonation" xml:id="POcon591_d2e2488"/>
           </w>
           <w xml:id="xTok_POcon591_000825" part="I" next="#xTok_POcon591_000826" ana="#JJfJJ" lemma="opposite">opp</w>
           <seg n="8" type="overlap" xml:id="POcon591_ol_22">
@@ -1109,42 +1109,42 @@
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_50">
           <seg n="8" synch="#POcon591_ol_22" type="overlap" xml:id="POcon591_ol_23">
-            <w xml:id="xTok_POcon591_000839" part="I" next="#xTok_POcon591_000840" ana="#UHfUH" lemma="oh">o<c type="lengthening"/>
+            <w xml:id="xTok_POcon591_000839" part="I" next="#xTok_POcon591_000840" ana="#UHfUH" lemma="oh">o<c type="lengthening" xml:id="POcon591_d2e2526"/>
             </w>
             <w xml:id="xTok_POcon591_000840" part="F" prev="#xTok_POcon591_000839">h</w>
             <w xml:id="xTok_POcon591_000842" ana="#REfRE" lemma="yes">yes</w>
           </seg>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_51">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e2538">
             <w xml:id="xTok_POcon591_000846" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="POcon591_d2e2545">
             <w xml:id="xTok_POcon591_000849" ana="#NNfNN" lemma="park">park</w>
           </unclear>
-          <w xml:id="xTok_POcon591_000852" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000852" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation" xml:id="POcon591_d2e2556"/>
           </w>
           <w xml:id="xTok_POcon591_000854" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_POcon591_000856" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_POcon591_000858" ana="#PPfPP" lemma="it" part="I" next="xTok_POcon591_000860">it</w>
           <w xml:id="xTok_POcon591_000860" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_000858">'s</w>
-          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
+          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e2576">
             <w xml:id="xTok_POcon591_000863" ana="#FWfFW" lemma="">colombo</w>
           </foreign>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_52">
-          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
-            <w xml:id="xTok_POcon591_000867" ana="#FWfFW" lemma="">colombo<c function="fall" type="intonation"/>
+          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e2586">
+            <w xml:id="xTok_POcon591_000867" ana="#FWfFW" lemma="">colombo<c function="fall" type="intonation" xml:id="POcon591_d2e2591"/>
             </w>
           </foreign>
-          <pause/>
+          <pause xml:id="POcon591_d2e2592"/>
           <seg n="1" type="overlap" xml:id="POcon591_ol_24">
             <w xml:id="xTok_POcon591_000869" ana="#VVZfVVZ" lemma="look">looks</w>
             <w xml:id="xTok_POcon591_000871" ana="#INfIN" lemma="like">like</w>
           </seg>
           <w xml:id="xTok_POcon591_000874" ana="#PPfPP" lemma="it" part="I" next="xTok_POcon591_000876">it</w>
           <w xml:id="xTok_POcon591_000876" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_000874">'s</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e2614"/>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_53">
           <seg n="1" synch="#POcon591_ol_24" type="overlap" xml:id="POcon591_ol_25">
@@ -1153,11 +1153,11 @@
           </seg>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_54">
-          <unclear>
+          <unclear xml:id="POcon591_d2e2632">
             <w xml:id="xTok_POcon591_000886" ana="#INfIN" lemma="across">across</w>
             <w xml:id="xTok_POcon591_000888" ana="#DTfDT" lemma="the">the</w>
           </unclear>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e2643">
             <w xml:id="xTok_POcon591_000891" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
           <anchor synch="#POcon591_oc_3" type="other_continuation" xml:id="POcon591_oc_2"/>
@@ -1174,39 +1174,39 @@
           <w xml:id="xTok_POcon591_000909" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_POcon591_000911" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_000913" ana="#RBfRB" lemma="only">only</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e2699"/>
           <w xml:id="xTok_POcon591_000916" ana="#RBfRB" lemma="only">only</w>
           <w xml:id="xTok_POcon591_000918" ana="#JJfJJ" lemma="possible">possible</w>
           <w xml:id="xTok_POcon591_000920" ana="#NNfNN" lemma="time">time</w>
           <w xml:id="xTok_POcon591_000922" ana="#VBZfVBZ" lemma="be">is</w>
-          <w xml:id="xTok_POcon591_000924" ana="#RBfRB" lemma="tonight">tonight<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000924" ana="#RBfRB" lemma="tonight">tonight<c function="fall" type="intonation" xml:id="POcon591_d2e2721"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_56">
           <w xml:id="xTok_POcon591_000927" ana="#PPfPP" lemma="they">they</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e2732"/>
           <w xml:id="xTok_POcon591_000930" ana="#PPfPP" lemma="they" part="I" next="xTok_POcon591_000932">they</w>
           <w xml:id="xTok_POcon591_000932" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_POcon591_000930">'re</w>
           <w xml:id="xTok_POcon591_000934" ana="#JJfJJ" lemma="open">open</w>
           <w xml:id="xTok_POcon591_000936" ana="#INfIN" lemma="till">till</w>
-          <w xml:id="xTok_POcon591_000938" ana="#NNfNN" lemma="midnight">midnight<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000938" ana="#NNfNN" lemma="midnight">midnight<c function="fall" type="intonation" xml:id="POcon591_d2e2754"/>
           </w>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_57">
-          <w xml:id="xTok_POcon591_000941" part="I" next="#xTok_POcon591_000942" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_000941" part="I" next="#xTok_POcon591_000942" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="POcon591_d2e2762"/>
           </w>
           <w xml:id="xTok_POcon591_000942" part="F" prev="#xTok_POcon591_000941">h</w>
-          <w xml:id="xTok_POcon591_000944" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_000944" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation" xml:id="POcon591_d2e2769"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="POcon591_d2e2770"/>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_58">
-          <w xml:id="xTok_POcon591_000947" part="I" next="#xTok_POcon591_000948" ana="#UHfUH" lemma="erm">e<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_000947" part="I" next="#xTok_POcon591_000948" ana="#UHfUH" lemma="erm">e<c type="lengthening" xml:id="POcon591_d2e2778"/>
           </w>
           <w xml:id="xTok_POcon591_000948" part="F" prev="#xTok_POcon591_000947">rm</w>
           <w xml:id="xTok_POcon591_000950" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_POcon591_000952" ana="#REfRE" lemma="yeah">yeah</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e2791">
             <w xml:id="xTok_POcon591_000955" ana="#UNIfUNI" lemma="">xxxxxx</w>
           </supplied>
         </u>
@@ -1217,14 +1217,14 @@
           <w xml:id="xTok_POcon591_000965" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_POcon591_000967" ana="#VVfVV" lemma="do">do</w>
           <w xml:id="xTok_POcon591_000969" ana="#DTfDT" lemma="some">some</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e2828"/>
           <w xml:id="xTok_POcon591_000972" ana="#VVGfNN" lemma="shop/shopping">shopping</w>
-          <w xml:id="xTok_POcon591_000974" ana="#CCfCC" lemma="or">or<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_000974" ana="#CCfCC" lemma="or">or<c function="rise" type="intonation" xml:id="POcon591_d2e2837"/>
           </w>
-          <voice:track medium="1" num="2" type="md"/>
+          <voice:track medium="1" num="2" type="md" xml:id="POcon591_d2e2838"/>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_60">
-          <w xml:id="xTok_POcon591_000977" ana="#REfRE" lemma="yes">yes<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_000977" ana="#REfRE" lemma="yes">yes<c function="rise" type="intonation" xml:id="POcon591_d2e2846"/>
           </w>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_61">
@@ -1235,43 +1235,43 @@
           <w xml:id="xTok_POcon591_000988" ana="#RBfRB" lemma="yesterday">yesterday</w>
           <w xml:id="xTok_POcon591_000990" ana="#PPfPP" lemma="it">it</w>
           <seg n="2" type="overlap" xml:id="POcon591_ol_26">
-            <unclear>
+            <unclear xml:id="POcon591_d2e2879">
               <w xml:id="xTok_POcon591_000993" ana="#VBDfVBD" lemma="be">was</w>
             </unclear>
-            <w xml:id="xTok_POcon591_000996" ana="#JJfJJ" lemma="easy">easy<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_000996" ana="#JJfJJ" lemma="easy">easy<c function="fall" type="intonation" xml:id="POcon591_d2e2890"/>
             </w>
           </seg>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_62">
           <seg n="2" synch="#POcon591_ol_26" type="overlap" xml:id="POcon591_ol_27">
-            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
+            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e2895">
               <w xml:id="xTok_POcon591_000999" ana="#FWfFW" lemma="">colombo</w>
             </foreign>
           </seg>
-          <w xml:id="xTok_POcon591_001002" ana="#REfRE" lemma="yeah">yeah<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_001002" ana="#REfRE" lemma="yeah">yeah<c function="rise" type="intonation" xml:id="POcon591_d2e2906"/>
           </w>
         </u>
         <u who="#POcon591_S9" xml:id="POcon591_u_63">
-          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
-            <w xml:id="xTok_POcon591_001005" ana="#FWfFW" lemma="">colombo<c function="rise" type="intonation"/>
+          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e2910">
+            <w xml:id="xTok_POcon591_001005" ana="#FWfFW" lemma="">colombo<c function="rise" type="intonation" xml:id="POcon591_d2e2915"/>
             </w>
           </foreign>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_64">
           <w xml:id="xTok_POcon591_001008" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_POcon591_001010" ana="#DTfDT" lemma="this">this</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e2929"/>
           <w xml:id="xTok_POcon591_001013" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_POcon591_001015" ana="#NNfNN" lemma="one">one</w>
-          <w xml:id="xTok_POcon591_001017" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_001017" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation" xml:id="POcon591_d2e2943"/>
           </w>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_65">
-          <w xml:id="xTok_POcon591_001020" ana="#REfRE" lemma="hm">hm<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_001020" ana="#REfRE" lemma="hm">hm<c type="lengthening" xml:id="POcon591_d2e2951"/>
           </w>
-          <w xml:id="xTok_POcon591_001022" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001022" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation" xml:id="POcon591_d2e2956"/>
           </w>
-          <pause/>
+          <pause xml:id="POcon591_d2e2957"/>
           <w xml:id="xTok_POcon591_001024" ana="#REfRE" lemma="no">no</w>
           <w xml:id="xTok_POcon591_001026" ana="#REfRE" lemma="no">no</w>
           <w xml:id="xTok_POcon591_001028" ana="#REfRE" lemma="no">no</w>
@@ -1281,8 +1281,8 @@
           <w xml:id="xTok_POcon591_001036" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_POcon591_001038" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_POcon591_001040" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
-          <w xml:id="xTok_POcon591_001043" part="I" next="#xTok_POcon591_001044" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause xml:id="POcon591_d2e2998"/>
+          <w xml:id="xTok_POcon591_001043" part="I" next="#xTok_POcon591_001044" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="POcon591_d2e3003"/>
           </w>
           <w xml:id="xTok_POcon591_001044" part="F" prev="#xTok_POcon591_001043">r</w>
         </u>
@@ -1293,18 +1293,18 @@
           <w xml:id="xTok_POcon591_001054" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_POcon591_001056" ana="#DTfDT" lemma="the">the</w>
           <seg n="16" type="overlap" xml:id="POcon591_ol_28">
-            <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa">
+            <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa" xml:id="POcon591_d2e3035">
               <w xml:id="xTok_POcon591_001059" ana="#FWfFW" lemma="">corte</w>
-              <w xml:id="xTok_POcon591_001061" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation"/>
+              <w xml:id="xTok_POcon591_001061" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation" xml:id="POcon591_d2e3044"/>
               </w>
             </foreign>
           </seg>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_67">
           <seg n="16" synch="#POcon591_ol_28" type="overlap" xml:id="POcon591_ol_29">
-            <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa">
+            <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa" xml:id="POcon591_d2e3050">
               <w xml:id="xTok_POcon591_001064" ana="#FWfFW" lemma="">corte</w>
-              <w xml:id="xTok_POcon591_001066" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation"/>
+              <w xml:id="xTok_POcon591_001066" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation" xml:id="POcon591_d2e3059"/>
               </w>
             </foreign>
           </seg>
@@ -1323,12 +1323,12 @@
           <w xml:id="xTok_POcon591_001089" ana="#VVPfVVP" lemma="do" part="I" next="xTok_POcon591_001091">do</w>
           <w xml:id="xTok_POcon591_001091" ana="#RBfRB" lemma="not" part="F" prev="xTok_POcon591_001089">n't</w>
           <w xml:id="xTok_POcon591_001093" ana="#VVfVV" lemma="know">know</w>
-          <unclear>
+          <unclear xml:id="POcon591_d2e3119">
             <w xml:id="xTok_POcon591_001096" ana="#INfIN" lemma="if">if</w>
             <w xml:id="xTok_POcon591_001098" ana="#VBZfVBZ" lemma="be">is</w>
             <w xml:id="xTok_POcon591_001100" ana="#RBfRB" lemma="really">really</w>
           </unclear>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e3134">
             <w xml:id="xTok_POcon591_001103" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <anchor synch="#POcon591_oc_5" type="other_continuation" xml:id="POcon591_oc_4"/>
@@ -1336,11 +1336,11 @@
         <u who="#POcon591_S10" xml:id="POcon591_u_69">
           <anchor synch="#POcon591_oc_4" type="other_continuation" xml:id="POcon591_oc_5"/>
           <w xml:id="xTok_POcon591_001107" ana="#PPfPP" lemma="you">you</w>
-          <emph>
+          <emph xml:id="POcon591_d2e3152">
             <w xml:id="xTok_POcon591_001110" ana="#VVDfVVD" lemma="walk">walked</w>
           </emph>
           <w xml:id="xTok_POcon591_001113" ana="#INfIN" lemma="to">to</w>
-          <w xml:id="xTok_POcon591_001115" ana="#PPfPP" lemma="it">it<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001115" ana="#PPfPP" lemma="it">it<c function="fall" type="intonation" xml:id="POcon591_d2e3167"/>
           </w>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_70">
@@ -1352,16 +1352,16 @@
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_71">
           <seg n="3" synch="#POcon591_ol_30" type="overlap" xml:id="POcon591_ol_31">
-            <unclear>
+            <unclear xml:id="POcon591_d2e3192">
               <w xml:id="xTok_POcon591_001127" ana="#RBfRB" lemma="then">then</w>
               <w xml:id="xTok_POcon591_001129" ana="#PPfPP" lemma="it">it</w>
               <w xml:id="xTok_POcon591_001131" ana="#VBDfVBD" lemma="be">was</w>
             </unclear>
           </seg>
           <w xml:id="xTok_POcon591_001134" ana="#DTfDT" lemma="the">the</w>
-          <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa">
+          <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa" xml:id="POcon591_d2e3213">
             <w xml:id="xTok_POcon591_001137" ana="#FWfFW" lemma="">corte</w>
-            <w xml:id="xTok_POcon591_001139" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation"/>
+            <w xml:id="xTok_POcon591_001139" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation" xml:id="POcon591_d2e3222"/>
             </w>
           </foreign>
         </u>
@@ -1371,26 +1371,26 @@
           <w xml:id="xTok_POcon591_001146" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_POcon591_001148" ana="#NNfNN" lemma="hotel">hotel</w>
           <seg n="17" type="overlap" xml:id="POcon591_ol_32">
-            <foreign type="LN" voice:translation="english" xml:lang="spa">
+            <foreign type="LN" voice:translation="english" xml:lang="spa" xml:id="POcon591_d2e3246">
               <w xml:id="xTok_POcon591_001151" ana="#FWfFW" lemma="">ingles</w>
             </foreign>
           </seg>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_73">
           <seg n="17" synch="#POcon591_ol_32" type="overlap" xml:id="POcon591_ol_33">
-            <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa">
+            <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa" xml:id="POcon591_d2e3257">
               <w xml:id="xTok_POcon591_001155" ana="#FWfFW" lemma="">corte</w>
-              <w xml:id="xTok_POcon591_001157" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation"/>
+              <w xml:id="xTok_POcon591_001157" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation" xml:id="POcon591_d2e3266"/>
               </w>
             </foreign>
           </seg>
-          <pause/>
+          <pause xml:id="POcon591_d2e3267"/>
           <w xml:id="xTok_POcon591_001159" ana="#WPfWP" lemma="what" part="I" next="xTok_POcon591_001161">what</w>
           <w xml:id="xTok_POcon591_001161" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_001159">'s</w>
           <w xml:id="xTok_POcon591_001163" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_POcon591_001165" ana="#NNfNN" lemma="name">name<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_001165" ana="#NNfNN" lemma="name">name<c function="rise" type="intonation" xml:id="POcon591_d2e3284"/>
           </w>
-          <foreign type="LN" voice:translation="half name of spanish shopping mall" xml:lang="spa">
+          <foreign type="LN" voice:translation="half name of spanish shopping mall" xml:lang="spa" xml:id="POcon591_d2e3286">
             <w xml:id="xTok_POcon591_001167" ana="#FWfFW" lemma="">el</w>
             <w xml:id="xTok_POcon591_001169" ana="#FWfFW" lemma="">corte</w>
           </foreign>
@@ -1398,19 +1398,19 @@
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_74">
           <anchor synch="#POcon591_oc_6" type="other_continuation" xml:id="POcon591_oc_7"/>
-          <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa">
+          <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa" xml:id="POcon591_d2e3302">
             <w xml:id="xTok_POcon591_001173" ana="#FWfFW" lemma="">el</w>
             <w xml:id="xTok_POcon591_001175" ana="#FWfFW" lemma="">corte</w>
-            <w xml:id="xTok_POcon591_001177" ana="#FWfFW" lemma="">ingles<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_001177" ana="#FWfFW" lemma="">ingles<c function="fall" type="intonation" xml:id="POcon591_d2e3315"/>
             </w>
           </foreign>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_75">
           <w xml:id="xTok_POcon591_001180" ana="#REfRE" lemma="yeah">yeah</w>
-          <w xml:id="xTok_POcon591_001182" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001182" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation" xml:id="POcon591_d2e3327"/>
           </w>
-          <pause/>
-          <unclear>
+          <pause xml:id="POcon591_d2e3328"/>
+          <unclear xml:id="POcon591_d2e3329">
             <w xml:id="xTok_POcon591_001184" ana="#WDTfWDT" lemma="what">what</w>
             <w xml:id="xTok_POcon591_001186" ana="#NNfNN" lemma="direction">direction</w>
           </unclear>
@@ -1423,7 +1423,7 @@
           <w xml:id="xTok_POcon591_001198" ana="#NNSfNNS" lemma="minute">minutes</w>
           <w xml:id="xTok_POcon591_001200" ana="#XXfXX" lemma="">w-</w>
           <w xml:id="xTok_POcon591_001202" ana="#VVGfNN" lemma="walk/walking">walking</w>
-          <unclear>
+          <unclear xml:id="POcon591_d2e3374">
             <w xml:id="xTok_POcon591_001205" ana="#INfIN" lemma="from">from</w>
             <w xml:id="xTok_POcon591_001207" ana="#RBfRB" lemma="here">here</w>
           </unclear>
@@ -1431,7 +1431,7 @@
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_77">
           <anchor synch="#POcon591_oc_8" type="other_continuation" xml:id="POcon591_oc_9"/>
-          <w xml:id="xTok_POcon591_001211" part="I" next="#xTok_POcon591_001212" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_001211" part="I" next="#xTok_POcon591_001212" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="POcon591_d2e3394"/>
           </w>
           <w xml:id="xTok_POcon591_001212" part="F" prev="#xTok_POcon591_001211">h</w>
           <w xml:id="xTok_POcon591_001214" ana="#REfRE" lemma="okay">okay</w>
@@ -1456,15 +1456,15 @@
         <u who="#POcon591_S7" xml:id="POcon591_u_80">
           <w xml:id="xTok_POcon591_001240" ana="#NNfNN" lemma="something">something</w>
           <w xml:id="xTok_POcon591_001242" ana="#JJfJJ" lemma="portuguese">portuguese</w>
-          <w xml:id="xTok_POcon591_001244" ana="#NNSfNNS" lemma="thing">things<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001244" ana="#NNSfNNS" lemma="thing">things<c function="fall" type="intonation" xml:id="POcon591_d2e3467"/>
           </w>
           <w xml:id="xTok_POcon591_001246" ana="#PPfDM" lemma="i">i</w>
           <w xml:id="xTok_POcon591_001248" ana="#VVPfDM" lemma="mean">mean</w>
           <seg n="5" type="overlap" xml:id="POcon591_ol_36">
             <w xml:id="xTok_POcon591_001251" ana="#RBfRB" lemma="not">not</w>
-            <pause/>
+            <pause xml:id="POcon591_d2e3486"/>
             <w xml:id="xTok_POcon591_001254" ana="#RBfRB" lemma="not">not</w>
-            <w xml:id="xTok_POcon591_001256" ana="#NNfNN" lemma="trash">trash<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_001256" ana="#NNfNN" lemma="trash">trash<c function="fall" type="intonation" xml:id="POcon591_d2e3495"/>
             </w>
           </seg>
         </u>
@@ -1483,7 +1483,7 @@
           <w xml:id="xTok_POcon591_001276" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_001278" ana="#VVPfVVP" lemma="do" part="I" next="xTok_POcon591_001280">do</w>
           <w xml:id="xTok_POcon591_001280" ana="#RBfRB" lemma="not" part="F" prev="xTok_POcon591_001278">n't</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e3549">
             <w xml:id="xTok_POcon591_001283" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <seg n="6" type="overlap" xml:id="POcon591_ol_38">
@@ -1492,16 +1492,16 @@
             <w xml:id="xTok_POcon591_001288" ana="#NNfNN" lemma="thing">thing</w>
             <w xml:id="xTok_POcon591_001290" ana="#INfIN" lemma="on">on</w>
             <w xml:id="xTok_POcon591_001292" ana="#PPSfPPS" lemma="i">my</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e3576">
               <w xml:id="xTok_POcon591_001295" ana="#UNIfUNI" lemma="">x</w>
             </supplied>
             <shift corresp="#POcon591_s_5" feature="voice" new="neutral" xml:id="POcon591_s_6"/>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="5"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="5" xml:id="POcon591_d2e3585"/>
           </seg>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_83">
           <seg n="6" synch="#POcon591_ol_38" type="overlap" xml:id="POcon591_ol_39" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="7" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="7" mode="inline" xml:id="POcon591_d2e3591"/>
           </seg>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_84">
@@ -1519,7 +1519,7 @@
             <w xml:id="xTok_POcon591_001319" ana="#RBfRB" lemma="not">not</w>
             <w xml:id="xTok_POcon591_001321" ana="#RBfRB" lemma="really">really</w>
             <w xml:id="xTok_POcon591_001323" ana="#PPfPP" lemma="i">i</w>
-            <unclear>
+            <unclear xml:id="POcon591_d2e3650">
               <w xml:id="xTok_POcon591_001326" ana="#VVPfVVP" lemma="want">want</w>
               <w xml:id="xTok_POcon591_001328" ana="#DTfDT" lemma="that">that</w>
             </unclear>
@@ -1529,11 +1529,11 @@
           <w xml:id="xTok_POcon591_001336" ana="#MDfMD" lemma="will">would</w>
           <w xml:id="xTok_POcon591_001338" ana="#VVfVV" lemma="like">like</w>
           <w xml:id="xTok_POcon591_001340" ana="#DTfDT" lemma="some">some</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e3687"/>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_86">
           <seg n="7" synch="#POcon591_ol_40" type="overlap" xml:id="POcon591_ol_41">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e3692">
               <w xml:id="xTok_POcon591_001344" ana="#UNIfUNI" lemma="">xxx</w>
             </supplied>
             <w xml:id="xTok_POcon591_001347" ana="#NNfNN" lemma="something">something</w>
@@ -1543,56 +1543,56 @@
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_87">
           <w xml:id="xTok_POcon591_001355" ana="#DTfDT" lemma="some">some</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e3722"/>
           <w xml:id="xTok_POcon591_001358" ana="#NNSfNNS" lemma="tile">tiles</w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_88">
           <w xml:id="xTok_POcon591_001362" ana="#NNSfNNS" lemma="tile">tiles</w>
           <w xml:id="xTok_POcon591_001364" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_POcon591_001366" ana="#JJfJJ" lemma="lovely">lovely</w>
-          <unclear>
+          <unclear xml:id="POcon591_d2e3746">
             <w xml:id="xTok_POcon591_001369" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_POcon591_001371" ana="#VVPfVVP" lemma="know">know</w>
           </unclear>
           <w xml:id="xTok_POcon591_001374" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_89">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e3767">
             <w xml:id="xTok_POcon591_001378" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
-          <unclear>
-            <w xml:id="xTok_POcon591_001381" ana="#NNSfNNS" lemma="naple">naples<c function="fall" type="intonation"/>
+          <unclear xml:id="POcon591_d2e3774">
+            <w xml:id="xTok_POcon591_001381" ana="#NNSfNNS" lemma="naple">naples<c function="fall" type="intonation" xml:id="POcon591_d2e3781"/>
             </w>
           </unclear>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_90">
           <w xml:id="xTok_POcon591_001385" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_POcon591_001387" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e3795"/>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_91">
           <w xml:id="xTok_POcon591_001391" ana="#WRBfWRB" lemma="where">where</w>
-          <emph>
+          <emph xml:id="POcon591_d2e3805">
             <w xml:id="xTok_POcon591_001394" ana="#VBPfVBP" lemma="be">are</w>
           </emph>
-          <w xml:id="xTok_POcon591_001397" ana="#PPfPP" lemma="we">we<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001397" ana="#PPfPP" lemma="we">we<c function="fall" type="intonation" xml:id="POcon591_d2e3816"/>
           </w>
           <w xml:id="xTok_POcon591_001399" ana="#WRBfWRB" lemma="where">where</w>
           <w xml:id="xTok_POcon591_001401" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_POcon591_001403" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_001405" ana="#NNfNN" lemma="university">university</w>
-          <w xml:id="xTok_POcon591_001407" ana="#NNfNN" lemma="campus">campus<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001407" ana="#NNfNN" lemma="campus">campus<c function="fall" type="intonation" xml:id="POcon591_d2e3838"/>
           </w>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_92">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e3842">
             <w xml:id="xTok_POcon591_001410" ana="#UNIfUNI" lemma="">xxxx</w>
           </supplied>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_93">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="8"/>
-          <supplied reason="anonymization">
-            <w xml:id="xTok_POcon591_001414" ana="#NPfNP" lemma="">[S10]<c function="fall" type="intonation"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="8" xml:id="POcon591_d2e3852"/>
+          <supplied reason="anonymization" xml:id="POcon591_d2e3853">
+            <w xml:id="xTok_POcon591_001414" ana="#NPfNP" lemma="">[S10]<c function="fall" type="intonation" xml:id="POcon591_d2e3860"/>
             </w>
           </supplied>
           <anchor synch="#POcon591_oc_11" type="other_continuation" xml:id="POcon591_oc_10"/>
@@ -1602,20 +1602,20 @@
           <w xml:id="xTok_POcon591_001418" ana="#REfRE" lemma="yes">yes</w>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_95">
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="POcon591_d2e3876">
             <w xml:id="xTok_POcon591_001422" ana="#NPfNP" lemma="">[S10]</w>
           </supplied>
           <w xml:id="xTok_POcon591_001425" ana="#VVZfVVZ" lemma="know">knows</w>
           <w xml:id="xTok_POcon591_001427" ana="#NNfNN" lemma="everything">everything</w>
           <seg n="1" type="overlap" xml:id="POcon591_ol_42">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e3894">
               <w xml:id="xTok_POcon591_001430" ana="#UNIfUNI" lemma="">xxxxx</w>
             </supplied>
           </seg>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_96">
           <seg n="1" synch="#POcon591_ol_42" type="overlap" xml:id="POcon591_ol_43" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline" xml:id="POcon591_d2e3905"/>
           </seg>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_97">
@@ -1626,10 +1626,10 @@
             <w xml:id="xTok_POcon591_001441" ana="#VVfVV" lemma="know">know</w>
             <w xml:id="xTok_POcon591_001443" ana="#WRBfWRB" lemma="where">where</w>
           </seg>
-          <emph>
+          <emph xml:id="POcon591_d2e3932">
             <w xml:id="xTok_POcon591_001446" ana="#PPfPP" lemma="we">we</w>
           </emph>
-          <w xml:id="xTok_POcon591_001449" ana="#VBPfVBP" lemma="be">are<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001449" ana="#VBPfVBP" lemma="be">are<c function="fall" type="intonation" xml:id="POcon591_d2e3943"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_98">
@@ -1654,7 +1654,7 @@
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_102">
           <w xml:id="xTok_POcon591_001480" ana="#CCfCC" lemma="and">and</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e4016"/>
           <w xml:id="xTok_POcon591_001483" ana="#UHfUH" lemma="erm">erm</w>
           <w xml:id="xTok_POcon591_001485" ana="#RBfRB" lemma="a">a</w>
           <w xml:id="xTok_POcon591_001487" ana="#RBfRB" lemma="little">little</w>
@@ -1662,7 +1662,7 @@
           <w xml:id="xTok_POcon591_001491" ana="#RBRfRBR" lemma="far">further</w>
           <w xml:id="xTok_POcon591_001493" ana="#RBfRB" lemma="north">north</w>
           <w xml:id="xTok_POcon591_001495" ana="#CDfCD" lemma="four">four</w>
-          <emph>
+          <emph xml:id="POcon591_d2e4048">
             <w xml:id="xTok_POcon591_001498" ana="#CDfCD" lemma="four">four</w>
           </emph>
           <w xml:id="xTok_POcon591_001501" ana="#NNfNN" lemma="metro">metro</w>
@@ -1671,10 +1671,10 @@
         <u who="#POcon591_S11" xml:id="POcon591_u_103">
           <w xml:id="xTok_POcon591_001507" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_POcon591_001509" ana="#PPfPP" lemma="we">we</w>
-          <emph>
+          <emph xml:id="POcon591_d2e4079">
             <w xml:id="xTok_POcon591_001512" ana="#VVDfVVD" lemma="walk">walked</w>
           </emph>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e4086"/>
           <w xml:id="xTok_POcon591_001515" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_POcon591_001517" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_001519" ana="#NNfNN" lemma="hotel">hotel</w>
@@ -1690,7 +1690,7 @@
           <w xml:id="xTok_POcon591_001535" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_106">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e4140">
             <w xml:id="xTok_POcon591_001539" ana="#UNIfUNI" lemma="">xxxxx</w>
           </supplied>
         </u>
@@ -1702,30 +1702,30 @@
           <w xml:id="xTok_POcon591_001549" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_001551" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_POcon591_001553" ana="#VVfVV" lemma="help">help</w>
-          <supplied reason="unintelligible">
-            <w xml:id="xTok_POcon591_001556" ana="#UNIfUNI" lemma="">xxxx<c function="fall" type="intonation"/>
+          <supplied reason="unintelligible" xml:id="POcon591_d2e4177">
+            <w xml:id="xTok_POcon591_001556" ana="#UNIfUNI" lemma="">xxxx<c function="fall" type="intonation" xml:id="POcon591_d2e4182"/>
             </w>
           </supplied>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_109">
-          <unclear>
+          <unclear xml:id="POcon591_d2e4186">
             <w xml:id="xTok_POcon591_001559" ana="#VVfVV" lemma="walk">walk</w>
             <w xml:id="xTok_POcon591_001561" ana="#DTfDT" lemma="this">this</w>
             <w xml:id="xTok_POcon591_001563" ana="#NNfNN" lemma="way">way</w>
           </unclear>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e4201">
             <w xml:id="xTok_POcon591_001566" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
-          <w xml:id="xTok_POcon591_001569" ana="#RBfRB" lemma="here">here<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001569" ana="#RBfRB" lemma="here">here<c function="fall" type="intonation" xml:id="POcon591_d2e4212"/>
           </w>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_110">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e4216">
             <w xml:id="xTok_POcon591_001572" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_111">
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e4227">
             <w xml:id="xTok_POcon591_001576" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
         </u>
@@ -1737,23 +1737,23 @@
           <w xml:id="xTok_POcon591_001586" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_POcon591_001588" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_001590" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
-          <unclear>
+          <pause xml:id="POcon591_d2e4264"/>
+          <unclear xml:id="POcon591_d2e4265">
             <w xml:id="xTok_POcon591_001593" ana="#JJSfJJS" lemma="close">closest</w>
           </unclear>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e4272">
             <w xml:id="xTok_POcon591_001596" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
-          <w xml:id="xTok_POcon591_001599" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_001599" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="POcon591_d2e4284"/>
           </w>
-          <pause/>
+          <pause xml:id="POcon591_d2e4285"/>
           <w xml:id="xTok_POcon591_001601" ana="#NNfNN" lemma="metro">metro</w>
           <w xml:id="xTok_POcon591_001603" ana="#NNfNN" lemma="stop">stop</w>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_POcon591_001606" part="I" next="#xTok_POcon591_001607" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e4296"/>
+          <w xml:id="xTok_POcon591_001606" part="I" next="#xTok_POcon591_001607" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="POcon591_d2e4302"/>
           </w>
           <w xml:id="xTok_POcon591_001607" part="F" prev="#xTok_POcon591_001606">r</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e4307">
             <w xml:id="xTok_POcon591_001610" ana="#UNIfUNI" lemma="">xxx</w>
           </supplied>
           <w xml:id="xTok_POcon591_001613" part="I" next="#xTok_POcon591_001614" ana="#NNfNN" lemma="hotel">hot</w>
@@ -1770,7 +1770,7 @@
           <w xml:id="xTok_POcon591_001625" ana="#NNfNN" lemma="front">front</w>
           <w xml:id="xTok_POcon591_001627" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_POcon591_001629" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_POcon591_001631" ana="#NNfNN" lemma="hotel">hotel<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_001631" ana="#NNfNN" lemma="hotel">hotel<c function="rise" type="intonation" xml:id="POcon591_d2e4358"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_115">
@@ -1779,7 +1779,7 @@
           <w xml:id="xTok_POcon591_001638" ana="#CDfCD" lemma="four">four</w>
           <w xml:id="xTok_POcon591_001640" ana="#NNSfNNS" lemma="stop">stops</w>
           <w xml:id="xTok_POcon591_001642" ana="#DMfDM" lemma="so">so</w>
-          <w xml:id="xTok_POcon591_001644" part="I" next="#xTok_POcon591_001645" ana="#CDfCD" lemma="one">on<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_001644" part="I" next="#xTok_POcon591_001645" ana="#CDfCD" lemma="one">on<c type="lengthening" xml:id="POcon591_d2e4387"/>
           </w>
           <w xml:id="xTok_POcon591_001645" part="F" prev="#xTok_POcon591_001644">e</w>
           <w xml:id="xTok_POcon591_001647" ana="#CDfCD" lemma="two">two</w>
@@ -1790,7 +1790,7 @@
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_116">
           <anchor synch="#POcon591_oc_14" type="other_continuation" xml:id="POcon591_oc_15"/>
-          <unclear>
+          <unclear xml:id="POcon591_d2e4415">
             <w xml:id="xTok_POcon591_001657" ana="#WRBfWRB" lemma="where">where</w>
           </unclear>
           <w xml:id="xTok_POcon591_001660" ana="#VBPfVBP" lemma="be">are</w>
@@ -1802,12 +1802,12 @@
           <w xml:id="xTok_POcon591_001670" ana="#DTfDT" lemma="that" part="I" next="xTok_POcon591_001672">that</w>
           <w xml:id="xTok_POcon591_001672" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_001670">'s</w>
           <w xml:id="xTok_POcon591_001674" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_POcon591_001676" ana="#VVGfNN" lemma="shop/shopping">shopping<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001676" ana="#VVGfNN" lemma="shop/shopping">shopping<c function="fall" type="intonation" xml:id="POcon591_d2e4459"/>
           </w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="POcon591_d2e4460"/>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_118">
-          <w xml:id="xTok_POcon591_001679" part="I" next="#xTok_POcon591_001680" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_001679" part="I" next="#xTok_POcon591_001680" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="POcon591_d2e4468"/>
           </w>
           <w xml:id="xTok_POcon591_001680" part="F" prev="#xTok_POcon591_001679">h</w>
           <seg n="3" type="overlap" xml:id="POcon591_ol_47">
@@ -1817,7 +1817,7 @@
         <u who="#POcon591_S10" xml:id="POcon591_u_119">
           <seg n="3" synch="#POcon591_ol_47" type="overlap" xml:id="POcon591_ol_48">
             <w xml:id="xTok_POcon591_001687" ana="#CCfCC" lemma="and">and</w>
-            <unclear>
+            <unclear xml:id="POcon591_d2e4490">
               <w xml:id="xTok_POcon591_001690" ana="#DTfDT" lemma="a">a</w>
             </unclear>
           </seg>
@@ -1826,13 +1826,13 @@
           <w xml:id="xTok_POcon591_001697" ana="#VVGfNN" lemma="shop/shopping">shopping</w>
           <w xml:id="xTok_POcon591_001699" ana="#NNfNN" lemma="center">center</w>
           <w xml:id="xTok_POcon591_001701" ana="#VBZfVBZ" lemma="be">is</w>
-          <w xml:id="xTok_POcon591_001703" ana="#RBfRB" lemma="there">there<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001703" ana="#RBfRB" lemma="there">there<c function="fall" type="intonation" xml:id="POcon591_d2e4522"/>
           </w>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_120">
           <seg n="4" type="overlap" xml:id="POcon591_ol_49">
-            <w xml:id="xTok_POcon591_001706" part="I" next="#xTok_POcon591_001707" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
-              <c type="lengthening"/>
+            <w xml:id="xTok_POcon591_001706" part="I" next="#xTok_POcon591_001707" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="POcon591_d2e4531"/>
+              <c type="lengthening" xml:id="POcon591_d2e4532"/>
             </w>
             <w xml:id="xTok_POcon591_001707" part="F" prev="#xTok_POcon591_001706">h</w>
           </seg>
@@ -1840,18 +1840,18 @@
         <u who="#POcon591_S12" xml:id="POcon591_u_121">
           <shift corresp="#POcon591_s_8" feature="voice" new="reading" xml:id="POcon591_s_7"/>
           <seg n="4" synch="#POcon591_ol_49" type="overlap" xml:id="POcon591_ol_50">
-            <supplied reason="unintelligible">
-              <w xml:id="xTok_POcon591_001711" ana="#UNIfUNI" lemma="">xxxx<c type="lengthening"/>
+            <supplied reason="unintelligible" xml:id="POcon591_d2e4542">
+              <w xml:id="xTok_POcon591_001711" ana="#UNIfUNI" lemma="">xxxx<c type="lengthening" xml:id="POcon591_d2e4547"/>
               </w>
             </supplied>
           </seg>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e4548">
             <w xml:id="xTok_POcon591_001713" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <shift corresp="#POcon591_s_7" feature="voice" new="neutral" xml:id="POcon591_s_8"/>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_122">
-          <w xml:id="xTok_POcon591_001717" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001717" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation" xml:id="POcon591_d2e4564"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_123">
@@ -1875,7 +1875,7 @@
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_125">
           <seg n="5" synch="#POcon591_ol_51" type="overlap" xml:id="POcon591_ol_52">
-            <unclear>
+            <unclear xml:id="POcon591_d2e4629">
               <w xml:id="xTok_POcon591_001747" ana="#PPfPP" lemma="it" part="I" next="xTok_POcon591_001749">it</w>
               <w xml:id="xTok_POcon591_001749" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_001747">'s</w>
               <w xml:id="xTok_POcon591_001751" ana="#DTfDT" lemma="a">a</w>
@@ -1883,7 +1883,7 @@
               <w xml:id="xTok_POcon591_001755" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_001753">'s</w>
               <w xml:id="xTok_POcon591_001757" ana="#DTfDT" lemma="a">a</w>
             </unclear>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e4657">
               <w xml:id="xTok_POcon591_001760" ana="#UNIfUNI" lemma="">xxx</w>
             </supplied>
           </seg>
@@ -1902,16 +1902,16 @@
           <w xml:id="xTok_POcon591_001779" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_POcon591_001781" ana="#DTfDT" lemma="that" part="I" next="xTok_POcon591_001783">that</w>
           <w xml:id="xTok_POcon591_001783" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_001781">'s</w>
-          <w xml:id="xTok_POcon591_001785" ana="#JJfJJ" lemma="spanish">spanish<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001785" ana="#JJfJJ" lemma="spanish">spanish<c function="fall" type="intonation" xml:id="POcon591_d2e4717"/>
           </w>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_128">
           <w xml:id="xTok_POcon591_001788" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_POcon591_001790" ana="#VVPfVVP" lemma="know">know<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001790" ana="#VVPfVVP" lemma="know">know<c function="fall" type="intonation" xml:id="POcon591_d2e4729"/>
           </w>
         </u>
         <u who="#POcon591_S9" xml:id="POcon591_u_129">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="6" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="6" mode="inline" xml:id="POcon591_d2e4733"/>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_130">
           <w xml:id="xTok_POcon591_001794" ana="#INfIN" lemma="whereas">whereas</w>
@@ -1919,10 +1919,10 @@
           <w xml:id="xTok_POcon591_001798" ana="#NNfNN" lemma="one">one</w>
           <w xml:id="xTok_POcon591_001800" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_POcon591_001802" ana="#VBZfVBZ" lemma="be">is</w>
-          <unclear>
+          <unclear xml:id="POcon591_d2e4760">
             <w xml:id="xTok_POcon591_001805" ana="#RBfRB" lemma="here">here</w>
           </unclear>
-          <pause/>
+          <pause xml:id="POcon591_d2e4767"/>
           <w xml:id="xTok_POcon591_001808" ana="#INfIN" lemma="whereas">whereas</w>
           <w xml:id="xTok_POcon591_001810" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_POcon591_001812" ana="#NNfNN" lemma="one">one</w>
@@ -1947,13 +1947,13 @@
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_132">
           <seg n="6" synch="#POcon591_ol_53" type="overlap" xml:id="POcon591_ol_56">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e4839">
               <w xml:id="xTok_POcon591_001840" ana="#UNIfUNI" lemma="">xxx</w>
             </supplied>
             <w xml:id="xTok_POcon591_001843" ana="#NPSfNPS" lemma="spanish">spanish</w>
           </seg>
           <seg n="7" synch="#POcon591_ol_55" type="overlap" xml:id="POcon591_ol_57">
-            <unclear>
+            <unclear xml:id="POcon591_d2e4853">
               <w xml:id="xTok_POcon591_001846" ana="#MDfMD" lemma="will">would</w>
               <w xml:id="xTok_POcon591_001848" ana="#VVfVV" lemma="like">like</w>
               <w xml:id="xTok_POcon591_001850" ana="#TOfTO" lemma="to">to</w>
@@ -1964,10 +1964,10 @@
           <w xml:id="xTok_POcon591_001857" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_001855">'s</w>
           <w xml:id="xTok_POcon591_001859" ana="#RBRfRBR" lemma="more">more</w>
           <w xml:id="xTok_POcon591_001861" ana="#JJfJJ" lemma="international">international</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" xml:id="POcon591_d2e4891"/>
         </u>
         <u who="#POcon591_SS" xml:id="POcon591_u_133">
-          <w xml:id="xTok_POcon591_001865" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_001865" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation" xml:id="POcon591_d2e4900"/>
           </w>
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_134">
@@ -1977,43 +1977,43 @@
           <w xml:id="xTok_POcon591_001874" ana="#NNfNN" lemma="name">name</w>
           <w xml:id="xTok_POcon591_001876" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_POcon591_001878" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_POcon591_001880" ana="#NNfNN" lemma="station">station<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_001880" ana="#NNfNN" lemma="station">station<c function="rise" type="intonation" xml:id="POcon591_d2e4933"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_135">
-          <foreign type="LN" voice:translation="name of metro stop" xml:lang="por">
+          <foreign type="LN" voice:translation="name of metro stop" xml:lang="por" xml:id="POcon591_d2e4937">
             <w xml:id="xTok_POcon591_001883" ana="#FWfFW" lemma="">colegio</w>
             <w xml:id="xTok_POcon591_001885" ana="#FWfFW" lemma="">militar</w>
           </foreign>
           <w xml:id="xTok_POcon591_001888" ana="#CCfCC" lemma="and">and</w>
           <seg n="1" type="overlap" xml:id="POcon591_ol_58">
-            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
-              <w xml:id="xTok_POcon591_001891" ana="#FWfFW" lemma="">colombo<c function="fall" type="intonation"/>
+            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e4955">
+              <w xml:id="xTok_POcon591_001891" ana="#FWfFW" lemma="">colombo<c function="fall" type="intonation" xml:id="POcon591_d2e4960"/>
               </w>
             </foreign>
-            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
+            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e4961">
               <w xml:id="xTok_POcon591_001893" ana="#FWfFW" lemma="">colombo</w>
             </foreign>
             <w xml:id="xTok_POcon591_001896" ana="#VBZfVBZ" lemma="be">is</w>
             <w xml:id="xTok_POcon591_001898" ana="#DTfDT" lemma="the">the</w>
             <w xml:id="xTok_POcon591_001900" ana="#VVGfNN" lemma="shop/shopping">shopping</w>
-            <w xml:id="xTok_POcon591_001902" ana="#NNfNN" lemma="center">center<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_001902" ana="#NNfNN" lemma="center">center<c function="fall" type="intonation" xml:id="POcon591_d2e4984"/>
             </w>
           </seg>
         </u>
         <u who="#POcon591_S5" xml:id="POcon591_u_136">
           <seg n="1" synch="#POcon591_ol_58" type="overlap" xml:id="POcon591_ol_59" mode="inline">
-            <vocal voice:desc="coughs" mode="inline"/>
+            <vocal voice:desc="coughs" mode="inline" xml:id="POcon591_d2e4989"/>
           </seg>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_137">
-          <w xml:id="xTok_POcon591_001906" ana="#REfRE" lemma="okay">okay<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_001906" ana="#REfRE" lemma="okay">okay<c function="rise" type="intonation" xml:id="POcon591_d2e4997"/>
           </w>
           <seg n="12" type="overlap" xml:id="POcon591_ol_60">
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e4999">
               <w xml:id="xTok_POcon591_001908" ana="#UNIfUNI" lemma="">xxxx</w>
             </supplied>
-            <unclear>
+            <unclear xml:id="POcon591_d2e5006">
               <w xml:id="xTok_POcon591_001911" ana="#RBfRB" lemma="as">as</w>
               <w xml:id="xTok_POcon591_001913" ana="#RBfRB" lemma="well">well</w>
             </unclear>
@@ -2029,13 +2029,13 @@
           <w xml:id="xTok_POcon591_001926" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_001924">'s</w>
           <w xml:id="xTok_POcon591_001928" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_POcon591_001930" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e5054"/>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_139">
           <w xml:id="xTok_POcon591_001934" ana="#VVGfNN #VVGfVVG" lemma="shop/shopping">shopping</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="POcon591_d2e5064"/>
           <seg n="2" type="overlap" xml:id="POcon591_ol_62">
-            <vocal type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="POcon591_d2e5066"/>
           </seg>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_140">
@@ -2056,7 +2056,7 @@
           <w xml:id="xTok_POcon591_001960" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_POcon591_001962" ana="#DTfDT" lemma="a">a</w>
           <seg n="3" type="overlap" xml:id="POcon591_ol_64">
-            <unclear>
+            <unclear xml:id="POcon591_d2e5129">
               <w xml:id="xTok_POcon591_001965" ana="#JJfJJ" lemma="long">long</w>
               <w xml:id="xTok_POcon591_001967" ana="#NNfNN" lemma="road">road</w>
             </unclear>
@@ -2067,21 +2067,21 @@
             <w xml:id="xTok_POcon591_001971" ana="#DMfDM" lemma="so">so</w>
             <w xml:id="xTok_POcon591_001973" ana="#NNfNN" lemma="everybody">everybody</w>
           </seg>
-          <unclear>
+          <unclear xml:id="POcon591_d2e5154">
             <w xml:id="xTok_POcon591_001976" ana="#VVfVV" lemma="run">run</w>
             <w xml:id="xTok_POcon591_001978" ana="#INfIN" lemma="for">for</w>
           </unclear>
-          <pause/>
+          <pause xml:id="POcon591_d2e5165"/>
           <w xml:id="xTok_POcon591_001981" ana="#VVGfNN" lemma="shop/shopping">shopping</w>
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_143">
           <seg n="13" type="overlap" xml:id="POcon591_ol_66" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline" xml:id="POcon591_d2e5176"/>
           </seg>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_144">
           <seg n="13" synch="#POcon591_ol_66" type="overlap" xml:id="POcon591_ol_67">
-            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
+            <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e5182">
               <w xml:id="xTok_POcon591_001986" ana="#FWfFW" lemma="">colombo</w>
             </foreign>
           </seg>
@@ -2093,11 +2093,11 @@
           <w xml:id="xTok_POcon591_001999" ana="#RBfRB" lemma="just">just</w>
           <w xml:id="xTok_POcon591_002001" ana="#VVfVV" lemma="drop">drop</w>
           <w xml:id="xTok_POcon591_002003" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_POcon591_002005" ana="#DTfDT" lemma="the">the<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_002005" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="POcon591_d2e5226"/>
           </w>
-          <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa">
+          <foreign type="LN" voice:translation="spanish shopping mall" xml:lang="spa" xml:id="POcon591_d2e5227">
             <w xml:id="xTok_POcon591_002007" ana="#FWfFW" lemma="">corte</w>
-            <w xml:id="xTok_POcon591_002009" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation"/>
+            <w xml:id="xTok_POcon591_002009" ana="#FWfFW" lemma="">ingles<c function="rise" type="intonation" xml:id="POcon591_d2e5236"/>
             </w>
           </foreign>
           <seg n="14" type="overlap" xml:id="POcon591_ol_68">
@@ -2105,35 +2105,35 @@
             <w xml:id="xTok_POcon591_002013" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_POcon591_002015" ana="#VVPfVVP" lemma="know">know</w>
             <w xml:id="xTok_POcon591_002017" ana="#PPfPP" lemma="it">it</w>
-            <pause/>
+            <pause xml:id="POcon591_d2e5256"/>
             <w xml:id="xTok_POcon591_002020" ana="#INfIN" lemma="from">from</w>
             <w xml:id="xTok_POcon591_002022" ana="#NPfNP" lemma="spain">spain</w>
           </seg>
-          <pause/>
-          <incident voice:desc="still background noise of multiple parallel conversations"/>
+          <pause xml:id="POcon591_d2e5269"/>
+          <incident voice:desc="still background noise of multiple parallel conversations" xml:id="POcon591_d2e5270"/>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_145">
           <seg n="14" synch="#POcon591_ol_68" type="overlap" xml:id="POcon591_ol_69">
-            <unclear>
+            <unclear xml:id="POcon591_d2e5275">
               <w xml:id="xTok_POcon591_002026" ana="#PPfPP" lemma="it" part="I" next="xTok_POcon591_002028">it</w>
               <w xml:id="xTok_POcon591_002028" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_002026">'s</w>
               <w xml:id="xTok_POcon591_002030" ana="#RBfRB" lemma="also">also</w>
               <w xml:id="xTok_POcon591_002032" ana="#RBfRB" lemma="very">very</w>
             </unclear>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e5294">
               <w xml:id="xTok_POcon591_002035" ana="#UNIfUNI" lemma="">x</w>
             </supplied>
           </seg>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_146">
           <w xml:id="xTok_POcon591_002039" ana="#DTfDT" lemma="the">the</w>
-          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
-            <w xml:id="xTok_POcon591_002042" ana="#FWfFW" lemma="">colombo<c function="rise" type="intonation"/>
+          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e5310">
+            <w xml:id="xTok_POcon591_002042" ana="#FWfFW" lemma="">colombo<c function="rise" type="intonation" xml:id="POcon591_d2e5315"/>
             </w>
           </foreign>
           <w xml:id="xTok_POcon591_002044" ana="#DTfDT" lemma="the">the</w>
-          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por">
-            <w xml:id="xTok_POcon591_002047" ana="#FWfFW" lemma="">colombo<c function="rise" type="intonation"/>
+          <foreign type="LN" voice:translation="portuguese shopping mall" xml:lang="por" xml:id="POcon591_d2e5322">
+            <w xml:id="xTok_POcon591_002047" ana="#FWfFW" lemma="">colombo<c function="rise" type="intonation" xml:id="POcon591_d2e5327"/>
             </w>
           </foreign>
           <anchor synch="#POcon591_oc_21" type="other_continuation" xml:id="POcon591_oc_20"/>
@@ -2161,10 +2161,10 @@
           <w xml:id="xTok_POcon591_002075" ana="#JJfJJ" lemma="much">much</w>
           <w xml:id="xTok_POcon591_002077" ana="#NNfNN" lemma="time">time</w>
           <w xml:id="xTok_POcon591_002079" ana="#INfIN #PREfPRE" lemma="that">that</w>
-          <w xml:id="xTok_POcon591_002081" ana="#PPfPP" lemma="you">you<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_002081" ana="#PPfPP" lemma="you">you<c type="lengthening" xml:id="POcon591_d2e5405"/>
           </w>
-          <unclear>
-            <w xml:id="xTok_POcon591_002083" ana="#VVPfVVP" lemma="want">want<c function="fall" type="intonation"/>
+          <unclear xml:id="POcon591_d2e5406">
+            <w xml:id="xTok_POcon591_002083" ana="#VVPfVVP" lemma="want">want<c function="fall" type="intonation" xml:id="POcon591_d2e5413"/>
             </w>
           </unclear>
         </u>
@@ -2174,7 +2174,7 @@
           <w xml:id="xTok_POcon591_002091" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002093" ana="#VVDfVVD" lemma="understand">understood</w>
           <w xml:id="xTok_POcon591_002095" ana="#DTfDT #INfIN" lemma="that">that</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e5440"/>
           <w xml:id="xTok_POcon591_002098" ana="#CDfCD" lemma="one">one</w>
           <w xml:id="xTok_POcon591_002100" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_POcon591_002102" ana="#DTfDT" lemma="the">the</w>
@@ -2182,7 +2182,7 @@
           <w xml:id="xTok_POcon591_002106" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_POcon591_002108" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_002110" ana="#NNfNN" lemma="hotel">hotel</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e5472"/>
           <w xml:id="xTok_POcon591_002113" ana="#NNSfNNS" lemma="reception">receptions</w>
           <w xml:id="xTok_POcon591_002115" ana="#WRBfWRB" lemma="when">when</w>
           <w xml:id="xTok_POcon591_002117" ana="#PPfPP" lemma="i">i</w>
@@ -2191,7 +2191,7 @@
           <w xml:id="xTok_POcon591_002123" ana="#PPfPP" lemma="he">he</w>
           <w xml:id="xTok_POcon591_002125" ana="#VVDfVVD" lemma="give">gave</w>
           <w xml:id="xTok_POcon591_002127" ana="#PPfPP" lemma="i">me</w>
-          <emph>
+          <emph xml:id="POcon591_d2e5509">
             <w xml:id="xTok_POcon591_002130" ana="#RBfRB" lemma="so">so</w>
           </emph>
           <w xml:id="xTok_POcon591_002133" ana="#JJfJJ" lemma="much">much</w>
@@ -2199,7 +2199,7 @@
           <w xml:id="xTok_POcon591_002137" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002139" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_POcon591_002141" ana="#VVNfVVN" lemma="do">done</w>
-          <emph>
+          <emph xml:id="POcon591_d2e5539">
             <w xml:id="xTok_POcon591_002144" part="I" next="#xTok_POcon591_002145" ana="#NNfNN" lemma="everything">ev</w>
           </emph>
           <w xml:id="xTok_POcon591_002145" part="F" prev="#xTok_POcon591_002144">erything</w>
@@ -2208,7 +2208,7 @@
           <w xml:id="xTok_POcon591_002151" ana="#PPfPP" lemma="i">me</w>
           <w xml:id="xTok_POcon591_002153" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_POcon591_002155" ana="#VVfVV" lemma="do">do</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="POcon591_d2e5569"/>
           <shift corresp="#POcon591_s_10" feature="voice" new="laugh" xml:id="POcon591_s_9"/>
           <w xml:id="xTok_POcon591_002158" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002160" ana="#VVPfVVP" lemma="think">think</w>
@@ -2216,17 +2216,17 @@
           <w xml:id="xTok_POcon591_002164" ana="#VHSfVHS" lemma="have" part="F" prev="xTok_POcon591_002162">'s</w>
           <w xml:id="xTok_POcon591_002166" ana="#VBNfVBN" lemma="be">been</w>
           <seg n="15" type="overlap" xml:id="POcon591_ol_72">
-            <emph>
+            <emph xml:id="POcon591_d2e5595">
               <w xml:id="xTok_POcon591_002169" ana="#JJfJJ" lemma="perfect">perfect</w>
             </emph>
           </seg>
           <shift corresp="#POcon591_s_9" feature="voice" new="neutral" xml:id="POcon591_s_10"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="POcon591_d2e5603"/>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_151">
           <seg n="15" synch="#POcon591_ol_72" type="overlap" xml:id="POcon591_ol_73">
-            <emph>
-              <w xml:id="xTok_POcon591_002173" ana="#REfRE" lemma="hm">hm<c type="lengthening"/>
+            <emph xml:id="POcon591_d2e5608">
+              <w xml:id="xTok_POcon591_002173" ana="#REfRE" lemma="hm">hm<c type="lengthening" xml:id="POcon591_d2e5615"/>
               </w>
             </emph>
           </seg>
@@ -2235,14 +2235,14 @@
           <w xml:id="xTok_POcon591_002177" ana="#INfIN" lemma="because">because</w>
           <w xml:id="xTok_POcon591_002179" ana="#RBfRB" lemma="yesterday">yesterday</w>
           <w xml:id="xTok_POcon591_002181" ana="#PPfPP" lemma="he">he</w>
-          <w xml:id="xTok_POcon591_002183" ana="#PPfPP" lemma="he">he<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_002183" ana="#PPfPP" lemma="he">he<c type="lengthening" xml:id="POcon591_d2e5635"/>
           </w>
           <w xml:id="xTok_POcon591_002185" ana="#VVDfVVD" lemma="send">sent</w>
           <w xml:id="xTok_POcon591_002187" ana="#PPfPP" lemma="i">me</w>
           <w xml:id="xTok_POcon591_002189" ana="#RBfRB" lemma="somewhere">somewhere</w>
           <w xml:id="xTok_POcon591_002191" ana="#XXfXX" lemma="">with-</w>
           <w xml:id="xTok_POcon591_002193" ana="#XXfXX" lemma="">with-</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e5659"/>
           <w xml:id="xTok_POcon591_002196" ana="#INfIN" lemma="without">without</w>
           <w xml:id="xTok_POcon591_002198" ana="#VVGfVVG" lemma="ask">asking</w>
           <w xml:id="xTok_POcon591_002200" ana="#PPfPP" lemma="i">me</w>
@@ -2251,13 +2251,13 @@
           <w xml:id="xTok_POcon591_002206" ana="#VVPfVVP" lemma="want">want</w>
           <w xml:id="xTok_POcon591_002208" ana="#TOfTO" lemma="to">to</w>
           <seg n="5" type="overlap" xml:id="POcon591_ol_74">
-            <w xml:id="xTok_POcon591_002211" ana="#VVfVV" lemma="find">find<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_002211" ana="#VVfVV" lemma="find">find<c function="fall" type="intonation" xml:id="POcon591_d2e5697"/>
             </w>
             <w xml:id="xTok_POcon591_002213" ana="#DMfDM" lemma="so">so</w>
           </seg>
           <w xml:id="xTok_POcon591_002216" ana="#PPfDM" lemma="you">you</w>
           <w xml:id="xTok_POcon591_002218" ana="#VVPfDM" lemma="know">know</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e5714"/>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_153">
           <seg n="5" synch="#POcon591_ol_74" type="overlap" xml:id="POcon591_ol_75">
@@ -2271,36 +2271,36 @@
           <w xml:id="xTok_POcon591_002232" ana="#VVDfVVD" lemma="ask">asked</w>
           <shift corresp="#POcon591_s_12" feature="voice" new="imitating" xml:id="POcon591_s_11"/>
           <w xml:id="xTok_POcon591_002235" ana="#FIfFI" lemma="please">please</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e5754"/>
           <w xml:id="xTok_POcon591_002238" ana="#MDfMD" lemma="can">can</w>
           <w xml:id="xTok_POcon591_002240" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_POcon591_002242" ana="#VVfVV" lemma="tell">tell</w>
           <w xml:id="xTok_POcon591_002244" ana="#PPfPP" lemma="i">me</w>
           <shift corresp="#POcon591_s_11" feature="voice" new="neutral" xml:id="POcon591_s_12"/>
           <seg n="16" type="overlap" xml:id="POcon591_ol_76">
-            <emph>
+            <emph xml:id="POcon591_d2e5776">
               <w xml:id="xTok_POcon591_002247" ana="#REfRE" lemma="yes">yes</w>
             </emph>
             <w xml:id="xTok_POcon591_002250" ana="#PPfPP" lemma="he">he</w>
             <w xml:id="xTok_POcon591_002252" ana="#VfVVZ" lemma="take">take</w>
             <w xml:id="xTok_POcon591_002254" ana="#DTfDT" lemma="a">a</w>
             <w xml:id="xTok_POcon591_002256" ana="#NNfNN" lemma="map">map</w>
-            <supplied reason="unintelligible">
+            <supplied reason="unintelligible" xml:id="POcon591_d2e5801">
               <w xml:id="xTok_POcon591_002259" ana="#UNIfUNI" lemma="">xxxxx</w>
             </supplied>
           </seg>
         </u>
         <u who="#POcon591_SS" xml:id="POcon591_u_155">
           <seg n="16" synch="#POcon591_ol_76" type="overlap" xml:id="POcon591_ol_77" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline"/>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline" xml:id="POcon591_d2e5813"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="POcon591_d2e5814"/>
           </seg>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="POcon591_d2e5815"/>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_156">
           <seg n="16" synch="#POcon591_ol_76" type="overlap" xml:id="POcon591_ol_78">
             <w xml:id="xTok_POcon591_002264" ana="#FIfFI" lemma="thank">thank</w>
-            <w xml:id="xTok_POcon591_002266" ana="#FIfFI" lemma="you">you<c function="rise" type="intonation"/>
+            <w xml:id="xTok_POcon591_002266" ana="#FIfFI" lemma="you">you<c function="rise" type="intonation" xml:id="POcon591_d2e5828"/>
             </w>
           </seg>
         </u>
@@ -2309,7 +2309,7 @@
           <w xml:id="xTok_POcon591_002271" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_POcon591_002273" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_POcon591_002275" ana="#DTfDT" lemma="all">all</w>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e5850">
             <w xml:id="xTok_POcon591_002278" ana="#UNIfUNI" lemma="">xx</w>
           </supplied>
           <w xml:id="xTok_POcon591_002281" ana="#WRBfWRB" lemma="when">when</w>
@@ -2321,17 +2321,17 @@
             <w xml:id="xTok_POcon591_002292" ana="#VVfVV" lemma="go">go</w>
             <w xml:id="xTok_POcon591_002294" ana="#RBfRB" lemma="down">down</w>
             <w xml:id="xTok_POcon591_002296" ana="#RBfRB" lemma="here">here</w>
-            <unclear>
+            <unclear xml:id="POcon591_d2e5895">
               <w xml:id="xTok_POcon591_002299" ana="#WRBfWRB" lemma="why">why</w>
               <w xml:id="xTok_POcon591_002301" ana="#VVPfVVP" lemma="do" part="I" next="xTok_POcon591_002303">do</w>
               <w xml:id="xTok_POcon591_002303" ana="#RBfRB" lemma="not" part="F" prev="xTok_POcon591_002301">n't</w>
               <w xml:id="xTok_POcon591_002305" ana="#PPfPP" lemma="you">you</w>
             </unclear>
           </seg>
-          <supplied reason="unintelligible">
+          <supplied reason="unintelligible" xml:id="POcon591_d2e5915">
             <w xml:id="xTok_POcon591_002308" ana="#UNIfUNI" lemma="">x</w>
           </supplied>
-          <unclear>
+          <unclear xml:id="POcon591_d2e5922">
             <w xml:id="xTok_POcon591_002311" ana="#PPfPP" lemma="you">yourself</w>
           </unclear>
         </u>
@@ -2339,17 +2339,17 @@
           <seg n="7" synch="#POcon591_ol_79" type="overlap" xml:id="POcon591_ol_80">
             <w xml:id="xTok_POcon591_002315" ana="#DTfDT" lemma="that" part="I" next="xTok_POcon591_002317">that</w>
             <w xml:id="xTok_POcon591_002317" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_002315">'s</w>
-            <emph>
+            <emph xml:id="POcon591_d2e5943">
               <w xml:id="xTok_POcon591_002320" ana="#RBfRB" lemma="very">very</w>
             </emph>
-            <w xml:id="xTok_POcon591_002323" ana="#JJfJJ" lemma="nice">nice<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_002323" ana="#JJfJJ" lemma="nice">nice<c function="fall" type="intonation" xml:id="POcon591_d2e5954"/>
             </w>
             <w xml:id="xTok_POcon591_002325" ana="#PPfPP" lemma="they" part="I" next="xTok_POcon591_002327">they</w>
             <w xml:id="xTok_POcon591_002327" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_POcon591_002325">'re</w>
-            <emph>
+            <emph xml:id="POcon591_d2e5966">
               <w xml:id="xTok_POcon591_002330" ana="#RBfRB" lemma="very">very</w>
             </emph>
-            <w xml:id="xTok_POcon591_002333" ana="#JJfJJ" lemma="helpful">helpful<c function="fall" type="intonation"/>
+            <w xml:id="xTok_POcon591_002333" ana="#JJfJJ" lemma="helpful">helpful<c function="fall" type="intonation" xml:id="POcon591_d2e5977"/>
             </w>
           </seg>
         </u>
@@ -2357,17 +2357,17 @@
           <w xml:id="xTok_POcon591_002336" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_POcon591_002338" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002340" ana="#VVPfVVP" lemma="think">think</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e5995"/>
           <shift corresp="#POcon591_s_14" feature="loud" new="f" xml:id="POcon591_s_13"/>
           <w xml:id="xTok_POcon591_002343" ana="#WRBfWRB" lemma="how">how</w>
           <w xml:id="xTok_POcon591_002345" ana="#JJfJJ" lemma="many">many</w>
           <shift corresp="#POcon591_s_13" feature="loud" new="neutral" xml:id="POcon591_s_14"/>
-          <supplied reason="anonymization">
+          <supplied reason="anonymization" xml:id="POcon591_d2e6009">
             <w xml:id="xTok_POcon591_002348" ana="#NPfNP" lemma="">[org1]</w>
           </supplied>
           <w xml:id="xTok_POcon591_002351" ana="#NNSfNNS" lemma="people">people</w>
           <w xml:id="xTok_POcon591_002353" ana="#VVPfVVP" lemma="ask">ask</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6026"/>
           <seg n="1" type="overlap" xml:id="POcon591_ol_81">
             <w xml:id="xTok_POcon591_002356" ana="#INfIN" lemma="for">for</w>
             <w xml:id="xTok_POcon591_002358" ana="#DTfDT" lemma="the">the</w>
@@ -2377,9 +2377,9 @@
         </u>
         <u who="#POcon591_SS" xml:id="POcon591_u_160">
           <seg n="1" synch="#POcon591_ol_81" type="overlap" xml:id="POcon591_ol_82" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline" xml:id="POcon591_d2e6052"/>
           </seg>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline" xml:id="POcon591_d2e6053"/>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_161">
           <w xml:id="xTok_POcon591_002367" ana="#INfIN" lemma="if">if</w>
@@ -2391,7 +2391,7 @@
           <w xml:id="xTok_POcon591_002379" ana="#NNfNN" lemma="thing">thing</w>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_162">
-          <w xml:id="xTok_POcon591_002383" part="I" next="#xTok_POcon591_002384" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_002383" part="I" next="#xTok_POcon591_002384" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="POcon591_d2e6095"/>
           </w>
           <w xml:id="xTok_POcon591_002384" part="F" prev="#xTok_POcon591_002383">h</w>
         </u>
@@ -2399,11 +2399,11 @@
           <w xml:id="xTok_POcon591_002388" ana="#REfRE" lemma="okay">okay</w>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_164">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
-          <c function="fall" type="intonation" mode="ignore"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="POcon591_d2e6112"/>
+          <c function="fall" type="intonation" mode="ignore" xml:id="POcon591_d2e6113"/>
         </u>
         <u who="#POcon591_S7" xml:id="POcon591_u_165">
-          <w xml:id="xTok_POcon591_002393" ana="#DMfDM" lemma="so">so<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_002393" ana="#DMfDM" lemma="so">so<c function="fall" type="intonation" xml:id="POcon591_d2e6121"/>
           </w>
         </u>
         <u who="#POcon591_S5" xml:id="POcon591_u_166">
@@ -2421,7 +2421,7 @@
           <w xml:id="xTok_POcon591_002414" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002416" ana="#VVDfVVD" lemma="do" part="I" next="xTok_POcon591_002418">did</w>
           <w xml:id="xTok_POcon591_002418" ana="#RBfRB" lemma="not" part="F" prev="xTok_POcon591_002416">n't</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6179"/>
         </u>
         <u who="#POcon591_S11" xml:id="POcon591_u_167">
           <seg n="2" synch="#POcon591_ol_83" type="overlap" xml:id="POcon591_ol_84">
@@ -2429,24 +2429,24 @@
           </seg>
         </u>
         <u who="#POcon591_S5" xml:id="POcon591_u_168">
-          <voice:track medium="1" num="3" type="md"/>
+          <voice:track medium="1" num="3" type="md" xml:id="POcon591_d2e6193"/>
           <w xml:id="xTok_POcon591_002426" ana="#VVDfVVD" lemma="do" part="I" next="xTok_POcon591_002428">did</w>
           <w xml:id="xTok_POcon591_002428" ana="#RBfRB" lemma="not" part="F" prev="xTok_POcon591_002426">n't</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6204"/>
           <w xml:id="xTok_POcon591_002431" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002433" ana="#RBfRB" lemma="finally">finally</w>
           <w xml:id="xTok_POcon591_002435" ana="#VVDfVVD" lemma="do" part="I" next="xTok_POcon591_002437">did</w>
           <w xml:id="xTok_POcon591_002437" ana="#RBfRB" lemma="not" part="F" prev="xTok_POcon591_002435">n't</w>
           <w xml:id="xTok_POcon591_002439" ana="#VVfVV" lemma="hear">hear</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6228"/>
           <w xml:id="xTok_POcon591_002442" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_POcon591_002444" ana="#PPfPP" lemma="you">you</w>
-          <emph>
-            <w xml:id="xTok_POcon591_002447" ana="#VVDfVVD" lemma="do">did<c function="fall" type="intonation"/>
+          <emph xml:id="POcon591_d2e6240">
+            <w xml:id="xTok_POcon591_002447" ana="#VVDfVVD" lemma="do">did<c function="fall" type="intonation" xml:id="POcon591_d2e6247"/>
             </w>
           </emph>
           <w xml:id="xTok_POcon591_002450" ana="#XXfXX" lemma="">yes-</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6254"/>
           <w xml:id="xTok_POcon591_002453" ana="#RBfRB" lemma="yesterday">yesterday</w>
           <w xml:id="xTok_POcon591_002455" ana="#INfIN" lemma="during">during</w>
           <w xml:id="xTok_POcon591_002457" ana="#DTfDT" lemma="the">the</w>
@@ -2457,7 +2457,7 @@
           <w xml:id="xTok_POcon591_002465" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002467" ana="#VVDfVVD" lemma="go">went</w>
           <w xml:id="xTok_POcon591_002469" ana="#INfIN" lemma="to">to</w>
-          <foreign type="LN" voice:translation="ancient church in lisbon" xml:lang="por">
+          <foreign type="LN" voice:translation="ancient church in lisbon" xml:lang="por" xml:id="POcon591_d2e6295">
             <w xml:id="xTok_POcon591_002472" ana="#FWfFW" lemma="">belem</w>
           </foreign>
           <w xml:id="xTok_POcon591_002475" part="I" next="#xTok_POcon591_002476" ana="#RBfRB" lemma="maybe">may</w>
@@ -2486,7 +2486,7 @@
           <w xml:id="xTok_POcon591_002505" ana="#REfRE" lemma="uhu">uhu</w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_172">
-          <unclear>
+          <unclear xml:id="POcon591_d2e6381">
             <w xml:id="xTok_POcon591_002509" ana="#EXfEX" lemma="there" part="I" next="xTok_POcon591_002511">there</w>
             <w xml:id="xTok_POcon591_002511" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_002509">'s</w>
             <w xml:id="xTok_POcon591_002513" ana="#CDfCD" lemma="one">one</w>
@@ -2510,7 +2510,7 @@
           </seg>
           <w xml:id="xTok_POcon591_002539" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002541" ana="#VVDfVVD" lemma="get">got</w>
-          <w xml:id="xTok_POcon591_002543" ana="#REfRE" lemma="yeah">yeah<c function="rise" type="intonation"/>
+          <w xml:id="xTok_POcon591_002543" ana="#REfRE" lemma="yeah">yeah<c function="rise" type="intonation" xml:id="POcon591_d2e6459"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_174">
@@ -2520,15 +2520,15 @@
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_175">
           <w xml:id="xTok_POcon591_002550" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6479"/>
           <w xml:id="xTok_POcon591_002553" ana="#CCfCC" lemma="and">and</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6486"/>
           <w xml:id="xTok_POcon591_002556" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_002558" ana="#NNfNN" lemma="monument">monument</w>
           <w xml:id="xTok_POcon591_002560" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_POcon591_002562" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_POcon591_002564" ana="#NNfNN" lemma="discoverer">discoverer</w>
-          <unclear>
+          <unclear xml:id="POcon591_d2e6510">
             <w xml:id="xTok_POcon591_002567" ana="#DTfDT" lemma="that" part="I" next="xTok_POcon591_002569">that</w>
             <w xml:id="xTok_POcon591_002569" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_002567">'s</w>
             <w xml:id="xTok_POcon591_002571" ana="#PDTfPDT" lemma="all">all</w>
@@ -2537,11 +2537,11 @@
           <w xml:id="xTok_POcon591_002576" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_002574">'s</w>
           <w xml:id="xTok_POcon591_002578" ana="#RBfRB" lemma="really">really</w>
           <w xml:id="xTok_POcon591_002580" ana="#RBfRB" lemma="mainly">mainly</w>
-          <emph>
+          <emph xml:id="POcon591_d2e6544">
             <w xml:id="xTok_POcon591_002583" ana="#DTfDT" lemma="all">all</w>
           </emph>
           <w xml:id="xTok_POcon591_002586" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_POcon591_002588" ana="#VVDfVVD" lemma="do">did<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_002588" ana="#VVDfVVD" lemma="do">did<c function="fall" type="intonation" xml:id="POcon591_d2e6560"/>
           </w>
           <w xml:id="xTok_POcon591_002590" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002592" ana="#VHDfVHD" lemma="have">had</w>
@@ -2566,7 +2566,7 @@
           <w xml:id="xTok_POcon591_002626" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_POcon591_002628" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_POcon591_002630" ana="#VBDfVBD" lemma="be">was</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6653"/>
           <w xml:id="xTok_POcon591_002633" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_POcon591_002635" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_POcon591_002637" ana="#RBfRB" lemma="about">about</w>
@@ -2575,7 +2575,7 @@
           <w xml:id="xTok_POcon591_002643" ana="#CDfCD" lemma="three">three</w>
           <w xml:id="xTok_POcon591_002645" ana="#CCfCC" lemma="or">or</w>
           <w xml:id="xTok_POcon591_002647" ana="#RBfRB" lemma="so">so</w>
-          <w xml:id="xTok_POcon591_002649" ana="#RBfRB" lemma="then">then<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_002649" ana="#RBfRB" lemma="then">then<c function="fall" type="intonation" xml:id="POcon591_d2e6692"/>
           </w>
           <w xml:id="xTok_POcon591_002651" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_POcon591_002653" ana="#PPfPP" lemma="i">i</w>
@@ -2583,7 +2583,7 @@
           <w xml:id="xTok_POcon591_002657" ana="#RBfRB" lemma="back">back</w>
           <w xml:id="xTok_POcon591_002659" ana="#INfIN" lemma="to">to</w>
           <w xml:id="xTok_POcon591_002661" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6720"/>
           <w xml:id="xTok_POcon591_002664" ana="#NNfNN" lemma="hotel">hotel</w>
           <w xml:id="xTok_POcon591_002666" ana="#INfIN" lemma="because">because</w>
           <w xml:id="xTok_POcon591_002668" ana="#PPfPP" lemma="i">i</w>
@@ -2602,7 +2602,7 @@
           <w xml:id="xTok_POcon591_002694" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_POcon591_002696" ana="#VVfVV" lemma="freshen">freshen</w>
           <w xml:id="xTok_POcon591_002698" ana="#RPfRP" lemma="up">up</w>
-          <unclear>
+          <unclear xml:id="POcon591_d2e6798">
             <w xml:id="xTok_POcon591_002701" ana="#CCfCC" lemma="but">but</w>
           </unclear>
           <w xml:id="xTok_POcon591_002704" ana="#PPfPP" lemma="it">it</w>
@@ -2611,7 +2611,7 @@
           <w xml:id="xTok_POcon591_002710" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_POcon591_002712" ana="#RBfRB" lemma="really">really</w>
           <w xml:id="xTok_POcon591_002714" ana="#VVDfVVD" lemma="like">liked</w>
-          <foreign type="LN" voice:translation="ancient church in lisbon" xml:lang="por">
+          <foreign type="LN" voice:translation="ancient church in lisbon" xml:lang="por" xml:id="POcon591_d2e6833">
             <w xml:id="xTok_POcon591_002717" ana="#FWfFW" lemma="">belem</w>
           </foreign>
           <w xml:id="xTok_POcon591_002720" ana="#RBfRB" lemma="actually">actually</w>
@@ -2619,12 +2619,12 @@
           <w xml:id="xTok_POcon591_002724" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_POcon591_002726" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_POcon591_002728" ana="#RBfRB" lemma="very">very</w>
-          <emph>
+          <emph xml:id="POcon591_d2e6863">
             <w xml:id="xTok_POcon591_002731" ana="#JJfJJ" lemma="nice">nice</w>
           </emph>
-          <w xml:id="xTok_POcon591_002734" ana="#NNfNN" lemma="area">area<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_002734" ana="#NNfNN" lemma="area">area<c function="fall" type="intonation" xml:id="POcon591_d2e6874"/>
           </w>
-          <pause/>
+          <pause xml:id="POcon591_d2e6875"/>
           <w xml:id="xTok_POcon591_002736" ana="#NNSfNNS" lemma="lot">lots</w>
           <w xml:id="xTok_POcon591_002738" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_POcon591_002740" ana="#NNfNN" lemma="space">space</w>
@@ -2640,10 +2640,10 @@
           <w xml:id="xTok_POcon591_002760" ana="#VVDfVVD" lemma="walk">walked</w>
           <w xml:id="xTok_POcon591_002762" ana="#INfIN" lemma="through">through</w>
           <w xml:id="xTok_POcon591_002764" ana="#DTfDT" lemma="the">the</w>
-          <emph>
+          <emph xml:id="POcon591_d2e6941">
             <w xml:id="xTok_POcon591_002767" ana="#NNfNN" lemma="park">park</w>
           </emph>
-          <w xml:id="xTok_POcon591_002770" ana="#RBfRB" lemma="there">there<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_002770" ana="#RBfRB" lemma="there">there<c function="fall" type="intonation" xml:id="POcon591_d2e6952"/>
           </w>
           <w xml:id="xTok_POcon591_002772" ana="#DTfDT" lemma="this">this</w>
           <w xml:id="xTok_POcon591_002774" ana="#VBDfVBD" lemma="be">was</w>
@@ -2657,11 +2657,11 @@
           <w xml:id="xTok_POcon591_002784" ana="#NNfNN" lemma="park">park</w>
           <w xml:id="xTok_POcon591_002786" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_POcon591_002788" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_POcon591_002790" ana="#NNfNN" lemma="convent">convent<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_002790" ana="#NNfNN" lemma="convent">convent<c function="fall" type="intonation" xml:id="POcon591_d2e6998"/>
           </w>
         </u>
         <u who="#POcon591_S10" xml:id="POcon591_u_179">
-          <w xml:id="xTok_POcon591_002793" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          <w xml:id="xTok_POcon591_002793" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation" xml:id="POcon591_d2e7006"/>
           </w>
           <seg n="6" type="overlap" xml:id="POcon591_ol_91">
             <w xml:id="xTok_POcon591_002795" ana="#RBfRB" lemma="just">just</w>
@@ -2678,7 +2678,7 @@
             <w xml:id="xTok_POcon591_002812" ana="#DTfDT" lemma="the">the</w>
             <w xml:id="xTok_POcon591_002814" ana="#NNfNN" lemma="one">one</w>
             <w xml:id="xTok_POcon591_002816" ana="#INfIN" lemma="in">in</w>
-            <emph>
+            <emph xml:id="POcon591_d2e7059">
               <w xml:id="xTok_POcon591_002819" ana="#NNfNN" lemma="front">front</w>
             </emph>
           </seg>
@@ -2690,13 +2690,13 @@
           <w xml:id="xTok_POcon591_002829" ana="#RBfRB" lemma="also">also</w>
           <w xml:id="xTok_POcon591_002831" ana="#VHZfVHZ" lemma="have">has</w>
           <w xml:id="xTok_POcon591_002833" ana="#DTfDT" lemma="a">a</w>
-          <pause/>
+          <pause xml:id="POcon591_d2e7096"/>
           <w xml:id="xTok_POcon591_002836" ana="#VHZfVHZ" lemma="have">has</w>
           <seg n="18" type="overlap" xml:id="POcon591_ol_93">
-            <w xml:id="xTok_POcon591_002839" ana="#DTfDT" lemma="a">a<c type="lengthening"/>
+            <w xml:id="xTok_POcon591_002839" ana="#DTfDT" lemma="a">a<c type="lengthening" xml:id="POcon591_d2e7108"/>
             </w>
             <w xml:id="xTok_POcon591_002841" ana="#UHfUH" lemma="erm">erm</w>
-            <pause/>
+            <pause xml:id="POcon591_d2e7115"/>
             <w xml:id="xTok_POcon591_002844" ana="#UHfUH" lemma="er">er</w>
             <w xml:id="xTok_POcon591_002846" ana="#DTfDT" lemma="some">some</w>
             <w xml:id="xTok_POcon591_002848" ana="#NNfNN" lemma="kind">kind</w>
@@ -2718,7 +2718,7 @@
         </u>
         <u who="#POcon591_S9" xml:id="POcon591_u_182">
           <seg n="18" synch="#POcon591_ol_93" type="overlap" xml:id="POcon591_ol_94">
-            <voice:to who="#POcon591_SX-f">
+            <voice:to who="#POcon591_SX-f" xml:id="POcon591_d2e7197">
               <w xml:id="xTok_POcon591_002881" ana="#REfRE" lemma="yeah">yeah</w>
               <w xml:id="xTok_POcon591_002883" ana="#CCfCC" lemma="but">but</w>
               <w xml:id="xTok_POcon591_002885" ana="#PPfPP" lemma="it" part="I" next="xTok_POcon591_002887">it</w>
@@ -2739,7 +2739,7 @@
           </seg>
         </u>
         <u who="#POcon591_SX-f" xml:id="POcon591_u_183">
-          <voice:to who="#POcon591_S9">
+          <voice:to who="#POcon591_S9" xml:id="POcon591_d2e7269">
             <w xml:id="xTok_POcon591_002915" ana="#REfRE" lemma="no">no</w>
             <w xml:id="xTok_POcon591_002917" ana="#REfRE" lemma="no">no</w>
             <w xml:id="xTok_POcon591_002919" ana="#JJfJJ" lemma="sure">sure</w>
@@ -2753,7 +2753,7 @@
             <w xml:id="xTok_POcon591_002929" ana="#PPfPP" lemma="you">you</w>
             <w xml:id="xTok_POcon591_002931" ana="#VVPfVVP" lemma="go">go</w>
             <w xml:id="xTok_POcon591_002933" ana="#INfIN" lemma="in">in</w>
-            <pause/>
+            <pause xml:id="POcon591_d2e7314"/>
             <w xml:id="xTok_POcon591_002936" ana="#INfIN" lemma="for">for</w>
           </seg>
           <seg n="1" type="overlap" xml:id="POcon591_ol_96">
@@ -2769,7 +2769,7 @@
             <w xml:id="xTok_POcon591_002954" ana="#JJfJJ" lemma="difficult">difficult</w>
             <w xml:id="xTok_POcon591_002956" ana="#TOfTO" lemma="to">to</w>
             <w xml:id="xTok_POcon591_002958" ana="#UHfUH" lemma="er">er</w>
-            <unclear>
+            <unclear xml:id="POcon591_d2e7369">
               <w xml:id="xTok_POcon591_002961" ana="#RBfRB" lemma="completely">completely</w>
             </unclear>
           </seg>
@@ -2779,7 +2779,7 @@
             <w xml:id="xTok_POcon591_002965" ana="#CCfCC" lemma="but">but</w>
             <w xml:id="xTok_POcon591_002967" ana="#PPfPP" lemma="it">it</w>
             <w xml:id="xTok_POcon591_002969" ana="#VBDfVBD" lemma="be">was</w>
-            <pause/>
+            <pause xml:id="POcon591_d2e7394"/>
             <w xml:id="xTok_POcon591_002972" ana="#VBDfVBD" lemma="be">was</w>
             <w xml:id="xTok_POcon591_002974" ana="#RBfRB" lemma="just">just</w>
             <w xml:id="xTok_POcon591_002976" ana="#RBfRB" lemma="really">really</w>
@@ -2789,7 +2789,7 @@
         <u who="#POcon591_S5" xml:id="POcon591_u_186">
           <seg n="1" synch="#POcon591_ol_96" type="overlap" xml:id="POcon591_ol_99">
             <w xml:id="xTok_POcon591_002982" ana="#REfRE" lemma="mhm">mhm</w>
-            <pause/>
+            <pause xml:id="POcon591_d2e7424"/>
             <w xml:id="xTok_POcon591_002985" ana="#UHfUH" lemma="oh">oh</w>
             <w xml:id="xTok_POcon591_002987" ana="#FIfFI" lemma="lord">lord</w>
           </seg>
@@ -2797,7 +2797,7 @@
         <u who="#POcon591_S19" xml:id="POcon591_u_187">
           <seg n="2" synch="#POcon591_ol_97" type="overlap" xml:id="POcon591_ol_100">
             <w xml:id="xTok_POcon591_002991" ana="#REfRE" lemma="yeah">yeah</w>
-            <pause/>
+            <pause xml:id="POcon591_d2e7445"/>
             <w xml:id="xTok_POcon591_002994" ana="#DMfDM" lemma="well">well</w>
             <w xml:id="xTok_POcon591_002996" ana="#VVZfVVZ" lemma="do" part="I" next="xTok_POcon591_002998">does</w>
             <w xml:id="xTok_POcon591_002998" ana="#RBfRB" lemma="not" part="F" prev="xTok_POcon591_002996">n't</w>
@@ -2805,8 +2805,8 @@
           </seg>
         </u>
         <u who="#POcon591_S5" xml:id="POcon591_u_188">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3"/>
-          <pause dur="PT1S"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" xml:id="POcon591_d2e7469"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e7470"/>
           <w xml:id="xTok_POcon591_003004" ana="#REfRE" lemma="yeah">yeah</w>
           <w xml:id="xTok_POcon591_003006" ana="#PPfPP" lemma="it" part="I" next="xTok_POcon591_003008">it</w>
           <w xml:id="xTok_POcon591_003008" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_POcon591_003006">'s</w>
@@ -2820,12 +2820,12 @@
           <w xml:id="xTok_POcon591_003022" ana="#INfIN" lemma="that">that</w>
           <w xml:id="xTok_POcon591_003024" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_POcon591_003026" ana="#MDfMD" lemma="shall">should</w>
-          <emph>
+          <emph xml:id="POcon591_d2e7524">
             <w xml:id="xTok_POcon591_003029" ana="#VVfVV" lemma="start">start</w>
           </emph>
-          <pause/>
+          <pause xml:id="POcon591_d2e7531"/>
           <w xml:id="xTok_POcon591_003032" ana="#INfIN" lemma="because">because</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="POcon591_d2e7538"/>
         </u>
         <u who="#POcon591_S19" xml:id="POcon591_u_190">
           <w xml:id="xTok_POcon591_003036" ana="#UHfUH" lemma="ah">ah</w>
@@ -2835,8 +2835,8 @@
         <u who="#POcon591_S5" xml:id="POcon591_u_191">
           <anchor synch="#POcon591_oc_26" type="other_continuation" xml:id="POcon591_oc_27"/>
           <w xml:id="xTok_POcon591_003042" ana="#REfRE" lemma="yes">yes</w>
-          <supplied reason="anonymization">
-            <w xml:id="xTok_POcon591_003045" ana="#NPfNP" lemma="">[S9]<c function="fall" type="intonation"/>
+          <supplied reason="anonymization" xml:id="POcon591_d2e7563">
+            <w xml:id="xTok_POcon591_003045" ana="#NPfNP" lemma="">[S9]<c function="fall" type="intonation" xml:id="POcon591_d2e7570"/>
             </w>
           </supplied>
           <w xml:id="xTok_POcon591_003048" ana="#PPfPP" lemma="we">we</w>
@@ -2849,7 +2849,7 @@
         </u>
         <u who="#POcon591_S5" xml:id="POcon591_u_193">
           <anchor synch="#POcon591_oc_28" type="other_continuation" xml:id="POcon591_oc_29"/>
-          <w xml:id="xTok_POcon591_003060" part="I" next="#xTok_POcon591_003061" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_POcon591_003060" part="I" next="#xTok_POcon591_003061" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="POcon591_d2e7605"/>
           </w>
           <w xml:id="xTok_POcon591_003061" part="F" prev="#xTok_POcon591_003060">r</w>
           <w xml:id="xTok_POcon591_003063" ana="#WRBfWRB" lemma="where">where</w>

@@ -430,7 +430,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="medium" voice:end="02:31" voice:end_medium_number="1" voice:end_track="1" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1">
+      <div type="medium" voice:end="02:31" voice:end_medium_number="1" voice:end_track="1" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1" xml:id="LEint553_d2e541">
         <u who="#LEint553_S1" xml:id="LEint553_u_1">
           <w xml:id="xTok_LEint553_000007" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEint553_000009" ana="#VVDfVVD" lemma="come">came</w>
@@ -454,58 +454,58 @@
           <w xml:id="xTok_LEint553_000032" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEint553_000034" ana="#VVfVV" lemma="do">do</w>
           <w xml:id="xTok_LEint553_000036" ana="#RBfRB" lemma="there">there</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e615"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_5">
           <seg n="2" type="overlap" xml:id="LEint553_ol_2">
-            <w xml:id="xTok_LEint553_000040" ana="#VVGfNN" lemma="canyon/canyoning">canyoning<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000040" ana="#VVGfNN" lemma="canyon/canyoning">canyoning<c function="rise" type="intonation" xml:id="LEint553_d2e624"/>
             </w>
           </seg>
           <w xml:id="xTok_LEint553_000042" part="I" next="#xTok_LEint553_000043" ana="#VVGfNN" lemma="canyon/canyoning">canyon</w>
           <seg n="8" type="overlap" xml:id="LEint553_ol_3">
-            <w xml:id="xTok_LEint553_000043" part="F" prev="#xTok_LEint553_000042">ing<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000043" part="F" prev="#xTok_LEint553_000042">ing<c function="rise" type="intonation" xml:id="LEint553_d2e632"/>
             </w>
           </seg>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_6">
           <seg n="2" synch="#LEint553_ol_2" type="overlap" xml:id="LEint553_ol_4">
             <shift corresp="#LEint553_s_2" feature="voice" new="laugh" xml:id="LEint553_s_1"/>
-            <emph>
+            <emph xml:id="LEint553_d2e639">
               <w xml:id="xTok_LEint553_000046" ana="#RBfRB" lemma="much">much</w>
             </emph>
             <shift corresp="#LEint553_s_1" feature="voice" new="neutral" xml:id="LEint553_s_2"/>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="LEint553_d2e647"/>
           </seg>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_7">
           <seg n="8" synch="#LEint553_ol_3" type="overlap" xml:id="LEint553_ol_5">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="LEint553_d2e652"/>
             <shift corresp="#LEint553_s_4" feature="voice" new="laugh" xml:id="LEint553_s_3"/>
             <w xml:id="xTok_LEint553_000050" ana="#RBfRB" lemma="much">much</w>
             <shift corresp="#LEint553_s_3" feature="voice" new="neutral" xml:id="LEint553_s_4"/>
           </seg>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="LEint553_d2e661"/>
           <shift corresp="#LEint553_s_6" feature="voice" new="laugh" xml:id="LEint553_s_5"/>
           <w xml:id="xTok_LEint553_000053" ana="#DMfDM" lemma="so">so</w>
           <w xml:id="xTok_LEint553_000055" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEint553_000057" ana="#VHPfVHP" lemma="have">have</w>
           <w xml:id="xTok_LEint553_000059" ana="#VVNfVVN" lemma="learn">learned</w>
-          <unclear>
+          <unclear xml:id="LEint553_d2e682">
             <w xml:id="xTok_LEint553_000062" ana="#DTfDT" lemma="the">the</w>
           </unclear>
-          <w xml:id="xTok_LEint553_000065" part="I" next="#xTok_LEint553_000066" ana="#NPfNP" lemma="german">germa<c type="lengthening"/>
+          <w xml:id="xTok_LEint553_000065" part="I" next="#xTok_LEint553_000066" ana="#NPfNP" lemma="german">germa<c type="lengthening" xml:id="LEint553_d2e693"/>
           </w>
           <w xml:id="xTok_LEint553_000066" part="F" prev="#xTok_LEint553_000065">n</w>
-          <unclear>
-            <w xml:id="xTok_LEint553_000069" ana="#RBfRB" lemma="already">already<c function="rise" type="intonation"/>
+          <unclear xml:id="LEint553_d2e698">
+            <w xml:id="xTok_LEint553_000069" ana="#RBfRB" lemma="already">already<c function="rise" type="intonation" xml:id="LEint553_d2e703"/>
             </w>
           </unclear>
           <shift corresp="#LEint553_s_5" feature="voice" new="neutral" xml:id="LEint553_s_6"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_8">
-          <w xml:id="xTok_LEint553_000072" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000072" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation" xml:id="LEint553_d2e712"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e713"/>
           <w xml:id="xTok_LEint553_000074" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEint553_000076" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEint553_000078" ana="#VVDfVVD" lemma="do">did</w>
@@ -515,7 +515,7 @@
           <w xml:id="xTok_LEint553_000084" ana="#REfRE" lemma="yes">yes</w>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_10">
-          <w xml:id="xTok_LEint553_000088" part="I" next="#xTok_LEint553_000089" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <w xml:id="xTok_LEint553_000088" part="I" next="#xTok_LEint553_000089" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="LEint553_d2e749"/>
           </w>
           <w xml:id="xTok_LEint553_000089" part="F" prev="#xTok_LEint553_000088">nd</w>
           <w xml:id="xTok_LEint553_000091" ana="#PPfPP" lemma="we">we</w>
@@ -526,13 +526,13 @@
           <w xml:id="xTok_LEint553_000101" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEint553_000103" ana="#JJfJJ" lemma="high">high</w>
           <w xml:id="xTok_LEint553_000105" ana="#XXfXX" lemma="">alp-</w>
-          <w xml:id="xTok_LEint553_000107" ana="#XXfXX" lemma="">alp-<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000107" ana="#XXfXX" lemma="">alp-<c function="rise" type="intonation" xml:id="LEint553_d2e790"/>
           </w>
           <seg n="9" type="overlap" xml:id="LEint553_ol_6">
-            <w xml:id="xTok_LEint553_000109" ana="#NPSfNPS" lemma="alp">alps<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000109" ana="#NPSfNPS" lemma="alp">alps<c function="rise" type="intonation" xml:id="LEint553_d2e796"/>
             </w>
           </seg>
-          <pause/>
+          <pause xml:id="LEint553_d2e797"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_11">
           <seg n="9" synch="#LEint553_ol_6" type="overlap" xml:id="LEint553_ol_7">
@@ -548,23 +548,23 @@
           <w xml:id="xTok_LEint553_000120" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_LEint553_000122" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_LEint553_000124" ana="#NNfNN" lemma="hut">hut</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e836"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_14">
           <seg n="3" type="overlap" xml:id="LEint553_ol_9">
-            <w xml:id="xTok_LEint553_000128" part="I" next="#xTok_LEint553_000129" ana="#UHfUH" lemma="oh">o<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_000128" part="I" next="#xTok_LEint553_000129" ana="#UHfUH" lemma="oh">o<c type="lengthening" xml:id="LEint553_d2e845"/>
             </w>
             <w xml:id="xTok_LEint553_000129" part="F" prev="#xTok_LEint553_000128">h</w>
           </seg>
           <w xml:id="xTok_LEint553_000132" ana="#PPfPP" lemma="you">you</w>
           <seg n="10" type="overlap" xml:id="LEint553_ol_10">
-            <unclear>
+            <unclear xml:id="LEint553_d2e857">
               <w xml:id="xTok_LEint553_000135" ana="#XXfXX" lemma="">wa-</w>
             </unclear>
           </seg>
           <w xml:id="xTok_LEint553_000138" ana="#VVDfVVD" lemma="walk">walked</w>
           <w xml:id="xTok_LEint553_000140" ana="#RBfRB" lemma="up">up</w>
-          <w xml:id="xTok_LEint553_000142" ana="#RBfRB" lemma="there">there<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000142" ana="#RBfRB" lemma="there">there<c function="rise" type="intonation" xml:id="LEint553_d2e877"/>
           </w>
           <seg n="11" type="overlap" xml:id="LEint553_ol_11">
             <w xml:id="xTok_LEint553_000144" ana="#CCfCC" lemma="or">or</w>
@@ -589,30 +589,30 @@
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_18">
           <w xml:id="xTok_LEint553_000164" ana="#REfRE" lemma="yes">yes</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e933"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_19">
           <w xml:id="xTok_LEint553_000168" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_LEint553_000170" ana="#DTfDT" lemma="a">a</w>
           <w xml:id="xTok_LEint553_000172" ana="#JJfJJ" lemma="military">military</w>
-          <w xml:id="xTok_LEint553_000174" ana="#NNfNN" lemma="area">area<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000174" ana="#NNfNN" lemma="area">area<c function="rise" type="intonation" xml:id="LEint553_d2e953"/>
           </w>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_20">
           <w xml:id="xTok_LEint553_000177" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e963"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_21">
           <shift corresp="#LEint553_s_8" feature="loud" new="p" xml:id="LEint553_s_7"/>
-          <w xml:id="xTok_LEint553_000181" ana="#REfRE" lemma="mhm">mhm<c type="lengthening"/>
+          <w xml:id="xTok_LEint553_000181" ana="#REfRE" lemma="mhm">mhm<c type="lengthening" xml:id="LEint553_d2e972"/>
           </w>
           <shift corresp="#LEint553_s_7" feature="loud" new="neutral" xml:id="LEint553_s_8"/>
-          <pause/>
+          <pause xml:id="LEint553_d2e974"/>
           <w xml:id="xTok_LEint553_000183" ana="#DTfDT" lemma="a">a</w>
-          <emph>
+          <emph xml:id="LEint553_d2e981">
             <w xml:id="xTok_LEint553_000186" ana="#JJfJJ" lemma="military">military</w>
           </emph>
-          <w xml:id="xTok_LEint553_000189" ana="#NNfNN" lemma="area">area<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000189" ana="#NNfNN" lemma="area">area<c function="rise" type="intonation" xml:id="LEint553_d2e993"/>
           </w>
           <anchor synch="#LEint553_oc_1" type="other_continuation" xml:id="LEint553_oc_0"/>
         </u>
@@ -624,24 +624,24 @@
         <u who="#LEint553_S2" xml:id="LEint553_u_23">
           <anchor synch="#LEint553_oc_2" type="other_continuation" xml:id="LEint553_oc_3"/>
           <w xml:id="xTok_LEint553_000196" ana="#REfRE" lemma="yes">yes</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1017"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_24">
           <w xml:id="xTok_LEint553_000200" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEint553_000202" ana="#VBDfVBD" lemma="be">was</w>
-          <emph>
+          <emph xml:id="LEint553_d2e1031">
             <w xml:id="xTok_LEint553_000205" ana="#DTfDT" lemma="some">some</w>
           </emph>
           <w xml:id="xTok_LEint553_000208" ana="#JJfJJ" lemma="difficult">difficult</w>
           <w xml:id="xTok_LEint553_000210" ana="#DTfDT" lemma="the">the</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1049"/>
           <w xml:id="xTok_LEint553_000213" ana="#XXfXX" lemma="">s-</w>
           <w xml:id="xTok_LEint553_000215" ana="#INfIN" lemma="with">with</w>
           <w xml:id="xTok_LEint553_000217" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEint553_000219" ana="#UHfUH" lemma="erm">erm</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1068"/>
           <w xml:id="xTok_LEint553_000222" ana="#UHfUH" lemma="erm">erm</w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="LEint553_d2e1076"/>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_25">
           <w xml:id="xTok_LEint553_000226" part="I" next="#xTok_LEint553_000227" ana="#NNfNN" lemma="military">mi</w>
@@ -666,7 +666,7 @@
           <w xml:id="xTok_LEint553_000244" ana="#VVfVV" lemma="get">get</w>
           <w xml:id="xTok_LEint553_000246" ana="#PPfPP" lemma="we">us</w>
           <w xml:id="xTok_LEint553_000248" ana="#INfIN" lemma="in">in</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e1138"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_29">
           <w xml:id="xTok_LEint553_000252" ana="#DMfDM" lemma="so">so</w>
@@ -675,10 +675,10 @@
           <w xml:id="xTok_LEint553_000258" ana="#VVDfVVD" lemma="go">went</w>
           <w xml:id="xTok_LEint553_000260" ana="#INfIN" lemma="across">across</w>
           <w xml:id="xTok_LEint553_000262" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_LEint553_000264" ana="#NNfNN" lemma="border">border<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000264" ana="#NNfNN" lemma="border">border<c function="rise" type="intonation" xml:id="LEint553_d2e1171"/>
           </w>
           <w xml:id="xTok_LEint553_000266" ana="#CCfCC" lemma="or">or</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1178"/>
           <w xml:id="xTok_LEint553_000269" ana="#VBDfVBD" lemma="be">was</w>
           <w xml:id="xTok_LEint553_000271" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEint553_000273" ana="#INfIN" lemma="in">in</w>
@@ -690,17 +690,17 @@
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_30">
           <seg n="5" synch="#LEint553_ol_17" type="overlap" xml:id="LEint553_ol_18">
-            <w xml:id="xTok_LEint553_000284" part="I" next="#xTok_LEint553_000285" ana="#PPfPP" lemma="it">i<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_000284" part="I" next="#xTok_LEint553_000285" ana="#PPfPP" lemma="it">i<c type="lengthening" xml:id="LEint553_d2e1217"/>
             </w>
             <w xml:id="xTok_LEint553_000285" part="F" prev="#xTok_LEint553_000284">t</w>
           </seg>
           <seg n="6" type="overlap" xml:id="LEint553_ol_19">
-            <emph>
+            <emph xml:id="LEint553_d2e1223">
               <w xml:id="xTok_LEint553_000288" ana="#VBDfVBD" lemma="be">was</w>
             </emph>
           </seg>
           <w xml:id="xTok_LEint553_000291" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_LEint553_000293" ana="#NPfNP" lemma="austria">austria<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000293" ana="#NPfNP" lemma="austria">austria<c function="fall" type="intonation" xml:id="LEint553_d2e1238"/>
           </w>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_31">
@@ -716,16 +716,16 @@
           <w xml:id="xTok_LEint553_000306" ana="#VBDfVBD" lemma="be">was</w>
           <seg n="7" type="overlap" xml:id="LEint553_ol_21">
             <w xml:id="xTok_LEint553_000309" ana="#INfIN" lemma="in">in</w>
-            <w xml:id="xTok_LEint553_000311" ana="#DTfDT" lemma="a">a<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_000311" ana="#DTfDT" lemma="a">a<c type="lengthening" xml:id="LEint553_d2e1280"/>
             </w>
           </seg>
           <w xml:id="xTok_LEint553_000313" ana="#JJfJJ" lemma="military">military</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1287"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_34">
           <seg n="7" synch="#LEint553_ol_21" type="overlap" xml:id="LEint553_ol_22">
             <shift corresp="#LEint553_s_10" feature="loud" new="p" xml:id="LEint553_s_9"/>
-            <w xml:id="xTok_LEint553_000317" part="I" next="#xTok_LEint553_000318" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_000317" part="I" next="#xTok_LEint553_000318" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="LEint553_d2e1298"/>
             </w>
             <w xml:id="xTok_LEint553_000318" part="F" prev="#xTok_LEint553_000317">h</w>
             <shift corresp="#LEint553_s_9" feature="loud" new="neutral" xml:id="LEint553_s_10"/>
@@ -742,7 +742,7 @@
           <seg n="8" synch="#LEint553_ol_23" type="overlap" xml:id="LEint553_ol_24">
             <w xml:id="xTok_LEint553_000331" ana="#XXfXX" lemma="">train-</w>
           </seg>
-          <pause/>
+          <pause xml:id="LEint553_d2e1334"/>
           <seg n="9" type="overlap" xml:id="LEint553_ol_25">
             <w xml:id="xTok_LEint553_000334" ana="#XXfXX" lemma="">tr-</w>
             <w xml:id="xTok_LEint553_000336" ana="#VVGfNN" lemma="train/training">training</w>
@@ -756,7 +756,7 @@
             <w xml:id="xTok_LEint553_000343" ana="#INfIN" lemma="in">in</w>
             <w xml:id="xTok_LEint553_000345" ana="#DTfDT" lemma="the">the</w>
             <w xml:id="xTok_LEint553_000347" part="I" next="#xTok_LEint553_000348" ana="#NNSfNNS" lemma="mountain">mountain</w>
-            <unclear>
+            <unclear xml:id="LEint553_d2e1370">
               <w xml:id="xTok_LEint553_000348" part="F" prev="#xTok_LEint553_000347">s</w>
             </unclear>
             <shift corresp="#LEint553_s_11" feature="loud" new="neutral" xml:id="LEint553_s_12"/>
@@ -769,11 +769,11 @@
           <w xml:id="xTok_LEint553_000356" ana="#NNfNN" lemma="mountain">mountain</w>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_39">
-          <w xml:id="xTok_LEint553_000360" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000360" ana="#REfRE" lemma="yes">yes<c function="fall" type="intonation" xml:id="LEint553_d2e1402"/>
           </w>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_40">
-          <unclear>
+          <unclear xml:id="LEint553_d2e1406">
             <w xml:id="xTok_LEint553_000363" ana="#PPfPP" lemma="i">i</w>
           </unclear>
           <w xml:id="xTok_LEint553_000366" ana="#VVDfVVD" lemma="do" part="I" next="xTok_LEint553_000368">did</w>
@@ -783,9 +783,9 @@
           <w xml:id="xTok_LEint553_000373" ana="#DTfDT" lemma="that">that</w>
           <shift corresp="#LEint553_s_13" feature="voice" new="neutral" xml:id="LEint553_s_14"/>
           <seg n="1" type="overlap" xml:id="LEint553_ol_27">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEint553_d2e1437"/>
           </seg>
-          <vocal type="wordlike" voice:desc="laughing" voice:syl="1"/>
+          <vocal type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEint553_d2e1438"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_41">
           <seg n="1" synch="#LEint553_ol_27" type="overlap" xml:id="LEint553_ol_28">
@@ -793,26 +793,26 @@
           </seg>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_42">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEint553_d2e1452"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_43">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline"/>
-          <pause mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" mode="inline" xml:id="LEint553_d2e1456"/>
+          <pause mode="inline" xml:id="LEint553_d2e1457"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_44">
-          <w xml:id="xTok_LEint553_000383" part="I" next="#xTok_LEint553_000384" ana="#CCfCC" lemma="and">a<c type="lengthening"/>
+          <w xml:id="xTok_LEint553_000383" part="I" next="#xTok_LEint553_000384" ana="#CCfCC" lemma="and">a<c type="lengthening" xml:id="LEint553_d2e1465"/>
           </w>
           <w xml:id="xTok_LEint553_000384" part="F" prev="#xTok_LEint553_000383">nd</w>
           <w xml:id="xTok_LEint553_000386" ana="#UHfUH" lemma="er">er</w>
           <w xml:id="xTok_LEint553_000388" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEint553_000390" ana="#VVDfVVD" lemma="do">did</w>
           <w xml:id="xTok_LEint553_000392" ana="#UHfUH" lemma="er">er</w>
-          <foreign type="LN" voice:translation="austrian sport" xml:lang="ger">
+          <foreign type="LN" voice:translation="austrian sport" xml:lang="ger" xml:id="LEint553_d2e1487">
             <w xml:id="xTok_LEint553_000395" ana="#FWfFW" lemma="">stock</w>
-            <w xml:id="xTok_LEint553_000397" ana="#FWfFW" lemma="">schiessen<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000397" ana="#FWfFW" lemma="">schiessen<c function="rise" type="intonation" xml:id="LEint553_d2e1496"/>
             </w>
           </foreign>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e1497"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_45">
           <w xml:id="xTok_LEint553_000400" ana="#REfRE" lemma="mhm">mhm</w>
@@ -823,16 +823,16 @@
           <w xml:id="xTok_LEint553_000404" ana="#INfIN" lemma="like">like</w>
           <w xml:id="xTok_LEint553_000406" ana="#VVGfNN" lemma="curl/curling">curling</w>
           <w xml:id="xTok_LEint553_000408" ana="#INfIN" lemma="on">on</w>
-          <w xml:id="xTok_LEint553_000410" ana="#NNfNN" lemma="asphalt">asphalt<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000410" ana="#NNfNN" lemma="asphalt">asphalt<c function="rise" type="intonation" xml:id="LEint553_d2e1529"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1530"/>
           <seg n="2" type="overlap" xml:id="LEint553_ol_29">
             <w xml:id="xTok_LEint553_000412" ana="#PPfPP #PPfDM" lemma="you">you</w>
             <w xml:id="xTok_LEint553_000414" ana="#VVPfVVP #VVPfDM" lemma="know">know</w>
           </seg>
-          <w xml:id="xTok_LEint553_000417" ana="#REfRE" lemma="yes">yes<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000417" ana="#REfRE" lemma="yes">yes<c function="rise" type="intonation" xml:id="LEint553_d2e1547"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1548"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_47">
           <seg n="2" synch="#LEint553_ol_29" type="overlap" xml:id="LEint553_ol_30">
@@ -843,19 +843,19 @@
           <w xml:id="xTok_LEint553_000424" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_LEint553_000426" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEint553_000428" ana="#VVDfVVD" lemma="do">did</w>
-          <pause/>
-          <emph>
+          <pause xml:id="LEint553_d2e1576"/>
+          <emph xml:id="LEint553_d2e1577">
             <w xml:id="xTok_LEint553_000431" part="I" next="#xTok_LEint553_000432" ana="#JJfJJ" lemma="austrian">aus</w>
           </emph>
           <w xml:id="xTok_LEint553_000432" part="F" prev="#xTok_LEint553_000431">trian</w>
-          <w xml:id="xTok_LEint553_000434" ana="#VVGfNN" lemma="cook/cooking">cooking<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000434" ana="#VVGfNN" lemma="cook/cooking">cooking<c function="rise" type="intonation" xml:id="LEint553_d2e1589"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1590"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_49">
           <w xml:id="xTok_LEint553_000437" ana="#JJfJJ" lemma="austrian">austrian</w>
-          <emph>
-            <w xml:id="xTok_LEint553_000440" ana="#VVGfNN" lemma="cook/cooking">cooking<c function="rise" type="intonation"/>
+          <emph xml:id="LEint553_d2e1600">
+            <w xml:id="xTok_LEint553_000440" ana="#VVGfNN" lemma="cook/cooking">cooking<c function="rise" type="intonation" xml:id="LEint553_d2e1607"/>
             </w>
           </emph>
         </u>
@@ -864,7 +864,7 @@
           <seg n="3" type="overlap" xml:id="LEint553_ol_31">
             <w xml:id="xTok_LEint553_000445" part="F" prev="#xTok_LEint553_000444">es</w>
           </seg>
-          <pause/>
+          <pause xml:id="LEint553_d2e1621"/>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_51">
           <seg n="3" synch="#LEint553_ol_31" type="overlap" xml:id="LEint553_ol_32">
@@ -873,7 +873,7 @@
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_52">
           <seg n="4" type="overlap" xml:id="LEint553_ol_33">
-            <w xml:id="xTok_LEint553_000453" ana="#WPfWP" lemma="what">what<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000453" ana="#WPfWP" lemma="what">what<c function="rise" type="intonation" xml:id="LEint553_d2e1640"/>
             </w>
           </seg>
         </u>
@@ -884,44 +884,44 @@
           </seg>
           <w xml:id="xTok_LEint553_000461" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEint553_000463" ana="#VVDfVVD" lemma="do">did</w>
-          <pause/>
-          <foreign type="LN" voice:translation="smoked bacon dumplings" xml:lang="ger">
+          <pause xml:id="LEint553_d2e1665"/>
+          <foreign type="LN" voice:translation="smoked bacon dumplings" xml:lang="ger" xml:id="LEint553_d2e1666">
             <w xml:id="xTok_LEint553_000466" ana="#FWfFW" lemma="">speckknoedel</w>
           </foreign>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_54">
           <seg n="5" type="overlap" xml:id="LEint553_ol_35" mode="inline">
             <shift corresp="#LEint553_s_16" feature="loud" new="p" xml:id="LEint553_s_15" mode="inline"/>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEint553_d2e1678"/>
             <shift corresp="#LEint553_s_15" feature="loud" new="neutral" xml:id="LEint553_s_16" mode="inline"/>
           </seg>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_55">
           <seg n="5" synch="#LEint553_ol_35" type="overlap" xml:id="LEint553_ol_36">
-            <w xml:id="xTok_LEint553_000471" ana="#UHfUH" lemma="mm">mm<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_000471" ana="#UHfUH" lemma="mm">mm<c type="lengthening" xml:id="LEint553_d2e1688"/>
             </w>
           </seg>
           <w xml:id="xTok_LEint553_000473" ana="#VVPfVVP" lemma="do">do</w>
           <w xml:id="xTok_LEint553_000475" ana="#PPfPP" lemma="you">you</w>
           <w xml:id="xTok_LEint553_000477" ana="#VVfVV" lemma="like">like</w>
-          <w xml:id="xTok_LEint553_000479" ana="#PPfPP" lemma="they">them<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000479" ana="#PPfPP" lemma="they">them<c function="rise" type="intonation" xml:id="LEint553_d2e1705"/>
           </w>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_56">
           <w xml:id="xTok_LEint553_000482" ana="#CCfCC" lemma="and">and</w>
           <shift corresp="#LEint553_s_18" feature="tempo" new="l" xml:id="LEint553_s_17"/>
-          <foreign type="LN" voice:translation="apple strudel" xml:lang="ger">
-            <w xml:id="xTok_LEint553_000485" part="I" next="#xTok_LEint553_000486" ana="#FWfFW" lemma="">apfe<c type="lengthening"/>
+          <foreign type="LN" voice:translation="apple strudel" xml:lang="ger" xml:id="LEint553_d2e1717">
+            <w xml:id="xTok_LEint553_000485" part="I" next="#xTok_LEint553_000486" ana="#FWfFW" lemma="">apfe<c type="lengthening" xml:id="LEint553_d2e1722"/>
             </w>
-            <w xml:id="xTok_LEint553_000486" part="F" prev="#xTok_LEint553_000485">lstrudel<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000486" part="F" prev="#xTok_LEint553_000485">lstrudel<c function="rise" type="intonation" xml:id="LEint553_d2e1725"/>
             </w>
           </foreign>
           <shift corresp="#LEint553_s_17" feature="tempo" new="neutral" xml:id="LEint553_s_18"/>
-          <pause/>
+          <pause xml:id="LEint553_d2e1727"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_57">
           <seg n="6" type="overlap" xml:id="LEint553_ol_37" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEint553_d2e1732"/>
           </seg>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_58">
@@ -932,7 +932,7 @@
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_59">
           <w xml:id="xTok_LEint553_000496" ana="#NNfNN" lemma="something">something</w>
-          <foreign type="LN" voice:translation="apple" xml:lang="ger">
+          <foreign type="LN" voice:translation="apple" xml:lang="ger" xml:id="LEint553_d2e1756">
             <seg n="9" type="overlap" xml:id="LEint553_ol_39">
               <w xml:id="xTok_LEint553_000499" ana="#FWfFW" lemma="">a-</w>
             </seg>
@@ -942,7 +942,7 @@
           <w xml:id="xTok_LEint553_000507" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_LEint553_000509" ana="#VVNfVVN" lemma="fry">fried</w>
           <w xml:id="xTok_LEint553_000511" ana="#INfIN" lemma="in">in</w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e1789"/>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_60">
           <seg n="9" synch="#LEint553_ol_39" type="overlap" xml:id="LEint553_ol_40">
@@ -951,32 +951,32 @@
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_61">
           <w xml:id="xTok_LEint553_000519" ana="#INfIN" lemma="in">in</w>
-          <w xml:id="xTok_LEint553_000521" ana="#NNfNN" lemma="fat">fat<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000521" ana="#NNfNN" lemma="fat">fat<c function="fall" type="intonation" xml:id="LEint553_d2e1812"/>
           </w>
           <w xml:id="xTok_LEint553_000523" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEint553_000525" ana="#VVPfVVP" lemma="do" part="I" next="xTok_LEint553_000527">do</w>
           <w xml:id="xTok_LEint553_000527" ana="#RBfRB" lemma="not" part="F" prev="xTok_LEint553_000525">n't</w>
           <w xml:id="xTok_LEint553_000529" ana="#VVfVV" lemma="know">know</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1832"/>
           <w xml:id="xTok_LEint553_000532" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_LEint553_000534" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEint553_000536" ana="#NNfNN" lemma="name">name</w>
-          <w xml:id="xTok_LEint553_000538" ana="#VBZfVBZ" lemma="be">is<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000538" ana="#VBZfVBZ" lemma="be">is<c function="fall" type="intonation" xml:id="LEint553_d2e1850"/>
           </w>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_62">
-          <foreign type="L1" voice:translation="apple slices" xml:lang="ger">
-            <w xml:id="xTok_LEint553_000541" ana="#FWfFW" lemma="">apfelspalten<c function="rise" type="intonation"/>
+          <foreign type="L1" voice:translation="apple slices" xml:lang="ger" xml:id="LEint553_d2e1854">
+            <w xml:id="xTok_LEint553_000541" ana="#FWfFW" lemma="">apfelspalten<c function="rise" type="intonation" xml:id="LEint553_d2e1859"/>
             </w>
           </foreign>
-          <pause/>
+          <pause xml:id="LEint553_d2e1860"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_63">
-          <emph>
-            <w xml:id="xTok_LEint553_000544" part="I" next="#xTok_LEint553_000545" ana="#UHfUH" lemma="ah">a<c type="lengthening"/>
+          <emph xml:id="LEint553_d2e1864">
+            <w xml:id="xTok_LEint553_000544" part="I" next="#xTok_LEint553_000545" ana="#UHfUH" lemma="ah">a<c type="lengthening" xml:id="LEint553_d2e1869"/>
             </w>
           </emph>
-          <emph>
+          <emph xml:id="LEint553_d2e1870">
             <w xml:id="xTok_LEint553_000545" part="F" prev="#xTok_LEint553_000544">h</w>
           </emph>
           <w xml:id="xTok_LEint553_000548" ana="#RBfRB" lemma="maybe">maybe</w>
@@ -987,23 +987,23 @@
           <w xml:id="xTok_LEint553_000552" ana="#REfRE" lemma="yeah">yeah</w>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_65">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
-          <w xml:id="xTok_LEint553_000556" part="I" next="#xTok_LEint553_000557" ana="#REfRE" lemma="yes">ye<c type="lengthening"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="4" xml:id="LEint553_d2e1895"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEint553_d2e1896"/>
+          <w xml:id="xTok_LEint553_000556" part="I" next="#xTok_LEint553_000557" ana="#REfRE" lemma="yes">ye<c type="lengthening" xml:id="LEint553_d2e1901"/>
           </w>
-          <w xml:id="xTok_LEint553_000557" part="F" prev="#xTok_LEint553_000556">s<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000557" part="F" prev="#xTok_LEint553_000556">s<c function="rise" type="intonation" xml:id="LEint553_d2e1904"/>
           </w>
           <w xml:id="xTok_LEint553_000559" ana="#DTfDT" lemma="that">that</w>
           <w xml:id="xTok_LEint553_000561" ana="#VBZfVBZ" lemma="be">is</w>
           <w xml:id="xTok_LEint553_000563" ana="#WPfWP" lemma="what">what</w>
           <w xml:id="xTok_LEint553_000565" ana="#PPfPP" lemma="we">we</w>
-          <w xml:id="xTok_LEint553_000567" ana="#VVDfVVD" lemma="do">did<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000567" ana="#VVDfVVD" lemma="do">did<c function="fall" type="intonation" xml:id="LEint553_d2e1926"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1927"/>
           <w xml:id="xTok_LEint553_000569" ana="#CCfCC" lemma="or">or</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1935"/>
           <seg n="7" type="overlap" xml:id="LEint553_ol_41">
-            <w xml:id="xTok_LEint553_000572" ana="#RBRfRBR #JJRfJJR" lemma="more">more<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000572" ana="#RBRfRBR #JJRfJJR" lemma="more">more<c function="rise" type="intonation" xml:id="LEint553_d2e1941"/>
             </w>
           </seg>
         </u>
@@ -1016,11 +1016,11 @@
           <w xml:id="xTok_LEint553_000582" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEint553_000584" ana="#NPfNP" lemma="ranger">ranger</w>
           <w xml:id="xTok_LEint553_000586" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_LEint553_000588" ana="#NPfNP" lemma="rover">rover<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000588" ana="#NPfNP" lemma="rover">rover<c function="rise" type="intonation" xml:id="LEint553_d2e1977"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e1978"/>
           <seg n="10" type="overlap" xml:id="LEint553_ol_43">
-            <w xml:id="xTok_LEint553_000590" ana="#NNfNN" lemma="camp">camp<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000590" ana="#NNfNN" lemma="camp">camp<c function="rise" type="intonation" xml:id="LEint553_d2e1984"/>
             </w>
           </seg>
         </u>
@@ -1049,48 +1049,48 @@
         <u who="#LEint553_S2" xml:id="LEint553_u_71">
           <anchor synch="#LEint553_oc_12" type="other_continuation" xml:id="LEint553_oc_13"/>
           <w xml:id="xTok_LEint553_000610" ana="#REfRE" lemma="yes">yes</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2040"/>
           <w xml:id="xTok_LEint553_000613" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_LEint553_000615" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEint553_000617" ana="#VHDfVHD" lemma="have">had</w>
           <w xml:id="xTok_LEint553_000619" ana="#DTfDT" lemma="a">a</w>
-          <emph>
+          <emph xml:id="LEint553_d2e2060">
             <w xml:id="xTok_LEint553_000622" ana="#NNfNN" lemma="lot">lot</w>
           </emph>
           <w xml:id="xTok_LEint553_000625" ana="#INfIN" lemma="of">of</w>
           <w xml:id="xTok_LEint553_000627" ana="#NNfNN" lemma="fun">fun</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="LEint553_d2e2077"/>
           <seg n="2" type="overlap" xml:id="LEint553_ol_47">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEint553_d2e2079"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEint553_d2e2080"/>
           </seg>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_72">
           <seg n="2" synch="#LEint553_ol_47" type="overlap" xml:id="LEint553_ol_48" mode="inline">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEint553_d2e2086"/>
           </seg>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEint553_d2e2087"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" mode="inline" xml:id="LEint553_d2e2088"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_73">
           <w xml:id="xTok_LEint553_000632" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_LEint553_000634" ana="#PPfPP" lemma="they">they</w>
           <w xml:id="xTok_LEint553_000636" ana="#VBDfVBD" lemma="be">were</w>
-          <emph>
+          <emph xml:id="LEint553_d2e2106">
             <w xml:id="xTok_LEint553_000639" ana="#RBfRB" lemma="very">very</w>
           </emph>
-          <pause dur="PT1S"/>
-          <w xml:id="xTok_LEint553_000642" ana="#JJfJJ" lemma="helpful">helpful<c function="rise" type="intonation"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e2113"/>
+          <w xml:id="xTok_LEint553_000642" ana="#JJfJJ" lemma="helpful">helpful<c function="rise" type="intonation" xml:id="LEint553_d2e2119"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e2120"/>
           <w xml:id="xTok_LEint553_000644" ana="#INfIN" lemma="to">to</w>
-          <w xml:id="xTok_LEint553_000646" ana="#PPfPP" lemma="we">us<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000646" ana="#PPfPP" lemma="we">us<c function="rise" type="intonation" xml:id="LEint553_d2e2129"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2130"/>
           <w xml:id="xTok_LEint553_000648" ana="#EXfEX" lemma="there">there</w>
           <w xml:id="xTok_LEint553_000650" ana="#VBDfVBD" lemma="be">were</w>
           <w xml:id="xTok_LEint553_000652" ana="#RBfRB" lemma="only">only</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2146"/>
           <w xml:id="xTok_LEint553_000655" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEint553_000657" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEint553_000659" ana="#VBDfVBD" lemma="be">were</w>
@@ -1099,21 +1099,21 @@
           <w xml:id="xTok_LEint553_000665" ana="#NNfNN" lemma="group">group</w>
           <w xml:id="xTok_LEint553_000667" ana="#PREfPRE" lemma="that">that</w>
           <w xml:id="xTok_LEint553_000669" ana="#VVPfVVP #VfVVD" lemma="speak">speak</w>
-          <pause/>
-          <w xml:id="xTok_LEint553_000672" ana="#RBfRB" lemma="only">only<c type="lengthening"/>
+          <pause xml:id="LEint553_d2e2183"/>
+          <w xml:id="xTok_LEint553_000672" ana="#RBfRB" lemma="only">only<c type="lengthening" xml:id="LEint553_d2e2188"/>
           </w>
-          <emph>
+          <emph xml:id="LEint553_d2e2189">
             <w xml:id="xTok_LEint553_000674" part="I" next="#xTok_LEint553_000675" ana="#NPfNP" lemma="english">en</w>
           </emph>
-          <w xml:id="xTok_LEint553_000675" part="F" prev="#xTok_LEint553_000674">glish<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000675" part="F" prev="#xTok_LEint553_000674">glish<c function="rise" type="intonation" xml:id="LEint553_d2e2196"/>
           </w>
           <w xml:id="xTok_LEint553_000677" ana="#CCfCC" lemma="and">and</w>
-          <emph>
+          <emph xml:id="LEint553_d2e2203">
             <w xml:id="xTok_LEint553_000680" part="I" next="#xTok_LEint553_000681" ana="#NPfNP" lemma="swedish">swe</w>
           </emph>
-          <w xml:id="xTok_LEint553_000681" part="F" prev="#xTok_LEint553_000680">dish<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000681" part="F" prev="#xTok_LEint553_000680">dish<c function="rise" type="intonation" xml:id="LEint553_d2e2211"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2212"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_74">
           <w xml:id="xTok_LEint553_000684" ana="#REfRE" lemma="mhm">mhm</w>
@@ -1127,15 +1127,15 @@
           <w xml:id="xTok_LEint553_000694" ana="#JJfJJ" lemma="other">other</w>
           <w xml:id="xTok_LEint553_000696" ana="#NNSfNNS" lemma="people">people</w>
           <w xml:id="xTok_LEint553_000698" ana="#VVDfVVD" lemma="speak">spoke</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2254"/>
           <seg n="3" type="overlap" xml:id="LEint553_ol_49">
-            <w xml:id="xTok_LEint553_000701" ana="#NPSfNPS #NfN" lemma="german">germans<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_000701" ana="#NPSfNPS #NfN" lemma="german">germans<c type="lengthening" xml:id="LEint553_d2e2260"/>
             </w>
           </seg>
           <w xml:id="xTok_LEint553_000703" ana="#VBDfVBD" lemma="be">were</w>
           <w xml:id="xTok_LEint553_000705" ana="#INfIN" lemma="from">from</w>
           <w xml:id="xTok_LEint553_000707" ana="#NPfNP" lemma="germany">germany</w>
-          <foreign type="LN" voice:translation="switzerland" xml:lang="ger">
+          <foreign type="LN" voice:translation="switzerland" xml:lang="ger" xml:id="LEint553_d2e2276">
             <w xml:id="xTok_LEint553_000710" ana="#FWfFW" lemma="">schweiz</w>
           </foreign>
           <w xml:id="xTok_LEint553_000713" ana="#NPfNP" lemma="switzerland">switzerland</w>
@@ -1162,16 +1162,16 @@
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_80">
           <w xml:id="xTok_LEint553_000733" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_LEint553_000735" ana="#NPfNP" lemma="austria">austria<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000735" ana="#NPfNP" lemma="austria">austria<c function="fall" type="intonation" xml:id="LEint553_d2e2344"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2345"/>
           <w xml:id="xTok_LEint553_000737" ana="#CCfCC" lemma="but">but</w>
           <w xml:id="xTok_LEint553_000739" ana="#PPfPP" lemma="they">they</w>
-          <emph>
+          <emph xml:id="LEint553_d2e2357">
             <w xml:id="xTok_LEint553_000742" ana="#DTfDT" lemma="all">all</w>
           </emph>
           <w xml:id="xTok_LEint553_000745" ana="#VVDfVVD" lemma="help">helped</w>
-          <w xml:id="xTok_LEint553_000747" ana="#PPfPP" lemma="we">us<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000747" ana="#PPfPP" lemma="we">us<c function="fall" type="intonation" xml:id="LEint553_d2e2372"/>
           </w>
           <seg n="4" type="overlap" xml:id="LEint553_ol_51">
             <w xml:id="xTok_LEint553_000749" ana="#RBfRB" lemma="very">very</w>
@@ -1184,7 +1184,7 @@
             <w xml:id="xTok_LEint553_000757" ana="#PPfPP" lemma="you">you</w>
           </seg>
           <w xml:id="xTok_LEint553_000760" ana="#VBDfVBD" lemma="be">were</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2404"/>
           <w xml:id="xTok_LEint553_000763" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEint553_000765" ana="#JJfJJ" lemma="only">only</w>
           <w xml:id="xTok_LEint553_000767" ana="#JJfJJ" lemma="swedish">swedish</w>
@@ -1194,21 +1194,21 @@
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_82">
           <seg n="5" type="overlap" xml:id="LEint553_ol_53">
-            <w xml:id="xTok_LEint553_000774" part="I" next="#xTok_LEint553_000775" ana="#REfRE" lemma="yes">ye<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_000774" part="I" next="#xTok_LEint553_000775" ana="#REfRE" lemma="yes">ye<c type="lengthening" xml:id="LEint553_d2e2436"/>
             </w>
             <w xml:id="xTok_LEint553_000775" part="F" prev="#xTok_LEint553_000774">s</w>
           </seg>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_83">
           <seg n="5" synch="#LEint553_ol_53" type="overlap" xml:id="LEint553_ol_54">
-            <w xml:id="xTok_LEint553_000779" part="I" next="#xTok_LEint553_000780" ana="#REfRE" lemma="yes">ye<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_000779" part="I" next="#xTok_LEint553_000780" ana="#REfRE" lemma="yes">ye<c type="lengthening" xml:id="LEint553_d2e2450"/>
             </w>
             <w xml:id="xTok_LEint553_000780" part="F" prev="#xTok_LEint553_000779">s</w>
           </seg>
         </u>
         <u who="#LEint553_SS" xml:id="LEint553_u_84">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="LEint553_d2e2458"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" mode="inline" xml:id="LEint553_d2e2459"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_85">
           <w xml:id="xTok_LEint553_000785" ana="#CCfCC" lemma="but">but</w>
@@ -1218,7 +1218,7 @@
           <w xml:id="xTok_LEint553_000793" ana="#JJfJJ" lemma="helpful">helpful</w>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_86">
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="3" mode="inline" xml:id="LEint553_d2e2488"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_87">
           <w xml:id="xTok_LEint553_000798" ana="#REfRE" lemma="yes">yes</w>
@@ -1232,22 +1232,22 @@
             <w xml:id="xTok_LEint553_000807" ana="#CCfCC" lemma="and">and</w>
             <w xml:id="xTok_LEint553_000809" ana="#PPfPP" lemma="we">we</w>
           </seg>
-          <w xml:id="xTok_LEint553_000812" part="I" next="#xTok_LEint553_000813" ana="#VfVVD" lemma="dance">da<c type="lengthening"/>
+          <w xml:id="xTok_LEint553_000812" part="I" next="#xTok_LEint553_000813" ana="#VfVVD" lemma="dance">da<c type="lengthening" xml:id="LEint553_d2e2527"/>
           </w>
           <w xml:id="xTok_LEint553_000813" part="F" prev="#xTok_LEint553_000812">nce</w>
-          <w xml:id="xTok_LEint553_000815" part="I" next="#xTok_LEint553_000816" ana="#UHfUH" lemma="er">e<c type="lengthening"/>
+          <w xml:id="xTok_LEint553_000815" part="I" next="#xTok_LEint553_000816" ana="#UHfUH" lemma="er">e<c type="lengthening" xml:id="LEint553_d2e2534"/>
           </w>
           <w xml:id="xTok_LEint553_000816" part="F" prev="#xTok_LEint553_000815">r</w>
           <w xml:id="xTok_LEint553_000818" ana="#DTfDT" lemma="the">the</w>
           <w xml:id="xTok_LEint553_000820" ana="#JJfJJ" lemma="last">last</w>
           <w xml:id="xTok_LEint553_000822" ana="#NNfNN" lemma="night">night</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2552"/>
           <seg n="7" type="overlap" xml:id="LEint553_ol_57">
             <w xml:id="xTok_LEint553_000825" part="I" next="#xTok_LEint553_000826" ana="#JJfJJ" lemma="tyrolean">ty</w>
           </seg>
           <w xml:id="xTok_LEint553_000826" part="F" prev="#xTok_LEint553_000825">rolean</w>
           <w xml:id="xTok_LEint553_000828" ana="#VVGfNN" lemma="dance/dancing">dancing</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2567"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_89">
           <seg n="7" synch="#LEint553_ol_57" type="overlap" xml:id="LEint553_ol_58">
@@ -1267,13 +1267,13 @@
           <w xml:id="xTok_LEint553_000849" ana="#JJfJJ" lemma="tyrolean">tyrolean</w>
           <w xml:id="xTok_LEint553_000851" part="I" next="#xTok_LEint553_000852" ana="#VVGfNN" lemma="dance/dancing">dan</w>
           <seg n="2" type="overlap" xml:id="LEint553_ol_61">
-            <w xml:id="xTok_LEint553_000852" part="F" prev="#xTok_LEint553_000851">cing<c function="fall" type="intonation"/>
+            <w xml:id="xTok_LEint553_000852" part="F" prev="#xTok_LEint553_000851">cing<c function="fall" type="intonation" xml:id="LEint553_d2e2622"/>
             </w>
           </seg>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_91">
           <seg n="8" synch="#LEint553_ol_59" type="overlap" xml:id="LEint553_ol_62">
-            <unclear>
+            <unclear xml:id="LEint553_d2e2627">
               <w xml:id="xTok_LEint553_000855" ana="#RBfRB" lemma="here">here</w>
             </unclear>
           </seg>
@@ -1291,7 +1291,7 @@
             <w xml:id="xTok_LEint553_000866" ana="#PPfPP" lemma="we">we</w>
             <w xml:id="xTok_LEint553_000868" ana="#VVDfVVD" lemma="learn">learned</w>
           </seg>
-          <pause/>
+          <pause xml:id="LEint553_d2e2665"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_94">
           <seg n="9" synch="#LEint553_ol_65" type="overlap" xml:id="LEint553_ol_66">
@@ -1299,12 +1299,12 @@
           </seg>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_95">
-          <w xml:id="xTok_LEint553_000876" ana="#REfRE" lemma="mhm">mhm<c type="lengthening"/>
+          <w xml:id="xTok_LEint553_000876" ana="#REfRE" lemma="mhm">mhm<c type="lengthening" xml:id="LEint553_d2e2684"/>
           </w>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_96">
           <w xml:id="xTok_LEint553_000879" ana="#REfRE" lemma="yeah">yeah</w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2694"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_97">
           <w xml:id="xTok_LEint553_000883" ana="#CCfCC" lemma="and">and</w>
@@ -1314,22 +1314,22 @@
           <w xml:id="xTok_LEint553_000891" ana="#VVGfVVG" lemma="plan">planning</w>
           <w xml:id="xTok_LEint553_000893" ana="#TOfTO" lemma="to">to</w>
           <w xml:id="xTok_LEint553_000895" ana="#VVfVV" lemma="do">do</w>
-          <w xml:id="xTok_LEint553_000897" ana="#RBfRB" lemma="today">today<c type="lengthening"/>
-            <c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000897" ana="#RBfRB" lemma="today">today<c type="lengthening" xml:id="LEint553_d2e2731"/>
+            <c function="rise" type="intonation" xml:id="LEint553_d2e2732"/>
           </w>
-          <pause dur="PT2S"/>
+          <pause dur="PT2S" xml:id="LEint553_d2e2733"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_98">
           <w xml:id="xTok_LEint553_000900" ana="#PPfPP" lemma="we">we</w>
           <w xml:id="xTok_LEint553_000902" ana="#VBPfVBP" lemma="be">are</w>
           <w xml:id="xTok_LEint553_000904" ana="#VVGfVVG" lemma="help">helping</w>
-          <emph>
+          <emph xml:id="LEint553_d2e2751">
             <w xml:id="xTok_LEint553_000907" ana="#RBfRB" lemma="here">here</w>
           </emph>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
+          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="LEint553_d2e2758"/>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_99">
-          <w xml:id="xTok_LEint553_000911" part="I" next="#xTok_LEint553_000912" ana="#UHfUH" lemma="oh">o<c type="lengthening"/>
+          <w xml:id="xTok_LEint553_000911" part="I" next="#xTok_LEint553_000912" ana="#UHfUH" lemma="oh">o<c type="lengthening" xml:id="LEint553_d2e2766"/>
           </w>
           <w xml:id="xTok_LEint553_000912" part="F" prev="#xTok_LEint553_000911">h</w>
           <w xml:id="xTok_LEint553_000914" ana="#DMfDM" lemma="so">so</w>
@@ -1338,7 +1338,7 @@
           <w xml:id="xTok_LEint553_000920" ana="#VVGfVVG" lemma="disturb">disturbing</w>
           <w xml:id="xTok_LEint553_000922" ana="#PPfPP" lemma="you">you</w>
           <seg n="3" type="overlap" xml:id="LEint553_ol_67">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEint553_d2e2793"/>
             <shift corresp="#LEint553_s_26" feature="voice" new="laugh" xml:id="LEint553_s_25"/>
             <w xml:id="xTok_LEint553_000925" ana="#PPfPP" lemma="i">i</w>
             <w xml:id="xTok_LEint553_000927" ana="#VVDfVVD" lemma="do" part="I" next="xTok_LEint553_000929">did</w>
@@ -1356,16 +1356,16 @@
             <w xml:id="xTok_LEint553_000941" ana="#REfRE" lemma="no">no</w>
             <shift corresp="#LEint553_s_27" feature="voice" new="neutral" xml:id="LEint553_s_28"/>
           </seg>
-          <pause/>
+          <pause xml:id="LEint553_d2e2840"/>
           <w xml:id="xTok_LEint553_000944" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEint553_000946" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEint553_000948" ana="#PPfPP" lemma="it">it</w>
           <w xml:id="xTok_LEint553_000950" ana="#VHZfVHZ" lemma="have">has</w>
           <w xml:id="xTok_LEint553_000952" ana="#RBfRB" lemma="not">not</w>
           <w xml:id="xTok_LEint553_000954" ana="#VVNfVVN" lemma="start">started</w>
-          <w xml:id="xTok_LEint553_000956" ana="#RBfRB" lemma="yet">yet<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000956" ana="#RBfRB" lemma="yet">yet<c function="fall" type="intonation" xml:id="LEint553_d2e2870"/>
           </w>
-          <pause dur="PT1S"/>
+          <pause dur="PT1S" xml:id="LEint553_d2e2871"/>
           <w xml:id="xTok_LEint553_000958" ana="#CCfCC" lemma="and">and</w>
           <w xml:id="xTok_LEint553_000960" ana="#RBfRB" lemma="yesterday">yesterday</w>
           <w xml:id="xTok_LEint553_000962" ana="#PPfPP" lemma="we">we</w>
@@ -1374,10 +1374,10 @@
           <w xml:id="xTok_LEint553_000968" ana="#INfIN" lemma="in">in</w>
           <w xml:id="xTok_LEint553_000970" ana="#DTfDT" lemma="a">a</w>
           <seg n="10" type="overlap" xml:id="LEint553_ol_69">
-            <w xml:id="xTok_LEint553_000973" ana="#NNfNN" lemma="bus">bus<c function="rise" type="intonation"/>
+            <w xml:id="xTok_LEint553_000973" ana="#NNfNN" lemma="bus">bus<c function="rise" type="intonation" xml:id="LEint553_d2e2909"/>
             </w>
           </seg>
-          <pause/>
+          <pause xml:id="LEint553_d2e2910"/>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_101">
           <seg n="10" synch="#LEint553_ol_69" type="overlap" xml:id="LEint553_ol_70">
@@ -1386,7 +1386,7 @@
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_102">
           <w xml:id="xTok_LEint553_000980" ana="#INfIN" lemma="from">from</w>
-          <w xml:id="xTok_LEint553_000982" ana="#NPfNP" lemma="tyrol">tyrol<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_000982" ana="#NPfNP" lemma="tyrol">tyrol<c function="fall" type="intonation" xml:id="LEint553_d2e2932"/>
           </w>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_103">
@@ -1394,9 +1394,9 @@
             <w xml:id="xTok_LEint553_000985" ana="#INfIN" lemma="from">from</w>
             <w xml:id="xTok_LEint553_000987" part="I" next="#xTok_LEint553_000988" ana="#NPfNP" lemma="tyrol">ty</w>
           </seg>
-          <w xml:id="xTok_LEint553_000988" part="F" prev="#xTok_LEint553_000987">rol<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_000988" part="F" prev="#xTok_LEint553_000987">rol<c function="rise" type="intonation" xml:id="LEint553_d2e2947"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2948"/>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_104">
           <seg n="4" synch="#LEint553_ol_71" type="overlap" xml:id="LEint553_ol_72">
@@ -1410,17 +1410,17 @@
           <w xml:id="xTok_LEint553_001001" ana="#VVGfVVG" lemma="stay">staying</w>
           <w xml:id="xTok_LEint553_001003" ana="#INfIN" lemma="till">till</w>
           <w xml:id="xTok_LEint553_001005" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_LEint553_001007" ana="#NNfNN" lemma="end">end<c function="rise" type="intonation"/>
+          <w xml:id="xTok_LEint553_001007" ana="#NNfNN" lemma="end">end<c function="rise" type="intonation" xml:id="LEint553_d2e2992"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e2993"/>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_106">
           <seg n="5" type="overlap" xml:id="LEint553_ol_73">
-            <w xml:id="xTok_LEint553_001010" part="I" next="#xTok_LEint553_001011" ana="#REfRE" lemma="yes">ye<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_001010" part="I" next="#xTok_LEint553_001011" ana="#REfRE" lemma="yes">ye<c type="lengthening" xml:id="LEint553_d2e3002"/>
             </w>
             <w xml:id="xTok_LEint553_001011" part="F" prev="#xTok_LEint553_001010">s</w>
           </seg>
-          <pause/>
+          <pause xml:id="LEint553_d2e3007"/>
         </u>
         <u who="#LEint553_S3" xml:id="LEint553_u_107">
           <seg n="5" synch="#LEint553_ol_73" type="overlap" xml:id="LEint553_ol_74">
@@ -1428,9 +1428,9 @@
           </seg>
         </u>
         <u who="#LEint553_S1" xml:id="LEint553_u_108">
-          <w xml:id="xTok_LEint553_001019" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation"/>
+          <w xml:id="xTok_LEint553_001019" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="LEint553_d2e3025"/>
           </w>
-          <pause/>
+          <pause xml:id="LEint553_d2e3026"/>
           <w xml:id="xTok_LEint553_001021" ana="#RBfRB" lemma="then">then</w>
           <w xml:id="xTok_LEint553_001023" ana="#PPfPP" lemma="i">i</w>
           <w xml:id="xTok_LEint553_001025" ana="#VVPfVVP" lemma="hope">hope</w>
@@ -1443,7 +1443,7 @@
         <u who="#LEint553_SX" xml:id="LEint553_u_109">
           <w xml:id="xTok_LEint553_001039" part="I" next="#xTok_LEint553_001040" ana="#UHfUH" lemma="wow">wo</w>
           <seg n="6" type="overlap" xml:id="LEint553_ol_75">
-            <w xml:id="xTok_LEint553_001040" part="F" prev="#xTok_LEint553_001039">w<c type="lengthening"/>
+            <w xml:id="xTok_LEint553_001040" part="F" prev="#xTok_LEint553_001039">w<c type="lengthening" xml:id="LEint553_d2e3072"/>
             </w>
           </seg>
         </u>
@@ -1462,8 +1462,8 @@
             <w xml:id="xTok_LEint553_001055" ana="#REfRE" lemma="yeah">yeah</w>
           </seg>
           <seg n="7" synch="#LEint553_ol_77" type="overlap" xml:id="LEint553_ol_79">
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2"/>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="LEint553_d2e3112"/>
+            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="LEint553_d2e3113"/>
           </seg>
         </u>
         <u who="#LEint553_S2" xml:id="LEint553_u_112">
