@@ -1,10 +1,11 @@
 const https = require('https');
 const http = require('http');
+const { toCQL } = require("./voice-to-cql")
 const { performance } = require('perf_hooks');
 const {
   NOSKE_BONITO
 } = process.env
-const noske_bonito = NOSKE_BONITO || 'https://voice-noske.acdh-dev.oeaw.ac.at/bonito/run.cgi'
+const noske_bonito = NOSKE_BONITO || 'https://vsearch-noske.acdh-dev.oeaw.ac.at/bonito/run.cgi'
 
 class search {
   constructor(xmlData) {
@@ -17,11 +18,11 @@ class search {
     }
     // console.log(req.url, req.query, this);
     // var t1 = performance.now()
-    var queryString = `${(req.query.q || '').replace(/\+/g, '%2B').replace(/ /g, '+')}`,
+    var q = (req.query.q || ''),
+        cql = q.match(/^[["<(]/) ? q : toCQL(q),
+        queryString = `${cql.replace(/\+/g, '%2B').replace(/ /g, '+')}`,
         backendRequest = `${noske_bonito}/first?corpname=voice&` +
-        ( queryString.match(/^[["<(]/) ?
-        `queryselector=cqlrow&cql=${queryString}&default_attr=word` :
-        `queryselector=phraserow&phrase=${queryString}` ) + 
+        `queryselector=cqlrow&cql=${queryString}&default_attr=word` +
     `&attrs=wid&kwicleftctx=0&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000`
     console.log(`NoSkE request: ${backendRequest}`)
     this.getJson(backendRequest,

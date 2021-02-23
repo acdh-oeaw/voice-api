@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" > 2 && exit 0",
+    "test": "jest",
     "serve": "nodemon --inspect app.js"
   },
   "author": "HCB",
@@ -18,8 +18,12 @@
     "AutoDevOps Settungs": "POSTGRES_ENABLED=false #we don't use a DB so don't prepare it"
   },
   "dependencies": {
+    "chevrotain": "^7.1.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "sax": "^1.2.4"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
   }
 }
