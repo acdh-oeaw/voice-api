@@ -20,6 +20,26 @@ test('wildcard ? test house, houses "a house.+"', () => {
     expect(toCQL("a house.?")).toBe('[word="a"] [word="_.*"]* [word="house.?"]')
 })
 
+test('wildcard first ".+some"', () => {
+    expect(toCQL(".+some")).toBe('[word=".+some"]')
+})
+
+test('wildcard middle "ha.+me"', () => {
+    expect(toCQL("ha.+me")).toBe('[word="ha.+me"]')
+})
+
+test('wildcard middle single "n.t"', () => {
+    expect(toCQL("n.t")).toBe('[word="n.t"]')
+})
+
+test('wildcard two letters ".."', () => {
+    expect(toCQL("..")).toBe('[word=".."]')
+})
+
+test('wildcard two letters pos "p:.."', () => {
+    expect(toCQL("p:..")).toBe('[p=".."]')
+})
+
 test('pos test "only p:NN"', () => {
     expect(toCQL("only p:NN")).toBe('[word="only"] [word="_.*"]* [p="NN"]')
 })

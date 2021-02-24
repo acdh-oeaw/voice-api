@@ -5,8 +5,8 @@ const createToken = chevrotain.createToken
 const tokenVocabulary = {}
 
 //regexp-to-ast.js does not support \p{Ll} or \p{Lu} see chevrotain issues 777
-const Word = createToken({ name: "Word", pattern: /((\.[+?*])|[_0-9a-zäöüß])+(\.[+?*])?/})
-const Pos = createToken({ name: "Pos", pattern: /f?((\.[+?*])|[A-Z])+f?((\.[+?*])|[A-Z])*/})
+const Word = createToken({ name: "Word", pattern: /(\.[+?*]?)?[._0-9a-zäöüß]((\.[+?*]?)|[_0-9a-zäöüß])*(\.[+?*]?)?/})
+const Pos = createToken({ name: "Pos", pattern: /f?(\.[+?*]?)?[.A-Z]((\.[+?*]?)|[A-Z])*f?((\.[+?*]?)|[A-Z])*(\.[+?*]?)?/})
 const Space = createToken({ name: "Space", pattern: / +/})
 const LParen = createToken({ name: "LParen", pattern: /\(/})
 const RParen = createToken({ name: "LParen", pattern: /\)/})
@@ -28,9 +28,9 @@ const allTokens = [
     And,
     Tag,
     // words
-    Pos,
     Attribute,
-    Word
+    Word,
+    Pos
 ]
 
 const VoiceLexer = new Lexer(allTokens)
