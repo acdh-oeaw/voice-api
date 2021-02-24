@@ -12,15 +12,17 @@ class VoiceToCQL extends BaseVoiceVisitor {
     query(ctx) {
         var cql = ""
         const $ = this
-        ctx.token.forEach((token, idx, tokens) => cql += `[${$.visit(token)}]` + (idx === tokens.length - 1 ? "" : ' [word="_.*"]* '))
+        ctx.token.forEach((token, idx, tokens) => cql += $.visit(token) + (idx === tokens.length - 1 ? "" : ' [word="_.*"]* '))
         return cql
     }
     
     token(ctx) {
-        if (ctx.wordAndAttributeValue) { return this.visit(ctx.wordAndAttributeValue) }
-        if (ctx.pos) { return this.visit(ctx.pos) }
-        if (ctx.word) { return this.visit(ctx.word) }
-        if (ctx.attributeValue) { return this.visit(ctx.attributeValue) }
+        const quant = ctx.quants ? this.visit(ctx.quants) : ''
+        if (ctx.wordAndAttributeValue) { return `[${this.visit(ctx.wordAndAttributeValue)}]${quant}`} 
+        if (ctx.pos) { return `[${this.visit(ctx.pos)}]${quant}`}
+        if (ctx.word) { return `[${this.visit(ctx.word)}]${quant}`}
+        if (ctx.attributeValue) { return `[${this.visit(ctx.attributeValue)}]${quant}`}
+        if (quant !== '') { return `[word!="u___"]${quant}`}
     }
     
     word(ctx) {
@@ -57,6 +59,10 @@ class VoiceToCQL extends BaseVoiceVisitor {
     pos(ctx) {
         const pos = ctx.Pos ? ctx.Pos[0].image : ""
         return `p="${pos}"`
+    }
+
+    quants(ctx) {
+        return ctx.Quants[0].image
     }
 }
 

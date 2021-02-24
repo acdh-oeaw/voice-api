@@ -63,3 +63,19 @@ test('combine word and attribute "VV,go"', () => {
 test('combine word and attribute "VV,l:go"', () => {
     expect(toCQL("VV,l:go")).toBe('[l="go" & p="VV"]')
 })
+
+test('pause 1 "_1"', () => {
+    expect(toCQL("_1")).toBe('[word="_1"]')
+})
+
+test('token quants "a JJ? thing"', () => {
+    expect(toCQL("a JJ? thing")).toBe('[word="a"] [word="_.*"]* [p="JJ"]? [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "a JJ.+? thing"', () => {
+    expect(toCQL("a JJ.+? thing")).toBe('[word="a"] [word="_.*"]* [p="JJ.+"]? [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "a * thing"', () => {
+    expect(toCQL("a * thing")).toBe('[word="a"] [word="_.*"]* [word!="u___"]* [word="_.*"]* [word="thing"]')
+})

@@ -5,11 +5,12 @@ const createToken = chevrotain.createToken
 const tokenVocabulary = {}
 
 //regexp-to-ast.js does not support \p{Ll} or \p{Lu} see chevrotain issues 777
-const Word = createToken({ name: "Word", pattern: /[.+?*_0-9a-zäöüß]+/})
-const Pos = createToken({name: "Pos", pattern: /f?[.+?*A-Z]+f?[.+?*A-Z]*/})
+const Word = createToken({ name: "Word", pattern: /((\.[+?*])|[_0-9a-zäöüß])+(\.[+?*])?/})
+const Pos = createToken({ name: "Pos", pattern: /f?((\.[+?*])|[A-Z])+f?((\.[+?*])|[A-Z])*/})
 const Space = createToken({ name: "Space", pattern: / +/})
 const LParen = createToken({ name: "LParen", pattern: /\(/})
 const RParen = createToken({ name: "LParen", pattern: /\)/})
+const Quants = createToken({ name: "Quants", pattern: /[+?*]/})
 const And = createToken({ name: "And", pattern: /,/})
 const Attribute = createToken({ name: "Attribute", pattern: /([lpf]|(pf)):/, longer_alt: Word})
 const Tag = createToken({ name: "Tag", pattern: /<[^>]+>/})
@@ -23,6 +24,7 @@ const allTokens = [
     Containing,
     LParen,
     RParen,
+    Quants,
     And,
     Tag,
     // words
