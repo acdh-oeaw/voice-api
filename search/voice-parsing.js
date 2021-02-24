@@ -19,6 +19,8 @@ class VoiceParser extends CstParser {
 
         $.RULE("token", () => {
            $.OR([
+               { ALT: () => $.SUBRULE($.wordAndAttributeValue) },
+               { ALT: () => $.SUBRULE($.pos) },
                { ALT: () => $.SUBRULE($.word) },               
                { ALT: () => $.SUBRULE($.attributeValue) }
            ])
@@ -36,6 +38,19 @@ class VoiceParser extends CstParser {
             $.OR([
                 { ALT: () => $.SUBRULE($.word) },
                 { ALT: () => $.SUBRULE($.pos) }
+            ])
+        })
+        $.RULE("wordAndAttributeValue", () => {
+            $.OR1([
+                { ALT: () => $.SUBRULE1($.pos) },
+                { ALT: () => $.SUBRULE1($.word) },
+                { ALT: () => $.SUBRULE1($.attributeValue) }
+            ])
+            $.CONSUME(v.And)
+            $.OR2([
+                { ALT: () => $.SUBRULE2($.pos) },
+                { ALT: () => $.SUBRULE2($.word) },
+                { ALT: () => $.SUBRULE2($.attributeValue) }
             ])
         })
         $.RULE("attribute", () => {
