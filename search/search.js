@@ -20,7 +20,7 @@ class search {
     // var t1 = performance.now()
     var q = (req.query.q || ''),
         cql = q.match(/^[["<(]/) ? q : toCQL(q),
-        queryString = `${cql.replace(/\+/g, '%2B').replace(/ /g, '+')}`,
+        queryString = `${cql.replace(/\+/g, '%2B').replace(/&/g, '%26').replace(/ /g, '+')}`,
         backendRequest = `${noske_bonito}/first?corpname=voice&` +
         `queryselector=cqlrow&cql=${queryString}&default_attr=word` +
     `&attrs=wid&kwicleftctx=0&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000`

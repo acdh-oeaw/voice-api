@@ -79,3 +79,7 @@ test('token quants "a JJ.+? thing"', () => {
 test('token quants "a * thing"', () => {
     expect(toCQL("a * thing")).toBe('[word="a"] [word="_.*"]* [word!="u___"]* [word="_.*"]* [word="thing"]')
 })
+
+test('lemma and pos "l:under.*,NNS', () => {
+    expect(toCQL("l:under.*,NNS")).toBe('[l="under.*" & p="NNS"]')
+})
