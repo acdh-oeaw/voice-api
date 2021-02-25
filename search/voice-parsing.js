@@ -1,4 +1,4 @@
-const { lex, tokenVocabulary } = require("./voice-lexing.js")
+const { lex, tokenVocabulary, VoiceLexingError } = require("./voice-lexing.js")
 const { CstParser } = require("chevrotain")
 
 class VoiceParser extends CstParser {
@@ -21,6 +21,7 @@ class VoiceParser extends CstParser {
             $.OPTION1(() => {
                 $.OR([
                     { ALT: () => $.SUBRULE($.wordAndAttributeValue) },
+                    { ALT: () => $.SUBRULE($.tag) },
                     { ALT: () => $.SUBRULE($.pos) },
                     { ALT: () => $.SUBRULE($.word) },               
                     { ALT: () => $.SUBRULE($.attributeValue) }
@@ -65,16 +66,28 @@ class VoiceParser extends CstParser {
         $.RULE("quants", () => {
             $.CONSUME(v.Quants)
         })
+        $.RULE("tag", () =>{
+            $.CONSUME(v.Tag)
+        })
         this.performSelfAnalysis()
     }
 }
 
 const parserInstance = new VoiceParser()
 
+class VoiceParsingError extends Error {
+    constructor(errors) {
+        super()
+        this.errors = errors
+    }
+}
+
 module.exports = {
     parserInstance: parserInstance,
   
     VoiceParser: VoiceParser,
+    VoiceLexingError: VoiceLexingError,
+    VoiceParsingError: VoiceParsingError,
   
     parse: function (inputText) {
       const lexResult = lex(inputText)
@@ -83,14 +96,11 @@ module.exports = {
       parserInstance.input = lexResult.tokens
   
       // No semantic actions so this won't return anything yet.
-      parserInstance.query()
+      const cst = parserInstance.query()
   
-    //   if (parserInstance.errors.length > 0) {
-    //     throw Error(
-    //       "Sad sad panda, parsing errors detected!\n" +
-    //         parserInstance.errors[0].message
-    //     )
-    //   }
-      return parserInstance
+      if (parserInstance.errors.length > 0) {
+        throw new VoiceParsingError(parserInstance.errors)
+      }
+      return cst
     }
   }

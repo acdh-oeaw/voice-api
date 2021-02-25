@@ -16,8 +16,12 @@ test('wildcard + test houses, household, housewife ... "a house.+"', () => {
     expect(toCQL("a house.+")).toBe('[word="a"] [word="_.*"]* [word="house.+"]')
 })
 
-test('wildcard ? test house, houses "a house.+"', () => {
+test('wildcard ? test house, houses "a house.?"', () => {
     expect(toCQL("a house.?")).toBe('[word="a"] [word="_.*"]* [word="house.?"]')
+})
+
+test('wildcard ? test house, houses ".?? house .??"', () => {
+    expect(toCQL(".?? house .??")).toBe('([word=".?"][word="_.*"]*)? [word="_.*"]* [word="house"] [word="_.*"]* ([word=".?"][word="_.*"]*)?')
 })
 
 test('wildcard first ".+some"', () => {
@@ -89,11 +93,15 @@ test('pause 1 "_1"', () => {
 })
 
 test('token quants "a JJ? thing"', () => {
-    expect(toCQL("a JJ? thing")).toBe('[word="a"] [word="_.*"]* [p="JJ"]? [word="_.*"]* [word="thing"]')
+    expect(toCQL("a JJ? thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "a JJ.+? thing"', () => {
-    expect(toCQL("a JJ.+? thing")).toBe('[word="a"] [word="_.*"]* [p="JJ.+"]? [word="_.*"]* [word="thing"]')
+    expect(toCQL("a JJ.+? thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ.+"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "a JJ.++ thing"', () => {
+    expect(toCQL("a JJ.++ thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ.+"][word="_.*"]*)+ [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "a * thing"', () => {
@@ -102,4 +110,36 @@ test('token quants "a * thing"', () => {
 
 test('lemma and pos "l:under.*,NNS', () => {
     expect(toCQL("l:under.*,NNS")).toBe('[l="under.*" & p="NNS"]')
+})
+
+test('search laughter "_@@"', () => {
+    expect(toCQL("_@@")).toBe('[word="_@@"]')
+})
+
+test('tags alone "<LNger> a.*"', () => {
+    expect(toCQL("<LNger> a.*")).toBe('<LNger> [word="_.*"]* [word="a.*"]')
+})
+
+test('parentheses or within a word "(a|the)"', () => {
+    expect(toCQL("(a|the)")).toBe('[word="(a|the)"]')
+})
+
+test('parentheses or as token alone "( a | the )" (throws error, not implemented yet)', () => {
+    expect(() => { toCQL("( a | the )") }).toThrowError('Redundant input, expecting EOF but found: (')
+})
+
+test('wrong input "$$$"', () => {
+    expect(() => { toCQL("$$$") }).toThrowError('unexpected character: ->$<- at offset: 0, skipped 3 characters.')
+})
+
+test('wrong input "[word="cql"]"', () => {
+    expect(() => { toCQL("[word=\"cql\"]") }).toThrowError('unexpected character: ->=<- at offset: 5, skipped 2 characters.')
+})
+
+test('wrong input "<tag> [word="cql"]"', () => {
+    expect(() => { toCQL("<tag> [word=\"cql\"]") }).toThrowError('unexpected character: ->=<- at offset: 11, skipped 2 characters.')
+})
+
+test('wrong input "<tag> "cql""', () => {
+    expect(() => { toCQL("<tag> \"cql\"") }).toThrowError('unexpected character: ->"<- at offset: 6, skipped 1 characters.')
 })

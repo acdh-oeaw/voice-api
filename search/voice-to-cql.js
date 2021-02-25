@@ -1,5 +1,4 @@
-const { lex } = require("./voice-lexing.js")
-const { parserInstance } = require("./voice-parsing.js")
+const { parse, parserInstance, VoiceLexingError, VoiceParsingError } = require("./voice-parsing.js")
 
 const BaseVoiceVisitor = parserInstance.getBaseCstVisitorConstructor()
 
@@ -18,10 +17,11 @@ class VoiceToCQL extends BaseVoiceVisitor {
     
     token(ctx) {
         const quant = ctx.quants ? this.visit(ctx.quants) : ''
-        if (ctx.wordAndAttributeValue) { return `[${this.visit(ctx.wordAndAttributeValue)}]${quant}`} 
-        if (ctx.pos) { return `[${this.visit(ctx.pos)}]${quant}`}
-        if (ctx.word) { return `[${this.visit(ctx.word)}]${quant}`}
-        if (ctx.attributeValue) { return `[${this.visit(ctx.attributeValue)}]${quant}`}
+        if (ctx.tag) { return `${this.visit(ctx.tag)}` } 
+        if (ctx.wordAndAttributeValue) { return quant !== '' ? `([${this.visit(ctx.wordAndAttributeValue)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.wordAndAttributeValue)}]`} 
+        if (ctx.pos) { return quant !== '' ? `([${this.visit(ctx.pos)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.pos)}]`}
+        if (ctx.word) { return quant !== '' ? `([${this.visit(ctx.word)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.word)}]`}
+        if (ctx.attributeValue) { return quant !== '' ? `([${this.visit(ctx.attributeValue)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.attributeValue)}]`}
         if (quant !== '') { return `[word!="u___"]${quant}`}
     }
     
@@ -64,26 +64,26 @@ class VoiceToCQL extends BaseVoiceVisitor {
     quants(ctx) {
         return ctx.Quants[0].image
     }
+
+    tag(ctx) {
+        return ctx.Tag[0].image
+    }
 }
 
 const voiceToCQL = new VoiceToCQL()
 
 module.exports = {
     toCQL: function (inputText) {
-        const lexResult = lex(inputText)
-
-        // ".input" is a setter which will reset the parser's internal's state.
-        parserInstance.input = lexResult.tokens
-    
-        // Automatic CST created when parsing
-        const cst = parserInstance.query()
-        
-        if (parserInstance.errors.length > 0) {
-            return cst.errors
-        }
+    try {
+        const cst = parse(inputText)
 
         const CQL = voiceToCQL.visit(cst)
 
         return CQL
+    } catch (error) {
+        if (error instanceof VoiceLexingError) { throw Error(error.errors[0].message) }        
+        if (error instanceof VoiceParsingError) { throw Error(error.errors[0].message) }
+        throw error
+    }
     }
 }

@@ -18,12 +18,13 @@ class search {
     }
     // console.log(req.url, req.query, this);
     // var t1 = performance.now()
+    try {
     var q = (req.query.q || ''),
-        cql = q.match(/^[["<(]/) ? q : toCQL(q),
+        cql = q.match(/^["]/) ? q : this.toCQLifVoice(q),
         queryString = `${cql.replace(/\+/g, '%2B').replace(/&/g, '%26').replace(/ /g, '+')}`,
         backendRequest = `${noske_bonito}/first?corpname=voice&` +
         `queryselector=cqlrow&cql=${queryString}&default_attr=word` +
-    `&attrs=wid&kwicleftctx=0&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000`
+    `&attrs=wid&kwicleftctx=-1&kwicrightctx=0&refs=u.id,doc.id&pagesize=100000`
     console.log(`NoSkE request: ${backendRequest}`)
     this.getJson(backendRequest,
     (json) => {
@@ -36,8 +37,9 @@ class search {
           }
         json.Lines.map((line) => {
           const key = line.Refs.map((ref) => {return ref.split('=')[1]}).join();
-          const val = docsUandIDs[key] || [];        
-          docsUandIDs[key] = val.concat(line.Kwic[0].str.split(' '))
+          const val = docsUandIDs[key] || [];
+          if (!line.Kwic[0]) {line.Kwic = line.Left}  
+          docsUandIDs[key] = line.Kwic[0] ? val.concat(line.Kwic[0].str.split(" ").filter(str => str != "")) : ''
         })
         if (!this.xmlData.loaded) {
           send.error = "not all XML loaded";
@@ -49,11 +51,11 @@ class search {
         for (let uDoc of Object.keys(docsUandIDs)) {
           const uDocVals = uDoc.split(',')
           const docNum = this.xmlData.filesById[uDocVals[1]]
-          const uNum = this.xmlData.files[docNum].uById[uDocVals[0]]
+          const uNum = this.xmlData.files[docNum] ? this.xmlData.files[docNum].uById[uDocVals[0]] : 0
           send.u.push({
             xmlId: uDocVals[1],
             uId: uDocVals[0],
-            xml: send.u.length < 101 && this.xmlData.files[docNum].u[uNum] ? this.xmlData.files[docNum].xml.substr(this.xmlData.files[docNum].u[uNum].start, this.xmlData.files[docNum].u[uNum].len) : null,
+            xml: send.u.length < 101 && this.xmlData.files[docNum] && this.xmlData.files[docNum].u[uNum] ? this.xmlData.files[docNum].xml.substr(this.xmlData.files[docNum].u[uNum].start, this.xmlData.files[docNum].u[uNum].len) : null,
             highlight: docsUandIDs[uDoc]
           })
         }
@@ -64,7 +66,20 @@ class search {
       console.error(`Got error: ${e.message}`);
       send.error = e.message;
       res.status(500).json(send);
-    });
+    });    
+  } catch (e) {
+    console.error(`Got internal error: ${e.message}`);
+    send.error = e.message;
+    res.status(500).json(send);      
+  }
+  }
+  toCQLifVoice(q) {
+    try {
+      return toCQL(q)
+    } catch (e) {
+      if (e.message.match(/unexpected character: ->[=("]<-/)||e.message.match(/found: [(]/)) { return q }
+      throw e
+    }
   }
   getJson(url, cb) {
     const client = noske_bonito.startsWith('https') ? https : http
