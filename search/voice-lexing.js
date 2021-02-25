@@ -5,16 +5,16 @@ const createToken = chevrotain.createToken
 const tokenVocabulary = {}
 
 //regexp-to-ast.js does not support \p{Ll} or \p{Lu} see chevrotain issues 777
-const Word = createToken({ name: "Word", pattern: /((\.([+?*]|\{[0-9,]+\}))|[.([_@0-9a-zäöüß])((\.([+?*]|\{[0-9,]+\})?)|[()[\]\|_@0-9a-zäöüß])*(\.([+?*]|\{[0-9,]+\})?)?/})
-const Pos = createToken({ name: "Pos", pattern: /f?(\.([+?*]|\{[0-9,]+\}))?[.([A-Z]((\.([+?*]|\{[0-9,]+\})?)|[()[\]\|A-Z])*f?((\.([+?*]|\{[0-9,]+\})?)|[()[\]\|A-Z])*(\.([+?*]|\{[0-9,]+\})?)?/})
+const Word = createToken({ name: "Word", pattern: /([([]?([._@0-9a-zäöüß]([+*?]|\{[0-9,]+\})?\|?)+[\])]?)+/})
+const Pos = createToken({ name: "Pos", pattern: /f?([([]?([.A-Z]([+*?]|\{[0-9,]+\})?\|?)+[\])]?)+f?([([]?([.A-Z]([+*?]|\{[0-9,]+\})?\|?)+[\])]?)*/})
 const Tag = createToken({ name: "Tag", pattern: /<[^>]+>/})
-const Space = createToken({ name: "Space", pattern: / +/, longer_alt: Tag})
-const LParen = createToken({ name: "LParen", pattern: /\(/, longer_alt: Word})
-const RParen = createToken({ name: "LParen", pattern: /\)/, longer_alt: Word})
-const Quants = createToken({ name: "Quants", pattern: /([+?*]|\{[0-9,]+\})/, longer_alt: Word})
-const And = createToken({ name: "And", pattern: /,/, longer_alt: Word})
-const Or = createToken({ name: "Or", pattern: /\|/, longer_alt: Word})
-const Attribute = createToken({ name: "Attribute", pattern: /([lpf]|(pf)):/, longer_alt: Word})
+const LParen = createToken({ name: "LParen", pattern: /\( /})
+const RParen = createToken({ name: "RParen", pattern: / \)/})
+const Space = createToken({ name: "Space", pattern: / +/, longer_alt: RParen})
+const Quants = createToken({ name: "Quants", pattern: /([+?*]|\{[0-9,]+\})/})
+const And = createToken({ name: "And", pattern: /,/})
+const Or = createToken({ name: "Or", pattern: /\|/})
+const Attribute = createToken({ name: "Attribute", pattern: /([lpf]|(pf)):/})
 const Within = createToken({ name: "Within", pattern: /within/})
 const Containing = createToken({ name: "Containing", pattern: /containing/})
 

@@ -100,12 +100,12 @@ test('pause 1 "_1"', () => {
     expect(toCQL("_1")).toBe('[word="_1"]')
 })
 
-test('token quants "a JJ? thing"', () => {
-    expect(toCQL("a JJ? thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
+test('token quants "a (JJ)? thing"', () => {
+    expect(toCQL("a (JJ)? thing")).toBe('[word="a"] [word="_.*"]* ([p="(JJ)"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
 })
 
-test('token quants "a JJ{1,2} thing"', () => {
-    expect(toCQL("a JJ{1,2} thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
+test('token quants "a (JJ){1,2} thing"', () => {
+    expect(toCQL("a (JJ){1,2} thing")).toBe('[word="a"] [word="_.*"]* ([p="(JJ)"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "a JJ.+? thing"', () => {
@@ -114,6 +114,10 @@ test('token quants "a JJ.+? thing"', () => {
 
 test('token quants "a JJ.{0,3}{1,2} thing"', () => {
     expect(toCQL("a JJ.{0,3}{1,2} thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ.{0,3}"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "x{0,3}x"', () => {
+    expect(toCQL("x{0,3}x")).toBe('[word="x{0,3}x"]')
 })
 
 test('token quants "a JJ.++ thing"', () => {
