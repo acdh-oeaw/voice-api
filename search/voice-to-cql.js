@@ -11,18 +11,28 @@ class VoiceToCQL extends BaseVoiceVisitor {
     query(ctx) {
         var cql = ""
         const $ = this
+        if (ctx.tagContaining) {cql += $.visit(ctx.tagContaining)}
         ctx.token.forEach((token, idx, tokens) => cql += $.visit(token) + (idx === tokens.length - 1 ? "" : ' [word="_.*"]* '))
         return cql
+    }
+
+    tagContaining(ctx) {
+        return this.visit(ctx.tag) + " containing "
     }
     
     token(ctx) {
         const quant = ctx.quants ? this.visit(ctx.quants) : ''
-        if (ctx.tag) { return `${this.visit(ctx.tag)}` } 
+        if (ctx.tag) { return `${this.visit(ctx.tag)}` }
+        if (ctx.withinTag) { return `${this.visit(ctx.withinTag)}` }
         if (ctx.wordAndAttributeValue) { return quant !== '' ? `([${this.visit(ctx.wordAndAttributeValue)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.wordAndAttributeValue)}]`} 
         if (ctx.pos) { return quant !== '' ? `([${this.visit(ctx.pos)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.pos)}]`}
         if (ctx.word) { return quant !== '' ? `([${this.visit(ctx.word)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.word)}]`}
         if (ctx.attributeValue) { return quant !== '' ? `([${this.visit(ctx.attributeValue)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.attributeValue)}]`}
         if (quant !== '') { return `[word!="u___"]${quant}`}
+    }
+
+    withinTag(ctx) {
+        return "within " + this.visit(ctx.tag)
     }
     
     word(ctx) {

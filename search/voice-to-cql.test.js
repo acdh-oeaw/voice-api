@@ -56,8 +56,16 @@ test('"within the p:NN"', () => {
     expect(toCQL("within the p:NN")).toBe('[word="within"] [word="_.*"]* [word="the"] [word="_.*"]* [p="NN"]')
 })
 
+test('"(der|die|das) within <LNger/>"', () => {
+    expect(toCQL("(der|die|das) within <LNger/>")).toBe('[word="(der|die|das)"] [word=\"_.*\"]* within <LNger/>')
+})
+
 test('"containing"', () => {
     expect(toCQL("containing")).toBe('[word="containing"]')
+})
+
+test('"<LNger/> containing (der|die|das)"', () => {
+    expect(toCQL("<LNger/> containing (der|die|das)")).toBe('<LNger/> containing [word="(der|die|das)"]')
 })
 
 test('combine word and attribute "get,p:VVP"', () => {

@@ -9,6 +9,9 @@ class VoiceParser extends CstParser {
               v = tokenVocabulary
 
         $.RULE("query", () => {
+          $.OPTION1(() => {
+              $.SUBRULE($.tagContaining)
+          })
           $.MANY_SEP({
               SEP: v.Space,
               DEF: () => {
@@ -17,17 +20,31 @@ class VoiceParser extends CstParser {
           })
         })
 
+        $.RULE('tagContaining', () =>{
+            $.SUBRULE($.tag)
+            $.CONSUME1(v.Space)
+            $.CONSUME(v.Containing)
+            $.CONSUME2(v.Space)
+        })
+
         $.RULE("token", () => {
             $.OPTION1(() => {
                 $.OR([
                     { ALT: () => $.SUBRULE($.wordAndAttributeValue) },
                     { ALT: () => $.SUBRULE($.tag) },
                     { ALT: () => $.SUBRULE($.pos) },
+                    { GATE: () => $.LA(1).tokenType === v.Within && $.LA(3).tokenType === v.Tag, ALT: () => $.SUBRULE($.withinTag) },
                     { ALT: () => $.SUBRULE($.word) },               
                     { ALT: () => $.SUBRULE($.attributeValue) }
                 ])
             })
             $.OPTION2(() => { $.SUBRULE($.quants) })
+        })
+
+        $.RULE("withinTag", () => {           
+           $.CONSUME(v.Within)
+           $.CONSUME2(v.Space)
+           $.SUBRULE($.tag)
         })
         
         $.RULE("word", () => {
