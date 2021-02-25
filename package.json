@@ -8,6 +8,7 @@
     "npm": "6.14.x"
   },
   "scripts": {
+    "build": "node node_modules/gulp/bin/gulp.js",
     "start": "node app.js",
     "test": "jest",
     "serve": "nodemon --inspect app.js"
@@ -24,6 +25,9 @@
     "sax": "^1.2.4"
   },
   "devDependencies": {
+    "git-describe": "^4.0.4",
+    "gulp": "^4.0.2",
+    "gulp-token-replace": "^1.1.5",
     "jest": "^26.6.3"
   }
 }

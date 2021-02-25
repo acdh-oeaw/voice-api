@@ -18,7 +18,7 @@ var app = express();
 app.use(cors());
 
 app.get('/', function(req, res) {
-  res.send("nix");
+  res.send("{{semverString}}");
 });
 
 app.get('/xml/', function(req, res) {
