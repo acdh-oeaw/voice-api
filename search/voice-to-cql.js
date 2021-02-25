@@ -76,7 +76,7 @@ class VoiceToCQL extends BaseVoiceVisitor {
     }
 
     tag(ctx) {
-        return ctx.Tag[0].image
+        return ctx.Tag[0].image.replace(/@/, 'laughingly')
     }
 }
 

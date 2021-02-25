@@ -60,6 +60,10 @@ test('"(der|die|das) within <LNger/>"', () => {
     expect(toCQL("(der|die|das) within <LNger/>")).toBe('[word="(der|die|das)"] [word=\"_.*\"]* within <LNger/>')
 })
 
+test('"the moment within <@/>"', () => {
+    expect(toCQL("the moment within <@/>")).toBe('[word="the"] [word="_.*"]* [word="moment"] [word="_.*"]* within <laughingly/>')
+})
+
 test('"containing"', () => {
     expect(toCQL("containing")).toBe('[word="containing"]')
 })
