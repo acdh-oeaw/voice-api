@@ -49,7 +49,7 @@ test('pos test "only p:NN"', () => {
 })
 
 test('pos test "only NN"', () => {
-    expect(toCQL("only NN")).toBe('[word="only"] [word="_.*"]* [p="NN"]')
+    expect(toCQL("only NN")).toBe('[word="only"] [word="_.*"]* [pf="NN"]')
 })
 
 test('"within the p:NN"', () => {
@@ -77,7 +77,7 @@ test('combine word and attribute "get,p:VVP"', () => {
 })
 
 test('combine word and attribute "VVP,get"', () => {
-    expect(toCQL("VVP,get")).toBe('[word="get" & p="VVP"]')
+    expect(toCQL("VVP,get")).toBe('[word="get" & pf="VVP"]')
 })
 
 test('combine word and attribute "l:get,p:VVP"', () => {
@@ -85,7 +85,7 @@ test('combine word and attribute "l:get,p:VVP"', () => {
 })
 
 test('combine word and attribute "austrian,N.*"', () => {
-    expect(toCQL("austrian,N.*")).toBe('[word="austrian" & p="N.*"]')
+    expect(toCQL("austrian,N.*")).toBe('[word="austrian" & pf="N.*"]')
 })
 
 test('combine word and attribute "austrian,p:N.*"', () => {
@@ -93,11 +93,11 @@ test('combine word and attribute "austrian,p:N.*"', () => {
 })
 
 test('combine word and attribute "VV,go"', () => {
-    expect(toCQL("VV,go")).toBe('[word="go" & p="VV"]')
+    expect(toCQL("VV,go")).toBe('[word="go" & pf="VV"]')
 })
 
 test('combine word and attribute "VV,l:go"', () => {
-    expect(toCQL("VV,l:go")).toBe('[l="go" & p="VV"]')
+    expect(toCQL("VV,l:go")).toBe('[l="go" & pf="VV"]')
 })
 
 test('pause 1 "_1"', () => {
@@ -105,19 +105,19 @@ test('pause 1 "_1"', () => {
 })
 
 test('token quants "a (JJ)? thing"', () => {
-    expect(toCQL("a (JJ)? thing")).toBe('[word="a"] [word="_.*"]* ([p="(JJ)"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
+    expect(toCQL("a (JJ)? thing")).toBe('[word="a"] [word="_.*"]* ([pf="(JJ)"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "a (JJ){1,2} thing"', () => {
-    expect(toCQL("a (JJ){1,2} thing")).toBe('[word="a"] [word="_.*"]* ([p="(JJ)"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
+    expect(toCQL("a (JJ){1,2} thing")).toBe('[word="a"] [word="_.*"]* ([pf="(JJ)"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "a JJ.+? thing"', () => {
-    expect(toCQL("a JJ.+? thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ.+"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
+    expect(toCQL("a JJ.+? thing")).toBe('[word="a"] [word="_.*"]* ([pf="JJ.+"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "a JJ.{0,3}{1,2} thing"', () => {
-    expect(toCQL("a JJ.{0,3}{1,2} thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ.{0,3}"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
+    expect(toCQL("a JJ.{0,3}{1,2} thing")).toBe('[word="a"] [word="_.*"]* ([pf="JJ.{0,3}"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "x{0,3}x"', () => {
@@ -125,7 +125,7 @@ test('token quants "x{0,3}x"', () => {
 })
 
 test('token quants "a JJ.++ thing"', () => {
-    expect(toCQL("a JJ.++ thing")).toBe('[word="a"] [word="_.*"]* ([p="JJ.+"][word="_.*"]*)+ [word="_.*"]* [word="thing"]')
+    expect(toCQL("a JJ.++ thing")).toBe('[word="a"] [word="_.*"]* ([pf="JJ.+"][word="_.*"]*)+ [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "a * thing"', () => {
@@ -145,7 +145,7 @@ test('token quants "a {2,3} thing"', () => {
 })
 
 test('lemma and pos "l:under.*,NNS', () => {
-    expect(toCQL("l:under.*,NNS")).toBe('[l="under.*" & p="NNS"]')
+    expect(toCQL("l:under.*,NNS")).toBe('[l="under.*" & pf="NNS"]')
 })
 
 test('search laughter "_@@"', () => {

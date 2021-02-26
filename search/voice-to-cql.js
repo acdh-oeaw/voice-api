@@ -74,7 +74,7 @@ class VoiceToCQL extends BaseVoiceVisitor {
 
     pos(ctx) {
         const pos = ctx.Pos ? ctx.Pos[0].image : ""
-        return `p="${pos}"`
+        return `pf="${pos}"`
     }
 
     quants(ctx) {
