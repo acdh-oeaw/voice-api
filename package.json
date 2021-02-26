@@ -1,6 +1,6 @@
 {
   "name": "voice-clariah-node-api",
-  "version": "0.5.0",
+  "version": "0.5.0-voice-search-to-cqp.1",
   "description": "",
   "main": "app.js",
   "engines": {
