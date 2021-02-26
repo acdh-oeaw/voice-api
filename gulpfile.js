@@ -8,7 +8,7 @@ function defaultTask(cb) {
     gitInfo.semverString = gitInfo.semverString || gitInfo.raw
     logger.info(gitInfo.semverString)
     logger.warn("Replaces placeholders in place. Do not git that.")
-    src(['app.js', 'package.json'])
+    src(['app.js'])
     .pipe(replace({global:gitInfo}))
     .pipe(dest('./'))
     cb();
