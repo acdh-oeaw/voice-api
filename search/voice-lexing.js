@@ -5,13 +5,13 @@ const createToken = chevrotain.createToken
 const tokenVocabulary = {}
 
 //regexp-to-ast.js does not support \p{Ll} or \p{Lu} see chevrotain issues 777
-const Word = createToken({ name: "Word", pattern: /([([]?([._@0-9a-zäöüß]([+*?]|\{[0-9,]+\})?\|?)+[\])]?)+/})
-const Pos = createToken({ name: "Pos", pattern: /f?([([]?([.A-Z]([+*?]|\{[0-9,]+\})?\|?)+[\])]?)+f?([([]?([.A-Z]([+*?]|\{[0-9,]+\})?\|?)+[\])]?)*/})
+const Word = createToken({ name: "Word", pattern: /([([]?([._@0-9a-zäöüß]([+*?]|\{[0-9],?([0-9]+)?\})?\|?)+[\])]?)+/})
+const Pos = createToken({ name: "Pos", pattern: /f?([([]?([.A-Z]([+*?]|\{[0-9],?([0-9]+)?\})?\|?)+[\])]?)+f?([([]?([.A-Z]([+*?]|\{[0-9],?([0-9]+)?})?\|?)+[\])]?)*/})
 const Tag = createToken({ name: "Tag", pattern: /<[^>]+>/})
 const LParen = createToken({ name: "LParen", pattern: /\( /})
 const RParen = createToken({ name: "RParen", pattern: / \)/})
 const Space = createToken({ name: "Space", pattern: / +/, longer_alt: RParen})
-const Quants = createToken({ name: "Quants", pattern: /([+?*]|\{[0-9,]+\})/})
+const Quants = createToken({ name: "Quants", pattern: /([+?*]|\{[0-9]+,[0-9]+\})/})
 const And = createToken({ name: "And", pattern: /,/})
 const Or = createToken({ name: "Or", pattern: /\|/})
 const Attribute = createToken({ name: "Attribute", pattern: /([lpf]|(pf)):/})

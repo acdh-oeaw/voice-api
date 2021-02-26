@@ -129,7 +129,19 @@ test('token quants "a JJ.++ thing"', () => {
 })
 
 test('token quants "a * thing"', () => {
-    expect(toCQL("a * thing")).toBe('[word="a"] [word="_.*"]* [word!="u___"]* [word="_.*"]* [word="thing"]')
+    expect(toCQL("a * thing")).toBe('[word="a"] [word="_.*"]* [word=".*"]? [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "a ? thing"', () => {
+    expect(toCQL("a ? thing")).toBe('[word="a"] [word="_.*"]* [word=".?"]? [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "a + thing"', () => {
+    expect(toCQL("a + thing")).toBe('[word="a"] [word="_.*"]* [word=".+"] [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "a {2,3} thing"', () => {
+    expect(toCQL("a {2,3} thing")).toBe('[word="a"] [word="_.*"]* ([word=".*"][word="_.*"]*){2,3} [word="_.*"]* [word="thing"]')
 })
 
 test('lemma and pos "l:under.*,NNS', () => {
@@ -154,6 +166,11 @@ test('parentheses or as token alone "( a | the )" (throws error, not implemented
 
 test('wrong input "$$$"', () => {
     expect(() => { toCQL("$$$") }).toThrowError('unexpected character: ->$<- at offset: 0, skipped 3 characters.')
+})
+
+
+test('wrong input "a {2} thing"', () => {
+    expect(() => { toCQL("a {2} thing") }).toThrowError('unexpected character: ->{<- at offset: 2, skipped 1 characters.')
 })
 
 test('wrong input "[word="cql"]"', () => {

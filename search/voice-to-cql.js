@@ -28,7 +28,13 @@ class VoiceToCQL extends BaseVoiceVisitor {
         if (ctx.pos) { return quant !== '' ? `([${this.visit(ctx.pos)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.pos)}]`}
         if (ctx.word) { return quant !== '' ? `([${this.visit(ctx.word)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.word)}]`}
         if (ctx.attributeValue) { return quant !== '' ? `([${this.visit(ctx.attributeValue)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.attributeValue)}]`}
-        if (quant !== '') { return `[word!="u___"]${quant}`}
+        if (quant !== '') { switch(quant) {
+            case '+': return `[word=".+"]`
+            case '*': return `[word=".*"]?`
+            case '?': return `[word=".?"]?`
+            default: return `([word=".*"][word="_.*"]*)${quant}`
+          }
+        }
     }
 
     withinTag(ctx) {
