@@ -21,11 +21,11 @@ test('wildcard ? test house, houses "a house.?"', () => {
 })
 
 test('wildcard ? test house, houses ".?? house .??"', () => {
-    expect(toCQL(".?? house .??")).toBe('([word=".?"][word="_.*"]*)? [word="_.*"]* [word="house"] [word="_.*"]* ([word=".?"][word="_.*"]*)?')
+    expect(toCQL(".?? house .??")).toBe('([word=".?" & word != "_.*"][word="_.*"]*)? [word="_.*"]* [word="house"] [word="_.*"]* ([word=".?" & word != "_.*"][word="_.*"]*)?')
 })
 
 test('wildcard first ".+some"', () => {
-    expect(toCQL(".+some")).toBe('[word=".+some"]')
+    expect(toCQL(".+some")).toBe('[word=".+some" & word != "_.*"]')
 })
 
 test('wildcard middle "ha.+me"', () => {
@@ -37,7 +37,7 @@ test('wildcard middle single "n.t"', () => {
 })
 
 test('wildcard two letters ".."', () => {
-    expect(toCQL("..")).toBe('[word=".."]')
+    expect(toCQL("..")).toBe('[word=".." & word != "_.*"]')
 })
 
 test('wildcard two letters pos "p:.."', () => {
@@ -153,7 +153,11 @@ test('search laughter "_@@"', () => {
 })
 
 test('tags alone "<LNger> a.*"', () => {
-    expect(toCQL("<LNger> a.*")).toBe('<LNger> [word="_.*"]* [word="a.*"]')
+    expect(toCQL("<LNger> a.*")).toBe('<LNger> [word="_.*"]* [word="a.*" & word != ".*_"]')
+})
+
+test('tags alone "<fast> need to go"',() =>{
+    expect(toCQL("<fast> need to go")).toBe('<fast> [word="_.*"]* [word="need"] [word="_.*"]* [word="to"] [word="_.*"]* [word="go"]')
 })
 
 test('parentheses or within a word "(a|the)"', () => {
@@ -161,7 +165,7 @@ test('parentheses or within a word "(a|the)"', () => {
 })
 
 test('leading space " .* house"', () => {
-    expect(toCQL(" .* house")).toBe('[word=".*"] [word="_.*"]* [word="house"]')
+    expect(toCQL(" .* house")).toBe('[word=".*" & word != "_.*" & word != ".*_"] [word="_.*"]* [word="house"]')
 })
 
 test('leading space " * house"', () => {
@@ -169,7 +173,7 @@ test('leading space " * house"', () => {
 })
 
 test('trailing space ".* house "', () => {
-    expect(toCQL(".* house ")).toBe('[word=".*"] [word="_.*"]* [word="house"]')
+    expect(toCQL(".* house ")).toBe('[word=".*" & word != "_.*" & word != ".*_"] [word="_.*"]* [word="house"]')
 })
 
 test('trailing space " * house"', () => {

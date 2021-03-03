@@ -52,7 +52,9 @@ class VoiceToCQL extends BaseVoiceVisitor {
         const word = ctx.Word ? ctx.Word[0].image :
                      ctx.Within ? ctx.Within[0].image :
                      ctx.Containing ? ctx.Containing[0].image : undefined
-        return `word="${word}"`
+        var exclude_ = (word && word.startsWith('.')) ? ' & word != "_.*"' : ''
+        exclude_ += (word && word.match(/^.{1,2}[+*]$/)) ? ' & word != ".*_"' : ''
+        return `word="${word}"${exclude_}`
     }
 
     attributeValue(ctx) {
