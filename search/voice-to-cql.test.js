@@ -160,6 +160,22 @@ test('parentheses or within a word "(a|the)"', () => {
     expect(toCQL("(a|the)")).toBe('[word="(a|the)"]')
 })
 
+test('leading space " .* house"', () => {
+    expect(toCQL(" .* house")).toBe('[word=".*"] [word="_.*"]* [word="house"]')
+})
+
+test('leading space " * house"', () => {
+    expect(toCQL(" * house")).toBe('[word="[^_]*"]? [word="_.*"]* [word="house"]')
+})
+
+test('trailing space ".* house "', () => {
+    expect(toCQL(".* house ")).toBe('[word=".*"] [word="_.*"]* [word="house"]')
+})
+
+test('trailing space " * house"', () => {
+    expect(toCQL("* house ")).toBe('[word="[^_]*"]? [word="_.*"]* [word="house"]')
+})
+
 test('parentheses or as token alone "( a | the )" (throws error, not implemented yet)', () => {
     expect(() => { toCQL("( a | the )") }).toThrowError('Redundant input, expecting EOF but found: (')
 })
@@ -167,7 +183,6 @@ test('parentheses or as token alone "( a | the )" (throws error, not implemented
 test('wrong input "$$$"', () => {
     expect(() => { toCQL("$$$") }).toThrowError('unexpected character: ->$<- at offset: 0, skipped 3 characters.')
 })
-
 
 test('wrong input "a {2} thing"', () => {
     expect(() => { toCQL("a {2} thing") }).toThrowError('unexpected character: ->{<- at offset: 2, skipped 1 characters.')

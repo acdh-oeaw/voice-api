@@ -12,7 +12,14 @@ class VoiceToCQL extends BaseVoiceVisitor {
         var cql = ""
         const $ = this
         if (ctx.tagContaining) {cql += $.visit(ctx.tagContaining)}
-        ctx.token.forEach((token, idx, tokens) => cql += $.visit(token) + (idx === tokens.length - 1 ? "" : ' [word="_.*"]* '))
+        ctx.token.forEach((token) => {
+            const cqlPart = $.visit(token)
+            if (cqlPart) {cql += cqlPart + ' [word="_.*"]* '}
+        })
+        const lastUnderscoreIgnore = cql.lastIndexOf(' [word="_.*"]* ')        
+        if (lastUnderscoreIgnore >= 0 && lastUnderscoreIgnore + ' [word="_.*"]* '.length >= cql.length) {
+            cql = cql.substring(0, lastUnderscoreIgnore);
+        }
         return cql
     }
 
