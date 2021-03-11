@@ -28,7 +28,8 @@ class search {
     console.log(`NoSkE request: ${backendRequest}`)
     this.getJson(backendRequest,
     (json) => {
-        let docsUandIDs = {}
+        let docsUandIDs = {},
+            docsUHits = {}
         // console.log(json)
         if (!json.Lines) {
             send.NoSkEError = json;
@@ -37,9 +38,20 @@ class search {
           }
         json.Lines.map((line) => {
           const key = line.Refs.map((ref) => {return ref.split('=')[1]}).join();
-          const val = docsUandIDs[key] || [];
-          if (!line.Kwic[0]) {line.Kwic = line.Left}  
-          docsUandIDs[key] = line.Kwic[0] ? val.concat(line.Kwic[0].str.split(" ").filter(str => str != "")) : ''
+          docsUandIDs[key] = docsUandIDs[key] || [];
+          docsUHits[key] = docsUHits[key] || 0;
+          if (!line.Kwic[0]) {line.Kwic = line.Left}
+          const ids = line.Kwic[0].str.split(" ").filter(str => str != "")
+          const found = docsUandIDs[key].findIndex((id) => id === ids[0])
+          // docsUandIDs[key] = docsUandIDs[key].concat(ids)
+          if (line.Kwic[0]) {
+            if (ids[0] === '' || found === -1) {
+              docsUHits[key]++
+              docsUandIDs[key] = docsUandIDs[key].concat(ids)
+            } else if (ids.length > 1) {
+              docsUandIDs[key] = docsUandIDs[key].concat(ids)
+            }
+          }
         })
         if (!this.xmlData.loaded) {
           send.error = "not all XML loaded";
@@ -48,6 +60,7 @@ class search {
           }
         send.u = [];
         // var t2 = performance.now()
+        let hits = 0
         for (let uDoc of Object.keys(docsUandIDs)) {
           const uDocVals = uDoc.split(',')
           const docNum = this.xmlData.filesById[uDocVals[1]]
@@ -56,10 +69,13 @@ class search {
             xmlId: uDocVals[1],
             uId: uDocVals[0],
             xml: send.u.length < 101 && this.xmlData.files[docNum] && this.xmlData.files[docNum].u[uNum] ? this.xmlData.files[docNum].xml.substr(this.xmlData.files[docNum].u[uNum].start, this.xmlData.files[docNum].u[uNum].len) : null,
-            highlight: docsUandIDs[uDoc]
+            highlight:  Array.from(new Set([...docsUandIDs[uDoc]])),
+            hits: docsUHits[uDoc]
           })
+          hits += docsUHits[uDoc]
         }
         send.cql = json.Desc[0].arg
+        send.hits = hits
         // console.log('search - noske:', t2 - t1, 'xml', performance.now() - t2)
         res.json(send);
     }).on('error', (e) => {
