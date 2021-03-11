@@ -100,6 +100,26 @@ test('combine word and attribute "VV,l:go"', () => {
     expect(toCQL("VV,l:go")).toBe('[l="go" & pf="VV"]')
 })
 
+test('one attribute or the other "p:N.* | f:N.*"', () => {
+    expect(toCQL("p:N.* | f:N.*")).toBe('[p="N.*"] | [f="N.*"]')
+})
+
+test('one attribute or the other "p:N.*|f:N.*"', () => {
+    expect(toCQL("p:N.*|f:N.*")).toBe('[p="N.*" | f="N.*"]')
+})
+
+test('one attribute or the other "RE|UH i"', () =>{
+    expect(toCQL("RE|UH i")).toBe('[pf="RE|UH"] [word="_.*"]* [word="i"]')
+})
+
+test('one attribute or the other (precedence!) "RE | UH i"', () =>{
+    expect(toCQL("RE | UH i")).toBe('[pf="RE"] | [pf="UH"] [word="_.*"]* [word="i"]')
+})
+
+test('one word or the other (precedence!) "never | always say"', () => {
+    expect(toCQL("never | always say")).toBe('[word="never"] | [word="always"] [word="_.*"]* [word="say"]')
+})
+
 test('pause 1 "_1"', () => {
     expect(toCQL("_1")).toBe('[word="_1"]')
 })
@@ -180,8 +200,8 @@ test('trailing space " * house"', () => {
     expect(toCQL("* house ")).toBe('[word="[^_]*"]? [word="_.*"]* [word="house"]')
 })
 
-test('parentheses or as token alone "( a | the )" (throws error, not implemented yet)', () => {
-    expect(() => { toCQL("( a | the )") }).toThrowError('Redundant input, expecting EOF but found: (')
+test('parentheses or as token alone "( a | the )"', () => {
+    expect(toCQL("( a | the )")).toBe(' ( [word="a"] | [word="the"] ) ')
 })
 
 test('wrong input "$$$"', () => {

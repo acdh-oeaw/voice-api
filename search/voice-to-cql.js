@@ -14,12 +14,17 @@ class VoiceToCQL extends BaseVoiceVisitor {
         if (ctx.tagContaining) {cql += $.visit(ctx.tagContaining)}
         ctx.token.forEach((token) => {
             const cqlPart = $.visit(token)
-            if (cqlPart) {cql += cqlPart + ' [word="_.*"]* '}
+            if (cqlPart && cqlPart.match(/^[&|()]$/)) {return cql = `${this.removeLastUnderscoreIgnore(cql)} ${cqlPart} `}
+            if (cqlPart) {return cql += cqlPart + ' [word="_.*"]* '}
         })
+        return this.removeLastUnderscoreIgnore(cql)
+    }
+
+    removeLastUnderscoreIgnore(cql) {
         const lastUnderscoreIgnore = cql.lastIndexOf(' [word="_.*"]* ')        
         if (lastUnderscoreIgnore >= 0 && lastUnderscoreIgnore + ' [word="_.*"]* '.length >= cql.length) {
             cql = cql.substring(0, lastUnderscoreIgnore);
-        }
+        }        
         return cql
     }
 
@@ -35,6 +40,10 @@ class VoiceToCQL extends BaseVoiceVisitor {
         if (ctx.pos) { return quant !== '' ? `([${this.visit(ctx.pos)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.pos)}]`}
         if (ctx.word) { return quant !== '' ? `([${this.visit(ctx.word)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.word)}]`}
         if (ctx.attributeValue) { return quant !== '' ? `([${this.visit(ctx.attributeValue)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.attributeValue)}]`}
+        if (ctx.and) { return this.visit(ctx.and) }
+        if (ctx.or_) { return this.visit(ctx.or_) }
+        if (ctx.lparen) { return this.visit(ctx.lparen) }
+        if (ctx.rparen) { return this.visit(ctx.rparen) }
         if (quant !== '') { switch(quant) {
             case '+': return `[word="[^_]+"]`
             case '*': return `[word="[^_]*"]?`
@@ -68,13 +77,15 @@ class VoiceToCQL extends BaseVoiceVisitor {
         const lhs = ctx.word ? {type: ctx.word.length === 2 ? 'word1' : 'word', v: this.visit(ctx.word)} :
                     ctx.attributeValue ? {type: ctx.attributeValue.length === 2 ? 'attributeValue1' : 'attributeValue', v: this.visit(ctx.attributeValue)} :
                     ctx.pos ? {type: ctx.pos.length === 2 ? 'pos1' : 'pos', v: this.visit(ctx.pos)} : undefined
+        const op = ctx.and ? this.visit(ctx.and) :
+                   ctx.or_ ? this.visit(ctx.or_) : undefined
         const rhs = ctx.attributeValue && lhs.type === 'attributeValue1' ? this.visit(ctx.attributeValue[1]) :
                     ctx.attributeValue && lhs.type !== 'attributeValue' ? this.visit(ctx.attributeValue) :
                     ctx.pos && lhs.type === 'pos1' ? this.visit(ctx.pos[1]) :
                     ctx.pos && lhs.type !== 'pos' ? this.visit(ctx.pos) :
                     ctx.word && lhs.type === 'word1' ? this.visit(ctx.word[1]) :
                     ctx.word && lhs.type !== 'word' ? this.visit(ctx.word) : undefined
-        return `${lhs.v} & ${rhs}`
+        return `${lhs.v} ${op} ${rhs}`
     }
 
     attribute(ctx) {
@@ -92,6 +103,22 @@ class VoiceToCQL extends BaseVoiceVisitor {
 
     tag(ctx) {
         return ctx.Tag[0].image.replace(/@/, 'laughingly')
+    }
+
+    and(ctx) {
+        return '&'
+    }
+
+    or_(ctx) {
+        return '|'
+    }
+
+    lparen(ctx) {
+        return '('
+    }
+
+    rparen(ctx) {
+        return ')'
     }
 }
 

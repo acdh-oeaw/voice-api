@@ -35,7 +35,11 @@ class VoiceParser extends CstParser {
                     { ALT: () => $.SUBRULE($.pos) },
                     { GATE: () => $.LA(1).tokenType === v.Within && $.LA(3).tokenType === v.Tag, ALT: () => $.SUBRULE($.withinTag) },
                     { ALT: () => $.SUBRULE($.word) },               
-                    { ALT: () => $.SUBRULE($.attributeValue) }
+                    { ALT: () => $.SUBRULE($.attributeValue) },
+                    { ALT: () => $.SUBRULE2($.and) },
+                    { ALT: () => $.SUBRULE2($.or_) },
+                    { ALT: () => $.SUBRULE2($.lparen) },
+                    { ALT: () => $.SUBRULE2($.rparen) }
                 ])
             })
             $.OPTION2(() => { $.SUBRULE($.quants) })
@@ -67,11 +71,14 @@ class VoiceParser extends CstParser {
                 { ALT: () => $.SUBRULE1($.word) },
                 { ALT: () => $.SUBRULE1($.attributeValue) }
             ])
-            $.CONSUME(v.And)
             $.OR2([
-                { ALT: () => $.SUBRULE2($.pos) },
-                { ALT: () => $.SUBRULE2($.word) },
-                { ALT: () => $.SUBRULE2($.attributeValue) }
+                { ALT: () => $.SUBRULE2($.and) },
+                { ALT: () => $.SUBRULE2($.or_) }
+            ])
+            $.OR3([
+                { ALT: () => $.SUBRULE3($.pos) },
+                { ALT: () => $.SUBRULE3($.word) },
+                { ALT: () => $.SUBRULE3($.attributeValue) }
             ])
         })
         $.RULE("attribute", () => {
@@ -85,6 +92,18 @@ class VoiceParser extends CstParser {
         })
         $.RULE("tag", () =>{
             $.CONSUME(v.Tag)
+        })
+        $.RULE("and", () =>{
+            $.CONSUME(v.And)
+        })
+        $.RULE("or_", () =>{
+            $.CONSUME(v.Or)
+        })
+        $.RULE("lparen", () =>{
+            $.CONSUME(v.LParen)
+        })
+        $.RULE("rparen", () =>{
+            $.CONSUME(v.RParen)
         })
         this.performSelfAnalysis()
     }
