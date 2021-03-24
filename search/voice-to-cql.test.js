@@ -208,6 +208,10 @@ test('trailing space " * house"', () => {
     expect(toCQL("* house ")).toBe('[word="[^_]*"]? [word="_.*"]* [word="house"]')
 })
 
+test('trailing space " * \'.*"', () => {
+    expect(toCQL("* \'.*")).toBe('[word="[^_]*"]? [word="_.*"]* [word="\'.*" & word != ".*_"]')
+})
+
 test('parentheses or as token alone "( a | the )"', () => {
     expect(toCQL("( a | the )")).toBe(' ( [word="a"] | [word="the"] ) ')
 })
