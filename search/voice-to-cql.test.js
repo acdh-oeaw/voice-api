@@ -108,6 +108,14 @@ test('one attribute or the other "p:N.*|f:N.*"', () => {
     expect(toCQL("p:N.*|f:N.*")).toBe('[p="N.*" | f="N.*"]')
 })
 
+test('one attribute or the other "l:man|l:house"', () => {
+    expect(toCQL("l:man|l:house")).toBe('[l="man" | l="house"]')
+})
+
+test('one attribute or the other "l:man|pf:NN"', () => {
+    expect(toCQL("l:man|pf:NN")).toBe('[l="man" | pf="NN"]')
+})
+
 test('one attribute or the other "RE|UH i"', () =>{
     expect(toCQL("RE|UH i")).toBe('[pf="RE|UH"] [word="_.*"]* [word="i"]')
 })
