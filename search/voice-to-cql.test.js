@@ -184,6 +184,10 @@ test('search laughter "_@@"', () => {
     expect(toCQL("_@@")).toBe('[word="_@@"]')
 })
 
+test('search laughter "_@ _@"', () => {
+    expect(toCQL("_@ _@")).toBe('[word="_@"] [word="_.*" & word!="_@"]* [word="_@"]')
+})
+
 test('tags alone "<LNger> a.*"', () => {
     expect(toCQL("<LNger> a.*")).toBe('<LNger> [word="_.*"]* [word="a.*" & word != ".*_"]')
 })

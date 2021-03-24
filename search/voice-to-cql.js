@@ -6,6 +6,7 @@ class VoiceToCQL extends BaseVoiceVisitor {
     constructor() {
         super()
         this.validateVisitor()
+        this.exceptWordWithUnderscore = ''
       }
 
     query(ctx) {
@@ -13,19 +14,18 @@ class VoiceToCQL extends BaseVoiceVisitor {
         const $ = this
         if (ctx.tagContaining) {cql += $.visit(ctx.tagContaining)}
         ctx.token.forEach((token) => {
-            const cqlPart = $.visit(token)
+            const cqlPart = $.visit(token),
+                  exceptWordWithUnderscore = this.exceptWordWithUnderscore
+            this.exceptWordWithUnderscore = ''
             if (cqlPart && cqlPart.match(/^[&|()]$/)) {return cql = `${this.removeLastUnderscoreIgnore(cql)} ${cqlPart} `}
-            if (cqlPart) {return cql += cqlPart + ' [word="_.*"]* '}
+            if (cqlPart) {return cql += cqlPart + ` [word="_.*"${exceptWordWithUnderscore}]* `}
         })
         return this.removeLastUnderscoreIgnore(cql)
     }
 
     removeLastUnderscoreIgnore(cql) {
-        const lastUnderscoreIgnore = cql.lastIndexOf(' [word="_.*"]* ')        
-        if (lastUnderscoreIgnore >= 0 && lastUnderscoreIgnore + ' [word="_.*"]* '.length >= cql.length) {
-            cql = cql.substring(0, lastUnderscoreIgnore);
-        }        
-        return cql
+        const ret = cql.replace(/^(.*)( \[word="_\.\*".*\]\* )$/, '$1')       
+        return ret
     }
 
     tagContaining(ctx) {
@@ -63,6 +63,7 @@ class VoiceToCQL extends BaseVoiceVisitor {
                      ctx.Containing ? ctx.Containing[0].image : undefined
         var exclude_ = (word && word.startsWith('.')) ? ' & word != "_.*"' : ''
         exclude_ += (word && word.match(/^.{1,2}[+*]$/)) ? ' & word != ".*_"' : ''
+        this.exceptWordWithUnderscore = word.startsWith('_') ? ` & word!="${word}"`: ''
         return `word="${word}"${exclude_}`
     }
 
