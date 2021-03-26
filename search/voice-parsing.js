@@ -104,6 +104,7 @@ class VoiceParser extends CstParser {
         })
         $.RULE("rparen", () =>{
             $.CONSUME(v.RParen)
+            $.OPTION(() => { $.SUBRULE($.quants) })
         })
         this.performSelfAnalysis()
     }

@@ -148,8 +148,8 @@ test('parentheses quants "a (JJ){1,2} thing"', () => {
     expect(toCQL("a (JJ){1,2} thing")).toBe('[word="a"] [word="_.*"]* [pf="(JJ){1,2}"] [word="_.*"]* [word="thing"]')
 })
 
-test('token quants "a (JJ)?{1,2} thing"', () => {
-    expect(toCQL("a (JJ)?{1,2} thing")).toBe('[word="a"] [word="_.*"]* ([pf="(JJ)?"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
+test('token quants "a ( JJ ){1,2} thing"', () => {
+    expect(toCQL("a ( JJ ){1,2} thing")).toBe('[word="a"] [word="_.*"]* ( [pf="JJ"] [word="_.*"]* ){1,2} [word="thing"]')
 })
 
 test('token quants "a JJ.+? thing"', () => {
@@ -233,7 +233,7 @@ test('trailing space " * \'.*"', () => {
 })
 
 test('parentheses or as token alone "( a | the )"', () => {
-    expect(toCQL("( a | the )")).toBe(' ( [word="a"] | [word="the"] ) ')
+    expect(toCQL("( a | the )")).toBe('( [word="a"] | [word="the"] ) ')
 })
 
 test('wrong input "$$$"', () => {

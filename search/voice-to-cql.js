@@ -17,7 +17,8 @@ class VoiceToCQL extends BaseVoiceVisitor {
             const cqlPart = $.visit(token),
                   exceptWordWithUnderscore = this.exceptWordWithUnderscore
             this.exceptWordWithUnderscore = ''
-            if (cqlPart && cqlPart.match(/^[&|()]$/)) {return cql = `${this.removeLastUnderscoreIgnore(cql)} ${cqlPart} `}
+            if (cqlPart && cqlPart.match(/^[&|)]$/)) {return cql = `${this.removeLastUnderscoreIgnore(cql)} ${cqlPart} `}
+            if (cqlPart && cqlPart.match(/^(\(|\).+)$/)) {return cql += `${cqlPart} `}
             if (cqlPart) {return cql += cqlPart + ` [word="_.*"${exceptWordWithUnderscore}]* `}
         })
         return this.removeLastUnderscoreIgnore(cql)
@@ -119,7 +120,8 @@ class VoiceToCQL extends BaseVoiceVisitor {
     }
 
     rparen(ctx) {
-        return ')'
+        const quant = ctx.quants ? this.visit(ctx.quants) : ''           
+        return `)${quant}`
     }
 }
 
