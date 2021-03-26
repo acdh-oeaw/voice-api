@@ -57,11 +57,11 @@ test('"within the p:NN"', () => {
 })
 
 test('"(der|die|das) within <LNger/>"', () => {
-    expect(toCQL("(der|die|das) within <LNger/>")).toBe('[word="(der|die|das)"] [word=\"_.*\"]* within <LNger/>')
+    expect(toCQL("(der|die|das) within <LNger/>")).toBe('[word="(der|die|das)"] within <LNger/>')
 })
 
 test('"the moment within <@/>"', () => {
-    expect(toCQL("the moment within <@/>")).toBe('[word="the"] [word="_.*"]* [word="moment"] [word="_.*"]* within <laughingly/>')
+    expect(toCQL("the moment within <@/>")).toBe('[word="the"] [word="_.*"]* [word="moment"] within <laughingly/>')
 })
 
 test('"containing"', () => {
@@ -132,12 +132,24 @@ test('pause 1 "_1"', () => {
     expect(toCQL("_1")).toBe('[word="_1"]')
 })
 
-test('token quants "a (JJ)? thing"', () => {
-    expect(toCQL("a (JJ)? thing")).toBe('[word="a"] [word="_.*"]* ([pf="(JJ)"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
+test('parentheses quants "(de|a)?part(ment)?"', () => {
+    expect(toCQL("(de|a)?part(ment)?")).toBe('[word="(de|a)?part(ment)?"]')
 })
 
-test('token quants "a (JJ){1,2} thing"', () => {
-    expect(toCQL("a (JJ){1,2} thing")).toBe('[word="a"] [word="_.*"]* ([pf="(JJ)"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
+test('parentheses quants "a (JJ)? thing"', () => {
+    expect(toCQL("a (JJ)? thing")).toBe('[word="a"] [word="_.*"]* [pf="(JJ)?"] [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "a (JJ)?? thing"', () => {
+    expect(toCQL("a (JJ)?? thing")).toBe('[word="a"] [word="_.*"]* ([pf="(JJ)?"][word="_.*"]*)? [word="_.*"]* [word="thing"]')
+})
+
+test('parentheses quants "a (JJ){1,2} thing"', () => {
+    expect(toCQL("a (JJ){1,2} thing")).toBe('[word="a"] [word="_.*"]* [pf="(JJ){1,2}"] [word="_.*"]* [word="thing"]')
+})
+
+test('token quants "a (JJ)?{1,2} thing"', () => {
+    expect(toCQL("a (JJ)?{1,2} thing")).toBe('[word="a"] [word="_.*"]* ([pf="(JJ)?"][word="_.*"]*){1,2} [word="_.*"]* [word="thing"]')
 })
 
 test('token quants "a JJ.+? thing"', () => {

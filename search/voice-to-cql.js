@@ -24,7 +24,7 @@ class VoiceToCQL extends BaseVoiceVisitor {
     }
 
     removeLastUnderscoreIgnore(cql) {
-        const ret = cql.replace(/^(.*)( \[word="_\.\*".*\]\* )$/, '$1')       
+        const ret = cql.replace(/^(.*?)( \[word="_\.\*"[^\]]*\]\* ??)( within <[^>]+>)?( \[word="_\.\*".*\]\* )?$/, '$1$3')       
         return ret
     }
 
