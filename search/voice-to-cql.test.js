@@ -72,6 +72,18 @@ test('"<LNger/> containing (der|die|das)"', () => {
     expect(toCQL("<LNger/> containing (der|die|das)")).toBe('<LNger/> containing [word="(der|die|das)"]')
 })
 
+test('token containing tag "extremely containing <emph/>"', () => {
+    expect(toCQL("extremely containing <emph/>")).toBe('(([word="extremely"] [word="_.*"]* <emph> [word="_.*"]) | ([word="extremely"] [word="_.*"]* within <emph/>))')
+})
+
+test('token containing tag "RB containing <emph/>"', () => {
+    expect(toCQL("RB containing <emph/>")).toBe('(([pf="RB"] [word="_.*"]* <emph> [word="_.*"]) | ([pf="RB"] [word="_.*"]* within <emph/>))')
+})
+
+test('token containing tag "l:know containing <emph/>"', () => {
+    expect(toCQL("l:know containing <emph/>")).toBe('(([l="know"] [word="_.*"]* <emph> [word="_.*"]) | ([l="know"] [word="_.*"]* within <emph/>))')
+})
+
 test('combine word and attribute "get,p:VVP"', () => {
     expect(toCQL("get,p:VVP")).toBe('[word="get" & p="VVP"]')
 })

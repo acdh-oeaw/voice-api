@@ -30,10 +30,11 @@ class VoiceParser extends CstParser {
         $.RULE("token", () => {
             $.OPTION1(() => {
                 $.OR([
-                    { ALT: () => $.SUBRULE($.wordAndAttributeValue) },
                     { ALT: () => $.SUBRULE($.tag) },
-                    { ALT: () => $.SUBRULE($.pos) },
                     { GATE: () => $.LA(1).tokenType === v.Within && $.LA(3).tokenType === v.Tag, ALT: () => $.SUBRULE($.withinTag) },
+                    { GATE: isContainingTag, ALT: () => $.SUBRULE($.containingTag) },
+                    { ALT: () => $.SUBRULE($.wordAndAttributeValue) },
+                    { ALT: () => $.SUBRULE($.pos) },
                     { ALT: () => $.SUBRULE($.word) },               
                     { ALT: () => $.SUBRULE($.attributeValue) },
                     { ALT: () => $.SUBRULE2($.and) },
@@ -45,10 +46,27 @@ class VoiceParser extends CstParser {
             $.OPTION2(() => { $.SUBRULE($.quants) })
         })
 
+        function isContainingTag() {
+            return (($.LA(1).tokenType === v.Word || $.LA(1).tokenType === v.Pos) && $.LA(3).tokenType === v.Containing && $.LA(5).tokenType === v.Tag)||
+                   ($.LA(1).tokenType === v.Attribute && ($.LA(2).tokenType === v.Word || $.LA(2).tokenType === v.Pos) && $.LA(4).tokenType === v.Containing && $.LA(6).tokenType === v.Tag)
+        }
+
         $.RULE("withinTag", () => {           
            $.CONSUME(v.Within)
            $.CONSUME2(v.Space)
            $.SUBRULE($.tag)
+        })
+
+        $.RULE("containingTag", () => {
+            $.OR([
+                { ALT: () => $.SUBRULE($.attributeValue) },
+                { ALT: () => $.SUBRULE($.pos) },
+                { ALT: () => $.SUBRULE($.word) }
+            ])
+            $.CONSUME1(v.Space)
+            $.CONSUME2(v.Containing)
+            $.CONSUME3(v.Space)
+            $.SUBRULE($.tag)
         })
         
         $.RULE("word", () => {

@@ -37,6 +37,7 @@ class VoiceToCQL extends BaseVoiceVisitor {
         const quant = ctx.quants ? this.visit(ctx.quants) : ''
         if (ctx.tag) { return `${this.visit(ctx.tag)}` }
         if (ctx.withinTag) { return `${this.visit(ctx.withinTag)}` }
+        if (ctx.containingTag) { return `${this.visit(ctx.containingTag)}` }
         if (ctx.wordAndAttributeValue) { return quant !== '' ? `([${this.visit(ctx.wordAndAttributeValue)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.wordAndAttributeValue)}]`} 
         if (ctx.pos) { return quant !== '' ? `([${this.visit(ctx.pos)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.pos)}]`}
         if (ctx.word) { return quant !== '' ? `([${this.visit(ctx.word)}][word="_.*"]*)${quant}` : `[${this.visit(ctx.word)}]`}
@@ -56,6 +57,14 @@ class VoiceToCQL extends BaseVoiceVisitor {
 
     withinTag(ctx) {
         return "within " + this.visit(ctx.tag)
+    }
+
+    containingTag(ctx) {
+        const token = ctx.attributeValue ? this.visit(ctx.attributeValue) :
+                      ctx.pos ? this.visit(ctx.pos) :
+                      ctx.word ? this.visit(ctx.word) : undefined
+        const tag = this.visit(ctx.tag).replace('/', '')
+        return `(([${token}] [word="_.*"]* ${tag} [word="_.*"]) | ([${token}] [word="_.*"]* within ${tag.replace('>', '/>')}))`
     }
     
     word(ctx) {
