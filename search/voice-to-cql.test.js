@@ -60,6 +60,14 @@ test('"(der|die|das) within <LNger/>"', () => {
     expect(toCQL("(der|die|das) within <LNger/>")).toBe('[word="(der|die|das)"] within <LNger/>')
 })
 
+test('space in tag "potential within <reading aloud/>"', () => {
+    expect(toCQL("potential within <reading aloud/>")).toBe('[word="potential"] within <reading_aloud/>')
+})
+
+test('space in tag "you containing <c type="lengthening"/>"', () => {
+    expect(toCQL('you containing <c type="lengthening"/>')).toBe('(([word="you"] [word="_.*"]* <c type="lengthening"> [word="_.*"]) | ([word="you"] [word="_.*"]* within <c type="lengthening"/>))')
+})
+
 test('"the moment within <@/>"', () => {
     expect(toCQL("the moment within <@/>")).toBe('[word="the"] [word="_.*"]* [word="moment"] within <laughingly/>')
 })

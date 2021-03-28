@@ -114,6 +114,7 @@ class VoiceToCQL extends BaseVoiceVisitor {
 
     tag(ctx) {
         return ctx.Tag[0].image.replace(/@/, 'laughingly')
+                               .replace(/^(<[^ ]+) (?![^=]+=)(.*)$/, '$1_$2')
     }
 
     and(ctx) {
