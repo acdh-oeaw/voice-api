@@ -41,6 +41,7 @@ class search {
           docsUandIDs[key] = docsUandIDs[key] || [];
           docsUHits[key] = docsUHits[key] || 0;
           if (!line.Kwic[0]) {line.Kwic = line.Left}
+          if (!line.Kwic[0]) {line.Kwic = line.Right}
           const ids = line.Kwic[0].str.split(" ").filter(str => str != "")
           const found = docsUandIDs[key].findIndex((id) => id === ids[0])
           // docsUandIDs[key] = docsUandIDs[key].concat(ids)
