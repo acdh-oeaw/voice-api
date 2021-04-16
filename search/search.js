@@ -36,21 +36,24 @@ class search {
             res.status(500).json(send)            
             return
           }
+        let consecutiveIDs
         json.Lines.map((line) => {
           const key = line.Refs.map((ref) => {return ref.split('=')[1]}).join();
+          consecutiveIDs = consecutiveIDs || []
           docsUandIDs[key] = docsUandIDs[key] || [];
-          docsUHits[key] = docsUHits[key] || 0;
+          docsUHits[key] = docsUHits[key] || [];
           if (!line.Kwic[0]) {line.Kwic = line.Left}
           if (!line.Kwic[0]) {line.Kwic = line.Right}
           const ids = line.Kwic[0].str.split(" ").filter(str => str != "")
           const found = docsUandIDs[key].findIndex((id) => id === ids[0])
-          // docsUandIDs[key] = docsUandIDs[key].concat(ids)
           if (line.Kwic[0]) {
             if (ids[0] === '' || found === -1) {
-              docsUHits[key]++
-              docsUandIDs[key] = docsUandIDs[key].concat(ids)
+              consecutiveIDs = consecutiveIDs.concat(ids)
+              docsUHits[key].push(Array.from(consecutiveIDs))
+              docsUandIDs[key] = docsUandIDs[key].concat(consecutiveIDs)
+              consecutiveIDs = []
             } else if (ids.length > 1) {
-              docsUandIDs[key] = docsUandIDs[key].concat(ids)
+              consecutiveIDs = consecutiveIDs.concat(ids)
             }
           }
         })
@@ -61,7 +64,7 @@ class search {
           }
         send.u = [];
         // var t2 = performance.now()
-        let hits = 0
+        let hits = []
         for (let uDoc of Object.keys(docsUandIDs)) {
           const uDocVals = uDoc.split(',')
           const docNum = this.xmlData.filesById[uDocVals[1]]
@@ -73,7 +76,7 @@ class search {
             highlight:  Array.from(new Set([...docsUandIDs[uDoc]])),
             hits: docsUHits[uDoc]
           })
-          hits += docsUHits[uDoc]
+          hits = hits.concat(Array.from(new Set([...docsUandIDs[uDoc]])))
         }
         send.cql = json.Desc[0].arg
         send.hits = hits
