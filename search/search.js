@@ -52,8 +52,11 @@ class search {
               docsUHits[key].push(Array.from(consecutiveIDs))
               docsUandIDs[key] = docsUandIDs[key].concat(consecutiveIDs)
               consecutiveIDs = []
-            } else if (ids.length > 1) {
-              consecutiveIDs = consecutiveIDs.concat(ids)
+            } else {
+              const newIds = ids.filter(id => docsUandIDs[key].indexOf(id) === -1)
+              if (newIds.length > 1) {
+                consecutiveIDs = consecutiveIDs.concat(newIds)
+              }
             }
           }
         })
