@@ -1,1027 +1,967 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:voice="http://www.univie.ac.at/voice/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" version="5" xml:id="PBsve430" xml:lang="eng">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>service encounter about visa application for family members</title>
-        <principal>Prof. Barbara Seidlhofer</principal>
-        <editor/>
-        <funder>VOICE is funded by FWF, the Austrian Science Fund (Project No. L448)</funder>
-        <sponsor/>
-        <respStmt>
-          <resp>Researchers</resp>
-          <name xml:id="AB">Angelika Breiteneder</name>
-          <name xml:id="TK">Theresa Klimpfinger</name>
-          <name xml:id="SM">Stefan Majewski</name>
-          <name xml:id="MLP">Marie-Luise Pitzl</name>
-        </respStmt>
-      </titleStmt>
-      <editionStmt>
-        <edition>Version 2.0 XML,<date>January 2013</date>
-        </edition>
-        <respStmt>
-          <resp>Researchers</resp>
-          <name>Barbara Seidlhofer</name>
-          <name>Stefan Majewski</name>
-          <name>Ruth Osimk-Teasdale</name>
-          <name>Marie-Luise Pitzl</name>
-          <name>Michael Radeka</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Barbara Seidlhofer, Stefan Majewski, Ruth Osimk-Teasdale,		Marie-Luise Pitzl, Michael Radeka</publisher>
-        <distributor>VOICE Project, University of Vienna, Austria</distributor>
-        <address>
-          <addrLine>Spitalgasse 2, AAKH Hof 8</addrLine>
-          <addrLine>1090 Vienna</addrLine>
-          <addrLine>Austria</addrLine>
-          <addrLine>Telephone: +43 1 427742446</addrLine>
-          <addrLine>Email: voice@univie.ac.at</addrLine>
-          <addrLine>Website: http://www.univie.ac.at/voice</addrLine>
-        </address>
-        <availability status="free">
-          <p>The Vienna-Oxford International Corpus of English (VOICE)		  was created by Barbara Seidlhofer (project director) and		  Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		  Marie-Luise Pitzl (project researchers). Minor revisions were gathered		  by Ruth Osimk-Teasdale and Michael Radeka and corrections were made by 		  Ruth Osimk-Teasdale. VOICE 2.0 XML is available for download at the VOICE 		  Project's website<ref target="http://www.univie.ac.at/voice/">http://www.univie.ac.at/voice/</ref>under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License (<ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</ref>). The		  original audio files are held at the Department of English,		  University of Vienna. 23 selected audio files are available		  as audio streams in the VOICE Online interface at the VOICE		  Project's website<ref target="http://www.univie.ac.at/voice">http://www.univie.ac.at/voice</ref>.</p>
-          <p>The recommended citation for VOICE 2.0 XML is:</p>
-          <p>
-            <bibl>
-              <title>VOICE</title>.<date>2013</date>.<title level="m">The Vienna-Oxford International Corpus of		English</title>(<edition>version 2.0		XML</edition>). Director: Barbara Seidlhofer; Researchers:		Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		Ruth Osimk-Teasdale, Marie-Luise Pitzl, Michael Radeka.</bibl>
-          </p>
-          <p>The short citation for VOICE 2.0 XML is:</p>
-          <p>
-            <bibl>
-              <title>VOICE</title>.<date>2013</date>.<title level="m">The Vienna-Oxford International Corpus of          English</title>(<edition>version 2.0 XML</edition>).</bibl>
-          </p>
-          <p>For further information about availability and copyright		  permissions, please see the README file included in the		  download package. For further enquiries please contact the		  VOICE Project at<ref target="mailto:voice@univie.ac.at">voice@univie.ac.at</ref>.</p>
-        </availability>
-      </publicationStmt>
-      <notesStmt>
-        <note xml:id="PBsve430_wc">Words: 297</note>
-        <note xml:id="PBsve430_tn_0">This service encounter takes place at a university housing office. S2 asks S1 about a confirmation that he needs so that his family can get a visa. S1 prints out the confirmation for S2 and explains that this should be the confirmation he needs.</note>
-      </notesStmt>
-      <sourceDesc>
-        <recordingStmt>
-          <recording dur="PT00H04M53S" type="audio">
-            <date>2005-04-25</date>
-            <equipment>
-              <p>Portable minidisc recorder with electret condenser stereo microphone</p>
-            </equipment>
-            <respStmt>
-              <resp>recording</resp>
-              <name>R16</name>
-            </respStmt>
-          </recording>
-        </recordingStmt>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <classDecl>
-        <taxonomy>
-          <category xml:id="PBsve430_domain">
-            <catDesc>Domain</catDesc>
-            <category sameAs="#ED" xml:id="PBsve430_ED">
-              <catDesc>educational</catDesc>
-            </category>
-            <category sameAs="#LE" xml:id="PBsve430_LE">
-              <catDesc>leisure</catDesc>
-            </category>
-            <category sameAs="#PB" xml:id="PBsve430_PB">
-              <catDesc>professional business</catDesc>
-            </category>
-            <category sameAs="#PO" xml:id="PBsve430_PO">
-              <catDesc>professional organizational</catDesc>
-            </category>
-            <category sameAs="#PR" xml:id="PBsve430_PR">
-              <catDesc>professional research/science</catDesc>
-            </category>
-          </category>
-          <category xml:id="PBsve430_spet">
-            <catDesc>Speech Event Type</catDesc>
-            <category sameAs="#int" xml:id="PBsve430_int">
-              <catDesc>interview</catDesc>
-            </category>
-            <category sameAs="#prc" xml:id="PBsve430_prc">
-              <catDesc>press conference</catDesc>
-            </category>
-            <category sameAs="#sve" xml:id="PBsve430_sve">
-              <catDesc>service encounter</catDesc>
-            </category>
-            <category sameAs="#sed" xml:id="PBsve430_sed">
-              <catDesc>seminar discussion</catDesc>
-            </category>
-            <category sameAs="#wgd" xml:id="PBsve430_wgd">
-              <catDesc>working group discussion</catDesc>
-            </category>
-            <category sameAs="#wsd" xml:id="PBsve430_wsd">
-              <catDesc>workshop discussion</catDesc>
-            </category>
-            <category sameAs="#mtg" xml:id="PBsve430_mtg">
-              <catDesc>meeting</catDesc>
-            </category>
-            <category sameAs="#pan" xml:id="PBsve430_pan">
-              <catDesc>panel</catDesc>
-            </category>
-            <category sameAs="#qas" xml:id="PBsve430_qas">
-              <catDesc>question-answer session</catDesc>
-            </category>
-            <category sameAs="#con" xml:id="PBsve430_con">
-              <catDesc>conversation</catDesc>
-            </category>
-          </category>
-        </taxonomy>
-      </classDecl>
-      <tagsDecl>
-        <namespace name="http://www.tei-c.org/ns/1.0">
-          <tagUsage gi="TEI" occurs="1"/>
-          <tagUsage gi="teiHeader" occurs="1"/>
-          <tagUsage gi="fileDesc" occurs="1"/>
-          <tagUsage gi="titleStmt" occurs="1"/>
-          <tagUsage gi="title" occurs="5"/>
-          <tagUsage gi="principal" occurs="1"/>
-          <tagUsage gi="editor" occurs="1"/>
-          <tagUsage gi="funder" occurs="1"/>
-          <tagUsage gi="sponsor" occurs="1"/>
-          <tagUsage gi="respStmt" occurs="3"/>
-          <tagUsage gi="resp" occurs="3"/>
-          <tagUsage gi="name" occurs="12"/>
-          <tagUsage gi="editionStmt" occurs="1"/>
-          <tagUsage gi="edition" occurs="3"/>
-          <tagUsage gi="date" occurs="4"/>
-          <tagUsage gi="publicationStmt" occurs="1"/>
-          <tagUsage gi="publisher" occurs="1"/>
-          <tagUsage gi="distributor" occurs="1"/>
-          <tagUsage gi="address" occurs="1"/>
-          <tagUsage gi="addrLine" occurs="6"/>
-          <tagUsage gi="availability" occurs="1"/>
-          <tagUsage gi="p" occurs="7"/>
-          <tagUsage gi="ref" occurs="4"/>
-          <tagUsage gi="bibl" occurs="2"/>
-          <tagUsage gi="notesStmt" occurs="1"/>
-          <tagUsage gi="note" occurs="2"/>
-          <tagUsage gi="sourceDesc" occurs="1"/>
-          <tagUsage gi="recordingStmt" occurs="1"/>
-          <tagUsage gi="recording" occurs="1"/>
-          <tagUsage gi="equipment" occurs="1"/>
-          <tagUsage gi="encodingDesc" occurs="1"/>
-          <tagUsage gi="classDecl" occurs="1"/>
-          <tagUsage gi="taxonomy" occurs="1"/>
-          <tagUsage gi="category" occurs="17"/>
-          <tagUsage gi="catDesc" occurs="17"/>
-          <tagUsage gi="tagsDecl" occurs="1"/>
-          <tagUsage gi="namespace" occurs="1"/>
-          <tagUsage gi="tagUsage" occurs="80"/>
-          <tagUsage gi="gi" occurs="3"/>
-          <tagUsage gi="att" occurs="13"/>
-          <tagUsage gi="list" occurs="12"/>
-          <tagUsage gi="label" occurs="22"/>
-          <tagUsage gi="val" occurs="43"/>
-          <tagUsage gi="item" occurs="42"/>
-          <tagUsage gi="profileDesc" occurs="1"/>
-          <tagUsage gi="textClass" occurs="1"/>
-          <tagUsage gi="catRef" occurs="2"/>
-          <tagUsage gi="settingDesc" occurs="1"/>
-          <tagUsage gi="setting" occurs="1"/>
-          <tagUsage gi="locale" occurs="1"/>
-          <tagUsage gi="activity" occurs="1"/>
-          <tagUsage gi="particDesc" occurs="1"/>
-          <tagUsage gi="listPerson" occurs="3"/>
-          <tagUsage gi="personGrp" occurs="2"/>
-          <tagUsage gi="person" occurs="2"/>
-          <tagUsage gi="age" occurs="2"/>
-          <tagUsage gi="sex" occurs="2"/>
-          <tagUsage gi="occupation" occurs="2"/>
-          <tagUsage gi="langKnowledge" occurs="2"/>
-          <tagUsage gi="langKnown" occurs="2"/>
-          <tagUsage gi="relationGrp" occurs="1"/>
-          <tagUsage gi="relation" occurs="2"/>
-          <tagUsage gi="revisionDesc" occurs="1"/>
-          <tagUsage gi="change" occurs="6"/>
-          <tagUsage gi="text" occurs="1"/>
-          <tagUsage gi="body" occurs="1"/>
-          <tagUsage gi="div" occurs="2"/>
-          <tagUsage gi="u" occurs="41">Used to mark a stretch of speech commonly	  	preceded and followed by a pause or by a change of speaker. A<gi>u</gi>is, however, not required to be bounded by a pause	  	or a change of speaker, nor does it represent a turn in a	  	conversation analytic sense. At a minimum, a<gi>u</gi>is	  	some phonetic production or noise made by a given speaker or a	  	group of speakers.</tagUsage>
-          <tagUsage gi="foreign" occurs="3">Used to mark a word or phrase as		belonging to some language other than English. The following		values for the<att>type</att>attribute are used to mark:<list>
-              <label>
-                <val>L1</val>
-              </label>
-              <item>the speaker's first		  language</item>
-              <label>
-                <val>LN</val>
-              </label>
-              <item>a language other than the		  speaker's first language</item>
-              <label>
-                <val>LQ</val>
-              </label>
-              <item>a language where it cannot		  be ascertained whether it is the speaker's first or other		  language.</item>
-            </list>Whenever possible, the<att>voice:translation</att>attribute		provides a rough translation of the non-English speech into		English.</tagUsage>
-          <tagUsage gi="c" occurs="58">Used to mark lengthening of sounds and		intonation (fall, rise). The following<att>type</att>attributes are used to mark:<list>
-              <label>
-                <val>lengthening</val>
-              </label>
-              <item>lengthened		  sounds</item>
-              <label>
-                <val>intonation</val>
-              </label>
-              <item>a significant change in		  intonation, marked with the following<att>function</att>attribute for:<list>
-                  <label>
-                    <val>fall</val>
-                  </label>
-                  <item>falling			intonation</item>
-                  <label>
-                    <val>rise</val>
-                  </label>
-                  <item>rising intonation</item>
-                </list>
-              </item>
-            </list>Intonation may or may not coincide with		syntactic boundaries.</tagUsage>
-          <tagUsage gi="pause" occurs="35">Used to mark a pause either between or		within utterances. Used without<att>dur</att>attribute to		indicate a brief pause up to half a second.</tagUsage>
-          <tagUsage gi="incident" occurs="7">Used to mark contextual information		relevant to the understanding of the interaction or the		interaction as such. The<att>voice:desc</att>attribute		provides a short prose description of the contextual		event.</tagUsage>
-          <tagUsage gi="seg" occurs="20">Used with different<att>type</att>attributes to mark:<list>
-              <label>
-                <att>type</att>
-                <val>overlap</val>
-              </label>
-              <item>overlaps</item>
-              <label>
-                <att>type</att>
-                <val>onomatopoeia</val>
-              </label>
-              <item>onomatopoeic sounds</item>
-              <label>
-                <att>type</att>
-                <val>ipa</val>
-              </label>
-              <item>transcriptions in the international phonetic alphabet</item>
-            </list>
-          </tagUsage>
-          <tagUsage gi="anchor" occurs="6">Used to mark other-continuation,		i.e. whenever a speaker continues another speaker's<gi>u</gi>without a pause. Other-continuation is to be interpreted		temporally and does not relate to form or content of the		speakers' utterances.</tagUsage>
-          <tagUsage gi="unclear" occurs="5">Used to mark speech which cannot be		transcribed with certainty, because it is difficult to hear or		understand for the transcriber.</tagUsage>
-          <tagUsage gi="supplied" occurs="3">Used to mark text supplied by the		transcriber because the original is unintelligible or needed		to be anonymized. The<att>reason</att>attribute is used to		mark:<list>
-              <label>
-                <val>unintelligible</val>
-              </label>
-              <item>unintelligible		  speech</item>
-              <label>
-                <val>anonymization</val>
-              </label>
-              <item>anonymized		  speech</item>
-            </list>
-          </tagUsage>
-          <tagUsage gi="shift" occurs="12">Used to mark the point at which some		paralinguistic feature changes. The following attribute values		are used to mark:<list>
-              <label>
-                <val>voice</val>
-              </label>
-              <item>voice quality<list>
-                  <item>
-                    <val>imitating</val>
-                  </item>
-                  <item>
-                    <val>laugh</val>
-                  </item>
-                  <item>
-                    <val>neutral</val>
-                  </item>
-                  <item>
-                    <val>phone</val>
-                  </item>
-                  <item>
-                    <val>reading</val>
-                  </item>
-                  <item>
-                    <val>reading_aloud</val>
-                  </item>
-                  <item>
-                    <val>sigh</val>
-                  </item>
-                  <item>
-                    <val>singing</val>
-                  </item>
-                  <item>
-                    <val>whisp</val>
-                  </item>
-                  <item>
-                    <val>yawning</val>
-                  </item>
-                </list>
-              </item>
-              <label>
-                <val>tempo</val>
-              </label>
-              <item>speed of utterance<list>
-                  <label>
-                    <val>a</val>
-                  </label>
-                  <item>accelerando</item>
-                  <label>
-                    <val>l</val>
-                  </label>
-                  <item>lento</item>
-                  <label>
-                    <val>neutral</val>
-                  </label>
-                  <item>neutral</item>
-                </list>
-              </item>
-              <label>
-                <val>loud</val>
-              </label>
-              <item>loudness<list>
-                  <item>
-                    <val>f</val>
-                  </item>
-                  <item>
-                    <val>neutral</val>
-                  </item>
-                  <item>
-                    <val>p</val>
-                  </item>
-                </list>
-              </item>
-            </list>
-          </tagUsage>
-          <tagUsage gi="gap" occurs="1">Used to mark points where a short portion of		speech has not been recorded or has been left untranscribed,		whether for editorial reasons, as part of the sampling practice,		or because the material is inaudible or comprises sensitive		content. The following<att>reason</att>attributes are used to		mark:<list>
-              <label>
-                <val>not_recorded</val>
-              </label>
-              <item>Not recorded		  speech</item>
-              <label>
-                <val>not_transcribed</val>
-              </label>
-              <item>Not transcribed		  speech</item>
-            </list>Further information on the reason for a gap is provided within		the<att>voice:desc</att>attribute.</tagUsage>
-          <tagUsage gi="emph" occurs="2">Used to mark speech which is stressed or		emphasized in a way that goes beyond regular nuclear		stress.</tagUsage>
-          <tagUsage gi="vocal" occurs="3">Used to mark laughter and other speaker        noises and non-verbal feedback.<list>
-              <label>
-                <val>speaker_noise</val>
-              </label>
-              <item>
-                <list>
-                  <item>
-                    <val>coughing</val>
-                  </item>
-                  <item>
-                    <val>nods</val>
-                  </item>
-                  <item>
-                    <val>shakes head</val>
-                  </item>
-                  <item>
-                    <val>smacks lips</val>
-                  </item>
-                  <item>
-                    <val>sniffs</val>
-                  </item>
-                  <item>
-                    <val>swallows</val>
-                  </item>
-                  <item>
-                    <val>whistles</val>
-                  </item>
-                </list>
-              </item>
-              <label>
-                <val>wordlike</val>
-              </label>
-              <item>
-                <val>laughing</val>
-              </item>
-            </list>
-          </tagUsage>
-        </namespace>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <textClass>
-        <catRef target="#PBsve430_PB #PBsve430_sve"/>
-        <catRef target="#PB #sve"/>
-      </textClass>
-      <settingDesc>
-        <setting>
-          <name type="country">AT</name>
-          <name type="city">Vienna</name>
-          <locale>housing office at university</locale>
-          <activity>typing on computer, printing out document</activity>
-        </setting>
-      </settingDesc>
-      <particDesc>
-        <listPerson type="main">
-          <listPerson type="groups">
-            <personGrp role="speakers" size="2"/>
-            <personGrp role="interactants" size="2"/>
-          </listPerson>
-          <listPerson type="identified">
-            <person role="participant" sameAs="#P868" xml:id="PBsve430_S2">
-              <age value="2">25-34</age>
-              <sex value="1">male</sex>
-              <occupation>student</occupation>
-              <langKnowledge>
-                <langKnown level="L1" tag="urd-PK"/>
-              </langKnowledge>
-            </person>
-            <person role="participant" sameAs="#P39" xml:id="PBsve430_S1">
-              <age value="1">17-24</age>
-              <sex value="2">female</sex>
-              <occupation>adviser at student accommodation office</occupation>
-              <langKnowledge>
-                <langKnown level="L1" tag="ger-AT"/>
-              </langKnowledge>
-            </person>
-          </listPerson>
-          <relationGrp>
-            <relation mutual="#PBsve430_S1 #PBsve430_S2" name="fairly_symmetrical" type="power"/>
-            <relation mutual="#PBsve430_S1 #PBsve430_S2" name="unacquainted" type="acquaintedness"/>
-          </relationGrp>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-    <revisionDesc>
-      <change when="2009-05-19" who="SM">conversion to XML</change>
-      <change when="2009-05-11" who="TK">finalized for publication</change>
-      <change when="2008-10-25" who="MLP VO">proof-reading</change>
-      <change when="2008-10-24" who="MLP">checking</change>
-      <change when="2006-10-02" who="JL">transcript completion</change>
-      <change when="2005-10-03" who="JL">transcription</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="medium" voice:end="01:06" voice:end_medium_number="1" voice:end_track="01" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1" xml:id="PBsve430_d2e577">
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_1">
-          <foreign type="LN" voice:translation="hello" xml:lang="ger" xml:id="PBsve430_d2e581">
-            <w xml:id="xTok_PBsve430_000007" ana="#FWfFW" lemma="">hallo<c function="fall" type="intonation" xml:id="PBsve430_d2e586"/>
-            </w>
-          </foreign>
-          <pause dur="PT1S" xml:id="PBsve430_d2e587"/>
-          <incident voice:desc="another service encounter can be heard in the background" xml:id="PBsve430_d2e588"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_2">
-          <w xml:id="xTok_PBsve430_000010" ana="#FIfFI" lemma="hello">hello<c function="fall" type="intonation" xml:id="PBsve430_d2e596"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000012" ana="#PPfPP" lemma="i">i<c type="lengthening" xml:id="PBsve430_d2e601"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000014" ana="#VVPfVVP" lemma="want">want</w>
-          <w xml:id="xTok_PBsve430_000016" ana="#TOfTO" lemma="to">to</w>
-          <w xml:id="xTok_PBsve430_000018" ana="#VVfVV" lemma="apply">apply<c type="lengthening" xml:id="PBsve430_d2e615"/>
-          </w>
-          <pause dur="PT1S" xml:id="PBsve430_d2e616"/>
-          <w xml:id="xTok_PBsve430_000020" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PBsve430_000022" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBsve430_000024" ana="#NNSfNNS" lemma="visum">visa</w>
-          <w xml:id="xTok_PBsve430_000026" ana="#INfIN" lemma="of">of</w>
-          <w xml:id="xTok_PBsve430_000028" ana="#PPSfPPS" lemma="i">my</w>
-          <w xml:id="xTok_PBsve430_000030" ana="#NNfNN" lemma="family">family<c function="fall" type="intonation" xml:id="PBsve430_d2e642"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_3">
-          <w xml:id="xTok_PBsve430_000033" ana="#REfRE" lemma="mhm">mhm<c function="rise" type="intonation" xml:id="PBsve430_d2e650"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_4">
-          <w xml:id="xTok_PBsve430_000036" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000038" ana="#VVDfVVD" lemma="go">went</w>
-          <w xml:id="xTok_PBsve430_000040" ana="#INfIN" lemma="to">to<c type="lengthening" xml:id="PBsve430_d2e666"/>
-          </w>
-          <pause xml:id="PBsve430_d2e667"/>
-          <w xml:id="xTok_PBsve430_000042" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBsve430_000044" ana="#NNfNN" lemma="district">district</w>
-          <w xml:id="xTok_PBsve430_000046" ana="#NNfNN" lemma="office">office</w>
-          <w xml:id="xTok_PBsve430_000048" part="I" next="#xTok_PBsve430_000049" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="PBsve430_d2e685"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000049" part="F" prev="#xTok_PBsve430_000048">d</w>
-          <w xml:id="xTok_PBsve430_000051" ana="#PPfPP" lemma="they">they</w>
-          <seg n="1" type="overlap" xml:id="PBsve430_ol_0">
-            <w xml:id="xTok_PBsve430_000054" ana="#VVDfVVD" lemma="tell">told</w>
-            <w xml:id="xTok_PBsve430_000056" ana="#PPfPP" lemma="i">me</w>
-          </seg>
-          <w xml:id="xTok_PBsve430_000059" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PBsve430_000061" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000063" ana="#VVPfVVP" lemma="need">need</w>
-          <w xml:id="xTok_PBsve430_000065" ana="#DTfDT" lemma="a">a</w>
-          <w xml:id="xTok_PBsve430_000067" ana="#NNfNN" lemma="letter">letter</w>
-          <anchor synch="#PBsve430_oc_1" type="other_continuation" xml:id="PBsve430_oc_0"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_5">
-          <seg n="1" synch="#PBsve430_ol_0" type="overlap" xml:id="PBsve430_ol_1">
-            <w xml:id="xTok_PBsve430_000071" ana="#REfRE" lemma="mhm">mhm</w>
-          </seg>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_6">
-          <anchor synch="#PBsve430_oc_0" type="other_continuation" xml:id="PBsve430_oc_1"/>
-          <w xml:id="xTok_PBsve430_000075" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause xml:id="PBsve430_d2e751"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_7">
-          <w xml:id="xTok_PBsve430_000079" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PBsve430_000081" ana="#PPfPP" lemma="i" part="I" next="xTok_PBsve430_000083">i</w>
-          <w xml:id="xTok_PBsve430_000083" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBsve430_000081">'m</w>
-          <w xml:id="xTok_PBsve430_000085" ana="#VVGfVVG" lemma="live">living</w>
-          <w xml:id="xTok_PBsve430_000087" part="I" next="#xTok_PBsve430_000088" ana="#RBfRB" lemma="here">he<c type="lengthening" xml:id="PBsve430_d2e775"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000088" part="F" prev="#xTok_PBsve430_000087">re</w>
-          <w xml:id="xTok_PBsve430_000090" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PBsve430_000092" ana="#VVGfVVG" lemma="pay">paying</w>
-          <w xml:id="xTok_PBsve430_000094" ana="#PPSfPPS" lemma="i">my<c type="lengthening" xml:id="PBsve430_d2e791"/>
-          </w>
-          <pause xml:id="PBsve430_d2e792"/>
-          <seg n="2" type="overlap" xml:id="PBsve430_ol_2">
-            <w xml:id="xTok_PBsve430_000096" ana="#NNfNN" lemma="rent">rent<c function="fall" type="intonation" xml:id="PBsve430_d2e798"/>
-            </w>
-            <w xml:id="xTok_PBsve430_000098" part="I" next="#xTok_PBsve430_000099" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="PBsve430_d2e803"/>
-            </w>
-            <w xml:id="xTok_PBsve430_000099" part="F" prev="#xTok_PBsve430_000098">d</w>
-          </seg>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_8">
-          <seg n="2" synch="#PBsve430_ol_2" type="overlap" xml:id="PBsve430_ol_3">
-            <w xml:id="xTok_PBsve430_000103" ana="#NNfNN" lemma="rent">rent<c function="fall" type="intonation" xml:id="PBsve430_d2e816"/>
-            </w>
-            <w xml:id="xTok_PBsve430_000105" ana="#REfRE" lemma="mhm">mhm</w>
-          </seg>
-          <pause dur="PT1S" xml:id="PBsve430_d2e823"/>
-          <w xml:id="xTok_PBsve430_000108" ana="#MDfMD" lemma="may">may</w>
-          <w xml:id="xTok_PBsve430_000110" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000112" ana="#VHfVH" lemma="have">have</w>
-          <w xml:id="xTok_PBsve430_000114" ana="#DTfDT" lemma="a">a</w>
-          <w xml:id="xTok_PBsve430_000116" ana="#NNfNN" lemma="look">look<c function="rise" type="intonation" xml:id="PBsve430_d2e845"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_9">
-          <w xml:id="xTok_PBsve430_000119" ana="#REfRE" lemma="mhm">mhm</w>
-          <w xml:id="xTok_PBsve430_000121" ana="#UHfUH" lemma="ah">ah</w>
-          <w xml:id="xTok_PBsve430_000123" ana="#XXfXX" lemma="">ya-</w>
-          <w xml:id="xTok_PBsve430_000125" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PBsve430_000127" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PBsve430_000129" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000131" ana="#VVDfVVD" lemma="get">got</w>
-          <w xml:id="xTok_PBsve430_000133" ana="#INfIN" lemma="from">from</w>
-          <pause xml:id="PBsve430_d2e884"/>
-          <unclear xml:id="PBsve430_d2e885">
-            <w xml:id="xTok_PBsve430_000136" ana="#PPfPP" lemma="they">they</w>
-            <w xml:id="xTok_PBsve430_000138" ana="#VHDfVHD" lemma="have">had</w>
-            <w xml:id="xTok_PBsve430_000140" ana="#PPfPP" lemma="it">it</w>
-          </unclear>
-          <incident voice:desc="S2 gives her a paper" xml:id="PBsve430_d2e900"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_10">
-          <w xml:id="xTok_PBsve430_000144" ana="#REfRE" lemma="mhm">mhm</w>
-          <pause dur="PT14S" xml:id="PBsve430_d2e910"/>
-          <incident dur="PT14S" voice:desc="S1 looks at the paper and types on her computer " xml:id="PBsve430_d2e911"/>
-          <w xml:id="xTok_PBsve430_000147" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PBsve430_000149" ana="#NPfNP" lemma="july">july<c function="fall" type="intonation" xml:id="PBsve430_d2e920"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000151" ana="#INfIN" lemma="for">for</w>
-          <supplied reason="anonymization" xml:id="PBsve430_d2e928">
-            <w xml:id="xTok_PBsve430_000154" ana="#NPfNP" lemma="">[place1]</w>
-          </supplied>
-          <pause dur="PT2S" xml:id="PBsve430_d2e935"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_11">
-          <w xml:id="xTok_PBsve430_000158" ana="#INfIN" lemma="for">for<c function="rise" type="intonation" xml:id="PBsve430_d2e943"/>
-          </w>
-          <pause dur="PT1S" xml:id="PBsve430_d2e944"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_12">
-          <shift corresp="#PBsve430_s_2" feature="loud" new="f" xml:id="PBsve430_s_1"/>
-          <w xml:id="xTok_PBsve430_000161" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PBsve430_000163" ana="#PREfPRE" lemma="which">which</w>
-          <w xml:id="xTok_PBsve430_000165" ana="#UHfUH" lemma="er">er</w>
-          <w xml:id="xTok_PBsve430_000167" ana="#NNfNN" lemma="student">student</w>
-          <w xml:id="xTok_PBsve430_000169" ana="#NNfNN" lemma="house">house</w>
-          <w xml:id="xTok_PBsve430_000171" ana="#PPfPP" lemma="you">you</w>
-          <w xml:id="xTok_PBsve430_000173" ana="#VVPfVVP" lemma="need">need</w>
-          <w xml:id="xTok_PBsve430_000175" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBsve430_000177" ana="#NNfNN" lemma="confirmation">confirmation<c function="rise" type="intonation" xml:id="PBsve430_d2e987"/>
-          </w>
-          <shift corresp="#PBsve430_s_1" feature="loud" new="neutral" xml:id="PBsve430_s_2"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_13">
-          <unclear xml:id="PBsve430_d2e992">
-            <w xml:id="xTok_PBsve430_000180" ana="#RBfRB" lemma="here">here</w>
-          </unclear>
-          <w xml:id="xTok_PBsve430_000183" ana="#PPfPP" lemma="i" part="I" next="xTok_PBsve430_000185">i</w>
-          <w xml:id="xTok_PBsve430_000185" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBsve430_000183">'m</w>
-          <w xml:id="xTok_PBsve430_000187" ana="#VVGfVVG" lemma="live">living<c function="fall" type="intonation" xml:id="PBsve430_d2e1011"/>
-          </w>
-          <incident voice:desc="S1 points at the paper" xml:id="PBsve430_d2e1012"/>
-          <pause dur="PT1S" xml:id="PBsve430_d2e1013"/>
-          <incident voice:desc="the other service encounter ends" xml:id="PBsve430_d2e1014"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_14">
-          <w xml:id="xTok_PBsve430_000190" ana="#REfRE" lemma="mhm">mhm</w>
-          <w xml:id="xTok_PBsve430_000192" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PBsve430_000194" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PBsve430_000196" ana="#NNfNN" lemma="family">family</w>
-          <w xml:id="xTok_PBsve430_000198" ana="#NNfNN" lemma="visa">visa<c function="rise" type="intonation" xml:id="PBsve430_d2e1038"/>
-          </w>
-          <pause xml:id="PBsve430_d2e1040"/>
-          <incident voice:desc="another staff member asks S1 a question in German" xml:id="PBsve430_d2e1041"/>
-          <pause dur="PT2S" xml:id="PBsve430_d2e1042"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_15">
-          <w xml:id="xTok_PBsve430_000201" ana="#UHfUH" lemma="erm">erm<c type="lengthening" xml:id="PBsve430_d2e1050"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000203" ana="#REfRE" lemma="yah">yah</w>
-          <w xml:id="xTok_PBsve430_000205" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PBsve430_000207" ana="#NNfNN" lemma="family">family</w>
-          <w xml:id="xTok_PBsve430_000209" ana="#NNSfNNS" lemma="visum">visa</w>
-          <w xml:id="xTok_PBsve430_000211" ana="#CCfCC" lemma="but">but</w>
-          <w xml:id="xTok_PBsve430_000213" part="I" next="#xTok_PBsve430_000214" ana="#PPfPP" lemma="they">the<c type="lengthening" xml:id="PBsve430_d2e1076"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000214" part="F" prev="#xTok_PBsve430_000213">y</w>
-          <w xml:id="xTok_PBsve430_000216" ana="#XXfXX" lemma="">the-</w>
-          <w xml:id="xTok_PBsve430_000218" ana="#PPfPP" lemma="she">she</w>
-          <w xml:id="xTok_PBsve430_000220" ana="#VVDfVVD" lemma="tell">told</w>
-          <w xml:id="xTok_PBsve430_000222" ana="#PPfPP" lemma="i">me</w>
-          <w xml:id="xTok_PBsve430_000224" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PBsve430_000226" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000228" ana="#VVPfVVP" lemma="need">need</w>
-          <w xml:id="xTok_PBsve430_000230" ana="#RBfRB" lemma="only">only<c type="lengthening" xml:id="PBsve430_d2e1113"/>
-          </w>
-          <pause xml:id="PBsve430_d2e1114"/>
-          <w xml:id="xTok_PBsve430_000232" ana="#DTfDT" lemma="that">that</w>
-          <w xml:id="xTok_PBsve430_000234" ana="#NNfNN" lemma="information">information</w>
-          <w xml:id="xTok_PBsve430_000236" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PBsve430_000238" ana="#PPfPP" lemma="i" part="I" next="xTok_PBsve430_000240">i</w>
-          <w xml:id="xTok_PBsve430_000240" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBsve430_000238">'m</w>
-          <w xml:id="xTok_PBsve430_000242" ana="#VVGfVVG" lemma="live">living</w>
-          <w xml:id="xTok_PBsve430_000244" part="I" next="#xTok_PBsve430_000245" ana="#RBfRB" lemma="here">he<c type="lengthening" xml:id="PBsve430_d2e1144"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000245" part="F" prev="#xTok_PBsve430_000244">re</w>
-          <pause xml:id="PBsve430_d2e1149"/>
-          <w xml:id="xTok_PBsve430_000248" part="I" next="#xTok_PBsve430_000249" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="PBsve430_d2e1155"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000249" part="F" prev="#xTok_PBsve430_000248">d</w>
-          <w xml:id="xTok_PBsve430_000251" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000253" ana="#VBPfVBP" lemma="be">am</w>
-          <w xml:id="xTok_PBsve430_000255" ana="#VVGfVVG" lemma="pay">paying</w>
-          <pause xml:id="PBsve430_d2e1172"/>
-          <w xml:id="xTok_PBsve430_000258" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_PBsve430_000260" ana="#RBfRB" lemma="regularly">regularly<c function="fall" type="intonation" xml:id="PBsve430_d2e1182"/>
-          </w>
-          <pause dur="PT1S" xml:id="PBsve430_d2e1183"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_16">
-          <w xml:id="xTok_PBsve430_000263" ana="#PPfDM" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000265" ana="#VVPfDM" lemma="see">see<c function="fall" type="intonation" xml:id="PBsve430_d2e1195"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000267" ana="#BRfBR" lemma="">hh</w>
-          <w xml:id="xTok_PBsve430_000269" ana="#REfRE" lemma="okay">okay</w>
-          <w xml:id="xTok_PBsve430_000271" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000273" ana="#MDfMD" lemma="will">will</w>
-          <w xml:id="xTok_PBsve430_000275" ana="#VVfVV" lemma="print">print</w>
-          <w xml:id="xTok_PBsve430_000277" ana="#PPfPP" lemma="you">you</w>
-          <w xml:id="xTok_PBsve430_000279" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBsve430_d2e1225"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000281" ana="#NNfNN" lemma="confirmation">confirmation</w>
-          <w xml:id="xTok_PBsve430_000283" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PBsve430_000285" ana="#RBfRB" lemma="here">here</w>
-          <w xml:id="xTok_PBsve430_000287" ana="#RBfRB" lemma="first">first<c function="fall" type="intonation" xml:id="PBsve430_d2e1243"/>
-          </w>
-        </u>
-      </div>
-      <gap dur="PT00H02M50S" reason="not_transcribed" voice:desc="non-e; S1 occasionally talks with her colleagues in german, while she writes and prints out the confirmation for S2; her mobile phone rings and has a short telephone conversation in german; then she continues printing the confirmation" xml:id="PBsve430_d2e1248"/>
-      <div type="medium" voice:end="01:53" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:56" voice:start_medium_number="1" voice:start_track="02" xml:id="PBsve430_d2e1251">
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_17">
-          <shift corresp="#PBsve430_s_4" feature="loud" new="p" xml:id="PBsve430_s_3"/>
-          <w xml:id="xTok_PBsve430_000293" ana="#RBfRB" lemma="here">here<c function="fall" type="intonation" xml:id="PBsve430_d2e1260"/>
-          </w>
-          <shift corresp="#PBsve430_s_3" feature="loud" new="neutral" xml:id="PBsve430_s_4"/>
-          <pause xml:id="PBsve430_d2e1262"/>
-          <seg n="3" type="overlap" xml:id="PBsve430_ol_4">
-            <w xml:id="xTok_PBsve430_000295" ana="#PPfPP" lemma="it">it</w>
-            <w xml:id="xTok_PBsve430_000297" ana="#VBZfVBZ" lemma="be">is</w>
-          </seg>
-          <w xml:id="xTok_PBsve430_000300" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBsve430_000302" ana="#JJfJJ" lemma="right">right</w>
-          <w xml:id="xTok_PBsve430_000304" ana="#NNfNN" lemma="form">form</w>
-          <w xml:id="xTok_PBsve430_000306" ana="#CCfCC" lemma="or">or<c function="rise" type="intonation" xml:id="PBsve430_d2e1291"/>
-          </w>
-          <pause dur="PT1S" xml:id="PBsve430_d2e1292"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_18">
-          <shift corresp="#PBsve430_s_6" feature="loud" new="p" xml:id="PBsve430_s_5"/>
-          <seg n="3" synch="#PBsve430_ol_4" type="overlap" xml:id="PBsve430_ol_5">
-            <foreign type="LN" voice:translation="thank you" xml:lang="ger" xml:id="PBsve430_d2e1298">
-              <unclear xml:id="PBsve430_d2e1299">
-                <w xml:id="xTok_PBsve430_000309" ana="#FWfFW" lemma="">danke</w>
-              </unclear>
-            </foreign>
-          </seg>
-          <shift corresp="#PBsve430_s_5" feature="loud" new="neutral" xml:id="PBsve430_s_6"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_19">
-          <w xml:id="xTok_PBsve430_000313" ana="#UHfUH" lemma="erm">erm</w>
-          <w xml:id="xTok_PBsve430_000315" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000317" ana="#VVPfVVP" lemma="need">need</w>
-          <w xml:id="xTok_PBsve430_000319" ana="#TOfTO" lemma="to">to</w>
-          <supplied reason="unintelligible" xml:id="PBsve430_d2e1328">
-            <w xml:id="xTok_PBsve430_000322" ana="#UNIfUNI" lemma="">xx</w>
-          </supplied>
-          <unclear xml:id="PBsve430_d2e1335">
-            <w xml:id="xTok_PBsve430_000325" ana="#INfIN" lemma="for">for</w>
-            <w xml:id="xTok_PBsve430_000327" ana="#PPfPP" lemma="it">it</w>
-          </unclear>
-          <pause xml:id="PBsve430_d2e1347"/>
-          <seg n="4" type="overlap" xml:id="PBsve430_ol_6">
-            <w xml:id="xTok_PBsve430_000330" ana="#JJfJJ" lemma="much">much</w>
-          </seg>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_20">
-          <seg n="4" synch="#PBsve430_ol_6" type="overlap" xml:id="PBsve430_ol_7">
-            <w xml:id="xTok_PBsve430_000334" ana="#PPfPP" lemma="it" part="I" next="xTok_PBsve430_000336">it</w>
-            <w xml:id="xTok_PBsve430_000336" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PBsve430_000334">'s</w>
-            <w xml:id="xTok_PBsve430_000338" ana="#XXfXX" lemma="">only-</w>
-          </seg>
-          <w xml:id="xTok_PBsve430_000341" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_PBsve430_000343" ana="#VVZfVVZ" lemma="confirm">confirms</w>
-          <w xml:id="xTok_PBsve430_000345" ana="#INfIN" lemma="that">that</w>
-          <pause xml:id="PBsve430_d2e1387"/>
-          <seg n="5" type="overlap" xml:id="PBsve430_ol_8">
-            <emph xml:id="PBsve430_d2e1389">
-              <w xml:id="xTok_PBsve430_000348" ana="#PPfPP" lemma="you">you</w>
-            </emph>
-            <pause xml:id="PBsve430_d2e1396"/>
-            <w xml:id="xTok_PBsve430_000351" ana="#VBPfVBP" lemma="be">are</w>
-            <w xml:id="xTok_PBsve430_000353" ana="#VVGfVVG" lemma="live">living</w>
-            <w xml:id="xTok_PBsve430_000355" ana="#INfIN" lemma="in">in</w>
-          </seg>
-          <supplied reason="anonymization" xml:id="PBsve430_d2e1411">
-            <w xml:id="xTok_PBsve430_000358" ana="#NPfNP" lemma="">[place2]</w>
-          </supplied>
-          <pause xml:id="PBsve430_d2e1419"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_21">
-          <seg n="5" synch="#PBsve430_ol_8" type="overlap" xml:id="PBsve430_ol_9">
-            <w xml:id="xTok_PBsve430_000362" ana="#PPfPP" lemma="i" part="I" next="xTok_PBsve430_000364">i</w>
-            <w xml:id="xTok_PBsve430_000364" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBsve430_000362">'m</w>
-            <w xml:id="xTok_PBsve430_000366" ana="#VVGfVVG" lemma="live">living</w>
-            <w xml:id="xTok_PBsve430_000368" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation" xml:id="PBsve430_d2e1440"/>
-            </w>
-          </seg>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_22">
-          <w xml:id="xTok_PBsve430_000371" ana="#INfIN" lemma="from">from</w>
-          <w xml:id="xTok_PBsve430_000373" ana="#NNfNN" lemma="first">first</w>
-          <w xml:id="xTok_PBsve430_000375" ana="#INfIN" lemma="of">of</w>
-          <w xml:id="xTok_PBsve430_000377" ana="#NPfNP" lemma="july">july</w>
-          <pause xml:id="PBsve430_d2e1463"/>
-          <w xml:id="xTok_PBsve430_000380" ana="#INfIN" lemma="until">until</w>
-          <w xml:id="xTok_PBsve430_000382" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBsve430_000384" ana="#NNfNN" lemma="end">end</w>
-          <w xml:id="xTok_PBsve430_000386" ana="#INfIN" lemma="of">of</w>
-          <w xml:id="xTok_PBsve430_000388" ana="#NPfNP" lemma="june">june</w>
-          <w xml:id="xTok_PBsve430_000390" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PBsve430_000392" ana="#NNfNN" lemma="year">year<c function="rise" type="intonation" xml:id="PBsve430_d2e1494"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_23">
-          <w xml:id="xTok_PBsve430_000395" ana="#REfRE" lemma="okay">okay<c type="lengthening" xml:id="PBsve430_d2e1502"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_24">
-          <w xml:id="xTok_PBsve430_000398" part="I" next="#xTok_PBsve430_000399" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="PBsve430_d2e1510"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000399" part="F" prev="#xTok_PBsve430_000398">d</w>
-          <w xml:id="xTok_PBsve430_000401" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBsve430_000403" ana="#JJfJJ" lemma="monthly">monthly</w>
-          <w xml:id="xTok_PBsve430_000405" ana="#NNfNN" lemma="rent">rent</w>
-          <w xml:id="xTok_PBsve430_000407" ana="#VBZfVBZ" lemma="be">is</w>
-          <w xml:id="xTok_PBsve430_000409" ana="#CDfCD" lemma="one">one</w>
-          <w xml:id="xTok_PBsve430_000411" ana="#CDfCD" lemma="hundred">hundred</w>
-          <w xml:id="xTok_PBsve430_000413" ana="#CDfCD" lemma="ninety">ninety<c function="fall" type="intonation" xml:id="PBsve430_d2e1542"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_25">
-          <w xml:id="xTok_PBsve430_000416" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PBsve430_000418" ana="#PPfPP" lemma="i" part="I" next="xTok_PBsve430_000420">i</w>
-          <w xml:id="xTok_PBsve430_000420" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBsve430_000418">'m</w>
-          <w xml:id="xTok_PBsve430_000422" ana="#VVGfVVG" lemma="pay">paying</w>
-          <w xml:id="xTok_PBsve430_000424" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_PBsve430_000426" ana="#RBfRB" lemma="regularly">regularly<c function="fall" type="intonation" xml:id="PBsve430_d2e1571"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_26">
-          <w xml:id="xTok_PBsve430_000429" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation" xml:id="PBsve430_d2e1579"/>
-          </w>
-          <pause xml:id="PBsve430_d2e1580"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_27">
-          <w xml:id="xTok_PBsve430_000432" ana="#PPfPP" lemma="i" part="I" next="xTok_PBsve430_000434">i</w>
-          <w xml:id="xTok_PBsve430_000434" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBsve430_000432">'m</w>
-          <w xml:id="xTok_PBsve430_000436" ana="#VVGfVVG" lemma="pay">paying</w>
-          <w xml:id="xTok_PBsve430_000438" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_PBsve430_000440" ana="#RBfRB" lemma="regularly">regularly<c function="fall" type="intonation" xml:id="PBsve430_d2e1604"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_28">
-          <w xml:id="xTok_PBsve430_000443" ana="#INfIN" lemma="because">because</w>
-          <w xml:id="xTok_PBsve430_000445" ana="#PPfPP" lemma="it" part="I" next="xTok_PBsve430_000447">it</w>
-          <w xml:id="xTok_PBsve430_000447" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PBsve430_000445">'s</w>
-          <w xml:id="xTok_PBsve430_000449" ana="#PPfPP" lemma="it" part="I" next="xTok_PBsve430_000451">it</w>
-          <w xml:id="xTok_PBsve430_000451" ana="#VBSfVBS" lemma="be" part="F" prev="xTok_PBsve430_000449">'s</w>
-          <emph xml:id="PBsve430_d2e1632">
-            <w xml:id="xTok_PBsve430_000454" ana="#JJfJJ" lemma="monthly">monthly</w>
-          </emph>
-          <w xml:id="xTok_PBsve430_000457" ana="#NNfNN" lemma="rent">rent<c function="fall" type="intonation" xml:id="PBsve430_d2e1643"/>
-          </w>
-          <pause xml:id="PBsve430_d2e1644"/>
-          <seg n="6" type="overlap" xml:id="PBsve430_ol_10">
-            <w xml:id="xTok_PBsve430_000459" ana="#DTfDT" lemma="this">this</w>
-          </seg>
-          <w xml:id="xTok_PBsve430_000462" ana="#NNfNN" lemma="form">form</w>
-          <w xml:id="xTok_PBsve430_000464" ana="#VVZfVVZ" lemma="say">says</w>
-          <w xml:id="xTok_PBsve430_000466" ana="#JJfJJ" lemma="monthly">monthly</w>
-          <w xml:id="xTok_PBsve430_000468" ana="#NNfNN" lemma="rent">rent<c function="fall" type="intonation" xml:id="PBsve430_d2e1669"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_29">
-          <seg n="6" synch="#PBsve430_ol_10" type="overlap" xml:id="PBsve430_ol_11">
-            <unclear xml:id="PBsve430_d2e1674">
-              <w xml:id="xTok_PBsve430_000471" ana="#UHfUH" lemma="erm">erm</w>
-            </unclear>
-          </seg>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_30">
-          <w xml:id="xTok_PBsve430_000475" ana="#BRfBR" lemma="">hh</w>
-          <w xml:id="xTok_PBsve430_000477" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e1692"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000479" ana="#CCfCC" lemma="but">but</w>
-          <w xml:id="xTok_PBsve430_000481" ana="#PPfPP" lemma="she">she</w>
-          <w xml:id="xTok_PBsve430_000483" ana="#VBDfVBD" lemma="be">was</w>
-          <w xml:id="xTok_PBsve430_000485" ana="#VVGfVVG" lemma="say">saying</w>
-          <w xml:id="xTok_PBsve430_000487" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PBsve430_000489" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="PBsve430_d2e1718"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000491" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000493" ana="#VVPfVVP" lemma="need">need</w>
-          <w xml:id="xTok_PBsve430_000495" ana="#PPfPP" lemma="it">it<c type="lengthening" xml:id="PBsve430_d2e1732"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000497" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PBsve430_000499" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000501" ana="#VBPfVBP" lemma="be">am</w>
-          <w xml:id="xTok_PBsve430_000503" ana="#VVGfVVG" lemma="pay">paying</w>
-          <w xml:id="xTok_PBsve430_000505" ana="#PPfPP" lemma="it">it</w>
-          <pause dur="PT1S" xml:id="PBsve430_d2e1756"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_31">
-          <w xml:id="xTok_PBsve430_000509" ana="#INfIN" lemma="because">because</w>
-          <w xml:id="xTok_PBsve430_000511" ana="#UHfUH" lemma="erm">erm</w>
-          <w xml:id="xTok_PBsve430_000513" ana="#XXfXX" lemma="">u-</w>
-          <w xml:id="xTok_PBsve430_000515" ana="#UHfUH" lemma="er">er</w>
-          <w xml:id="xTok_PBsve430_000517" ana="#RBfRB" lemma="usually">usually</w>
-          <w xml:id="xTok_PBsve430_000519" ana="#PDTfPDT" lemma="all">all</w>
-          <w xml:id="xTok_PBsve430_000521" ana="#DTfDT" lemma="the">the</w>
-          <w xml:id="xTok_PBsve430_000523" ana="#NNfNN" lemma="scholarship">scholarship</w>
-          <w xml:id="xTok_PBsve430_000525" ana="#NNSfNNS" lemma="holder">holders</w>
-          <w xml:id="xTok_PBsve430_000527" ana="#UHfUH" lemma="erm">erm<c type="lengthening" xml:id="PBsve430_d2e1801"/>
-          </w>
-          <pause xml:id="PBsve430_d2e1802"/>
-          <w xml:id="xTok_PBsve430_000529" ana="#VVPfVVP" lemma="apply">apply</w>
-          <w xml:id="xTok_PBsve430_000531" ana="#INfIN" lemma="for">for</w>
-          <w xml:id="xTok_PBsve430_000533" ana="#DTfDT" lemma="a">a</w>
-          <w xml:id="xTok_PBsve430_000535" ana="#NNfNN" lemma="visa">visa</w>
-          <w xml:id="xTok_PBsve430_000537" ana="#INfIN" lemma="with">with</w>
-          <w xml:id="xTok_PBsve430_000539" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PBsve430_000541" ana="#NNfNN" lemma="confirmation">confirmation<c function="fall" type="intonation" xml:id="PBsve430_d2e1833"/>
-          </w>
-          <pause xml:id="PBsve430_d2e1834"/>
-          <shift corresp="#PBsve430_s_8" feature="tempo" new="a" xml:id="PBsve430_s_7"/>
-          <seg n="6" type="overlap" xml:id="PBsve430_ol_12">
-            <w xml:id="xTok_PBsve430_000543" ana="#DMfDM" lemma="so">so</w>
-            <w xml:id="xTok_PBsve430_000545" ana="#PPfPP" lemma="it">it</w>
-            <w xml:id="xTok_PBsve430_000547" ana="#MDfMD" lemma="shall">should</w>
-            <w xml:id="xTok_PBsve430_000549" ana="#VBfVB" lemma="be">be</w>
-          </seg>
-          <w xml:id="xTok_PBsve430_000552" ana="#JJfJJ" lemma="enough">enough<c function="fall" type="intonation" xml:id="PBsve430_d2e1859"/>
-          </w>
-          <anchor synch="#PBsve430_oc_3" type="other_continuation" xml:id="PBsve430_oc_2"/>
-          <shift corresp="#PBsve430_s_7" feature="tempo" new="neutral" xml:id="PBsve430_s_8"/>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_32">
-          <seg n="6" synch="#PBsve430_ol_12" type="overlap" xml:id="PBsve430_ol_13">
-            <w xml:id="xTok_PBsve430_000555" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e1871"/>
-            </w>
-          </seg>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_33">
-          <anchor synch="#PBsve430_oc_2" type="other_continuation" xml:id="PBsve430_oc_3"/>
-          <w xml:id="xTok_PBsve430_000558" ana="#REfRE" lemma="okay">okay</w>
-          <anchor synch="#PBsve430_oc_5" type="other_continuation" xml:id="PBsve430_oc_4"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_34">
-          <anchor synch="#PBsve430_oc_4" type="other_continuation" xml:id="PBsve430_oc_5"/>
-          <w xml:id="xTok_PBsve430_000562" ana="#RBfRB" lemma="hopefully">hopefully</w>
-          <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="PBsve430_d2e1894"/>
-          <seg n="7" type="overlap" xml:id="PBsve430_ol_14">
-            <vocal type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="PBsve430_d2e1896"/>
-          </seg>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_35">
-          <seg n="7" synch="#PBsve430_ol_14" type="overlap" xml:id="PBsve430_ol_15">
-            <w xml:id="xTok_PBsve430_000566" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e1905"/>
-            </w>
-          </seg>
-          <w xml:id="xTok_PBsve430_000568" ana="#DMfDM" lemma="so">so</w>
-          <w xml:id="xTok_PBsve430_000570" ana="#CCfCC" lemma="but">but</w>
-          <w xml:id="xTok_PBsve430_000572" ana="#INfIN" lemma="if">if</w>
-          <pause xml:id="PBsve430_d2e1920"/>
-          <w xml:id="xTok_PBsve430_000575" ana="#PPfPP" lemma="she">she</w>
-          <w xml:id="xTok_PBsve430_000577" ana="#VfVVZ" lemma="ask">ask</w>
-          <w xml:id="xTok_PBsve430_000579" ana="#NNfNN" lemma="something">something</w>
-          <w xml:id="xTok_PBsve430_000581" ana="#JJfJJ" lemma="new">new</w>
-          <w xml:id="xTok_PBsve430_000583" ana="#RBfRB" lemma="then">then</w>
-          <w xml:id="xTok_PBsve430_000585" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000587" ana="#MDfMD" lemma="will">will</w>
-          <w xml:id="xTok_PBsve430_000589" ana="#RBfRB" lemma="again">again</w>
-          <w xml:id="xTok_PBsve430_000591" ana="#VVfVV" lemma="come">come</w>
-          <seg n="1" type="overlap" xml:id="PBsve430_ol_16">
-            <w xml:id="xTok_PBsve430_000594" ana="#INfIN" lemma="to">to</w>
-            <w xml:id="xTok_PBsve430_000596" ana="#PPfPP" lemma="you">you</w>
-          </seg>
-          <w xml:id="xTok_PBsve430_000599" ana="#DMfDM" lemma="so">so</w>
-          <pause dur="PT1S" xml:id="PBsve430_d2e1978"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_36">
-          <seg n="1" synch="#PBsve430_ol_16" type="overlap" xml:id="PBsve430_ol_17">
-            <w xml:id="xTok_PBsve430_000603" ana="#REfRE" lemma="okay">okay</w>
-            <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="PBsve430_d2e1989"/>
-            <w xml:id="xTok_PBsve430_000606" ana="#DTfDT" lemma="no">no</w>
-            <w xml:id="xTok_PBsve430_000608" ana="#NNfNN" lemma="problem">problem<c function="fall" type="intonation" xml:id="PBsve430_d2e1998"/>
-            </w>
-          </seg>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_37">
-          <w xml:id="xTok_PBsve430_000611" ana="#UHfUH" lemma="erm">erm</w>
-          <w xml:id="xTok_PBsve430_000613" ana="#PPfPP" lemma="she">she<c type="lengthening" xml:id="PBsve430_d2e2010"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000615" ana="#PPfPP" lemma="she">she</w>
-          <w xml:id="xTok_PBsve430_000617" ana="#VVDfVVD" lemma="tell">told</w>
-          <w xml:id="xTok_PBsve430_000619" ana="#PPfPP" lemma="i">me</w>
-          <w xml:id="xTok_PBsve430_000621" ana="#INfIN" lemma="that">that</w>
-          <pause xml:id="PBsve430_d2e2030"/>
-          <w xml:id="xTok_PBsve430_000624" ana="#PPfPP" lemma="i">i</w>
-          <w xml:id="xTok_PBsve430_000626" ana="#VVPfVVP" lemma="need">need</w>
-          <w xml:id="xTok_PBsve430_000628" ana="#NNfNN" lemma="confirmation">confirmation<c function="rise" type="intonation" xml:id="PBsve430_d2e2043"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000630" ana="#INfIN" lemma="that">that</w>
-          <w xml:id="xTok_PBsve430_000632" ana="#PPfPP" lemma="i" part="I" next="xTok_PBsve430_000634">i</w>
-          <w xml:id="xTok_PBsve430_000634" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBsve430_000632">'m</w>
-          <w xml:id="xTok_PBsve430_000636" ana="#VVGfVVG" lemma="live">living</w>
-          <w xml:id="xTok_PBsve430_000638" part="I" next="#xTok_PBsve430_000639" ana="#RBfRB" lemma="here">he<c type="lengthening" xml:id="PBsve430_d2e2065"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000639" part="F" prev="#xTok_PBsve430_000638">re<c function="rise" type="intonation" xml:id="PBsve430_d2e2069"/>
-          </w>
-          <w xml:id="xTok_PBsve430_000641" ana="#INfIN" lemma="that">that</w>
-          <pause xml:id="PBsve430_d2e2076"/>
-          <w xml:id="xTok_PBsve430_000644" ana="#CCfCC" lemma="and">and</w>
-          <w xml:id="xTok_PBsve430_000646" ana="#PPfPP" lemma="i" part="I" next="xTok_PBsve430_000648">i</w>
-          <w xml:id="xTok_PBsve430_000648" ana="#VBPfVBP" lemma="be" part="F" prev="xTok_PBsve430_000646">'m</w>
-          <w xml:id="xTok_PBsve430_000650" ana="#VVGfVVG" lemma="pay">paying</w>
-          <w xml:id="xTok_PBsve430_000652" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_PBsve430_000654" ana="#RBfRB" lemma="regularly">regularly<c function="fall" type="intonation" xml:id="PBsve430_d2e2102"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_38">
-          <w xml:id="xTok_PBsve430_000657" ana="#RBfRB" lemma="usually">usually</w>
-          <w xml:id="xTok_PBsve430_000659" ana="#PPfPP" lemma="it">it</w>
-          <w xml:id="xTok_PBsve430_000661" ana="#MDfMD" lemma="shall">should</w>
-          <w xml:id="xTok_PBsve430_000663" ana="#VBfVB" lemma="be">be</w>
-          <w xml:id="xTok_PBsve430_000665" ana="#DTfDT" lemma="this">this</w>
-          <w xml:id="xTok_PBsve430_000667" ana="#NNfNN" lemma="one">one<c function="fall" type="intonation" xml:id="PBsve430_d2e2131"/>
-          </w>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_39">
-          <w xml:id="xTok_PBsve430_000670" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e2140"/>
-          </w>
-          <seg n="2" type="overlap" xml:id="PBsve430_ol_18">
-            <shift corresp="#PBsve430_s_10" feature="tempo" new="a" xml:id="PBsve430_s_9"/>
-            <w xml:id="xTok_PBsve430_000672" ana="#FIfFI" lemma="thank">thanks</w>
-            <w xml:id="xTok_PBsve430_000674" ana="#RBfRB" lemma="a">a</w>
-            <w xml:id="xTok_PBsve430_000676" ana="#RBfRB" lemma="lot">lot</w>
-            <shift corresp="#PBsve430_s_9" feature="tempo" new="neutral" xml:id="PBsve430_s_10"/>
-            <w xml:id="xTok_PBsve430_000679" ana="#FIfFI" lemma="thank">thanks</w>
-            <w xml:id="xTok_PBsve430_000681" ana="#RBfRB" lemma="a">a</w>
-            <w xml:id="xTok_PBsve430_000683" ana="#RBfRB" lemma="lot">lot</w>
-          </seg>
-          <pause xml:id="PBsve430_d2e2173"/>
-        </u>
-        <u who="#PBsve430_S1" xml:id="PBsve430_u_40">
-          <seg n="2" synch="#PBsve430_ol_18" type="overlap" xml:id="PBsve430_ol_19">
-            <w xml:id="xTok_PBsve430_000687" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e2182"/>
-            </w>
-            <w xml:id="xTok_PBsve430_000689" ana="#FIfFI" lemma="bye-bye">bye-bye<c function="fall" type="intonation" xml:id="PBsve430_d2e2187"/>
-            </w>
-          </seg>
-        </u>
-        <u who="#PBsve430_S2" xml:id="PBsve430_u_41">
-          <shift corresp="#PBsve430_s_12" feature="loud" new="p" xml:id="PBsve430_s_11"/>
-          <w xml:id="xTok_PBsve430_000692" ana="#REfRE" lemma="okay">okay</w>
-          <foreign type="LN" voice:translation="thank you" xml:lang="ger" xml:id="PBsve430_d2e2198">
-            <w xml:id="xTok_PBsve430_000695" ana="#FWfFW" lemma="">danke</w>
-          </foreign>
-          <shift corresp="#PBsve430_s_11" feature="loud" new="neutral" xml:id="PBsve430_s_12"/>
-          <pause dur="PT3S" xml:id="PBsve430_d2e2206"/>
-          <incident voice:desc="S2 leaves" xml:id="PBsve430_d2e2207"/>
-        </u>
-      </div>
-    </body>
-  </text>
+<?xml version="1.0" encoding="US-ASCII"?>
+<?xml-model href="../voice.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:voice="http://www.univie.ac.at/voice/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" version="5" xml:id="PBsve430" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>service encounter about visa application for family members</title>
+                <principal>Prof. Barbara Seidlhofer</principal>
+                <editor/>
+                <funder>VOICE is funded by FWF, the Austrian Science Fund (Project No. L448)</funder>
+                <sponsor/>
+                <respStmt>
+                    <resp>Researchers</resp>
+                    <name xml:id="AB">Angelika Breiteneder</name>
+                    <name xml:id="TK">Theresa Klimpfinger</name>
+                    <name xml:id="SM">Stefan Majewski</name>
+                    <name xml:id="MLP">Marie-Luise Pitzl</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Version 2.0 XML, <date>January 2013</date>
+                </edition>
+                <respStmt>
+                    <resp>Researchers</resp>
+                    <name>Barbara Seidlhofer</name>
+                    <name>Stefan Majewski</name>
+                    <name>Ruth Osimk-Teasdale</name>
+                    <name>Marie-Luise Pitzl</name>
+                    <name>Michael Radeka</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Barbara Seidlhofer, Stefan Majewski, Ruth Osimk-Teasdale,		Marie-Luise Pitzl, Michael Radeka</publisher>
+                <distributor>        VOICE Project, University of Vienna, Austria      </distributor>
+                <address>
+                    <addrLine>Spitalgasse 2, AAKH Hof 8</addrLine>
+                    <addrLine>1090 Vienna</addrLine>
+                    <addrLine>Austria</addrLine>
+                    <addrLine>Telephone: +43 1 427742446</addrLine>
+                    <addrLine>Email: voice@univie.ac.at</addrLine>
+                    <addrLine>Website: http://www.univie.ac.at/voice</addrLine>
+                </address>
+                <availability status="free">
+                    <p>		  The Vienna-Oxford International Corpus of English (VOICE)		  was created by Barbara Seidlhofer (project director) and		  Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		  Marie-Luise Pitzl (project researchers). Minor revisions were gathered		  by Ruth Osimk-Teasdale and Michael Radeka and corrections were made by 		  Ruth Osimk-Teasdale. VOICE 2.0 XML is available for download at the VOICE 		  Project's website <ref target="http://www.univie.ac.at/voice/">http://www.univie.ac.at/voice/</ref>		  under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License (<ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</ref>). The		  original audio files are held at the Department of English,		  University of Vienna. 23 selected audio files are available		  as audio streams in the VOICE Online interface at the VOICE		  Project's website <ref target="http://www.univie.ac.at/voice">http://www.univie.ac.at/voice</ref>.		</p>
+                    <p>          The recommended citation for VOICE 2.0 XML is:		</p>
+                    <p>
+                        <bibl>
+                            <title>VOICE</title>. <date>2013</date>. <title level="m">The Vienna-Oxford International Corpus of		English</title> (<edition>version 2.0		XML</edition>). Director: Barbara Seidlhofer; Researchers:		Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		Ruth Osimk-Teasdale, Marie-Luise Pitzl, Michael Radeka.</bibl>
+                    </p>
+                    <p>The short citation for VOICE 2.0 XML is:		</p>
+                    <p>
+                        <bibl>
+                            <title>VOICE</title>. <date>2013</date>. <title level="m">The Vienna-Oxford International Corpus of          English</title> (<edition>version 2.0 XML</edition>).</bibl>
+                    </p>
+                    <p>		  For further information about availability and copyright		  permissions, please see the README file included in the		  download package. For further enquiries please contact the		  VOICE Project at <ref target="mailto:voice@univie.ac.at">voice@univie.ac.at</ref>.		</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note xml:id="PBsve430_wc">Words: 297</note>
+                <note xml:id="PBsve430_tn_0">This service encounter takes place at a university housing office. S2 asks S1 about a confirmation that he needs so that his family can get a visa. S1 prints out the confirmation for S2 and explains that this should be the confirmation he needs.  </note>
+            </notesStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording dur="PT00H04M53S" type="audio">
+                        <date>2005-04-25</date>
+                        <equipment>
+                            <p>Portable minidisc recorder with electret condenser stereo microphone</p>
+                        </equipment>
+                        <respStmt>
+                            <resp>recording</resp>
+                            <name>R16</name>
+                        </respStmt>
+                    </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="PBsve430_domain">
+                        <catDesc>Domain</catDesc>
+                        <category sameAs="#ED" xml:id="PBsve430_ED">
+                            <catDesc>educational</catDesc>
+                        </category>
+                        <category sameAs="#LE" xml:id="PBsve430_LE">
+                            <catDesc>leisure</catDesc>
+                        </category>
+                        <category sameAs="#PB" xml:id="PBsve430_PB">
+                            <catDesc>professional business</catDesc>
+                        </category>
+                        <category sameAs="#PO" xml:id="PBsve430_PO">
+                            <catDesc>professional organizational</catDesc>
+                        </category>
+                        <category sameAs="#PR" xml:id="PBsve430_PR">
+                            <catDesc>professional research/science</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="PBsve430_spet">
+                        <catDesc>Speech Event Type</catDesc>
+                        <category sameAs="#int" xml:id="PBsve430_int">
+                            <catDesc>interview</catDesc>
+                        </category>
+                        <category sameAs="#prc" xml:id="PBsve430_prc">
+                            <catDesc>press conference</catDesc>
+                        </category>
+                        <category sameAs="#sve" xml:id="PBsve430_sve">
+                            <catDesc>service encounter</catDesc>
+                        </category>
+                        <category sameAs="#sed" xml:id="PBsve430_sed">
+                            <catDesc>seminar discussion</catDesc>
+                        </category>
+                        <category sameAs="#wgd" xml:id="PBsve430_wgd">
+                            <catDesc>working group discussion</catDesc>
+                        </category>
+                        <category sameAs="#wsd" xml:id="PBsve430_wsd">
+                            <catDesc>workshop discussion</catDesc>
+                        </category>
+                        <category sameAs="#mtg" xml:id="PBsve430_mtg">
+                            <catDesc>meeting</catDesc>
+                        </category>
+                        <category sameAs="#pan" xml:id="PBsve430_pan">
+                            <catDesc>panel</catDesc>
+                        </category>
+                        <category sameAs="#qas" xml:id="PBsve430_qas">
+                            <catDesc>question-answer session</catDesc>
+                        </category>
+                        <category sameAs="#con" xml:id="PBsve430_con">
+                            <catDesc>conversation</catDesc>
+                        </category>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <tagsDecl>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi="TEI" occurs="1"/>
+                    <tagUsage gi="teiHeader" occurs="1"/>
+                    <tagUsage gi="fileDesc" occurs="1"/>
+                    <tagUsage gi="titleStmt" occurs="1"/>
+                    <tagUsage gi="title" occurs="5"/>
+                    <tagUsage gi="principal" occurs="1"/>
+                    <tagUsage gi="editor" occurs="1"/>
+                    <tagUsage gi="funder" occurs="1"/>
+                    <tagUsage gi="sponsor" occurs="1"/>
+                    <tagUsage gi="respStmt" occurs="3"/>
+                    <tagUsage gi="resp" occurs="3"/>
+                    <tagUsage gi="name" occurs="12"/>
+                    <tagUsage gi="editionStmt" occurs="1"/>
+                    <tagUsage gi="edition" occurs="3"/>
+                    <tagUsage gi="date" occurs="4"/>
+                    <tagUsage gi="publicationStmt" occurs="1"/>
+                    <tagUsage gi="publisher" occurs="1"/>
+                    <tagUsage gi="distributor" occurs="1"/>
+                    <tagUsage gi="address" occurs="1"/>
+                    <tagUsage gi="addrLine" occurs="6"/>
+                    <tagUsage gi="availability" occurs="1"/>
+                    <tagUsage gi="p" occurs="7"/>
+                    <tagUsage gi="ref" occurs="4"/>
+                    <tagUsage gi="bibl" occurs="2"/>
+                    <tagUsage gi="notesStmt" occurs="1"/>
+                    <tagUsage gi="note" occurs="2"/>
+                    <tagUsage gi="sourceDesc" occurs="1"/>
+                    <tagUsage gi="recordingStmt" occurs="1"/>
+                    <tagUsage gi="recording" occurs="1"/>
+                    <tagUsage gi="equipment" occurs="1"/>
+                    <tagUsage gi="encodingDesc" occurs="1"/>
+                    <tagUsage gi="classDecl" occurs="1"/>
+                    <tagUsage gi="taxonomy" occurs="1"/>
+                    <tagUsage gi="category" occurs="17"/>
+                    <tagUsage gi="catDesc" occurs="17"/>
+                    <tagUsage gi="tagsDecl" occurs="1"/>
+                    <tagUsage gi="namespace" occurs="1"/>
+                    <tagUsage gi="tagUsage" occurs="80"/>
+                    <tagUsage gi="gi" occurs="3"/>
+                    <tagUsage gi="att" occurs="13"/>
+                    <tagUsage gi="list" occurs="12"/>
+                    <tagUsage gi="label" occurs="22"/>
+                    <tagUsage gi="val" occurs="43"/>
+                    <tagUsage gi="item" occurs="42"/>
+                    <tagUsage gi="profileDesc" occurs="1"/>
+                    <tagUsage gi="textClass" occurs="1"/>
+                    <tagUsage gi="catRef" occurs="2"/>
+                    <tagUsage gi="settingDesc" occurs="1"/>
+                    <tagUsage gi="setting" occurs="1"/>
+                    <tagUsage gi="locale" occurs="1"/>
+                    <tagUsage gi="activity" occurs="1"/>
+                    <tagUsage gi="particDesc" occurs="1"/>
+                    <tagUsage gi="listPerson" occurs="3"/>
+                    <tagUsage gi="personGrp" occurs="2"/>
+                    <tagUsage gi="person" occurs="2"/>
+                    <tagUsage gi="age" occurs="2"/>
+                    <tagUsage gi="sex" occurs="2"/>
+                    <tagUsage gi="occupation" occurs="2"/>
+                    <tagUsage gi="langKnowledge" occurs="2"/>
+                    <tagUsage gi="langKnown" occurs="2"/>
+                    <tagUsage gi="relationGrp" occurs="1"/>
+                    <tagUsage gi="relation" occurs="2"/>
+                    <tagUsage gi="revisionDesc" occurs="1"/>
+                    <tagUsage gi="change" occurs="6"/>
+                    <tagUsage gi="text" occurs="1"/>
+                    <tagUsage gi="body" occurs="1"/>
+                    <tagUsage gi="div" occurs="2"/>
+                    <tagUsage gi="u" occurs="41">Used to mark a stretch of speech commonly	  	preceded and followed by a pause or by a change of speaker. A	  	<gi>u</gi> is, however, not required to be bounded by a pause	  	or a change of speaker, nor does it represent a turn in a	  	conversation analytic sense. At a minimum, a <gi>u</gi> is	  	some phonetic production or noise made by a given speaker or a	  	group of speakers.</tagUsage>
+                    <tagUsage gi="foreign" occurs="3">Used to mark a word or phrase as		belonging to some language other than English. The following		values for the <att>type</att> attribute are used to mark:		<list>
+                            <label>
+                                <val>L1</val>
+                            </label>
+                            <item>the speaker's first		  language</item>
+                            <label>
+                                <val>LN</val>
+                            </label>
+                            <item>a language other than the		  speaker's first language</item>
+                            <label>
+                                <val>LQ</val>
+                            </label>
+                            <item>a language where it cannot		  be ascertained whether it is the speaker's first or other		  language.</item>
+                        </list>		Whenever possible, the <att>voice:translation</att> attribute		provides a rough translation of the non-English speech into		English.		</tagUsage>
+                    <tagUsage gi="c" occurs="58">Used to mark lengthening of sounds and		intonation (fall, rise). The following <att>type</att>		attributes are used to mark:		<list>
+                            <label>
+                                <val>lengthening</val>
+                            </label>
+                            <item>lengthened		  sounds</item>
+                            <label>
+                                <val>intonation</val>
+                            </label>
+                            <item>a significant change in		  intonation, marked with the following <att>function</att>		  attribute for:		  <list>
+                                    <label>
+                                        <val>fall</val>
+                                    </label>
+                                    <item>falling			intonation</item>
+                                    <label>
+                                        <val>rise</val>
+                                    </label>
+                                    <item>rising intonation</item>
+                                </list>
+                            </item>
+                        </list>		Intonation may or may not coincide with		syntactic boundaries.		</tagUsage>
+                    <tagUsage gi="pause" occurs="35">Used to mark a pause either between or		within utterances. Used without <att>dur</att> attribute to		indicate a brief pause up to half a second.		</tagUsage>
+                    <tagUsage gi="incident" occurs="7">Used to mark contextual information		relevant to the understanding of the interaction or the		interaction as such. The <att>voice:desc</att> attribute		provides a short prose description of the contextual		event.</tagUsage>
+                    <tagUsage gi="seg" occurs="20">Used with different <att>type</att> attributes to mark:		<list>
+                            <label>
+                                <att>type</att>
+                                <val>overlap</val>
+                            </label>
+                            <item>overlaps</item>
+                            <label>
+                                <att>type</att>
+                                <val>onomatopoeia</val>
+                            </label>
+                            <item>onomatopoeic sounds</item>
+                            <label>
+                                <att>type</att>
+                                <val>ipa</val>
+                            </label>
+                            <item>transcriptions in the international phonetic alphabet</item>
+                        </list>
+                    </tagUsage>
+                    <tagUsage gi="anchor" occurs="6">Used to mark other-continuation,		i.e. whenever a speaker continues another speaker's <gi>u</gi>		without a pause. Other-continuation is to be interpreted		temporally and does not relate to form or content of the		speakers' utterances.</tagUsage>
+                    <tagUsage gi="unclear" occurs="5">Used to mark speech which cannot be		transcribed with certainty, because it is difficult to hear or		understand for the transcriber.</tagUsage>
+                    <tagUsage gi="supplied" occurs="3">Used to mark text supplied by the		transcriber because the original is unintelligible or needed		to be anonymized. The <att>reason</att> attribute is used to		mark:		<list>
+                            <label>
+                                <val>unintelligible</val>
+                            </label>
+                            <item>unintelligible		  speech</item>
+                            <label>
+                                <val>anonymization</val>
+                            </label>
+                            <item>anonymized		  speech</item>
+                        </list>
+                    </tagUsage>
+                    <tagUsage gi="shift" occurs="12">Used to mark the point at which some		paralinguistic feature changes. The following attribute values		are used to mark:		<list>
+                            <label>
+                                <val>voice</val>
+                            </label>
+                            <item>voice quality          <list>
+                                    <item>
+                                        <val>imitating</val>
+                                    </item>
+                                    <item>
+                                        <val>laugh</val>
+                                    </item>
+                                    <item>
+                                        <val>neutral</val>
+                                    </item>
+                                    <item>
+                                        <val>phone</val>
+                                    </item>
+                                    <item>
+                                        <val>reading</val>
+                                    </item>
+                                    <item>
+                                        <val>reading_aloud</val>
+                                    </item>
+                                    <item>
+                                        <val>sigh</val>
+                                    </item>
+                                    <item>
+                                        <val>singing</val>
+                                    </item>
+                                    <item>
+                                        <val>whisp</val>
+                                    </item>
+                                    <item>
+                                        <val>yawning</val>
+                                    </item>
+                                </list>
+                            </item>
+                            <label>
+                                <val>tempo</val>
+                            </label>
+                            <item>speed of utterance            <list>
+                                    <label>
+                                        <val>a</val>
+                                    </label>
+                                    <item>accelerando</item>
+                                    <label>
+                                        <val>l</val>
+                                    </label>
+                                    <item>lento</item>
+                                    <label>
+                                        <val>neutral</val>
+                                    </label>
+                                    <item>neutral</item>
+                                </list>
+                            </item>
+                            <label>
+                                <val>loud</val>
+                            </label>
+                            <item>loudness            <list>
+                                    <item>
+                                        <val>f</val>
+                                    </item>
+                                    <item>
+                                        <val>neutral</val>
+                                    </item>
+                                    <item>
+                                        <val>p</val>
+                                    </item>
+                                </list>
+                            </item>
+                        </list>
+                    </tagUsage>
+                    <tagUsage gi="gap" occurs="1">Used to mark points where a short portion of		speech has not been recorded or has been left untranscribed,		whether for editorial reasons, as part of the sampling practice,		or because the material is inaudible or comprises sensitive		content. The following <att>reason</att> attributes are used to		mark:		<list>
+                            <label>
+                                <val>not_recorded</val>
+                            </label>
+                            <item>Not recorded		  speech</item>
+                            <label>
+                                <val>not_transcribed</val>
+                            </label>
+                            <item>Not transcribed		  speech</item>
+                        </list>		Further information on the reason for a gap is provided within		the <att>voice:desc</att> attribute.		</tagUsage>
+                    <tagUsage gi="emph" occurs="2">Used to mark speech which is stressed or		emphasized in a way that goes beyond regular nuclear		stress.</tagUsage>
+                    <tagUsage gi="vocal" occurs="3">Used to mark laughter and other speaker        noises and non-verbal feedback.        <list>
+                            <label>
+                                <val>speaker_noise</val>
+                            </label>
+                            <item>
+                                <list>
+                                    <item>
+                                        <val>coughing</val>
+                                    </item>
+                                    <item>
+                                        <val>nods</val>
+                                    </item>
+                                    <item>
+                                        <val>shakes head</val>
+                                    </item>
+                                    <item>
+                                        <val>smacks lips</val>
+                                    </item>
+                                    <item>
+                                        <val>sniffs</val>
+                                    </item>
+                                    <item>
+                                        <val>swallows</val>
+                                    </item>
+                                    <item>
+                                        <val>whistles</val>
+                                    </item>
+                                </list>
+                            </item>
+                            <label>
+                                <val>wordlike</val>
+                            </label>
+                            <item>
+                                <val>laughing</val>
+                            </item>
+                        </list>
+                    </tagUsage>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <catRef target="#PBsve430_PB #PBsve430_sve"/>
+                <catRef target="#PB #sve"/>
+            </textClass>
+            <settingDesc>
+                <setting>
+                    <name type="country">AT</name>
+                    <name type="city">Vienna</name>
+                    <locale>housing office at university</locale>
+                    <activity>typing on computer, printing out document</activity>
+                </setting>
+            </settingDesc>
+            <particDesc>
+                <listPerson type="main">
+                    <listPerson type="groups">
+                        <personGrp role="speakers" size="2"/>
+                        <personGrp role="interactants" size="2"/>
+                    </listPerson>
+                    <listPerson type="identified">
+                        <person role="participant" sameAs="#P868" xml:id="PBsve430_S2">
+                            <age value="2">25-34</age>
+                            <sex value="1">male</sex>
+                            <occupation>student</occupation>
+                            <langKnowledge>
+                                <langKnown level="L1" tag="urd-PK"/>
+                            </langKnowledge>
+                        </person>
+                        <person role="participant" sameAs="#P39" xml:id="PBsve430_S1">
+                            <age value="1">17-24</age>
+                            <sex value="2">female</sex>
+                            <occupation>adviser at student accommodation office</occupation>
+                            <langKnowledge>
+                                <langKnown level="L1" tag="ger-AT"/>
+                            </langKnowledge>
+                        </person>
+                    </listPerson>
+                    <listRelation><relation mutual="#PBsve430_S1 #PBsve430_S2" name="fairly_symmetrical" type="power"/><relation mutual="#PBsve430_S1 #PBsve430_S2" name="unacquainted" type="acquaintedness"/></listRelation>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2009-05-19" who="SM">conversion to XML</change>
+            <change when="2009-05-11" who="TK">finalized for publication</change>
+            <change when="2008-10-25" who="MLP VO">proof-reading</change>
+            <change when="2008-10-24" who="MLP">checking</change>
+            <change when="2006-10-02" who="JL">transcript completion</change>
+            <change when="2005-10-03" who="JL">transcription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="medium" voice:end="01:06" voice:end_medium_number="1" voice:end_track="01" voice:medium_type="md" voice:start="00:00" voice:start_medium_number="1" voice:start_track="1" xml:id="PBsve430_d2e577">
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_1">
+                    <foreign voice:type="LN" voice:translation="hello" xml:lang="ger" xml:id="PBsve430_d2e581">
+                        <w xml:id="xTok_PBsve430_000007" norm="f_hallo" ana="#FWfFW" lemma="">hallo<c function="fall" type="intonation" xml:id="PBsve430_d2e586"/></w>
+                    </foreign>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e587"/>
+                    <incident voice:desc="another service encounter can be heard in the background" xml:id="PBsve430_d2e588"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_2">
+                    <w xml:id="xTok_PBsve430_000010" ana="#FIfFI" lemma="hello">hello<c function="fall" type="intonation" xml:id="PBsve430_d2e596"/></w>
+                    <w xml:id="xTok_PBsve430_000012" ana="#PPfPP" lemma="i">i<c type="lengthening" xml:id="PBsve430_d2e601"/></w>
+                    <w xml:id="xTok_PBsve430_000014" ana="#VVPfVVP" lemma="want">want</w>
+                    <w xml:id="xTok_PBsve430_000016" ana="#TOfTO" lemma="to">to</w>
+                    <w xml:id="xTok_PBsve430_000018" ana="#VVfVV" lemma="apply">apply<c type="lengthening" xml:id="PBsve430_d2e615"/></w>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e616"/>
+                    <w xml:id="xTok_PBsve430_000020" ana="#INfIN" lemma="for">for</w>
+                    <w xml:id="xTok_PBsve430_000022" ana="#DTfDT" lemma="the">the</w>
+                    <w xml:id="xTok_PBsve430_000024" ana="#NNSfNNS" lemma="visum">visa</w>
+                    <w xml:id="xTok_PBsve430_000026" ana="#INfIN" lemma="of">of</w>
+                    <w xml:id="xTok_PBsve430_000028" ana="#PPSfPPS" lemma="i">my</w>
+                    <w xml:id="xTok_PBsve430_000030" ana="#NNfNN" lemma="family">family<c function="fall" type="intonation" xml:id="PBsve430_d2e642"/></w>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_3">
+                    <w xml:id="xTok_PBsve430_000033" ana="#REfRE" lemma="mhm">mhm<c function="rise" type="intonation" xml:id="PBsve430_d2e650"/></w>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_4">
+                    <w xml:id="xTok_PBsve430_000036" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000038" ana="#VVDfVVD" lemma="go">went</w>
+                    <w xml:id="xTok_PBsve430_000040" ana="#INfIN" lemma="to">to<c type="lengthening" xml:id="PBsve430_d2e666"/></w>
+                    <pause xml:id="PBsve430_d2e667"/>
+                    <w xml:id="xTok_PBsve430_000042" ana="#DTfDT" lemma="the">the</w>
+                    <w xml:id="xTok_PBsve430_000044" ana="#NNfNN" lemma="district">district</w>
+                    <w xml:id="xTok_PBsve430_000046" ana="#NNfNN" lemma="office">office</w>
+                    <w xml:id="xTok_PBsve430_000048" part="I" next="#xTok_PBsve430_000049" norm="and" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="PBsve430_d2e685"/></w>
+                    <w xml:id="xTok_PBsve430_000049" part="F" prev="#xTok_PBsve430_000048" norm="____">d</w>
+                    <w xml:id="xTok_PBsve430_000051" ana="#PPfPP" lemma="they">they</w>
+                    <seg n="1" type="overlap" xml:id="PBsve430_ol_0">
+                        <w xml:id="xTok_PBsve430_000054" ana="#VVDfVVD" lemma="tell">told</w>
+                        <w xml:id="xTok_PBsve430_000056" ana="#PPfPP" lemma="i">me</w>
+                    </seg>
+                    <w xml:id="xTok_PBsve430_000059" ana="#INfIN" lemma="that">that</w>
+                    <w xml:id="xTok_PBsve430_000061" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000063" ana="#VVPfVVP" lemma="need">need</w>
+                    <w xml:id="xTok_PBsve430_000065" ana="#DTfDT" lemma="a">a</w>
+                    <w xml:id="xTok_PBsve430_000067" ana="#NNfNN" lemma="letter">letter</w>
+                    <anchor synch="#PBsve430_oc_1" type="other_continuation" xml:id="PBsve430_oc_0"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_5">
+                    <seg n="1" synch="#PBsve430_ol_0" type="overlap" xml:id="PBsve430_ol_1">
+                        <w xml:id="xTok_PBsve430_000071" ana="#REfRE" lemma="mhm">mhm</w>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_6">
+                    <anchor synch="#PBsve430_oc_0" type="other_continuation" xml:id="PBsve430_oc_1"/>
+                    <w xml:id="xTok_PBsve430_000075" ana="#REfRE" lemma="mhm">mhm</w>
+                    <pause xml:id="PBsve430_d2e751"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_7">
+                    <w xml:id="xTok_PBsve430_000079" ana="#INfIN" lemma="that">that</w>
+                    <w join="right" xml:id="xTok_PBsve430_000081" ana="#PPfPP" lemma="i">i</w>
+                    <w join="left" xml:id="xTok_PBsve430_000083" ana="#VBPfVBP" lemma="be">'m</w>
+                    <w xml:id="xTok_PBsve430_000085" ana="#VVGfVVG" lemma="live">living</w>
+                    <w xml:id="xTok_PBsve430_000087" part="I" next="#xTok_PBsve430_000088" norm="here" ana="#RBfRB" lemma="here">he<c type="lengthening" xml:id="PBsve430_d2e775"/></w>
+                    <w xml:id="xTok_PBsve430_000088" part="F" prev="#xTok_PBsve430_000087" norm="____">re</w>
+                    <w xml:id="xTok_PBsve430_000090" ana="#CCfCC" lemma="and">and</w>
+                    <w xml:id="xTok_PBsve430_000092" ana="#VVGfVVG" lemma="pay">paying</w>
+                    <w xml:id="xTok_PBsve430_000094" ana="#PPSfPPS" lemma="i">my<c type="lengthening" xml:id="PBsve430_d2e791"/></w>
+                    <pause xml:id="PBsve430_d2e792"/>
+                    <seg n="2" type="overlap" xml:id="PBsve430_ol_2">
+                        <w xml:id="xTok_PBsve430_000096" ana="#NNfNN" lemma="rent">rent<c function="fall" type="intonation" xml:id="PBsve430_d2e798"/></w>
+                        <w xml:id="xTok_PBsve430_000098" part="I" next="#xTok_PBsve430_000099" norm="and" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="PBsve430_d2e803"/></w>
+                        <w xml:id="xTok_PBsve430_000099" part="F" prev="#xTok_PBsve430_000098" norm="____">d</w>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_8">
+                    <seg n="2" synch="#PBsve430_ol_2" type="overlap" xml:id="PBsve430_ol_3">
+                        <w xml:id="xTok_PBsve430_000103" ana="#NNfNN" lemma="rent">rent<c function="fall" type="intonation" xml:id="PBsve430_d2e816"/></w>
+                        <w xml:id="xTok_PBsve430_000105" ana="#REfRE" lemma="mhm">mhm</w>
+                    </seg>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e823"/>
+                    <w xml:id="xTok_PBsve430_000108" ana="#MDfMD" lemma="may">may</w>
+                    <w xml:id="xTok_PBsve430_000110" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000112" ana="#VHfVH" lemma="have">have</w>
+                    <w xml:id="xTok_PBsve430_000114" ana="#DTfDT" lemma="a">a</w>
+                    <w xml:id="xTok_PBsve430_000116" ana="#NNfNN" lemma="look">look<c function="rise" type="intonation" xml:id="PBsve430_d2e845"/></w>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_9">
+                    <w xml:id="xTok_PBsve430_000119" ana="#REfRE" lemma="mhm">mhm</w>
+                    <w xml:id="xTok_PBsve430_000121" ana="#UHfUH" lemma="ah">ah</w>
+                    <w xml:id="xTok_PBsve430_000123" ana="#XXfXX" lemma="">ya-</w>
+                    <w xml:id="xTok_PBsve430_000125" ana="#CCfCC" lemma="and">and</w>
+                    <w xml:id="xTok_PBsve430_000127" ana="#DTfDT" lemma="this">this</w>
+                    <w xml:id="xTok_PBsve430_000129" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000131" ana="#VVDfVVD" lemma="get">got</w>
+                    <w xml:id="xTok_PBsve430_000133" ana="#INfIN" lemma="from">from</w>
+                    <pause xml:id="PBsve430_d2e884"/>
+                    <unclear xml:id="PBsve430_d2e885">
+                        <w xml:id="xTok_PBsve430_000136" ana="#PPfPP" lemma="they">they</w>
+                        <w xml:id="xTok_PBsve430_000138" ana="#VHDfVHD" lemma="have">had</w>
+                        <w xml:id="xTok_PBsve430_000140" ana="#PPfPP" lemma="it">it</w>
+                    </unclear>
+                    <incident voice:desc="S2 gives her a paper" xml:id="PBsve430_d2e900"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_10">
+                    <w xml:id="xTok_PBsve430_000144" ana="#REfRE" lemma="mhm">mhm</w>
+                    <pause dur="PT14S" xml:id="PBsve430_d2e910"/>
+                    <incident dur="PT14S" voice:desc="S1 looks at the paper and types on her computer " xml:id="PBsve430_d2e911"/>
+                    <w xml:id="xTok_PBsve430_000147" ana="#INfIN" lemma="for">for</w>
+                    <w xml:id="xTok_PBsve430_000149" ana="#NPfNP" lemma="july">july<c function="fall" type="intonation" xml:id="PBsve430_d2e920"/></w>
+                    <w xml:id="xTok_PBsve430_000151" ana="#INfIN" lemma="for">for</w>
+                    <supplied reason="anonymization" xml:id="PBsve430_d2e928">
+                        <w xml:id="xTok_PBsve430_000154" norm="a_[place1]" ana="#NPfNP" lemma="">[place1]</w>
+                    </supplied>
+                    <pause dur="PT2S" xml:id="PBsve430_d2e935"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_11">
+                    <w xml:id="xTok_PBsve430_000158" ana="#INfIN" lemma="for">for<c function="rise" type="intonation" xml:id="PBsve430_d2e943"/></w>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e944"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_12">
+                    <shift corresp="#PBsve430_s_2" feature="loud" new="f" xml:id="PBsve430_s_1"/>
+                    <w xml:id="xTok_PBsve430_000161" ana="#INfIN" lemma="for">for</w>
+                    <w xml:id="xTok_PBsve430_000163" ana="#PREfPRE" lemma="which">which</w>
+                    <w xml:id="xTok_PBsve430_000165" ana="#UHfUH" lemma="er">er</w>
+                    <w xml:id="xTok_PBsve430_000167" ana="#NNfNN" lemma="student">student</w>
+                    <w xml:id="xTok_PBsve430_000169" ana="#NNfNN" lemma="house">house</w>
+                    <w xml:id="xTok_PBsve430_000171" ana="#PPfPP" lemma="you">you</w>
+                    <w xml:id="xTok_PBsve430_000173" ana="#VVPfVVP" lemma="need">need</w>
+                    <w xml:id="xTok_PBsve430_000175" ana="#DTfDT" lemma="the">the</w>
+                    <w xml:id="xTok_PBsve430_000177" ana="#NNfNN" lemma="confirmation">confirmation<c function="rise" type="intonation" xml:id="PBsve430_d2e987"/></w>
+                    <shift corresp="#PBsve430_s_1" feature="loud" new="neutral" xml:id="PBsve430_s_2"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_13">
+                    <unclear xml:id="PBsve430_d2e992">
+                        <w xml:id="xTok_PBsve430_000180" ana="#RBfRB" lemma="here">here</w>
+                    </unclear>
+                    <w join="right" xml:id="xTok_PBsve430_000183" ana="#PPfPP" lemma="i">i</w>
+                    <w join="left" xml:id="xTok_PBsve430_000185" ana="#VBPfVBP" lemma="be">'m</w>
+                    <w xml:id="xTok_PBsve430_000187" ana="#VVGfVVG" lemma="live">living<c function="fall" type="intonation" xml:id="PBsve430_d2e1011"/></w>
+                    <incident voice:desc="S1 points at the paper" xml:id="PBsve430_d2e1012"/>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e1013"/>
+                    <incident voice:desc="the other service encounter ends" xml:id="PBsve430_d2e1014"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_14">
+                    <w xml:id="xTok_PBsve430_000190" ana="#REfRE" lemma="mhm">mhm</w>
+                    <w xml:id="xTok_PBsve430_000192" ana="#CCfCC" lemma="and">and</w>
+                    <w xml:id="xTok_PBsve430_000194" ana="#INfIN" lemma="for">for</w>
+                    <w xml:id="xTok_PBsve430_000196" ana="#NNfNN" lemma="family">family</w>
+                    <w xml:id="xTok_PBsve430_000198" ana="#NNfNN" lemma="visa">visa<c function="rise" type="intonation" xml:id="PBsve430_d2e1038"/></w>
+                    <pause xml:id="PBsve430_d2e1040"/>
+                    <incident voice:desc="another staff member asks S1 a question in German" xml:id="PBsve430_d2e1041"/>
+                    <pause dur="PT2S" xml:id="PBsve430_d2e1042"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_15">
+                    <w xml:id="xTok_PBsve430_000201" ana="#UHfUH" lemma="erm">erm<c type="lengthening" xml:id="PBsve430_d2e1050"/></w>
+                    <w xml:id="xTok_PBsve430_000203" ana="#REfRE" lemma="yah">yah</w>
+                    <w xml:id="xTok_PBsve430_000205" ana="#INfIN" lemma="for">for</w>
+                    <w xml:id="xTok_PBsve430_000207" ana="#NNfNN" lemma="family">family</w>
+                    <w xml:id="xTok_PBsve430_000209" ana="#NNSfNNS" lemma="visum">visa</w>
+                    <w xml:id="xTok_PBsve430_000211" ana="#CCfCC" lemma="but">but</w>
+                    <w xml:id="xTok_PBsve430_000213" part="I" next="#xTok_PBsve430_000214" norm="they" ana="#PPfPP" lemma="they">the<c type="lengthening" xml:id="PBsve430_d2e1076"/></w>
+                    <w xml:id="xTok_PBsve430_000214" part="F" prev="#xTok_PBsve430_000213" norm="____">y</w>
+                    <w xml:id="xTok_PBsve430_000216" ana="#XXfXX" lemma="">the-</w>
+                    <w xml:id="xTok_PBsve430_000218" ana="#PPfPP" lemma="she">she</w>
+                    <w xml:id="xTok_PBsve430_000220" ana="#VVDfVVD" lemma="tell">told</w>
+                    <w xml:id="xTok_PBsve430_000222" ana="#PPfPP" lemma="i">me</w>
+                    <w xml:id="xTok_PBsve430_000224" ana="#INfIN" lemma="that">that</w>
+                    <w xml:id="xTok_PBsve430_000226" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000228" ana="#VVPfVVP" lemma="need">need</w>
+                    <w xml:id="xTok_PBsve430_000230" ana="#RBfRB" lemma="only">only<c type="lengthening" xml:id="PBsve430_d2e1113"/></w>
+                    <pause xml:id="PBsve430_d2e1114"/>
+                    <w xml:id="xTok_PBsve430_000232" ana="#DTfDT" lemma="that">that</w>
+                    <w xml:id="xTok_PBsve430_000234" ana="#NNfNN" lemma="information">information</w>
+                    <w xml:id="xTok_PBsve430_000236" ana="#INfIN" lemma="that">that</w>
+                    <w join="right" xml:id="xTok_PBsve430_000238" ana="#PPfPP" lemma="i">i</w>
+                    <w join="left" xml:id="xTok_PBsve430_000240" ana="#VBPfVBP" lemma="be">'m</w>
+                    <w xml:id="xTok_PBsve430_000242" ana="#VVGfVVG" lemma="live">living</w>
+                    <w xml:id="xTok_PBsve430_000244" part="I" next="#xTok_PBsve430_000245" norm="here" ana="#RBfRB" lemma="here">he<c type="lengthening" xml:id="PBsve430_d2e1144"/></w>
+                    <w xml:id="xTok_PBsve430_000245" part="F" prev="#xTok_PBsve430_000244" norm="____">re</w>
+                    <pause xml:id="PBsve430_d2e1149"/>
+                    <w xml:id="xTok_PBsve430_000248" part="I" next="#xTok_PBsve430_000249" norm="and" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="PBsve430_d2e1155"/></w>
+                    <w xml:id="xTok_PBsve430_000249" part="F" prev="#xTok_PBsve430_000248" norm="____">d</w>
+                    <w xml:id="xTok_PBsve430_000251" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000253" ana="#VBPfVBP" lemma="be">am</w>
+                    <w xml:id="xTok_PBsve430_000255" ana="#VVGfVVG" lemma="pay">paying</w>
+                    <pause xml:id="PBsve430_d2e1172"/>
+                    <w xml:id="xTok_PBsve430_000258" ana="#PPfPP" lemma="it">it</w>
+                    <w xml:id="xTok_PBsve430_000260" ana="#RBfRB" lemma="regularly">regularly<c function="fall" type="intonation" xml:id="PBsve430_d2e1182"/></w>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e1183"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_16">
+                    <w xml:id="xTok_PBsve430_000263" ana="#PPfDM" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000265" ana="#VVPfDM" lemma="see">see<c function="fall" type="intonation" xml:id="PBsve430_d2e1195"/></w>
+                    <w xml:id="xTok_PBsve430_000267" ana="#BRfBR" lemma="">hh</w>
+                    <w xml:id="xTok_PBsve430_000269" ana="#REfRE" lemma="okay">okay</w>
+                    <w xml:id="xTok_PBsve430_000271" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000273" ana="#MDfMD" lemma="will">will</w>
+                    <w xml:id="xTok_PBsve430_000275" ana="#VVfVV" lemma="print">print</w>
+                    <w xml:id="xTok_PBsve430_000277" ana="#PPfPP" lemma="you">you</w>
+                    <w xml:id="xTok_PBsve430_000279" ana="#DTfDT" lemma="the">the<c type="lengthening" xml:id="PBsve430_d2e1225"/></w>
+                    <w xml:id="xTok_PBsve430_000281" ana="#NNfNN" lemma="confirmation">confirmation</w>
+                    <w xml:id="xTok_PBsve430_000283" ana="#INfIN" lemma="for">for</w>
+                    <w xml:id="xTok_PBsve430_000285" ana="#RBfRB" lemma="here">here</w>
+                    <w xml:id="xTok_PBsve430_000287" ana="#RBfRB" lemma="first">first<c function="fall" type="intonation" xml:id="PBsve430_d2e1243"/></w>
+                </u>
+            </div>
+            <gap dur="PT00H02M50S" reason="not_transcribed" voice:desc="non-e; S1 occasionally talks with her colleagues in german, while she writes and prints out the confirmation for S2; her mobile phone rings and has a short telephone conversation in german; then she continues printing the confirmation" xml:id="PBsve430_d2e1248"/>
+            <div type="medium" voice:end="01:53" voice:end_medium_number="1" voice:end_track="2" voice:medium_type="md" voice:start="00:56" voice:start_medium_number="1" voice:start_track="02" xml:id="PBsve430_d2e1251">
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_17">
+                    <shift corresp="#PBsve430_s_4" feature="loud" new="p" xml:id="PBsve430_s_3"/>
+                    <w xml:id="xTok_PBsve430_000293" ana="#RBfRB" lemma="here">here<c function="fall" type="intonation" xml:id="PBsve430_d2e1260"/></w>
+                    <shift corresp="#PBsve430_s_3" feature="loud" new="neutral" xml:id="PBsve430_s_4"/>
+                    <pause xml:id="PBsve430_d2e1262"/>
+                    <seg n="3" type="overlap" xml:id="PBsve430_ol_4">
+                        <w xml:id="xTok_PBsve430_000295" ana="#PPfPP" lemma="it">it</w>
+                        <w xml:id="xTok_PBsve430_000297" ana="#VBZfVBZ" lemma="be">is</w>
+                    </seg>
+                    <w xml:id="xTok_PBsve430_000300" ana="#DTfDT" lemma="the">the</w>
+                    <w xml:id="xTok_PBsve430_000302" ana="#JJfJJ" lemma="right">right</w>
+                    <w xml:id="xTok_PBsve430_000304" ana="#NNfNN" lemma="form">form</w>
+                    <w xml:id="xTok_PBsve430_000306" ana="#CCfCC" lemma="or">or<c function="rise" type="intonation" xml:id="PBsve430_d2e1291"/></w>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e1292"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_18">
+                    <shift corresp="#PBsve430_s_6" feature="loud" new="p" xml:id="PBsve430_s_5"/>
+                    <seg n="3" synch="#PBsve430_ol_4" type="overlap" xml:id="PBsve430_ol_5">
+                        <foreign voice:type="LN" voice:translation="thank you" xml:lang="ger" xml:id="PBsve430_d2e1298">
+                            <unclear xml:id="PBsve430_d2e1299">
+                                <w xml:id="xTok_PBsve430_000309" norm="f_danke" ana="#FWfFW" lemma="">danke</w>
+                            </unclear>
+                        </foreign>
+                    </seg>
+                    <shift corresp="#PBsve430_s_5" feature="loud" new="neutral" xml:id="PBsve430_s_6"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_19">
+                    <w xml:id="xTok_PBsve430_000313" ana="#UHfUH" lemma="erm">erm</w>
+                    <w xml:id="xTok_PBsve430_000315" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000317" ana="#VVPfVVP" lemma="need">need</w>
+                    <w xml:id="xTok_PBsve430_000319" ana="#TOfTO" lemma="to">to</w>
+                    <supplied reason="unintelligible" xml:id="PBsve430_d2e1328">
+                        <w xml:id="xTok_PBsve430_000322" ana="#UNIfUNI" lemma="">xx</w>
+                    </supplied>
+                    <unclear xml:id="PBsve430_d2e1335">
+                        <w xml:id="xTok_PBsve430_000325" ana="#INfIN" lemma="for">for</w>
+                        <w xml:id="xTok_PBsve430_000327" ana="#PPfPP" lemma="it">it</w>
+                    </unclear>
+                    <pause xml:id="PBsve430_d2e1347"/>
+                    <seg n="4" type="overlap" xml:id="PBsve430_ol_6">
+                        <w xml:id="xTok_PBsve430_000330" ana="#JJfJJ" lemma="much">much</w>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_20">
+                    <seg n="4" synch="#PBsve430_ol_6" type="overlap" xml:id="PBsve430_ol_7">
+                        <w join="right" xml:id="xTok_PBsve430_000334" ana="#PPfPP" lemma="it">it</w>
+                        <w join="left" xml:id="xTok_PBsve430_000336" ana="#VBSfVBS" lemma="be">'s</w>
+                        <w xml:id="xTok_PBsve430_000338" ana="#XXfXX" lemma="">only-</w>
+                    </seg>
+                    <w xml:id="xTok_PBsve430_000341" ana="#PPfPP" lemma="it">it</w>
+                    <w xml:id="xTok_PBsve430_000343" ana="#VVZfVVZ" lemma="confirm">confirms</w>
+                    <w xml:id="xTok_PBsve430_000345" ana="#INfIN" lemma="that">that</w>
+                    <pause xml:id="PBsve430_d2e1387"/>
+                    <seg n="5" type="overlap" xml:id="PBsve430_ol_8">
+                        <emph xml:id="PBsve430_d2e1389">
+                            <w xml:id="xTok_PBsve430_000348" ana="#PPfPP" lemma="you">you</w>
+                        </emph>
+                        <pause xml:id="PBsve430_d2e1396"/>
+                        <w xml:id="xTok_PBsve430_000351" ana="#VBPfVBP" lemma="be">are</w>
+                        <w xml:id="xTok_PBsve430_000353" ana="#VVGfVVG" lemma="live">living</w>
+                        <w xml:id="xTok_PBsve430_000355" ana="#INfIN" lemma="in">in</w>
+                    </seg>
+                    <supplied reason="anonymization" xml:id="PBsve430_d2e1411">
+                        <w xml:id="xTok_PBsve430_000358" norm="a_[place2]" ana="#NPfNP" lemma="">[place2]</w>
+                    </supplied>
+                    <pause xml:id="PBsve430_d2e1419"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_21">
+                    <seg n="5" synch="#PBsve430_ol_8" type="overlap" xml:id="PBsve430_ol_9">
+                        <w join="right" xml:id="xTok_PBsve430_000362" ana="#PPfPP" lemma="i">i</w>
+                        <w join="left" xml:id="xTok_PBsve430_000364" ana="#VBPfVBP" lemma="be">'m</w>
+                        <w xml:id="xTok_PBsve430_000366" ana="#VVGfVVG" lemma="live">living</w>
+                        <w xml:id="xTok_PBsve430_000368" ana="#RBfRB" lemma="here">here<c function="rise" type="intonation" xml:id="PBsve430_d2e1440"/></w>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_22">
+                    <w xml:id="xTok_PBsve430_000371" ana="#INfIN" lemma="from">from</w>
+                    <w xml:id="xTok_PBsve430_000373" ana="#NNfNN" lemma="first">first</w>
+                    <w xml:id="xTok_PBsve430_000375" ana="#INfIN" lemma="of">of</w>
+                    <w xml:id="xTok_PBsve430_000377" ana="#NPfNP" lemma="july">july</w>
+                    <pause xml:id="PBsve430_d2e1463"/>
+                    <w xml:id="xTok_PBsve430_000380" ana="#INfIN" lemma="until">until</w>
+                    <w xml:id="xTok_PBsve430_000382" ana="#DTfDT" lemma="the">the</w>
+                    <w xml:id="xTok_PBsve430_000384" ana="#NNfNN" lemma="end">end</w>
+                    <w xml:id="xTok_PBsve430_000386" ana="#INfIN" lemma="of">of</w>
+                    <w xml:id="xTok_PBsve430_000388" ana="#NPfNP" lemma="june">june</w>
+                    <w xml:id="xTok_PBsve430_000390" ana="#DTfDT" lemma="this">this</w>
+                    <w xml:id="xTok_PBsve430_000392" ana="#NNfNN" lemma="year">year<c function="rise" type="intonation" xml:id="PBsve430_d2e1494"/></w>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_23">
+                    <w xml:id="xTok_PBsve430_000395" ana="#REfRE" lemma="okay">okay<c type="lengthening" xml:id="PBsve430_d2e1502"/></w>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_24">
+                    <w xml:id="xTok_PBsve430_000398" part="I" next="#xTok_PBsve430_000399" norm="and" ana="#CCfCC" lemma="and">an<c type="lengthening" xml:id="PBsve430_d2e1510"/></w>
+                    <w xml:id="xTok_PBsve430_000399" part="F" prev="#xTok_PBsve430_000398" norm="____">d</w>
+                    <w xml:id="xTok_PBsve430_000401" ana="#DTfDT" lemma="the">the</w>
+                    <w xml:id="xTok_PBsve430_000403" ana="#JJfJJ" lemma="monthly">monthly</w>
+                    <w xml:id="xTok_PBsve430_000405" ana="#NNfNN" lemma="rent">rent</w>
+                    <w xml:id="xTok_PBsve430_000407" ana="#VBZfVBZ" lemma="be">is</w>
+                    <w xml:id="xTok_PBsve430_000409" ana="#CDfCD" lemma="one">one</w>
+                    <w xml:id="xTok_PBsve430_000411" ana="#CDfCD" lemma="hundred">hundred</w>
+                    <w xml:id="xTok_PBsve430_000413" ana="#CDfCD" lemma="ninety">ninety<c function="fall" type="intonation" xml:id="PBsve430_d2e1542"/></w>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_25">
+                    <w xml:id="xTok_PBsve430_000416" ana="#CCfCC" lemma="and">and</w>
+                    <w join="right" xml:id="xTok_PBsve430_000418" ana="#PPfPP" lemma="i">i</w>
+                    <w join="left" xml:id="xTok_PBsve430_000420" ana="#VBPfVBP" lemma="be">'m</w>
+                    <w xml:id="xTok_PBsve430_000422" ana="#VVGfVVG" lemma="pay">paying</w>
+                    <w xml:id="xTok_PBsve430_000424" ana="#PPfPP" lemma="it">it</w>
+                    <w xml:id="xTok_PBsve430_000426" ana="#RBfRB" lemma="regularly">regularly<c function="fall" type="intonation" xml:id="PBsve430_d2e1571"/></w>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_26">
+                    <w xml:id="xTok_PBsve430_000429" ana="#REfRE" lemma="yeah">yeah<c function="fall" type="intonation" xml:id="PBsve430_d2e1579"/></w>
+                    <pause xml:id="PBsve430_d2e1580"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_27">
+                    <w join="right" xml:id="xTok_PBsve430_000432" ana="#PPfPP" lemma="i">i</w>
+                    <w join="left" xml:id="xTok_PBsve430_000434" ana="#VBPfVBP" lemma="be">'m</w>
+                    <w xml:id="xTok_PBsve430_000436" ana="#VVGfVVG" lemma="pay">paying</w>
+                    <w xml:id="xTok_PBsve430_000438" ana="#PPfPP" lemma="it">it</w>
+                    <w xml:id="xTok_PBsve430_000440" ana="#RBfRB" lemma="regularly">regularly<c function="fall" type="intonation" xml:id="PBsve430_d2e1604"/></w>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_28">
+                    <w xml:id="xTok_PBsve430_000443" ana="#INfIN" lemma="because">because</w>
+                    <w join="right" xml:id="xTok_PBsve430_000445" ana="#PPfPP" lemma="it">it</w>
+                    <w join="left" xml:id="xTok_PBsve430_000447" ana="#VBSfVBS" lemma="be">'s</w>
+                    <w join="right" xml:id="xTok_PBsve430_000449" ana="#PPfPP" lemma="it">it</w>
+                    <w join="left" xml:id="xTok_PBsve430_000451" ana="#VBSfVBS" lemma="be">'s</w>
+                    <emph xml:id="PBsve430_d2e1632">
+                        <w xml:id="xTok_PBsve430_000454" ana="#JJfJJ" lemma="monthly">monthly</w>
+                    </emph>
+                    <w xml:id="xTok_PBsve430_000457" ana="#NNfNN" lemma="rent">rent<c function="fall" type="intonation" xml:id="PBsve430_d2e1643"/></w>
+                    <pause xml:id="PBsve430_d2e1644"/>
+                    <seg n="6" type="overlap" xml:id="PBsve430_ol_10">
+                        <w xml:id="xTok_PBsve430_000459" ana="#DTfDT" lemma="this">this</w>
+                    </seg>
+                    <w xml:id="xTok_PBsve430_000462" ana="#NNfNN" lemma="form">form</w>
+                    <w xml:id="xTok_PBsve430_000464" ana="#VVZfVVZ" lemma="say">says</w>
+                    <w xml:id="xTok_PBsve430_000466" ana="#JJfJJ" lemma="monthly">monthly</w>
+                    <w xml:id="xTok_PBsve430_000468" ana="#NNfNN" lemma="rent">rent<c function="fall" type="intonation" xml:id="PBsve430_d2e1669"/></w>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_29">
+                    <seg n="6" synch="#PBsve430_ol_10" type="overlap" xml:id="PBsve430_ol_11">
+                        <unclear xml:id="PBsve430_d2e1674">
+                            <w xml:id="xTok_PBsve430_000471" ana="#UHfUH" lemma="erm">erm</w>
+                        </unclear>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_30">
+                    <w xml:id="xTok_PBsve430_000475" ana="#BRfBR" lemma="">hh</w>
+                    <w xml:id="xTok_PBsve430_000477" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e1692"/></w>
+                    <w xml:id="xTok_PBsve430_000479" ana="#CCfCC" lemma="but">but</w>
+                    <w xml:id="xTok_PBsve430_000481" ana="#PPfPP" lemma="she">she</w>
+                    <w xml:id="xTok_PBsve430_000483" ana="#VBDfVBD" lemma="be">was</w>
+                    <w xml:id="xTok_PBsve430_000485" ana="#VVGfVVG" lemma="say">saying</w>
+                    <w xml:id="xTok_PBsve430_000487" ana="#INfIN" lemma="that">that</w>
+                    <w xml:id="xTok_PBsve430_000489" ana="#UHfUH" lemma="er">er<c type="lengthening" xml:id="PBsve430_d2e1718"/></w>
+                    <w xml:id="xTok_PBsve430_000491" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000493" ana="#VVPfVVP" lemma="need">need</w>
+                    <w xml:id="xTok_PBsve430_000495" ana="#PPfPP" lemma="it">it<c type="lengthening" xml:id="PBsve430_d2e1732"/></w>
+                    <w xml:id="xTok_PBsve430_000497" ana="#INfIN" lemma="that">that</w>
+                    <w xml:id="xTok_PBsve430_000499" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000501" ana="#VBPfVBP" lemma="be">am</w>
+                    <w xml:id="xTok_PBsve430_000503" ana="#VVGfVVG" lemma="pay">paying</w>
+                    <w xml:id="xTok_PBsve430_000505" ana="#PPfPP" lemma="it">it</w>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e1756"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_31">
+                    <w xml:id="xTok_PBsve430_000509" ana="#INfIN" lemma="because">because</w>
+                    <w xml:id="xTok_PBsve430_000511" ana="#UHfUH" lemma="erm">erm</w>
+                    <w xml:id="xTok_PBsve430_000513" ana="#XXfXX" lemma="">u-</w>
+                    <w xml:id="xTok_PBsve430_000515" ana="#UHfUH" lemma="er">er</w>
+                    <w xml:id="xTok_PBsve430_000517" ana="#RBfRB" lemma="usually">usually</w>
+                    <w xml:id="xTok_PBsve430_000519" ana="#PDTfPDT" lemma="all">all</w>
+                    <w xml:id="xTok_PBsve430_000521" ana="#DTfDT" lemma="the">the</w>
+                    <w xml:id="xTok_PBsve430_000523" ana="#NNfNN" lemma="scholarship">scholarship</w>
+                    <w xml:id="xTok_PBsve430_000525" ana="#NNSfNNS" lemma="holder">holders</w>
+                    <w xml:id="xTok_PBsve430_000527" ana="#UHfUH" lemma="erm">erm<c type="lengthening" xml:id="PBsve430_d2e1801"/></w>
+                    <pause xml:id="PBsve430_d2e1802"/>
+                    <w xml:id="xTok_PBsve430_000529" ana="#VVPfVVP" lemma="apply">apply</w>
+                    <w xml:id="xTok_PBsve430_000531" ana="#INfIN" lemma="for">for</w>
+                    <w xml:id="xTok_PBsve430_000533" ana="#DTfDT" lemma="a">a</w>
+                    <w xml:id="xTok_PBsve430_000535" ana="#NNfNN" lemma="visa">visa</w>
+                    <w xml:id="xTok_PBsve430_000537" ana="#INfIN" lemma="with">with</w>
+                    <w xml:id="xTok_PBsve430_000539" ana="#DTfDT" lemma="this">this</w>
+                    <w xml:id="xTok_PBsve430_000541" ana="#NNfNN" lemma="confirmation">confirmation<c function="fall" type="intonation" xml:id="PBsve430_d2e1833"/></w>
+                    <pause xml:id="PBsve430_d2e1834"/>
+                    <shift corresp="#PBsve430_s_8" feature="tempo" new="a" xml:id="PBsve430_s_7"/>
+                    <seg n="6" type="overlap" xml:id="PBsve430_ol_12">
+                        <w xml:id="xTok_PBsve430_000543" ana="#DMfDM" lemma="so">so</w>
+                        <w xml:id="xTok_PBsve430_000545" ana="#PPfPP" lemma="it">it</w>
+                        <w xml:id="xTok_PBsve430_000547" ana="#MDfMD" lemma="shall">should</w>
+                        <w xml:id="xTok_PBsve430_000549" ana="#VBfVB" lemma="be">be</w>
+                    </seg>
+                    <w xml:id="xTok_PBsve430_000552" ana="#JJfJJ" lemma="enough">enough<c function="fall" type="intonation" xml:id="PBsve430_d2e1859"/></w>
+                    <anchor synch="#PBsve430_oc_3" type="other_continuation" xml:id="PBsve430_oc_2"/>
+                    <shift corresp="#PBsve430_s_7" feature="tempo" new="neutral" xml:id="PBsve430_s_8"/>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_32">
+                    <seg n="6" synch="#PBsve430_ol_12" type="overlap" xml:id="PBsve430_ol_13">
+                        <w xml:id="xTok_PBsve430_000555" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e1871"/></w>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_33">
+                    <anchor synch="#PBsve430_oc_2" type="other_continuation" xml:id="PBsve430_oc_3"/>
+                    <w xml:id="xTok_PBsve430_000558" ana="#REfRE" lemma="okay">okay</w>
+                    <anchor synch="#PBsve430_oc_5" type="other_continuation" xml:id="PBsve430_oc_4"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_34">
+                    <anchor synch="#PBsve430_oc_4" type="other_continuation" xml:id="PBsve430_oc_5"/>
+                    <w xml:id="xTok_PBsve430_000562" ana="#RBfRB" lemma="hopefully">hopefully</w>
+                    <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="1" xml:id="PBsve430_d2e1894"/>
+                    <seg n="7" type="overlap" xml:id="PBsve430_ol_14">
+                        <vocal type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="PBsve430_d2e1896"/>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_35">
+                    <seg n="7" synch="#PBsve430_ol_14" type="overlap" xml:id="PBsve430_ol_15">
+                        <w xml:id="xTok_PBsve430_000566" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e1905"/></w>
+                    </seg>
+                    <w xml:id="xTok_PBsve430_000568" ana="#DMfDM" lemma="so">so</w>
+                    <w xml:id="xTok_PBsve430_000570" ana="#CCfCC" lemma="but">but</w>
+                    <w xml:id="xTok_PBsve430_000572" ana="#INfIN" lemma="if">if</w>
+                    <pause xml:id="PBsve430_d2e1920"/>
+                    <w xml:id="xTok_PBsve430_000575" ana="#PPfPP" lemma="she">she</w>
+                    <w xml:id="xTok_PBsve430_000577" ana="#VfVVZ" lemma="ask">ask</w>
+                    <w xml:id="xTok_PBsve430_000579" ana="#NNfNN" lemma="something">something</w>
+                    <w xml:id="xTok_PBsve430_000581" ana="#JJfJJ" lemma="new">new</w>
+                    <w xml:id="xTok_PBsve430_000583" ana="#RBfRB" lemma="then">then</w>
+                    <w xml:id="xTok_PBsve430_000585" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000587" ana="#MDfMD" lemma="will">will</w>
+                    <w xml:id="xTok_PBsve430_000589" ana="#RBfRB" lemma="again">again</w>
+                    <w xml:id="xTok_PBsve430_000591" ana="#VVfVV" lemma="come">come</w>
+                    <seg n="1" type="overlap" xml:id="PBsve430_ol_16">
+                        <w xml:id="xTok_PBsve430_000594" ana="#INfIN" lemma="to">to</w>
+                        <w xml:id="xTok_PBsve430_000596" ana="#PPfPP" lemma="you">you</w>
+                    </seg>
+                    <w xml:id="xTok_PBsve430_000599" ana="#DMfDM" lemma="so">so</w>
+                    <pause dur="PT1S" xml:id="PBsve430_d2e1978"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_36">
+                    <seg n="1" synch="#PBsve430_ol_16" type="overlap" xml:id="PBsve430_ol_17">
+                        <w xml:id="xTok_PBsve430_000603" ana="#REfRE" lemma="okay">okay</w>
+                        <vocal subtype="wordstart" type="wordlike" voice:desc="laughing" voice:syl="2" xml:id="PBsve430_d2e1989"/>
+                        <w xml:id="xTok_PBsve430_000606" ana="#DTfDT" lemma="no">no</w>
+                        <w xml:id="xTok_PBsve430_000608" ana="#NNfNN" lemma="problem">problem<c function="fall" type="intonation" xml:id="PBsve430_d2e1998"/></w>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_37">
+                    <w xml:id="xTok_PBsve430_000611" ana="#UHfUH" lemma="erm">erm</w>
+                    <w xml:id="xTok_PBsve430_000613" ana="#PPfPP" lemma="she">she<c type="lengthening" xml:id="PBsve430_d2e2010"/></w>
+                    <w xml:id="xTok_PBsve430_000615" ana="#PPfPP" lemma="she">she</w>
+                    <w xml:id="xTok_PBsve430_000617" ana="#VVDfVVD" lemma="tell">told</w>
+                    <w xml:id="xTok_PBsve430_000619" ana="#PPfPP" lemma="i">me</w>
+                    <w xml:id="xTok_PBsve430_000621" ana="#INfIN" lemma="that">that</w>
+                    <pause xml:id="PBsve430_d2e2030"/>
+                    <w xml:id="xTok_PBsve430_000624" ana="#PPfPP" lemma="i">i</w>
+                    <w xml:id="xTok_PBsve430_000626" ana="#VVPfVVP" lemma="need">need</w>
+                    <w xml:id="xTok_PBsve430_000628" ana="#NNfNN" lemma="confirmation">confirmation<c function="rise" type="intonation" xml:id="PBsve430_d2e2043"/></w>
+                    <w xml:id="xTok_PBsve430_000630" ana="#INfIN" lemma="that">that</w>
+                    <w join="right" xml:id="xTok_PBsve430_000632" ana="#PPfPP" lemma="i">i</w>
+                    <w join="left" xml:id="xTok_PBsve430_000634" ana="#VBPfVBP" lemma="be">'m</w>
+                    <w xml:id="xTok_PBsve430_000636" ana="#VVGfVVG" lemma="live">living</w>
+                    <w xml:id="xTok_PBsve430_000638" part="I" next="#xTok_PBsve430_000639" norm="here" ana="#RBfRB" lemma="here">he<c type="lengthening" xml:id="PBsve430_d2e2065"/></w>
+                    <w xml:id="xTok_PBsve430_000639" part="F" prev="#xTok_PBsve430_000638" norm="____">re<c function="rise" type="intonation" xml:id="PBsve430_d2e2069"/></w>
+                    <w xml:id="xTok_PBsve430_000641" ana="#INfIN" lemma="that">that</w>
+                    <pause xml:id="PBsve430_d2e2076"/>
+                    <w xml:id="xTok_PBsve430_000644" ana="#CCfCC" lemma="and">and</w>
+                    <w join="right" xml:id="xTok_PBsve430_000646" ana="#PPfPP" lemma="i">i</w>
+                    <w join="left" xml:id="xTok_PBsve430_000648" ana="#VBPfVBP" lemma="be">'m</w>
+                    <w xml:id="xTok_PBsve430_000650" ana="#VVGfVVG" lemma="pay">paying</w>
+                    <w xml:id="xTok_PBsve430_000652" ana="#PPfPP" lemma="it">it</w>
+                    <w xml:id="xTok_PBsve430_000654" ana="#RBfRB" lemma="regularly">regularly<c function="fall" type="intonation" xml:id="PBsve430_d2e2102"/></w>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_38">
+                    <w xml:id="xTok_PBsve430_000657" ana="#RBfRB" lemma="usually">usually</w>
+                    <w xml:id="xTok_PBsve430_000659" ana="#PPfPP" lemma="it">it</w>
+                    <w xml:id="xTok_PBsve430_000661" ana="#MDfMD" lemma="shall">should</w>
+                    <w xml:id="xTok_PBsve430_000663" ana="#VBfVB" lemma="be">be</w>
+                    <w xml:id="xTok_PBsve430_000665" ana="#DTfDT" lemma="this">this</w>
+                    <w xml:id="xTok_PBsve430_000667" ana="#NNfNN" lemma="one">one<c function="fall" type="intonation" xml:id="PBsve430_d2e2131"/></w>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_39">
+                    <w xml:id="xTok_PBsve430_000670" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e2140"/></w>
+                    <seg n="2" type="overlap" xml:id="PBsve430_ol_18">
+                        <shift corresp="#PBsve430_s_10" feature="tempo" new="a" xml:id="PBsve430_s_9"/>
+                        <w xml:id="xTok_PBsve430_000672" ana="#FIfFI" lemma="thank">thanks</w>
+                        <w xml:id="xTok_PBsve430_000674" ana="#RBfRB" lemma="a">a</w>
+                        <w xml:id="xTok_PBsve430_000676" ana="#RBfRB" lemma="lot">lot</w>
+                        <shift corresp="#PBsve430_s_9" feature="tempo" new="neutral" xml:id="PBsve430_s_10"/>
+                        <w xml:id="xTok_PBsve430_000679" ana="#FIfFI" lemma="thank">thanks</w>
+                        <w xml:id="xTok_PBsve430_000681" ana="#RBfRB" lemma="a">a</w>
+                        <w xml:id="xTok_PBsve430_000683" ana="#RBfRB" lemma="lot">lot</w>
+                    </seg>
+                    <pause xml:id="PBsve430_d2e2173"/>
+                </u>
+                <u who="#PBsve430_S1" xml:id="PBsve430_u_40">
+                    <seg n="2" synch="#PBsve430_ol_18" type="overlap" xml:id="PBsve430_ol_19">
+                        <w xml:id="xTok_PBsve430_000687" ana="#REfRE" lemma="okay">okay<c function="fall" type="intonation" xml:id="PBsve430_d2e2182"/></w>
+                        <w xml:id="xTok_PBsve430_000689" ana="#FIfFI" lemma="bye-bye">bye-bye<c function="fall" type="intonation" xml:id="PBsve430_d2e2187"/></w>
+                    </seg>
+                </u>
+                <u who="#PBsve430_S2" xml:id="PBsve430_u_41">
+                    <shift corresp="#PBsve430_s_12" feature="loud" new="p" xml:id="PBsve430_s_11"/>
+                    <w xml:id="xTok_PBsve430_000692" ana="#REfRE" lemma="okay">okay</w>
+                    <foreign voice:type="LN" voice:translation="thank you" xml:lang="ger" xml:id="PBsve430_d2e2198">
+                        <w xml:id="xTok_PBsve430_000695" norm="f_danke" ana="#FWfFW" lemma="">danke</w>
+                    </foreign>
+                    <shift corresp="#PBsve430_s_11" feature="loud" new="neutral" xml:id="PBsve430_s_12"/>
+                    <pause dur="PT3S" xml:id="PBsve430_d2e2206"/>
+                    <incident voice:desc="S2 leaves" xml:id="PBsve430_d2e2207"/>
+                </u>
+            </div>
+        </body>
+    </text>
 </TEI>
