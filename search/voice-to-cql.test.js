@@ -4,7 +4,7 @@ test('simple phrase "just a test"', () => {
     expect(toCQL("just a test")).toBe('[word="just"] [word="_.*"]* [word="a"] [word="_.*"]* [word="test"]')
 })
 
-test('lemma test "w:i w:am"', () => {
+test('explicit word test "w:i w:am"', () => {
     expect(toCQL("w:i w:am")).toBe('[word="i"] [word="_.*"]* [word="am"]')
 })
 
@@ -12,7 +12,7 @@ test('lemma test "l:be l:not"', () => {
     expect(toCQL("l:be l:not")).toBe('[l="be"] [word="_.*"]* [l="not"]')
 })
 
-test('lemma test "wx:i wx:am"', () => {
+test('undocumented attribtute test "wx:i wx:am"', () => {
     expect(toCQL("wx:i wx:am")).toBe('[wx="i"] [word="_.*"]* [wx="am"]')
 })
 
