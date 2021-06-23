@@ -14,7 +14,7 @@ const Space = createToken({ name: "Space", pattern: / +/})
 const Quants = createToken({ name: "Quants", pattern: /([+?*]|\{[0-9]+(,[0-9]+)?\})/})
 const And = createToken({ name: "And", pattern: /,/})
 const Or = createToken({ name: "Or", pattern: /\|/})
-const Attribute = createToken({ name: "Attribute", pattern: /([lpf]|(pf)):/})
+const Attribute = createToken({ name: "Attribute", pattern: /([lpfw]|(pf)|(wx)):/})
 const Within = createToken({ name: "Within", pattern: /within/})
 const Containing = createToken({ name: "Containing", pattern: /containing/})
 

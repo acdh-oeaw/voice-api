@@ -78,7 +78,7 @@ class VoiceToCQL extends BaseVoiceVisitor {
     }
 
     attributeValue(ctx) {
-        const attribute = this.visit(ctx.attribute).replace(":", "=")
+        const attribute = this.visit(ctx.attribute).replace(":", "=").replace("w=", "word=")
         const value = ctx.word ? ctx.word[0].children.Word[0].image :
                       ctx.pos ? ctx.pos[0].children.Pos[0].image : undefined
         return `${attribute}"${value}"`
