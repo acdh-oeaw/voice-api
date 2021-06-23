@@ -22,6 +22,7 @@
     "chevrotain": "^7.1.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "express-jsdoc-swagger": "^1.6.2",
     "sax": "^1.2.4"
   },
   "devDependencies": {
