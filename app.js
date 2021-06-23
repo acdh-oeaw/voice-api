@@ -18,7 +18,7 @@ var app = express();
 
 expressJSDocSwagger(app)({
    info: {
-     version: "{{semverString}}",
+    version: "{{semverString}}",
      title: "VOICE 3.0 backend API",
      description: "Backend API providing XML parsing utterance level XML access as well as search transformation to actual CQL.",
      license: {
@@ -238,5 +238,16 @@ app.get('/search', function(req, res) {
  * @summary The openapi 3.0 json for automatic API doc processing
  * @return {object} 200 - OAS3 conformant JSON documentation of the API - application/json
  */
+
+/**
+ * GET /dependency-license-report.html
+ * @tags → API Documentation
+ * @summary Returns all dependencies and their licenses
+ * @return {object} 200 - Report table - text/html
+ */
+app.get('/dependency-license-report.html', function(req, res) {
+  res.sendFile(__dirname + '/dependency-license-report.html');
+});
+
 console.log(`Started on port ${port}`);
 app.listen(port);
