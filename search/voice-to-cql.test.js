@@ -52,6 +52,30 @@ test('wildcard two letters pos "p:.."', () => {
     expect(toCQL("p:..")).toBe('[p=".."]')
 })
 
+test('character class "o_[a-z]+"', () => {
+    expect(toCQL("o_[a-z]+")).toBe('[word="o_[a-z]+"]')
+})
+
+test('character class "o_\\w+"', () => {
+    expect(toCQL("o_\\w+")).toBe('[word="o_\\w+"]')
+})
+
+test('character class "o_\\w{1,1}"', () => {
+    expect(toCQL("o_\\w+")).toBe('[word="o_\\w+"]')
+})
+
+test('character class in pos "VV[A-Z]?"', () => {
+    expect(toCQL("VV[A-Z]?")).toBe('[pf="VV[A-Z]?"]')
+})
+
+test('character class in pos "VV\\w?"', () => {
+    expect(toCQL("VV\\w?")).toBe('[pf="VV\\w?"]')
+})
+
+test('character class in pos "VV\\w{1,1}"', () => {
+    expect(toCQL("VV\\w{1,1}")).toBe('[pf="VV\\w{1,1}"]')
+})
+
 test('pos test "only p:NN"', () => {
     expect(toCQL("only p:NN")).toBe('[word="only"] [word="_.*"]* [p="NN"]')
 })
