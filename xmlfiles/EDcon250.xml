@@ -4,54 +4,106 @@
         <fileDesc>
             <titleStmt>
                 <title>lunch conversation about different university systems and other topics</title>
-                <principal>Prof. Barbara Seidlhofer</principal>
-                <editor/>
-                <funder>VOICE is funded by FWF, the Austrian Science Fund (Project No. L448)</funder>
-                <sponsor/>
-                <respStmt>
-                    <resp>Researchers</resp>
-                    <name xml:id="AB">Angelika Breiteneder</name>
-                    <name xml:id="TK">Theresa Klimpfinger</name>
-                    <name xml:id="SM">Stefan Majewski</name>
-                    <name xml:id="MLP">Marie-Luise Pitzl</name>
-                </respStmt>
-            </titleStmt>
+                <principal ref="corpusHeader.xml#BS" from="2005-06-01" to="2013-08-17">Barbara Seidlhofer</principal><principal ref="corpusHeader.xml#MLP" from="2020-04-01" to="2021-09-30">Marie-Luise Pitzl</principal>
+                <funder>
+                    The creation of VOICE 1.0 and 2.0 was funded by FWF, the Austrian Science Fund (Project No. L116 and L448).
+                    The creation of VOICE 3.0 Online and VOICE 3.0 XML was supported by funding from CLARIAH-AT and by staff
+                    members of the Austrian Center for Digital Humanities and Cultural Heritage at the Austrian Academy of
+                    Sciences and the English Department at the University of Vienna.
+                </funder>
+                </titleStmt>
             <editionStmt>
-                <edition>Version 2.0 XML, <date>January 2013</date>
-                </edition>
-                <respStmt>
-                    <resp>Researchers</resp>
-                    <name>Barbara Seidlhofer</name>
-                    <name>Stefan Majewski</name>
-                    <name>Ruth Osimk-Teasdale</name>
-                    <name>Marie-Luise Pitzl</name>
-                    <name>Michael Radeka</name>
+                <edition> VOICE 3.0 XML, <date>September 2021</date></edition>
+                <respStmt>      
+                    <resp>Researchers &#x2013; VOICE 3.0 XML </resp> 
+                    <name ref="corpusHeader.xml#HCB">Hans Christian Breuer</name>
+                    <name ref="corpusHeader.xml#RO">Ruth Osimk-Teasdale </name> 
+                    <name ref="corpusHeader.xml#HP">Hannes Pirker</name>
+                    <name ref="corpusHeader.xml#MLP">Marie-Luise Pitzl</name>
+                    <name ref="corpusHeader.xml#SR">Stefanie Riegler</name>
+                    <name ref="corpusHeader.xml#DS">Daniel Schopper</name>
+                    <name ref="corpusHeader.xml#BS">Barbara Seidlhofer</name> 
+                    <name ref="corpusHeader.xml#OS">Omar Siam</name> 
+                    <name ref="corpusHeader.xml#DST">Daniel Stoxreiter</name>                   
                 </respStmt>
             </editionStmt>
             <publicationStmt>
-                <publisher>Barbara Seidlhofer, Stefan Majewski, Ruth Osimk-Teasdale,		Marie-Luise Pitzl, Michael Radeka</publisher>
-                <distributor>        VOICE Project, University of Vienna, Austria      </distributor>
+                <publisher>Austrian Academy of Sciences</publisher>
+                <publisher>University of Vienna</publisher>
+                <distributor> Austrian Center for Digital Humanities and Cultural Heritage  </distributor>
                 <address>
-                    <addrLine>Spitalgasse 2, AAKH Hof 8</addrLine>
-                    <addrLine>1090 Vienna</addrLine>
+                    <addrLine>Sonnenfelsgasse 19</addrLine> 
+                    <addrLine>1010 Vienna</addrLine> 
                     <addrLine>Austria</addrLine>
-                    <addrLine>Telephone: +43 1 427742446</addrLine>
-                    <addrLine>Email: voice@univie.ac.at</addrLine>
-                    <addrLine>Website: http://www.univie.ac.at/voice</addrLine>
+                    <addrLine>Email: voice3.0@oeaw.ac.at</addrLine> 
+                    <addrLine>Website: https://voice.acdh.oeaw.ac.at</addrLine> 
                 </address>
                 <availability status="free">
-                    <p>		  The Vienna-Oxford International Corpus of English (VOICE)		  was created by Barbara Seidlhofer (project director) and		  Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		  Marie-Luise Pitzl (project researchers). Minor revisions were gathered		  by Ruth Osimk-Teasdale and Michael Radeka and corrections were made by 		  Ruth Osimk-Teasdale. VOICE 2.0 XML is available for download at the VOICE 		  Project's website <ref target="http://www.univie.ac.at/voice/">http://www.univie.ac.at/voice/</ref>		  under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License (<ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</ref>). The		  original audio files are held at the Department of English,		  University of Vienna. 23 selected audio files are available		  as audio streams in the VOICE Online interface at the VOICE		  Project's website <ref target="http://www.univie.ac.at/voice">http://www.univie.ac.at/voice</ref>.		</p>
-                    <p>          The recommended citation for VOICE 2.0 XML is:		</p>
                     <p>
-                        <bibl>
-                            <title>VOICE</title>. <date>2013</date>. <title level="m">The Vienna-Oxford International Corpus of		English</title> (<edition>version 2.0		XML</edition>). Director: Barbara Seidlhofer; Researchers:		Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski,		Ruth Osimk-Teasdale, Marie-Luise Pitzl, Michael Radeka.</bibl>
+                        The Vienna-Oxford International Corpus of English (VOICE) was created by Barbara Seidlhofer
+                        (founding director) and Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski, Marie-Luise Pitzl
+                        (project researchers) from 2005 to 2011. VOICE POS XML 2.0 was the first part-of-speech tagged
+                        version of VOICE and was based on the same data source as VOICE 2.0 XML (released 2013).
+                        VOICE 2.0 XML and VOICE POS XML 2.0 included minor revisions with regard to previous versions.
+                        VOICE 3.0 XML is a new, merged version of VOICE 2.0 XML and VOICE POS XML 2.0 and is available
+                        for download in <ref target="https://arche.acdh.oeaw.ac.at/">ARCHE (A Resource Center for the HumanitiEs)</ref>
+                        under a <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) License</ref> 
+                        23 selected audio files are available as audio streams in the <ref target=" https://voice.acdh.oeaw.ac.at">VOICE Online interface </ref>.
                     </p>
-                    <p>The short citation for VOICE 2.0 XML is:		</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>CC-BY</p>
+                        <p>You are free to: Share &#x2014; copy and redistribute the material in any medium or format. Adapt &#x2014; remix, transform, and build upon the material for any purpose, even commercially.</p>
+                        
+                        <!-- https://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#COBITY biblStruct nur mongr, series, nicht digital/Corpus-->
+                        <bibl>
+                            <title>VOICE</title>
+                            <date>2021</date>
+                            <title level="m">The Vienna-Oxford International Corpus of English</title>
+                            <edition>VOICE 3.0 XML</edition>
+                            <respStmt>
+                                <resp>Founding director</resp>
+                                <name>Barbara Seidlhofer</name>
+                            </respStmt>
+                            <respStmt>
+                                <resp>Principal investigators VOICE 3.0</resp>
+                                <name>Marie-Luise Pitzl</name>
+                                <name>Daniel Schopper</name>
+                            </respStmt>
+                            <respStmt>
+                                <resp>Researchers</resp>
+                                <name>Angelika Breiteneder</name>
+                                <name>Hans-Christian Breuer</name>
+                                <name>Nora Dorn</name>
+                                <name>Theresa Klimpfinger</name>
+                                <name>Stefan Majewski</name>
+                                <name>Ruth Osimk-Teasdale</name>
+                                <name>Hannes Pirker</name>
+                                <name>Marie-Luise Pitzl</name>
+                                <name>Michael Radeka</name>
+                                <name>Stefanie Riegler</name>
+                                <name>Barbara Seidlhofer</name>
+                                <name>Omar Siam</name>
+                                <name>Daniel Stoxreiter</name>
+                            </respStmt>
+                        </bibl>
+                    </licence>                    
                     <p>
-                        <bibl>
-                            <title>VOICE</title>. <date>2013</date>. <title level="m">The Vienna-Oxford International Corpus of          English</title> (<edition>version 2.0 XML</edition>).</bibl>
+                        The recommended citation for VOICE 3.0 XML is:
                     </p>
-                    <p>		  For further information about availability and copyright		  permissions, please see the README file included in the		  download package. For further enquiries please contact the		  VOICE Project at <ref target="mailto:voice@univie.ac.at">voice@univie.ac.at</ref>.		</p>
+                    <p>
+                        <bibl><title>VOICE</title>. <date>2021</date>. <title level="m">The Vienna-Oxford International Corpus of English</title> (<edition>VOICE 3.0 XML</edition>). Founding director: Barbara Seidlhofer; Principal investigators VOICE 3.0: Marie-Luise Pitzl, Daniel Schopper; Researchers: Angelika Breiteneder, Hans-Christian Breuer, Nora Dorn, Theresa Klimpfinger, Stefan Majewski, Ruth Osimk-Teasdale, Hannes Pirker, Marie-Luise Pitzl, Michael Radeka, Stefanie Riegler, Barbara Seidlhofer, Omar Siam, Daniel Stoxreiter.</bibl>
+                    </p>
+                    <p>The short citation for VOICE 3.0 XML is:
+                    </p>
+                    <p>
+                        <bibl><title>VOICE</title>. <date>2021</date>. <title level="m">The Vienna-Oxford International Corpus of English</title> (<edition> VOICE 3.0 XML </edition>).</bibl>
+                    </p>
+                    <p>
+                        For further information about availability and copyright
+                        permissions, please see the README file included in the
+                        download package. For further enquiries please contact the
+                        VOICE Project at <ref target="mailto:voice@univie.ac.at">voice@univie.ac.at</ref>. <!-- EMAIL aktualisieren-->
+                    </p>
                 </availability>
             </publicationStmt>
             <notesStmt>
@@ -78,52 +130,13 @@
                 <taxonomy>
                     <category xml:id="EDcon250_domain">
                         <catDesc>Domain</catDesc>
-                        <category sameAs="#ED" xml:id="EDcon250_ED">
+                        <category sameAs="corpusHeader.xml#ED" xml:id="EDcon250_ED">
                             <catDesc>educational</catDesc>
                         </category>
-                        <category sameAs="#LE" xml:id="EDcon250_LE">
-                            <catDesc>leisure</catDesc>
                         </category>
-                        <category sameAs="#PB" xml:id="EDcon250_PB">
-                            <catDesc>professional business</catDesc>
-                        </category>
-                        <category sameAs="#PO" xml:id="EDcon250_PO">
-                            <catDesc>professional organizational</catDesc>
-                        </category>
-                        <category sameAs="#PR" xml:id="EDcon250_PR">
-                            <catDesc>professional research/science</catDesc>
-                        </category>
-                    </category>
                     <category xml:id="EDcon250_spet">
                         <catDesc>Speech Event Type</catDesc>
-                        <category sameAs="#int" xml:id="EDcon250_int">
-                            <catDesc>interview</catDesc>
-                        </category>
-                        <category sameAs="#prc" xml:id="EDcon250_prc">
-                            <catDesc>press conference</catDesc>
-                        </category>
-                        <category sameAs="#sve" xml:id="EDcon250_sve">
-                            <catDesc>service encounter</catDesc>
-                        </category>
-                        <category sameAs="#sed" xml:id="EDcon250_sed">
-                            <catDesc>seminar discussion</catDesc>
-                        </category>
-                        <category sameAs="#wgd" xml:id="EDcon250_wgd">
-                            <catDesc>working group discussion</catDesc>
-                        </category>
-                        <category sameAs="#wsd" xml:id="EDcon250_wsd">
-                            <catDesc>workshop discussion</catDesc>
-                        </category>
-                        <category sameAs="#mtg" xml:id="EDcon250_mtg">
-                            <catDesc>meeting</catDesc>
-                        </category>
-                        <category sameAs="#pan" xml:id="EDcon250_pan">
-                            <catDesc>panel</catDesc>
-                        </category>
-                        <category sameAs="#qas" xml:id="EDcon250_qas">
-                            <catDesc>question-answer session</catDesc>
-                        </category>
-                        <category sameAs="#con" xml:id="EDcon250_con">
+                        <category sameAs="corpusHeader.xml#con" xml:id="EDcon250_con">
                             <catDesc>conversation</catDesc>
                         </category>
                     </category>
@@ -135,26 +148,26 @@
                     <tagUsage gi="teiHeader" occurs="1"/>
                     <tagUsage gi="fileDesc" occurs="1"/>
                     <tagUsage gi="titleStmt" occurs="1"/>
-                    <tagUsage gi="title" occurs="5"/>
-                    <tagUsage gi="principal" occurs="1"/>
-                    <tagUsage gi="editor" occurs="1"/>
+                    <tagUsage gi="title" occurs="7"/>
+                    <tagUsage gi="principal" occurs="2"/>
+                    <tagUsage gi="editor" occurs="0"/>
                     <tagUsage gi="funder" occurs="1"/>
-                    <tagUsage gi="sponsor" occurs="1"/>
-                    <tagUsage gi="respStmt" occurs="3"/>
-                    <tagUsage gi="resp" occurs="3"/>
-                    <tagUsage gi="name" occurs="12"/>
+                    <tagUsage gi="sponsor" occurs="0"/>
+                    <tagUsage gi="respStmt" occurs="5"/>
+                    <tagUsage gi="resp" occurs="5"/>
+                    <tagUsage gi="name" occurs="28"/>
                     <tagUsage gi="editionStmt" occurs="1"/>
-                    <tagUsage gi="edition" occurs="3"/>
-                    <tagUsage gi="date" occurs="4"/>
+                    <tagUsage gi="edition" occurs="4"/>
+                    <tagUsage gi="date" occurs="5"/>
                     <tagUsage gi="publicationStmt" occurs="1"/>
-                    <tagUsage gi="publisher" occurs="1"/>
+                    <tagUsage gi="publisher" occurs="2"/>
                     <tagUsage gi="distributor" occurs="1"/>
                     <tagUsage gi="address" occurs="1"/>
-                    <tagUsage gi="addrLine" occurs="6"/>
+                    <tagUsage gi="addrLine" occurs="5"/>
                     <tagUsage gi="availability" occurs="1"/>
-                    <tagUsage gi="p" occurs="7"/>
+                    <tagUsage gi="p" occurs="9"/>
                     <tagUsage gi="ref" occurs="5"/>
-                    <tagUsage gi="bibl" occurs="2"/>
+                    <tagUsage gi="bibl" occurs="3"/>
                     <tagUsage gi="notesStmt" occurs="1"/>
                     <tagUsage gi="note" occurs="2"/>
                     <tagUsage gi="sourceDesc" occurs="1"/>
@@ -164,16 +177,16 @@
                     <tagUsage gi="encodingDesc" occurs="1"/>
                     <tagUsage gi="classDecl" occurs="1"/>
                     <tagUsage gi="taxonomy" occurs="1"/>
-                    <tagUsage gi="category" occurs="17"/>
-                    <tagUsage gi="catDesc" occurs="17"/>
+                    <tagUsage gi="category" occurs="4"/>
+                    <tagUsage gi="catDesc" occurs="4"/>
                     <tagUsage gi="tagsDecl" occurs="1"/>
                     <tagUsage gi="namespace" occurs="2"/>
                     <tagUsage gi="tagUsage" occurs="84"/>
-                    <tagUsage gi="gi" occurs="5"/>
-                    <tagUsage gi="att" occurs="17"/>
+                    <tagUsage gi="gi" occurs="6"/>
+                    <tagUsage gi="att" occurs="19"/>
                     <tagUsage gi="list" occurs="12"/>
                     <tagUsage gi="label" occurs="22"/>
-                    <tagUsage gi="val" occurs="44"/>
+                    <tagUsage gi="val" occurs="43"/>
                     <tagUsage gi="item" occurs="42"/>
                     <tagUsage gi="profileDesc" occurs="1"/>
                     <tagUsage gi="textClass" occurs="1"/>
@@ -185,13 +198,13 @@
                     <tagUsage gi="particDesc" occurs="1"/>
                     <tagUsage gi="listPerson" occurs="4"/>
                     <tagUsage gi="personGrp" occurs="2"/>
-                    <tagUsage gi="person" occurs="13"/>
+                    <tagUsage gi="person" occurs="14"/>
                     <tagUsage gi="age" occurs="7"/>
                     <tagUsage gi="sex" occurs="7"/>
                     <tagUsage gi="occupation" occurs="6"/>
                     <tagUsage gi="langKnowledge" occurs="7"/>
                     <tagUsage gi="langKnown" occurs="8"/>
-                    <tagUsage gi="relationGrp" occurs="1"/>
+                    <tagUsage gi="listRelation" occurs="1"/>
                     <tagUsage gi="relation" occurs="2"/>
                     <tagUsage gi="revisionDesc" occurs="1"/>
                     <tagUsage gi="change" occurs="6"/>
@@ -364,7 +377,11 @@
                     </tagUsage>
                     <tagUsage gi="incident" occurs="49">Used to mark contextual information		relevant to the understanding of the interaction or the		interaction as such. The <att>voice:desc</att> attribute		provides a short prose description of the contextual		event.</tagUsage>
                     <tagUsage gi="anchor" occurs="185">Used to mark other-continuation,		i.e. whenever a speaker continues another speaker's <gi>u</gi>		without a pause. Other-continuation is to be interpreted		temporally and does not relate to form or content of the		speakers' utterances.</tagUsage>
-                    <tagUsage gi="w" occurs="6">		  Used with the <att>type</att> attribute set to		  <val>spelt</val> to mark words or word fragments which are		  spelt out, i.e. words whose constituents are pronounced as		  individual letters.		</tagUsage>
+                    <tagUsage gi="w" occurs="6316">Used to mark lexical forms (tokens), but also
+                        word fragments, pauses, onomatopoeic noises, spelling, laughter and
+                        breathing. <gi>w</gi> is used with <att>ana</att> and <att>lemma</att>
+                        attributes to mark its part-of-speech and lemma. The <att>ana</att> attribute
+                        may contain more than one reference if different interpretations are possible.</tagUsage>
                     <tagUsage gi="gap" occurs="3">Used to mark points where a short portion of		speech has not been recorded or has been left untranscribed,		whether for editorial reasons, as part of the sampling practice,		or because the material is inaudible or comprises sensitive		content. The following <att>reason</att> attributes are used to		mark:		<list>
                             <label>
                                 <val>not_recorded</val>
@@ -479,6 +496,7 @@
                         <person corresp="#EDcon250_S6" sameAs="#SX" xml:id="EDcon250_SX-6"/>
                         <person sameAs="#SS" xml:id="EDcon250_SS"/>
                         <person corresp="#EDcon250_S2" sameAs="#SX" xml:id="EDcon250_SX-2"/>
+                        <person sameAs="#SX" xml:id="EDcon250_SX"/>
                     </listPerson>
                     <listRelation><relation mutual="#EDcon250_S2 #EDcon250_S3 #EDcon250_S4 #EDcon250_S5 #EDcon250_S6" name="fairly_symmetrical" type="power"/><relation mutual="#EDcon250_S2 #EDcon250_S3 #EDcon250_S4 #EDcon250_S5 #EDcon250_S6" name="acquainted" type="acquaintedness"/></listRelation>
                 </listPerson>
