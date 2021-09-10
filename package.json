@@ -1,19 +1,31 @@
 {
   "name": "voice-clariah-node-api",
-  "version": "0.8.0",
+  "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "author": {
+    "name": "Hans Christian Breuer",
+    "email": "hcbruer79@nomail.gitlab",
+    "url": "https://gitlab.com/hcbreuer79"
+  },
+  "contributors": [
+    {
+      "name": "Omar Siam",
+      "email": "omar.siam@oeaw.ac.at",
+      "url": "https://www.oeaw.ac.at/acdh/team/current-team/omar-siam"
+    }
+  ],
+  "license": "MIT",
   "engines": {
     "node": "14.x",
-    "npm": "6.14.x"
+    "npm": "7.23.x"
   },
   "scripts": {
-    "build": "node node_modules/license-report/index.js --output=html --config dependency-license-report-config.json > dependency-license-report.html && node node_modules/gulp/bin/gulp.js",
+    "build": "node DependencyLicenseGenerator.js > dependency-license-report.html && node node_modules/gulp/bin/gulp.js",
     "start": "node app.js",
     "test": "jest",
     "serve": "nodemon --inspect app.js"
   },
-  "author": "HCB",
   "comments": {
     "docker test command line": "docker run --rm -v $(pwd):/tmp/app registry.gitlab.com/acdh-oeaw/docker/herokuish-for-cypress/master /bin/herokuish buildpack test",
     "AutoDevOps Settungs": "POSTGRES_ENABLED=false #we don't use a DB so don't prepare it"
