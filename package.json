@@ -31,7 +31,7 @@
     "AutoDevOps Settungs": "POSTGRES_ENABLED=false #we don't use a DB so don't prepare it"
   },
   "dependencies": {
-    "chevrotain": "^7.1.1",
+    "chevrotain": "^9.0.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-jsdoc-swagger": "^1.6.2",
