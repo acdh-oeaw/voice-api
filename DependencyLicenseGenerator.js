@@ -42,7 +42,8 @@ async.map(depsIndex, getPackageReportData, function(err, results) {
         Version: ${packageJson.version}<br/>
         Author: ${packageJson.author.name}<br/>
         ${packageJson.contributors.map(contributor => `Contributor: ${contributor.name}</br>`)}
-        License: ${packageJson.license}
+        License: ${packageJson.license}<br/>
+        <a href="/api-docs">See here for the documentation about this API</a><br/>
         <pre>${fs.readFileSync('LICENSE')}</pre>
         <h2>Dependencies</h2>
  ${tabelify(packagesData)}

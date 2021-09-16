@@ -42,12 +42,23 @@ app.use(cors());
 /**
  * GET /
  * @summary Get the software version running
- * @return {string} 200 - software version running - text/plain
+ * @return {string} 200 - software version running - application/json
  * @example response - 200 - software version running using git describe and the latest tag
- * 0.7.0+1.g1aa1705
+ * {
+ *   "apiVersion": "0.9.9+1.g1aa1705",
+ *   "api-docs": "https://voice-api.acdh.oeaw.ac.at/api-docs",
+ *   "openapi.json": "https://voice-api.acdh.oeaw.ac.at/v3/api-docs",
+ *   "apiDependencyAndLicense": "https://voice-api.acdh.oeaw.ac.at/dependency-license-report.html"
+ * }
  */
 app.get('/', function(req, res) {
-  res.send("{{semverString}}");
+  var baseUrl = `${req.protocol}://${req.hostname}${req.hostname == 'localhost'?':'+port:''}`
+  res.json(JSON.parse(`{
+    "apiVersion": "{{semverString}}",
+    "api-docs": "${baseUrl}/api-docs",
+    "openapi.json": "${baseUrl}/v3/api-docs",
+    "apiDependencyAndLicense": "${baseUrl}/dependency-license-report.html"
+  }`));
 });
 
 /**
