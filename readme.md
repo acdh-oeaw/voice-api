@@ -28,3 +28,16 @@ docker run --rm -v $(pwd):/tmp/app gliderlabs/herokuish /bin/herokuish buildpack
 ```powershell
 docker run --rm -v ${PWD}:/tmp/app gliderlabs/herokuish /bin/herokuish buildpack test
 ```
+
+### Search engine
+
+The search engine used here is the NoSketchEngine.
+![NoSketchEngine](NoSkE_logo.png)
+
+https://nlp.fi.muni.cz/trac/noske
+
+Credits:
+
+RYCHLÝ, Pavel. Manatee/Bonito-A Modular Corpus Manager. In: RASLAN. 2007. p. 65-70.
+
+KILGARRIFF, Adam, et al. The Sketch Engine: Ten Years on. Lexicography, 2014, 1.1: 7-36.

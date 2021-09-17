@@ -259,6 +259,10 @@ app.get('/search', function(req, res) {
 app.get('/dependency-license-report.html', function(req, res) {
   res.sendFile(__dirname + '/dependency-license-report.html');
 });
+ 
+app.get('/NoSkE_logo.png', function(req, res) {
+  res.sendFile(__dirname + '/NoSkE_logo.png');
+});
 
 console.log(`Started on port ${port}`);
 app.listen(port);

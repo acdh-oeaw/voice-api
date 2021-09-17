@@ -45,6 +45,11 @@ async.map(depsIndex, getPackageReportData, function(err, results) {
         License: ${packageJson.license}<br/>
         <a href="/api-docs">See here for the documentation about this API</a><br/>
         <pre>${fs.readFileSync('LICENSE')}</pre>
+        <h2>Search engine</h2>
+        <img alt="NoSketchEngine" src="NoSkE_logo.png"/><p>This API uses the <a href="https://nlp.fi.muni.cz/trac/noske">NoSketchEngine https://nlp.fi.muni.cz/trac/noske</a> for searching.</p>
+        <p>Credits:<br/>
+        RYCHLÝ, Pavel. Manatee/Bonito-A Modular Corpus Manager. In: RASLAN. 2007. p. 65-70.<br/>
+        KILGARRIFF, Adam, et al. The Sketch Engine: Ten Years on. Lexicography, 2014, 1.1: 7-36.</p>
         <h2>Dependencies</h2>
  ${tabelify(packagesData)}
     </body>
