@@ -5,7 +5,7 @@ const { performance } = require('perf_hooks');
 const {
   NOSKE_BONITO
 } = process.env
-const noske_bonito = NOSKE_BONITO || 'https://vsearch-noske.acdh-dev.oeaw.ac.at/bonito/run.cgi'
+const noske_bonito = NOSKE_BONITO || 'http://localhost:4000/bonito/run.cgi'
 
 class search {
   constructor(xmlData) {
