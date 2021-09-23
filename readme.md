@@ -1,6 +1,16 @@
-# voice-clariah-node-api
+# voice-api
+
+This is the API endpoint used by the [voice-fe](https://github.com/acdh-oeaw/voice-fe) user interface.
+Search requests are transformed to CQL and then passed on to a separate
+[NoSketchEngine](https://nlp.fi.muni.cz/trac/noske) instance.
+The official instance is not open to public access.
+But using the VOICE 3.0 XML files you can run your own instance.
 
 ### xml
+
+A swagger UI and an openapi.json endpoint is built into the API.
+
+Short summary:
 
 ```text
 /xml/ - List Ids
