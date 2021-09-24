@@ -52,12 +52,14 @@ app.use(cors());
  * }
  */
 app.get('/', function(req, res) {
-  var baseUrl = `${req.protocol}://${req.hostname}${req.hostname == 'localhost'?':'+port:''}`
+  const baseUrl = `${req.protocol}://${req.hostname}${req.hostname == 'localhost'?':'+port:''}`
+  const gitlabEnvName = process.env.GITLAB_ENVIRONMENT_NAME != 'production' ? `,"environment": ${process.env.GITLAB_ENVIRONMENT_NAME}` : ''
   res.json(JSON.parse(`{
     "apiVersion": "{{semverString}}",
     "api-docs": "${baseUrl}/api-docs",
     "openapi.json": "${baseUrl}/v3/api-docs",
     "apiDependencyAndLicense": "${baseUrl}/dependency-license-report.html"
+    ${gitlabEnvName}
   }`));
 });
 
