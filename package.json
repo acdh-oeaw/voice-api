@@ -8,6 +8,10 @@
     "email": "hcbruer79@nomail.gitlab",
     "url": "https://gitlab.com/hcbreuer79"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acdh-oeaw/voice-api.git"
+  },
   "contributors": [
     {
       "name": "Omar Siam",
