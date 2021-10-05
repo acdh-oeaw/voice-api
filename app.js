@@ -53,7 +53,7 @@ app.use(cors());
  */
 app.get('/', function(req, res) {
   const baseUrl = `${req.protocol}://${req.hostname}${req.hostname == 'localhost'?':'+port:''}`
-  const gitlabEnvName = process.env.GITLAB_ENVIRONMENT_NAME != 'production' ? `,"environment": ${process.env.GITLAB_ENVIRONMENT_NAME}` : ''
+  const gitlabEnvName = process.env.GITLAB_ENVIRONMENT_NAME != 'production' ? `,"environment": "${process.env.GITLAB_ENVIRONMENT_NAME}"` : ''
   res.json(JSON.parse(`{
     "apiVersion": "{{semverString}}",
     "api-docs": "${baseUrl}/api-docs",
