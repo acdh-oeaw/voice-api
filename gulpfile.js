@@ -1,4 +1,4 @@
-const { parallel} = require('gulp');
+const { src, dest, parallel } = require('gulp');
 const { collection_download } = require('./collection_download_script')
 const { gitDescribeSync } = require('git-describe')
 const logger = require('gulplog')
