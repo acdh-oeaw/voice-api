@@ -23,11 +23,26 @@ const argsDefs = {
 }
 /** @type {Request} */
 let request;
+let logger = {
+    /**
+     * @param {string} message
+     * @returns void
+     */
+    info: function(message){
+        console.log(message)
+    }
+};
 module.exports = {
     collection_download: main, parseArgs, newRequest, argsDefs
 }
 if (require.main === module) {
-   main(parseArgs(['https://arche-curation.acdh-dev.oeaw.ac.at/api/568138', '--recursive'], argsDefs))
+    try {
+        main(parseArgs(["https://arche-curation.acdh-dev.oeaw.ac.at/api/568138", "--recursive"], argsDefs));
+    } catch (err) {
+        /** @type {Error} */
+        const e = err;
+        console.error(e.stack || e.message);
+    }
 }
 
 /**
@@ -44,14 +59,14 @@ async function getFilename(url) {
     let resp = await request.get(requestOpts, /^application\/n-triples/)
     let filename,
         location = ''
-    // console.log(resp)
+    // logger.info(resp)
     for (let l of resp.split('\n')) {
         l = l.slice(url.toString().length + 3)
         if (l.startsWith(locationProp))
             location = l.slice(locationProp.length + 2, -46)
         if (l.startsWith(filenameProp))
             filename = l.slice(filenameProp.length + 2, -46)
-        //console.log(JSON.stringify({ filename, location }))
+        //logger.info(JSON.stringify({ filename, location }))
     }
     return { filename, location }
 }
@@ -71,7 +86,7 @@ async function getChildren(url) {
     requestOpts.headers = { 'Accept': 'application/n-triples', 'X-METADATA-READ-MODE': 'resource' }
     let resp = await request.post(requestOpts, data, /^application\/n-triples/),
         children = []
-    //console.log(resp)
+    //logger.info(resp)
     for (let l of resp.split('\n')) {
         if (l.match(/ <search:\/\/match> /)) {
             children.push(l.slice(1, l.indexOf('>')))
@@ -98,7 +113,7 @@ async function download(res, args) {
         _path = ''
     if (filename) {
         _path = path.join(res.path, filename)
-        console.log(`Downloading ${res.url} as ${_path}`)
+        logger.info(`Downloading ${res.url} as ${_path}`)
         let pathNotExists = true
         try {
            await access(res.path)
@@ -114,7 +129,7 @@ async function download(res, args) {
             await of.close()
         }
     } else if (args.recursive && (args.maxDepth === -1 || res.depth < args.maxDepth)) {
-        console.log(`Going into ${res.url}${location}`)
+        logger.info(`Going into ${res.url}${location}`)
         if (args.flat) {
             _path = res.path
         } else {
@@ -123,7 +138,7 @@ async function download(res, args) {
         toDwnld = await getChildren(resUrl.toString())
         toDwnld = toDwnld.map((value) => ({ url: value, path: _path, depth: res.depth + 1 }))
     }
-    // console.log(JSON.stringify(toDwnld))
+    // logger.info(JSON.stringify(toDwnld))
     return toDwnld
 }
 
@@ -132,30 +147,40 @@ async function download(res, args) {
  * @param {Record<string, any>} args parsed arguments (e.g. passed to the script)
  */
 async function main(args) {
-    try {
-        if (args.h || args.help) {
-            showHelp(argsDefs)
-        } else {
-            let stack = []
-            for (let url of args.url) {
-                stack.push({ url, path: args.targetDir, depth: 0 })
-            }
-            //console.log(JSON.stringify(stack))
-            while (stack.length > 0) {
-                let res = stack.pop()
-                if (args.matchUrl.length > 0 && args.matchUrl.indexOf(res['url']) === -1)
-                    continue
-                if (args.skipUrl.length > 0 && args.skipUrl.indexOf(res['url']) > -1)
-                    continue
-                if (args.maxDepth >= 0 && res['depth'] > args.maxDepth)
-                    continue
-                stack = stack.concat(await download(res, args))
-            }
+    if (args.logger && args.logger.info)
+    {
+        logger.info = args.logger.info
+    }
+    if (args.h || args.help) {
+        showHelp(argsDefs);
+    } else {
+        let stack = [];
+        for (let url of Array.isArray(args.url) ? args.url : [args.url]) {
+            stack.push({ url, path: args.targetDir, depth: 0 });
         }
-    } catch (err) {
-        /** @type {Error} */
-        const e = err
-        console.error(e.stack || e.message)
+        //logger.info(JSON.stringify(stack))
+        while (stack.length > 0) {
+            let res = stack.pop();
+            if (
+                Array.isArray(args.matchUrl) &&
+                args.matchUrl.length > 0 &&
+                args.matchUrl.indexOf(res["url"]) === -1
+            )
+                continue;
+            if (
+                Array.isArray(args.matchUrl) &&
+                args.skipUrl.length > 0 &&
+                args.skipUrl.indexOf(res["url"]) > -1
+            )
+                continue;
+            if (
+                args.maxDepth &&
+                args.maxDepth >= 0 &&
+                res["depth"] > args.maxDepth
+            )
+                continue;
+            stack = stack.concat(await download(res, args));
+        }
     }
 }
 
@@ -401,6 +426,6 @@ function showHelp(argsDefs) {
             case 1: numHint = ' (mandatory)'
             default: numHint = ''
         }
-        console.log(key + ': ' + help + numHint + (defVal ? ` (default: ${defVal})` : ''))
+        logger.info(key + ': ' + help + numHint + (defVal ? ` (default: ${defVal})` : ''))
     }
 }
