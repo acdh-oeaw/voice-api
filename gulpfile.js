@@ -21,7 +21,8 @@ async function downloadData() {
     targetDir: "xmlfiles",
     recursive: true,
     maxDepth: -1,
-    downloadFilesMime: /^(application\/xml|image\/tiff)/,
+    skipUrl: ['https://arche-curation.acdh-dev.oeaw.ac.at/api/574659'], // that is the logo tiff
+    downloadFilesMime: /^application\/xml/,
     logger
   })
 }
