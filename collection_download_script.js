@@ -168,7 +168,7 @@ async function main(args) {
             )
                 continue;
             if (
-                Array.isArray(args.matchUrl) &&
+                Array.isArray(args.skipUrl) &&
                 args.skipUrl.length > 0 &&
                 args.skipUrl.indexOf(res["url"]) > -1
             )
