@@ -4,6 +4,7 @@
     // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "node",
             "request": "launch",
@@ -11,7 +12,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "env": {"NOSKE_BONITO": "https://voice-noske.acdh-dev.oeaw.ac.at/bonito/run.cgi"},
+            "env": {"NOSKE_BONITO": "https://vsearch-noske.acdh-dev.oeaw.ac.at/bonito/run.cgi"},
             "program": "${workspaceFolder}/app.js"
         },
         {
@@ -28,8 +29,18 @@
                 "default"
             ],
             "name": "Gulp default",
-            //"program": "${workspaceFolder}/node_modules/gulp/bin/gulp.js",
-            "program": "/usr/bin/gulp",
+            "program": "${workspaceFolder}/node_modules/gulp/bin/gulp.js",
+            //"program": "/usr/bin/gulp",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
+            "name": "Dependency Report Generator",
+            "program": "${workspaceFolder}/DependencyLicenseGenerator.js",
+            //"program": "/usr/bin/gulp",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
