@@ -76,7 +76,7 @@ class XMLData {
             let uDeepStart = []
             parser.onopentag = function (node) {
               if (node.name === 'TEI' && node.attributes && node.attributes['xml:id']) {
-                aFileObj.id = node.attributes['xml:id']
+                aFileObj.id = node.attributes['xml:id'].replace(/\.xml$/,'')
                 // console.log(node, node.attributes)
               }
               if (node.name === 'teiHeader') {

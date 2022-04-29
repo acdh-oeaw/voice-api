@@ -92,7 +92,7 @@ app.get('/xml/', function(req, res) {
  * GET /xml/{documentId}/{getType}
  * @tags XML Documents - XML documents and parts of XML documents
  * @summary Gets a part or the whole document
- * @param {string}documentId.path Id of the document to get a part of
+ * @param {string}documentId.path Id of the document to get a part of (without .xml)
  * @param {string} getType.path What part of the document to get: header, body or file
  * @return {object} 200 - The XML of the requested part and status - application/json
  * @example response - 200 - Succesful result
@@ -131,7 +131,7 @@ app.get('/xml/:documentId/:getType', function(req, res) {
  * GET /xml/{documentId}/uid/{uId}
  * @tags XML Documents - XML documents and parts of XML documents
  * @summary Get a particular utterance by id from a specified document
- * @param {string} documentId.path Id of the document to get a part of
+ * @param {string} documentId.path Id of the document to get a part of (without .xml)
  * @param {string} uId.path Id of the utterance to get
  * @return {object} 200 - result - application/json
  */
