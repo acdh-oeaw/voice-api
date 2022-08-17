@@ -62,10 +62,14 @@ async function getFilename(url) {
     // logger.info(resp)
     for (let l of resp.split('\n')) {
         l = l.slice(url.toString().length + 3)
-        if (l.startsWith(locationProp))
-            location = l.slice(locationProp.length + 2, -46)
-        if (l.startsWith(filenameProp))
-            filename = l.slice(filenameProp.length + 2, -46)
+        if (l.startsWith(locationProp)) {
+            location = l.slice(locationProp.length + 2, -3)
+            logger.info(l)
+        }
+        if (l.startsWith(filenameProp)) {
+            filename = l.slice(filenameProp.length + 2, -3)
+        //    logger.info(filename)
+        }
         //logger.info(JSON.stringify({ filename, location }))
     }
     return { filename, location }
