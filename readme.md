@@ -53,4 +53,4 @@ RYCHLÝ, Pavel. Manatee/Bonito-A Modular Corpus Manager. In: RASLAN. 2007. p. 65
 KILGARRIFF, Adam, et al. The Sketch Engine: Ten Years on. Lexicography, 2014, 1.1: 7-36.
 
 The search engine used can be changed using the NOSKE_BONITO environment variable.
-e. g. `NOSKE_BONITO=http://localhost:4000/bonito/run.cgi
+e. g. `NOSKE_BONITO=http://localhost:4000/bonito/run.cgi`

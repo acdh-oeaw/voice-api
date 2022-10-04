@@ -70,10 +70,10 @@ class search {
         let hits = []
         for (let uDoc of Object.keys(docsUandIDs)) {
           const uDocVals = uDoc.split(',')
-          const docNum = this.xmlData.filesById[uDocVals[1]]
+          const docNum = this.xmlData.filesById[uDocVals[1].replace(/\.xml$/, '')]
           const uNum = this.xmlData.files[docNum] ? this.xmlData.files[docNum].uById[uDocVals[0]] : 0
           send.u.push({
-            xmlId: uDocVals[1],
+            xmlId: uDocVals[1].replace(/\.xml$/, ''),
             uId: uDocVals[0],
             xml: send.u.length < 101 && this.xmlData.files[docNum] && this.xmlData.files[docNum].u[uNum] ? this.xmlData.files[docNum].xml.substr(this.xmlData.files[docNum].u[uNum].start, this.xmlData.files[docNum].u[uNum].len) : null,
             highlight:  Array.from(new Set([...docsUandIDs[uDoc]])),
