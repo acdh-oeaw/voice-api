@@ -1,6 +1,6 @@
 {
   "name": "voice-clariah-node-api",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "",
   "main": "app.js",
   "author": {
@@ -22,7 +22,7 @@
   "license": "MIT",
   "engines": {
     "node": "16.x",
-    "npm": "8.5.x"
+    "npm": "8.15.x"
   },
   "scripts": {
     "build": "node DependencyLicenseGenerator.js > dependency-license-report.html && node node_modules/gulp/bin/gulp.js",
@@ -48,7 +48,14 @@
     "gulp": "^4.0.2",
     "gulp-token-replace": "^1.1.5",
     "jest": "^27.5.1",
-    "license-report": "^5.0.2",
-    "vinyl-source-stream": "^2.0.0"
+    "license-report": "^5.0.2"
+  },
+  "overrides": {
+    "chokidar": {
+      "glob-parent": "^6.0.2"
+    },
+    "glob-stream": {
+      "glob-parent": "^6.0.2"
+    }
   }
 }
