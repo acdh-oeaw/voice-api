@@ -48,7 +48,8 @@
     "gulp-token-replace": "^1.1.5",
     "gulp-untar": "0.0.8",
     "jest": "^26.6.3",
-    "license-report": "^4.5.0",
-    "vinyl-source-stream": "^2.0.0"
+    "license-report": "^5.0.2",
+    "vinyl-source-stream": "^2.0.0",
+    "async": "^3.2.2"
   }
 }
