@@ -17,7 +17,7 @@ jobs:
       image_name: voice-api
       registry_root: ghcr.io/acdh-oeaw/
       default_port: "5000"
-      herokuish_base_image: gliderlabs/herokuish:latest-22
+      herokuish_base_image: gliderlabs/herokuish:latest-24
       APP_NAME: voice-api
       APP_ROOT: "/"
       # SERVICE_ID: "99999" # Better use GtiHub environment variables for this

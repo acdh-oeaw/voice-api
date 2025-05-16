@@ -21,8 +21,8 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": "18.x",
-    "npm": "8.19.2"
+    "node": "22.x",
+    "npm": "10.9.x"
   },
   "scripts": {
     "build": "node DependencyLicenseGenerator.js > dependency-license-report.html && node node_modules/gulp/bin/gulp.js",
